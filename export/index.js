@@ -2,14 +2,14 @@ const dirTree = require('directory-tree');
 const fs = require('fs');
 const path = require('path');
 const rimraf = require('rimraf');
-const toMarkdown = require('to-markdown');
+const toMarkdown = require('./utils/to-markdown');
 const source = path.join(__dirname, '../original-content/docs');
 const destination = path.join(__dirname, '../articles');
 
 rimraf(destination, () => {
   const tree = dirTree(source, {
     extensions: /\.php/,
-    exclude: /(css|pdfs|style)/
+    exclude: /(css|pdfs|style|images)/
   });
 
   processDirectory(tree);

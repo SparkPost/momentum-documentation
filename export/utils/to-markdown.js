@@ -58,6 +58,12 @@ module.exports = function(htmlString, config = {}) {
     gfm: true,
     converters: [
       {
+        filter: ['script', 'noscript', 'center', 'link', 'form', 'colgroup'],
+        replacement: function(content, node) {
+          return '';
+        }
+      },
+      {
         filter: ['h1', 'h2', 'h3', 'h4', 'h5', 'h6'],
         replacement: function(innerHTML, node) {
           let innerFontSize = _.last(_.compact(_.map(node.children, (child) => {
@@ -88,7 +94,7 @@ module.exports = function(htmlString, config = {}) {
 
             return `\n\`\`\`${language}\n${content}\n\`\`\`\n`;
           }
-          
+
           return `\`${content}\``;
           return content;
         },
