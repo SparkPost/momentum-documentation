@@ -1,0 +1,112 @@
+Logged in as: OmniTI, Inc.  ([logout](https://support.messagesystems.com/logout.php))
+
+[![Message Systems](https://support.messagesystems.com/images/ms-white205.png)](https://support.messagesystems.com/start.php) 
+
+*   [Changelog](https://support.messagesystems.com/start.php?show=changelog)
+*   [Documentation](https://support.messagesystems.com/docs/)
+*   [Downloads](https://support.messagesystems.com/start.php)
+
+*   [Licenses](https://support.messagesystems.com/license_summary.php)
+*   <a href="">Clients</a>
+    *   [Support](https://support.messagesystems.com/cs.php)
+    *   [Add/Edit](https://support.messagesystems.com/edit_client.php)
+    *   [Legal/Products](https://support.messagesystems.com/edit_products.php)
+*   [Users](https://support.messagesystems.com/edit_customer.php)
+
+## Search Help
+
+Search for a single word or perform multi-word searches by enclosing your search in quotation marks.
+
+Where you have multiple words but no quotation marks, an **OR** search is performed. For example, **"REST Injection"** searches for the phrase **"REST Injection"**, and, without quotation marks, searches for **REST OR Injection**--the operator is understood.
+
+### Warning
+
+You must escape the following special characters: **+ - && || ! ( ) { } [ ] ^ " ~ * ? : \**. Use the **\** character as the escape character. For example: **B0/00-11719-46C328D4\:default\:**
+
+You can also perform **AND** searches, for example, **rest AND port** (no quotation marks) finds pages where both these words occur.
+
+Terms used in searches are case-insensitive but operators are not. Alphabetic operators **must** be in uppercase.
+
+Other operators can also be used. For more information see "[Query Parser Syntax](https://lucene.apache.org/core/old_versioned_docs/versions/3_0_0/queryparsersyntax.html)". Use of fields in searches is not currently supported.
+
+| Chapter 11. Using Stored Recipient Lists |
+| [Prev](sending_cc_bcc.php)  | Part III. How-To Guides: Sending |  [Next](getting.started.stored_template.php) |
+
+## Chapter 11. Using Stored Recipient Lists
+
+**Introduction**
+
+In the tutorial in [Chapter 8, *Generating a Transmission*](getting.started.http.php "Chapter 8. Generating a Transmission") , you sent emails by specifying your recipients "inline". This method may be sufficient for transactional transmissions, yet it can quickly become unmanageable as your number of recipients grows. Using stored recipient lists enables you to better manage your campaigns, tailoring your messages to your unique objectives.
+
+When you send a transmission using a stored recipient list, you reference the identifier of the list and provide the dynamic content for that specific transmission. SparkPost Elite performs any substitution required to create personalized messages for each recipient.
+
+**Sending Email Using a Stored Recipient List** 
+
+In this tutorial, you will learn how to send an email using the simple stored recipient list that you created in the previous tutorial. It builds on your knowledge of the Transmissions API, expanding its use to both inline and stored recipient lists.
+
+### Note
+
+This tutorial assumes that you have completed the tutorial in [Chapter 4, *Creating Stored Recipient Lists*](getting.started.recipients.php "Chapter 4. Creating Stored Recipient Lists") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
+
+You must have a valid API key to complete this tutorial. If you do not, complete the tutorial [Chapter 3, *Creating, Modifying, and Deleting an API Key*](getting.started.apikey_ui.php "Chapter 3. Creating, Modifying, and Deleting an API Key") .
+
+Follow these steps to send an email using a stored recipient list:
+
+1.  Specify your input data for the transmission.
+
+    You use a stored recipient list by specifying its identifier and the template-specific data as input data in the JSON blob that will be included in the Transmissions API call.
+
+    Using your text editor, create the following JSON file named `using_list.json`. Be sure to use your information for sender address.
+
+    {  
+       "return_path":"*`sender@your_address.com`*",
+       "recipients":{  
+          "list_id":"simple_list"
+       },
+       "content":{  
+          "from":"*`sender@your_address.com`*",
+          "subject":"Sending Email Using a Stored Recipient List",
+          "text":"Welcome to SparkPost Elite!\r\nThis email uses your first stored recipient list."
+       }
+    }
+
+    This example uses the transmission from the tutorial in [Chapter 8, *Generating a Transmission*               ](getting.started.http.php "Chapter 8. Generating a Transmission") as a starting point and replaces the "recipients" object in the transmission with the identifier that you specified when you created your stored recipient list:
+
+    `"list_id":"simple_list"`
+2.  Inject your message.
+
+    You inject your message by sending a HTTP POST request to the appropriate URL with your JSON blob.
+
+    At the command line, enter the following command to inject your email:
+
+    curl -X POST https://*`your.server.domain`*/api/v1/transmissions/ \
+    -d @*`path/to/file/`*using_list.json \
+    -H "Content-Type: application/json" \
+    -H "Authorization: *`your_api_key`*"
+
+    where `using_list.json` is the name of your JSON file, `application/json` specifies the format as JSON, and *`your_api_key`* is your valid API key.
+
+    If successful, a response similar to the following will be displayed at the command line:
+
+    {  
+       "results":{  
+          "total_rejected_recipients":0,
+          "total_accepted_recipients":2,
+          "id":"*`11933912318083076`*"
+       }
+    }
+
+    This response shows that two emails were accepted and none were rejected.
+
+3.  Confirm your email delivery.
+
+    Verify that each recipient received an email, then open the UI and confirm that two messages were successfully injected into SparkPost Elite (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 17, *Using the UI for Reporting*](getting.started.reports_ui.php "Chapter 17. Using the UI for Reporting") .
+
+Congratulations! You have successfully sent an email using a stored recipient list. To learn more about using the Recipient Lists API, see the documentation available at [SparkPost Elite REST API](https://www.sparkpost.com/api#/reference).
+
+| [Prev](sending_cc_bcc.php)  | [Up](p.sending.php) |  [Next](getting.started.stored_template.php) |
+| Chapter 10. Sending Emails as CC and BCC  | [Table of Contents](index.php) |  Chapter 12. Using Stored Templates |
+
+Follow us on:
+
+[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

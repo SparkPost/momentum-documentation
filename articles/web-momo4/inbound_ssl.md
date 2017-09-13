@@ -1,0 +1,58 @@
+Logged in as: OmniTI, Inc.  ([logout](https://support.messagesystems.com/logout.php))
+
+[![Message Systems](https://support.messagesystems.com/images/ms-white205.png)](https://support.messagesystems.com/start.php) 
+
+*   [Changelog](https://support.messagesystems.com/start.php?show=changelog)
+*   [Documentation](https://support.messagesystems.com/docs/)
+*   [Downloads](https://support.messagesystems.com/start.php)
+
+*   [Licenses](https://support.messagesystems.com/license_summary.php)
+*   <a href="">Clients</a>
+    *   [Support](https://support.messagesystems.com/cs.php)
+    *   [Add/Edit](https://support.messagesystems.com/edit_client.php)
+    *   [Legal/Products](https://support.messagesystems.com/edit_products.php)
+*   [Users](https://support.messagesystems.com/edit_customer.php)
+
+## Search Help
+
+Search for a single word or perform multi-word searches by enclosing your search in quotation marks.
+
+Where you have multiple words but no quotation marks, an **OR** search is performed. For example, **"REST Injection"** searches for the phrase **"REST Injection"**, and, without quotation marks, searches for **REST OR Injection**--the operator is understood.
+
+### Warning
+
+You must escape the following special characters: **+ - && || ! ( ) { } [ ] ^ " ~ * ? : \**. Use the **\** character as the escape character. For example: **B0/00-11719-46C328D4\:default\:**
+
+You can also perform **AND** searches, for example, **rest AND port** (no quotation marks) finds pages where both these words occur.
+
+Terms used in searches are case-insensitive but operators are not. Alphabetic operators **must** be in uppercase.
+
+Other operators can also be used. For more information see "[Query Parser Syntax](https://lucene.apache.org/core/old_versioned_docs/versions/3_0_0/queryparsersyntax.html)". Use of fields in searches is not currently supported.
+
+| 19.6. Inbound SSL |
+| [Prev](inbound_smtp.php)  | Chapter 19. Configuring Inbound Mail Service Using SMTP |  [Next](inbound_tls.php) |
+
+## 19.6. Inbound SSL
+
+Secure Sockets Layer (SSL) can be configured on an SMTP listener using the following configuration snippet:
+
+```
+ESMTP_Listener = {
+  Listen ":465" {
+    Use_SSL = true
+    TLS_Certificate = "/path/to/cert.pem"
+    TLS_Key = "/path/to/key.pem"
+    TLS_Client_CA = "/path/to/clientca.bundle"
+    TLS_Ciphers = "DEFAULT"
+  }
+}
+```
+
+SSL Listeners function similarly to STARTTLS Listeners, except that connections are handed up to SSL immediately. For this reason, SSL is mutually exclusive with STARTTLS and cannot be configured on the same listener. The recommended configuration is to have any SSL listeners on separate ports from standard or STARTTLS listeners.
+
+| [Prev](inbound_smtp.php)  | [Up](esmtp_listener.php) |  [Next](inbound_tls.php) |
+| 19.5. ESMTP_Listener Authentication  | [Table of Contents](index.php) |  19.7. Inbound TLS |
+
+Follow us on:
+
+[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)
