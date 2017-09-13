@@ -1,0 +1,18 @@
+{
+  "name": "docs-to-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "author": "SparkPost",
+  "dependencies": {
+    "directory-tree": "^2.0.0",
+    "remove-markdown": "^0.2.2",
+    "rimraf": "^2.6.2",
+    "striptags": "^3.1.0",
+    "to-markdown": "^3.1.0",
+    "walk": "^2.3.9"
+  }
+}
