@@ -1,0 +1,100 @@
+Logged in as: OmniTI, Inc.  ([logout](https://support.messagesystems.com/logout.php))
+
+[![Message Systems](https://support.messagesystems.com/images/ms-white205.png)](https://support.messagesystems.com/start.php) 
+
+*   [Changelog](https://support.messagesystems.com/start.php?show=changelog)
+*   [Documentation](https://support.messagesystems.com/docs/)
+*   [Downloads](https://support.messagesystems.com/start.php)
+
+*   [Licenses](https://support.messagesystems.com/license_summary.php)
+*   <a href="">Clients</a>
+    *   [Support](https://support.messagesystems.com/cs.php)
+    *   [Add/Edit](https://support.messagesystems.com/edit_client.php)
+    *   [Legal/Products](https://support.messagesystems.com/edit_products.php)
+*   [Users](https://support.messagesystems.com/edit_customer.php)
+
+## Search Help
+
+Search for a single word or perform multi-word searches by enclosing your search in quotation marks.
+
+Where you have multiple words but no quotation marks, an **OR** search is performed. For example, **"REST Injection"** searches for the phrase **"REST Injection"**, and, without quotation marks, searches for **REST OR Injection**--the operator is understood.
+
+### Warning
+
+You must escape the following special characters: **+ - && || ! ( ) { } [ ] ^ " ~ * ? : \**. Use the **\** character as the escape character. For example: **B0/00-11719-46C328D4\:default\:**
+
+You can also perform **AND** searches, for example, **rest AND port** (no quotation marks) finds pages where both these words occur.
+
+Terms used in searches are case-insensitive but operators are not. Alphabetic operators **must** be in uppercase.
+
+Other operators can also be used. For more information see "[Query Parser Syntax](https://lucene.apache.org/core/old_versioned_docs/versions/3_0_0/queryparsersyntax.html)". Use of fields in searches is not currently supported.
+
+| ec_httpsrv_request_content_type_get |
+| [Prev](apis.ec_httpsrv_request_accept_construct_get.php)  | Chapter 28. httpsrv Functions |  [Next](apis.ec_httpsrv_request_data_get.php) |
+
+<a name="apis.ec_httpsrv_request_content_type_get"></a>
+## Name
+
+ec_httpsrv_request_content_type_get — Gets the content type and charset from the session request
+
+## Synopsis
+
+`#include "modules/listeners/httpsrv.h"`
+
+| `int **ec_httpsrv_request_content_type_get** (` | <var class="pdparam">sess</var>, |   |
+|   | <var class="pdparam">content_type</var>, |   |
+|   | <var class="pdparam">charset</var>`)`; |   |
+
+`ec_httpsrv_session * <var class="pdparam">sess</var>`;
+`const char ** <var class="pdparam">content_type</var>`;
+`const char ** <var class="pdparam">charset</var>`;<a name="idp25269696"></a>
+## Description
+
+### Note
+
+This reference page was automatically generated from functions found in the header files in the development branch. The function described here may not exist in generally available versions of Momentum, and may change in behavior when it is generally available. Consult your vendor for definitive advice on the use of this function.
+
+Gets the content type and charset from the session request.
+
+**Parameters**
+
+<dl class="variablelist">
+
+<dt>sess</dt>
+
+<dd>
+
+the session to interrogate
+
+</dd>
+
+<dt>content_type</dt>
+
+<dd>
+
+returns the content type
+
+</dd>
+
+<dt>charset</dt>
+
+<dd>
+
+returns the charset
+
+</dd>
+
+</dl>
+
+**Return Values**
+
+0 on success, ENOENT if the content type header was missing from the request, or some other errno value for other error conditions.
+
+The returned strings are valid for the lifetime of the request.
+
+| [Prev](apis.ec_httpsrv_request_accept_construct_get.php)  | [Up](httpsrv.php) |  [Next](apis.ec_httpsrv_request_data_get.php) |
+| ec_httpsrv_request_accept_construct_get  | [Table of Contents](index.php) |  ec_httpsrv_request_data_get |
+
+Follow us on:
+
+[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)
