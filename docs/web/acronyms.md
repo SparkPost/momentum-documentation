@@ -1,5 +1,3 @@
-Logged in as: OmniTI, Inc.  ([logout](https://support.messagesystems.com/logout.php))
-
 [![Message Systems](https://support.messagesystems.com/images/ms-white205.png)](https://support.messagesystems.com/start.php) 
 
 *   [Changelog](https://support.messagesystems.com/start.php?show=changelog)
