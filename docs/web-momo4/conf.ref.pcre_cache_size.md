@@ -1,3 +1,6 @@
+| pcre_cache_size |
+| [Prev](conf.ref.pathway_group)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pcre_cache_ttl) |
+
 <a name="conf.ref.pcre_cache_size"></a>
 ## Name
 
@@ -23,3 +26,7 @@ pcre_cache_size is valid in the global scope.
 ## See Also
 
 [pcre_cache_ttl](conf.ref.pcre_cache_ttl "pcre_cache_ttl")
+
+| [Prev](conf.ref.pathway_group)  | [Up](config.options.ref) |  [Next](conf.ref.pcre_cache_ttl) |
+| pathway_group  | [Table of Contents](index) |  pcre_cache_ttl |
+

@@ -1,3 +1,6 @@
+| Chapter 64. Lua Functions Summary |
+| [Prev](p.reference)  | Part X. Reference |  [Next](modules.summary.all.modules) |
+
 ## Chapter 64. Lua Functions Summary
 
 This section contains tables of Lua functions. Click the function name for details.
@@ -198,3 +201,7 @@ This section contains tables of Lua functions. Click the function name for detai
 | [vctx:set](lua.ref.vctx_set "vctx:set") – Set the value of a context variable | type, key, value | msys.core | 4.0 | any |
 | [vctx:set_code](lua.ref.vctx_set_code "vctx:set_code") – Sets the inbound disposition and response message | codenum, message | msys.core | 4.0 | any |
 | [vctx:tarpit](lua.ref.vctx_tarpit "vctx:tarpit") – Issues a time cost on the inbound session, if supported by the listener (currently only SMTP supports this) | interval | msys.extended.vctx | 4.0 | connect |
+
+| [Prev](p.reference)  | [Up](p.reference) |  [Next](modules.summary.all.modules) |
+| Part X. Reference  | [Table of Contents](index) |  Chapter 65. Modules Summary |
+

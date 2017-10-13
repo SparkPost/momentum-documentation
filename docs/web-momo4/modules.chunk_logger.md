@@ -1,3 +1,6 @@
+| 71.15. chunk_logger Module |
+| [Prev](modules.brightmail)  | Chapter 71. Modules Reference |  [Next](modules.cidrdb) |
+
 ## 71.15. chunk_logger Module
 
 <a class="indexterm" name="idp20229008"></a>
@@ -66,3 +69,7 @@ call_chunk_logger_log_hook("default", buf, buflen);
 ### Note
 
 "default" is specified here as the name of the log destination. Currently `chunk_logger` only supports one log destination, so this field is ignored. It is recommended that you pass "default" until different log destinations are supported.
+
+| [Prev](modules.brightmail)  | [Up](modules) |  [Next](modules.cidrdb) |
+| 71.14. brightmail – Symantec Brightmail™ Content Scanning Support  | [Table of Contents](index) |  71.16. cidrdb – CIDRDB |
+

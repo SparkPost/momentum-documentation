@@ -1,3 +1,6 @@
+| 25.6. Outbound XCLIENT support |
+| [Prev](tls_option)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](outbound_mail.relay_hosts) |
+
 ## 25.6. Outbound XCLIENT support
 
 It is often useful for a relay to be able to propagate the original sender IP address to a remote relay so that it can apply more intelligent policy rules to the message. The XCLIENT SMTP extension specifies a protocol for doing exactly that. The `XCLIENT` configuration option allows you to specify whether Momentum should use XCLIENT when the remote host advertises support for it.
@@ -19,3 +22,7 @@ binding "customer-1" {
   }
 }
 ```
+
+| [Prev](tls_option)  | [Up](outbound_mail) |  [Next](outbound_mail.relay_hosts) |
+| 25.5. Outbound TLS  | [Table of Contents](index) |  25.7. Outbound Email Relay |
+

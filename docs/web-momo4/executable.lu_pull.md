@@ -1,3 +1,6 @@
+| lu_pull |
+| [Prev](executable.jlogctl)  | Chapter 74. Executable Commands Reference |  [Next](executable.validate_config) |
+
 <a name="executable.lu_pull"></a>
 ## Name
 
@@ -118,3 +121,7 @@ Override the product version of the installation. For example, if you would like
 ## See Also
 
 [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery")
+
+| [Prev](executable.jlogctl)  | [Up](exec.cmds.ref) |  [Next](executable.validate_config) |
+| jlogctl  | [Table of Contents](index) |  validate_config |
+

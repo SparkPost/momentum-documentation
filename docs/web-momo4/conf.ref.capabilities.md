@@ -1,3 +1,6 @@
+| capabilities |
+| [Prev](conf.ref.bounces_inline_original)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.chroot) |
+
 <a name="conf.ref.capabilities"></a>
 ## Name
 
@@ -61,4 +64,8 @@ Changing the value of options in the `security` scope at runtime requires restar
 <a name="idp23831776"></a>
 ## See Also
 
-[security](conf.ref.security "security"), [user](conf.ref.user.php "user"), [chroot](conf.ref.chroot.php "chroot"), and [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups")
+[security](conf.ref.security "security"), [user](conf.ref.user "user"), [chroot](conf.ref.chroot "chroot"), and [supplemental_groups](conf.ref.supplemental_groups "supplemental_groups")
+
+| [Prev](conf.ref.bounces_inline_original)  | [Up](config.options.ref) |  [Next](conf.ref.chroot) |
+| bounces_inline_original  | [Table of Contents](index) |  chroot |
+

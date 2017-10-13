@@ -1,3 +1,6 @@
+| response_transcode_pattern |
+| [Prev](conf.ref.resolv_conf)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.response_transcode_replace) |
+
 <a name="conf.ref.response_transcode_pattern"></a>
 ## Name
 
@@ -38,3 +41,7 @@ This option is valid in the binding, binding_group, domain, and global scopes.
 ## See Also
 
 [Section 71.58, “response_transcode – Module”](modules.response_transcode "71.58. response_transcode – Module")
+
+| [Prev](conf.ref.resolv_conf)  | [Up](config.options.ref) |  [Next](conf.ref.response_transcode_replace) |
+| resolv_conf  | [Table of Contents](index) |  response_transcode_replace |
+

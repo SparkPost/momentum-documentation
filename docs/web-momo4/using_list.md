@@ -1,3 +1,6 @@
+| Chapter 51. Using Stored Recipient Lists |
+| [Prev](stored_list)  | Part VII. Message Generation (HTTP) |  [Next](sending_cc_bcc) |
+
 ## Chapter 51. Using Stored Recipient Lists
 
 **Configuration Change. ** Version 4.1 and later support stored recipient lists.
@@ -71,3 +74,7 @@ Follow these steps to send an email using a stored recipient list:
     Verify that each recipient received an email, then open the UI and confirm that two messages were successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui "Chapter 56. Using the UI for Reporting") .
 
 Congratulations! You have successfully sent an email using a stored recipient list. To learn more about using the Recipient Lists API, see the Recipient Lists API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
+
+| [Prev](stored_list)  | [Up](p.http_rest) |  [Next](sending_cc_bcc) |
+| Chapter 50. Creating Stored Recipient Lists  | [Table of Contents](index) |  Chapter 52. Sending Emails as CC and BCC |
+

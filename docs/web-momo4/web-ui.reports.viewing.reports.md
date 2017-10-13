@@ -1,10 +1,13 @@
+| 57.2. Viewing Your Reports |
+| [Prev](web-ui.reports)  | Chapter 57. Reports and Engagement Tracking in the UI |  [Next](web-ui.reports.adaptive.delivery) |
+
 ## 57.2. Viewing Your Reports
 
 After you have selected your metrics and filters, view your reports by going to the corresponding sections as described in [Figure 57.1, “Navigating Reports”](web-ui.reports#figure_navigation_menu "Figure 57.1. Navigating Reports"). The UI generates all the reports using the filters that you selected in the Summary section with the exception of the Engagement and Adaptive Delivery section. The Engagement section only supports the time period and campaign filters, domain, campaign, and template filters. The Adaptive Delivery section only supports the time period, binding, and domain filters.
 
 ### Note
 
-The graphs in the UI depend on your specific messaging solution including the configuration options that you set in the ecelerity.conf file. For example, there will be no entries in the 10+ bar of the graph shown in [Figure 57.14, “Accepted Report”](web-ui.reports.viewing.reports#figure_accepted_report "Figure 57.14. Accepted Report") if the `max_retries` option is set for less than ten. For details about Momentum’s configuration options, see [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+The graphs in the UI depend on your specific messaging solution including the configuration options that you set in the ecelerity.conf file. For example, there will be no entries in the 10+ bar of the graph shown in [Figure 57.14, “Accepted Report”](web-ui.reports.viewing.reports#figure_accepted_report "Figure 57.14. Accepted Report") if the `max_retries` option is set for less than ten. For details about Momentum’s configuration options, see [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
 All tables included in the reports support exporting the data to a CSV file. Click the Save as CSV button located above each table to export the data. The export file will include only the data that is available to view in the table.
 
@@ -233,3 +236,7 @@ The following are the columns in the table:
 *   Delayed Rate - Number of messages delayed on the first delivery attempt due to the given reason divided by Accepted
 
 You can sort the data by any column to show different arrangements. For example, sorting by Delayed in descending order identifies the reason that caused the greatest number of delayed messages.
+
+| [Prev](web-ui.reports)  | [Up](web-ui.reports) |  [Next](web-ui.reports.adaptive.delivery) |
+| Chapter 57. Reports and Engagement Tracking in the UI  | [Table of Contents](index) |  57.3. Adaptive Delivery Report |
+

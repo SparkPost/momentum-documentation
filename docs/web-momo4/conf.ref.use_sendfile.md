@@ -1,3 +1,6 @@
+| use_sendfile |
+| [Prev](conf.ref.use_mmap)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.user) |
+
 <a name="conf.ref.use_sendfile"></a>
 ## Name
 
@@ -25,3 +28,7 @@ use_sendfile is valid in the global scope.
 ## See Also
 
 [use_mmap](conf.ref.use_mmap "use_mmap")
+
+| [Prev](conf.ref.use_mmap)  | [Up](config.options.ref) |  [Next](conf.ref.user) |
+| use_mmap  | [Table of Contents](index) |  user |
+

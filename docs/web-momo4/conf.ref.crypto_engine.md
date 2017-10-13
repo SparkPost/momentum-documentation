@@ -1,3 +1,6 @@
+| crypto_engine |
+| [Prev](conf.ref.control_client_timeout)  | Chapter 72. Configuration Options Reference |  [Next](config.crypto_lock_method) |
+
 <a name="conf.ref.crypto_engine"></a>
 ## Name
 
@@ -23,3 +26,7 @@ The example below shows how to configure Momentum to use the pkcs12 engine.
 ## Scope
 
 crypto_engine is valid in the global scope.
+
+| [Prev](conf.ref.control_client_timeout)  | [Up](config.options.ref) |  [Next](config.crypto_lock_method) |
+| control_client_timeout  | [Table of Contents](index) |  crypto_lock_method |
+

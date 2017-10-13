@@ -1,3 +1,6 @@
+| 71.7. as_logger – Audit Series Logger |
+| [Prev](modules.antivirus)  | Chapter 71. Modules Reference |  [Next](modules.auth_ds) |
+
 ## 71.7. as_logger – Audit Series Logger
 
 <a class="indexterm" name="idp19786864"></a>
@@ -126,3 +129,7 @@ series = "rbl"
 condense = 30
 retention = 60
 ```
+
+| [Prev](modules.antivirus)  | [Up](modules) |  [Next](modules.auth_ds) |
+| 71.6. antivirus – Antivirus  | [Table of Contents](index) |  71.8. auth_ds – Datasource based SMTP Authentication |
+

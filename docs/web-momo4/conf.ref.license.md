@@ -1,3 +1,6 @@
+| license |
+| [Prev](conf.ref.legacy_message_threshold)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.lmtp_port) |
+
 <a name="conf.ref.license"></a>
 ## Name
 
@@ -18,3 +21,7 @@ Changing the value of this option at runtime requires restarting the ecelerity p
 ## Scope
 
 `license` is valid in the global scope.
+
+| [Prev](conf.ref.legacy_message_threshold)  | [Up](config.options.ref) |  [Next](conf.ref.lmtp_port) |
+| legacy_message_threshold  | [Table of Contents](index) |  lmtp_port |
+

@@ -1,3 +1,6 @@
+| mx_failures_fallback_to_a |
+| [Prev](conf.ref.min_dns_ttl)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.mx_failures_to_delay) |
+
 <a name="conf.ref.mx_failures_fallback_to_a"></a>
 ## Name
 
@@ -21,3 +24,7 @@ mx_failures_fallback_to_a is valid in the domain and global scopes.
 ## See Also
 
 [dns_failures_to_purge](conf.ref.dns_failures_to_purge "dns_failures_to_purge")
+
+| [Prev](conf.ref.min_dns_ttl)  | [Up](config.options.ref) |  [Next](conf.ref.mx_failures_to_delay) |
+| min_dns_ttl  | [Table of Contents](index) |  mx_failures_to_delay |
+

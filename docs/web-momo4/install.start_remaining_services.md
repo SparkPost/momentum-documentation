@@ -1,3 +1,6 @@
+| 9.4. Start Remaining Services |
+| [Prev](install.analytics_nodes)  | Chapter 9. New Installation - All Configurations |  [Next](upgrade.single_node) |
+
 ## 9.4. Start Remaining Services
 
 ### 9.4.1. Analytics Nodes
@@ -88,3 +91,7 @@
     ```
 
 3.  You should now be able to login to the UI by placing the IP address of the first Analytics node into a browser's address bar.
+
+| [Prev](install.analytics_nodes)  | [Up](new_installation) |  [Next](upgrade.single_node) |
+| 9.3. Configure the Analytics Nodes  | [Table of Contents](index) |  Chapter 10. Upgrade - Single Node |
+

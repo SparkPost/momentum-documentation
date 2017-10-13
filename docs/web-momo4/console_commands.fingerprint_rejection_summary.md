@@ -1,3 +1,6 @@
+| fingerprint rejection summary |
+| [Prev](console_commands.fingerprint_cache_summary)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.flush_domain) |
+
 <a name="console_commands.fingerprint_rejection_summary"></a>
 ## Name
 
@@ -20,3 +23,7 @@ Passive operating system fingerprinting runs as a daemon that Momentum communica
 ## See Also
 
 [fingerprint cache summary](console_commands.fingerprint_cache_summary "fingerprint cache summary")
+
+| [Prev](console_commands.fingerprint_cache_summary)  | [Up](console.cmds.ref) |  [Next](console_commands.flush_domain) |
+| fingerprint cache summary  | [Table of Contents](index) |  flush domain |
+

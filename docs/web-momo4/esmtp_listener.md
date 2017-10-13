@@ -1,3 +1,6 @@
+| Chapter 19. Configuring Inbound Mail Service Using SMTP |
+| [Prev](ecstream_listener)  | Part III. Configuring Momentum |  [Next](esmtp_listener.relay_domains) |
+
 ## Chapter 19. Configuring Inbound Mail Service Using SMTP
 
 **Table of Contents**
@@ -69,3 +72,7 @@ For details about the non-module specific configuration options that are valid i
 Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
 For general information regarding listeners, see [Section 15.4, “Listeners”](listeners "15.4. Listeners").
+
+| [Prev](ecstream_listener)  | [Up](p.configuration) |  [Next](esmtp_listener.relay_domains) |
+| Chapter 18. Configuring Inbound Mail Service Using ECStream  | [Table of Contents](index) |  19.2. Inbound Email Relay or Gateway |
+

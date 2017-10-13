@@ -1,3 +1,6 @@
+| 63.2. Message Context Variables |
+| [Prev](policy.context.variables)  | Chapter 63. Validation Context Variables |  [Next](p.reference) |
+
 ## 63.2. Message Context Variables
 
 Message context variables yield information about the current message. These variables are predefined, either in a global context or within a module. The following tables list the global and module-specific variables.
@@ -16,7 +19,7 @@ This table lists all message context variables that are predefined globally by M
 | --- | --- |
 | #8bitmime – For internal use | 
 
-This variable is set during message parsing if the message contains 8-bit content. It is used at send time to determine whether to negotiate 8-bit MIME support with the recipient or to transform the message as per the Send_8BitMime and Transform_8BitMime configuration options. For more information about these options, see [send_8bitmime](conf.ref.send_8bitmime "send_8bitmime") and [transform_8bitmime_content](conf.ref.transform_8bitmime_content.php "transform_8bitmime_content").
+This variable is set during message parsing if the message contains 8-bit content. It is used at send time to determine whether to negotiate 8-bit MIME support with the recipient or to transform the message as per the Send_8BitMime and Transform_8BitMime configuration options. For more information about these options, see [send_8bitmime](conf.ref.send_8bitmime "send_8bitmime") and [transform_8bitmime_content](conf.ref.transform_8bitmime_content "transform_8bitmime_content").
 
  |
 | #batch_ids – For internal use | 
@@ -122,3 +125,7 @@ spf_status
 senderid_pra_status
 
  |
+
+| [Prev](policy.context.variables)  | [Up](policy.context.variables) |  [Next](p.reference) |
+| Chapter 63. Validation Context Variables  | [Table of Contents](index) |  Part X. Reference |
+

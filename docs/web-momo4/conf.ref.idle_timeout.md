@@ -1,3 +1,6 @@
+| idle_timeout |
+| [Prev](conf.ref.http_version)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.inbound_throttle_messages) |
+
 <a name="conf.ref.idle_timeout"></a>
 ## Name
 
@@ -50,3 +53,7 @@ For a detailed description of configuring Momentum for push notifications, see [
 ## Scope
 
 `idle_timeout` is valid in the binding, binding_group, domain, and global scopes.
+
+| [Prev](conf.ref.http_version)  | [Up](config.options.ref) |  [Next](conf.ref.inbound_throttle_messages) |
+| http_version  | [Table of Contents](index) |  inbound_throttle_messages |
+

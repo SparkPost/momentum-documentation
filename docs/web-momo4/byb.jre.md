@@ -1,3 +1,6 @@
+| 6.9. Java Runtime Environment (JRE) |
+| [Prev](byb.set_hostnames)  | Chapter 6. Before You Begin |  [Next](byb.root_and_vertica_dba) |
+
 ## 6.9. Java Runtime Environment (JRE)
 
 <a class="indexterm" name="idp481328"></a>
@@ -69,3 +72,7 @@ If you need to install Java 7, follow the steps below.
     If your results display a single option, then select that option.
 
 For more information, contact Message Systems Professional Services.
+
+| [Prev](byb.set_hostnames)  | [Up](before_you_begin) |  [Next](byb.root_and_vertica_dba) |
+| 6.8. Setting Hostnames  | [Table of Contents](index) |  6.10. Creating `root` and `vertica_dba` Accounts |
+

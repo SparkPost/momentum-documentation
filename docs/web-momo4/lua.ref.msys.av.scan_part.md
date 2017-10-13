@@ -1,3 +1,6 @@
+| msys.av.scan_part |
+| [Prev](lua.ref.msys.av.scan)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.base64.decode) |
+
 <a name="lua.ref.msys.av.scan_part"></a>
 ## Name
 
@@ -48,7 +51,7 @@ This function returns four values:
 
     *   msys.av.EC_AV_CLEAN – Meaning of this status depends on the AV engine.
 
-    *   msys.av.EC_AV_INFECTED – Meaning of this status depends on the AV engine. For engine-specific information, see [Section 71.23.2, “Context Variables”](modules.csapi#modules.csapi.context.variables "71.23.2. Context Variables") and [Section 71.17.1.1, “clamav Runtime Usage”](modules.clamav.php#modules.clamav.runtime "71.17.1.1. clamav Runtime Usage").
+    *   msys.av.EC_AV_INFECTED – Meaning of this status depends on the AV engine. For engine-specific information, see [Section 71.23.2, “Context Variables”](modules.csapi#modules.csapi.context.variables "71.23.2. Context Variables") and [Section 71.17.1.1, “clamav Runtime Usage”](modules.clamav#modules.clamav.runtime "71.17.1.1. clamav Runtime Usage").
 
     *   msys.av.EC_AV_UNSCANNABLE – Message could not be scanned.
 
@@ -56,7 +59,7 @@ This function returns four values:
 
 *   The *name of the AV engine*                  that detected the virus or `nil` if no virus was detected.
 
-*   The *engine scan code*           or `nil` if no engine scan code is available. The scan code returned is specific to the engine reporting the error. For engine-specific information, see [Section 71.23.2, “Context Variables”](modules.csapi#modules.csapi.context.variables "71.23.2. Context Variables") and [Section 71.17.1.1, “clamav Runtime Usage”](modules.clamav.php#modules.clamav.runtime "71.17.1.1. clamav Runtime Usage").
+*   The *engine scan code*           or `nil` if no engine scan code is available. The scan code returned is specific to the engine reporting the error. For engine-specific information, see [Section 71.23.2, “Context Variables”](modules.csapi#modules.csapi.context.variables "71.23.2. Context Variables") and [Section 71.17.1.1, “clamav Runtime Usage”](modules.clamav#modules.clamav.runtime "71.17.1.1. clamav Runtime Usage").
 
 <a name="lua.ref.msys.av.scan_part.example"></a>
 
@@ -110,3 +113,7 @@ require("msys.av");
 ## See Also
 
 [msys.av.scan](lua.ref.msys.av.scan "msys.av.scan")
+
+| [Prev](lua.ref.msys.av.scan)  | [Up](lua.function.details) |  [Next](lua.ref.msys.base64.decode) |
+| msys.av.scan  | [Table of Contents](index) |  msys.base64.decode |
+

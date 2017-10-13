@@ -1,3 +1,6 @@
+| use_ipv6 |
+| [Prev](conf.ref.use_iflist_cache)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.use_mmap) |
+
 <a name="conf.ref.use_ipv6"></a>
 ## Name
 
@@ -22,3 +25,7 @@ For a discussion of using IPv6 addresses with listeners, see [Section 15.4.5, �
 ## Scope
 
 use_ipv6 is valid in the global scope.
+
+| [Prev](conf.ref.use_iflist_cache)  | [Up](config.options.ref) |  [Next](conf.ref.use_mmap) |
+| use_iflist_cache  | [Table of Contents](index) |  use_mmap |
+

@@ -1,3 +1,6 @@
+| scheduler |
+| [Prev](conf.ref.scope_max_outbound_connections)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.security) |
+
 <a name="conf.ref.scheduler"></a>
 ## Name
 
@@ -18,3 +21,7 @@ Changing the value of this option at runtime requires restarting the ecelerity p
 ## Scope
 
 `scheduler` is valid in the global scope.
+
+| [Prev](conf.ref.scope_max_outbound_connections)  | [Up](config.options.ref) |  [Next](conf.ref.security) |
+| scope_max_outbound_connections  | [Table of Contents](index) |  security |
+

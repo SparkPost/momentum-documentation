@@ -1,3 +1,6 @@
+| module |
+| [Prev](console_commands.message_retry)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.pager) |
+
 <a name="console_commands.module"></a>
 ## Name
 
@@ -50,3 +53,7 @@ core_config_get_reserve_maintenance_interval_data
 	int(generic_module_infrastructure*,int*,void**)
 ...
 ```
+
+| [Prev](console_commands.message_retry)  | [Up](console.cmds.ref) |  [Next](console_commands.pager) |
+| message retry  | [Table of Contents](index) |  \pager |
+

@@ -1,3 +1,6 @@
+| disable_nagle_algorithm |
+| [Prev](conf.ref.delivery_response_timeout)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.disk_queue_drain_rate) |
+
 <a name="conf.ref.disable_nagle_algorithm"></a>
 ## Name
 
@@ -24,3 +27,7 @@ This is an advanced option. Thorough testing is recommended before deployment in
 `disable_nagle_algorithm` is valid in the eccluster_listener, ecstream_listener, esmtp_listener, global, http_listener and listen scopes.
 
 `disable_nagle_algorithm` is valid in the ecstream_listener, esmtp_listener, global and listen scopes.
+
+| [Prev](conf.ref.delivery_response_timeout)  | [Up](config.options.ref) |  [Next](conf.ref.disk_queue_drain_rate) |
+| delivery_response_timeout  | [Table of Contents](index) |  disk_queue_drain_rate |
+

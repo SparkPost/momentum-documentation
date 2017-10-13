@@ -1,3 +1,6 @@
+| Chapter 46. Using Substitution Data |
+| [Prev](message_gen)  | Part VII. Message Generation (HTTP) |  [Next](stored_template) |
+
 ## Chapter 46. Using Substitution Data
 
 **Introduction**
@@ -84,3 +87,7 @@ Follow these steps to use substitution data in a simple transmission:
     Verify that each recipient received a personalized email, then open the UI and confirm that two messages were successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui "Chapter 56. Using the UI for Reporting") .
 
 Congratulations! You have taken the first step to using Momentum's powerful substitution capability. This tutorial demonstrates simple substitution, yet Momentum supports many advanced features. To learn more about using substitution data including details about syntax, see the Substitution Reference available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
+
+| [Prev](message_gen)  | [Up](p.http_rest) |  [Next](stored_template) |
+| Chapter 45. Generating a Transmission  | [Table of Contents](index) |  Chapter 47. Creating Stored Templates |
+

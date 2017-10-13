@@ -1,3 +1,6 @@
+| Part II. Installing Momentum |
+| [Prev](licensed_features.supercharger)  |   |  [Next](hardware.requirements) |
+
 ## Part II. Installing Momentum
 
 **Table of Contents**
@@ -219,3 +222,7 @@
 </dd>
 
 </dl>
+
+| [Prev](licensed_features.supercharger)  |   |  [Next](hardware.requirements) |
+| 4.3. Supercharger  | [Table of Contents](index) |  Chapter 5. Hardware Considerations |
+

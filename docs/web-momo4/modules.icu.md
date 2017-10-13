@@ -1,3 +1,6 @@
+| 71.39. icu – ICU |
+| [Prev](modules.httpsrv)  | Chapter 71. Modules Reference |  [Next](modules.ilf_logger) |
+
 ## 71.39. icu – ICU
 
 <a class="indexterm" name="idp21931840"></a>
@@ -7,3 +10,7 @@ The International Component for Unicode (ICU) is a mature, portable set of C/C++
 ### 71.39.1. Configuration
 
 This module is loaded automatically as required and does not need to be explicitly included.
+
+| [Prev](modules.httpsrv)  | [Up](modules) |  [Next](modules.ilf_logger) |
+| 71.38. httpsrv – HTTP Server  | [Table of Contents](index) |  71.40. ilf_logger – Incremental License Fee Logging |
+

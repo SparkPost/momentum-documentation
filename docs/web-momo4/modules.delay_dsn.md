@@ -1,3 +1,6 @@
+| 71.26. delay_dsn – Delay DSN Generation |
+| [Prev](modules.custom_logger)  | Chapter 71. Modules Reference |  [Next](modules.dnsbuf) |
+
 ## 71.26. delay_dsn – Delay DSN Generation
 
 <a class="indexterm" name="idp21212928"></a>
@@ -51,3 +54,7 @@ This command lists all pending events.
 </dd>
 
 </dl>
+
+| [Prev](modules.custom_logger)  | [Up](modules) |  [Next](modules.dnsbuf) |
+| 71.25. custom_logger – User-defined Logging  | [Table of Contents](index) |  71.27. dnsbuf – Dynamically Set the DNS UDP Buffer Size |
+

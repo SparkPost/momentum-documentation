@@ -1,3 +1,6 @@
+| 71.49. mxip - IP Addresses In MX Records |
+| [Prev](modules.msg_gen)  | Chapter 71. Modules Reference |  [Next](modules.opendkim) |
+
 ## 71.49. mxip - IP Addresses In MX Records
 
 <a class="indexterm" name="idp22302992"></a>
@@ -94,3 +97,7 @@ mxip
   Debug_Level = "INFO"
 }
 ```
+
+| [Prev](modules.msg_gen)  | [Up](modules) |  [Next](modules.opendkim) |
+| 71.48. msg_gen – Message Generation  | [Table of Contents](index) |  71.50. opendkim – Open Source DKIM |
+

@@ -1,3 +1,6 @@
+| tls_dhparams_file |
+| [Prev](config.tls_client_ca)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.tls_enable_dhe_ciphers) |
+
 <a name="conf.ref.tls_dhparams_file"></a>
 ## Name
 
@@ -18,3 +21,7 @@ This option has no default value; instead, it uses internally-specified DHE para
 ## Scope
 
 tls_dhparams_file is valid in the global scope.
+
+| [Prev](config.tls_client_ca)  | [Up](config.options.ref) |  [Next](conf.ref.tls_enable_dhe_ciphers) |
+| tls_client_ca  | [Table of Contents](index) |  tls_enable_dhe_ciphers |
+

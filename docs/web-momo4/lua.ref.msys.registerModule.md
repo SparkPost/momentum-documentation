@@ -1,3 +1,6 @@
+| msys.registerModule |
+| [Prev](lua.ref.msys.registerControl)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.runinpool) |
+
 <a name="lua.ref.msys.registerModule"></a>
 ## Name
 
@@ -85,4 +88,8 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 <a name="idp16332976"></a>
 ## See Also
 
-[Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets "62.2. Policy Scriptlets"), [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet.php "71.60. scriptlet - Lua Policy Scripts")
+[Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets "62.2. Policy Scriptlets"), [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet "71.60. scriptlet - Lua Policy Scripts")
+
+| [Prev](lua.ref.msys.registerControl)  | [Up](lua.function.details) |  [Next](lua.ref.msys.runinpool) |
+| msys.registerControl  | [Table of Contents](index) |  msys.runInPool |
+

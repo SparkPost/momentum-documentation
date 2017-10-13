@@ -1,3 +1,6 @@
+| pathway_group |
+| [Prev](conf.ref.pathway)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pcre_cache_size) |
+
 <a name="conf.ref.pathway_group"></a>
 ## Name
 
@@ -36,3 +39,7 @@ pathway_group is valid in the global scope.
 ## See Also
 
 [pathway](conf.ref.pathway "pathway")
+
+| [Prev](conf.ref.pathway)  | [Up](config.options.ref) |  [Next](conf.ref.pcre_cache_size) |
+| pathway  | [Table of Contents](index) |  pcre_cache_size |
+

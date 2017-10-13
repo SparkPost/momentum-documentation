@@ -1,3 +1,6 @@
+| 71.32. engagement_tracker – HTTP Engagement Tracking |
+| [Prev](modules.eleven)  | Chapter 71. Modules Reference |  [Next](modules.event_hydrant) |
+
 ## 71.32. engagement_tracker – HTTP Engagement Tracking
 
 **Configuration Change. ** For version 4.1 and earlier, metadata is included in open tracking only. As of version 4.1-HF4, metadata can also be included in click tracking based on the `click_tracking_include_metadata` option.
@@ -48,3 +51,7 @@ The maximum amount of metadata bytes that will be encoded into click and open tr
 ### Note
 
 Metadata can be included in click tracking for messages injected using SMTP and REST. The setting of the `click_track_include_metadata` and `max_metadata_len` options applies to both types of messages.
+
+| [Prev](modules.eleven)  | [Up](modules) |  [Next](modules.event_hydrant) |
+| 71.31. eleven – Eleven eXpurgate Content Scanning  | [Table of Contents](index) |  71.33. event_hydrant – Message Tracking |
+

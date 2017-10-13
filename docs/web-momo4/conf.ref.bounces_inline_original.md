@@ -1,3 +1,6 @@
+| bounces_inline_original |
+| [Prev](conf.ref.bounce_suppress_list)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.capabilities) |
+
 <a name="conf.ref.bounces_inline_original"></a>
 ## Name
 
@@ -52,3 +55,7 @@ The default value is `headers`.
 ## Scope
 
 bounces_inline_original is valid in the binding, binding_group, domain, and global scopes.
+
+| [Prev](conf.ref.bounce_suppress_list)  | [Up](config.options.ref) |  [Next](conf.ref.capabilities) |
+| bounce_suppress_list  | [Table of Contents](index) |  capabilities |
+

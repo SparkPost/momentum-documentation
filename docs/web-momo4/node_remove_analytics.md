@@ -1,3 +1,6 @@
+| 14.2. Removing an Analytics Node |
+| [Prev](add_remove_analytics_nodes)  | Chapter 14. Adding and Removing Analytics Nodes |  [Next](p.configuration) |
+
 ## 14.2. Removing an Analytics Node
 
 To remove an Analytics node (Vertica+Application) from a cluster, follow the documentation provided by HP on removing a Vertica node, removing all NGINX upstream references, and removing references in API configurations.
@@ -138,3 +141,7 @@ These instructions apply to Momentum 4.2.1.*`x`*, where `x` > or = `11`
 1.  Follow [ instructions provided by HP](https://my.vertica.com/docs/7.1.x/HTML/Content/Authoring/AdministratorsGuide/ManageNodes/RemovingNodesFromADatabase.htm) to remove a Vertica node from a cluster.
 
 2.  Perform backups as necessary.
+
+| [Prev](add_remove_analytics_nodes)  | [Up](add_remove_analytics_nodes) |  [Next](p.configuration) |
+| Chapter 14. Adding and Removing Analytics Nodes  | [Table of Contents](index) |  Part III. Configuring Momentum |
+

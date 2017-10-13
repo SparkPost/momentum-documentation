@@ -1,3 +1,6 @@
+| D.2. Extended Commands |
+| [Prev](libedit)  | Appendix D. Key Binding Reference for ec_console |  [Next](glossary) |
+
 ## D.2. Extended Commands
 
 The following extended commands may appear in your `.editrc` or may be entered directly into the console by entering extended command mode ( **Esc** **X** by default), and then typing in the extended command and pressing **Enter**.
@@ -83,3 +86,7 @@ Control which tty modes that editrc won’t allow the user to change. `-d`, `-q`
 Without other arguments, setty lists the modes in the chosen set that are fixed on (‘+mode’) or off (‘-mode’). `-a` lists all tty modes in the chosen set regardless of the setting. With +mode, -mode or mode, fixes mode on or off or removes control of mode in the chosen set.
 
  |
+
+| [Prev](libedit)  | [Up](libedit) |  [Next](glossary) |
+| Appendix D. Key Binding Reference for ec_console  | [Table of Contents](index) |  Glossary |
+

@@ -1,3 +1,6 @@
+| Chapter 55. Getting Started with the Web-based User Interface |
+| [Prev](http_reporting_options)  | Part VIII. Reporting and Engagement Tracking |  [Next](reporting_ui) |
+
 ## Chapter 55. Getting Started with the Web-based User Interface
 
 **Table of Contents**
@@ -277,3 +280,7 @@ In the Delete Recipient List window, click Delete to confirm your request, as sh
 ![Confirm Delete](images/confirm_list_delete.png)
 
 The system will stop sending to the recipients after transmissions currently queued to be delivered using that recipients list are sent.
+
+| [Prev](http_reporting_options)  | [Up](p.analytics) |  [Next](reporting_ui) |
+| Chapter 54. Reporting Options  | [Table of Contents](index) |  Chapter 56. Using the UI for Reporting |
+

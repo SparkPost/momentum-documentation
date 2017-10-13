@@ -1,3 +1,6 @@
+| 35.9. `rejectlog` |
+| [Prev](log_formats.paniclog)  | Chapter 35. Log Formats |  [Next](bounce_logger.classification.codes) |
+
 ## 35.9. `rejectlog`
 
 The `rejectlog` stores records of inbound messages that are rejected by Momentum, either due to policy or protocol deviations. It lists the full context for all rejected messages, as well as a summary of why the message was rejected, and it is configured in the [ec_logger](modules.ec_logger "71.30. EC_logger – Momentum-Style Logging").
@@ -41,3 +44,7 @@ In addition to the record described in the previous section, a heartbeat is writ
 `1252064908: Marker 1`
 
 The `Marker 1` entry follows the Unix timestamp and is separated from it by a space.
+
+| [Prev](log_formats.paniclog)  | [Up](log_formats) |  [Next](bounce_logger.classification.codes) |
+| 35.8. `paniclog`  | [Table of Contents](index) |  35.10. Bounce Classification Codes |
+

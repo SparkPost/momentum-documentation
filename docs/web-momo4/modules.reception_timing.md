@@ -1,3 +1,6 @@
+| 71.57. reception_timing - Reception Timing Modules |
+| [Prev](modules.postfix_logger)  | Chapter 71. Modules Reference |  [Next](modules.response_transcode) |
+
 ## 71.57. reception_timing - Reception Timing Modules
 
 <a class="indexterm" name="idp22662400"></a>
@@ -27,7 +30,7 @@ The `chunk_logger` module must be loaded and configured. This module is used to 
     }
     ```
 
-You may also wish to add the chunk_logger log file to `ec_rotate.conf`, to ensure that it is rotated daily. For more information, see [Section 71.15, “chunk_logger Module”](modules.chunk_logger "71.15. chunk_logger Module") and [ec_rotate](executable.ec_rotate.php "ec_rotate").
+You may also wish to add the chunk_logger log file to `ec_rotate.conf`, to ensure that it is rotated daily. For more information, see [Section 71.15, “chunk_logger Module”](modules.chunk_logger "71.15. chunk_logger Module") and [ec_rotate](executable.ec_rotate "ec_rotate").
 
 ### Note
 
@@ -236,3 +239,7 @@ Both parts need to be loaded; otherwise, the timing data will not be collected o
 ### Warning
 
 The `reception_timing` module is not compatible with the Supercharger feature.
+
+| [Prev](modules.postfix_logger)  | [Up](modules) |  [Next](modules.response_transcode) |
+| 71.56. postfix_logger – Postfix Logging  | [Table of Contents](index) |  71.58. response_transcode – Module |
+

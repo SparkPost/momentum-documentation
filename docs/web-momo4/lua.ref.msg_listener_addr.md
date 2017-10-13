@@ -1,3 +1,6 @@
+| msg:listener_addr |
+| [Prev](lua.ref.header)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_reception_peer) |
+
 <a name="lua.ref.msg_listener_addr"></a>
 ## Name
 
@@ -43,3 +46,7 @@ msys.registerModule("myMod", mod);
 ## See Also
 
 [msg:reception_peer](lua.ref.msg_reception_peer "msg:reception_peer")
+
+| [Prev](lua.ref.header)  | [Up](lua.function.details) |  [Next](lua.ref.msg_reception_peer) |
+| msg:header  | [Table of Contents](index) |  msg:reception_peer |
+

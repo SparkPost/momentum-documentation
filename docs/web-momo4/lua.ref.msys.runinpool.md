@@ -1,3 +1,6 @@
+| msys.runInPool |
+| [Prev](lua.ref.msys.registerModule)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.sleep) |
+
 <a name="lua.ref.msys.runinpool"></a>
 ## Name
 
@@ -125,4 +128,8 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 <a name="idp16377008"></a>
 ## See Also
 
-[thread.mutex](lua.ref.thread.mutex "thread.mutex"), [msys.sleep](lua.ref.msys.sleep.php "msys.sleep"), [msys.lock](lua.ref.msys.lock.php "msys.lock"), [msys.unlock](lua.ref.msys.unlock.php "msys.unlock"), [threadpool](conf.ref.threadpool.php "threadpool")
+[thread.mutex](lua.ref.thread.mutex "thread.mutex"), [msys.sleep](lua.ref.msys.sleep "msys.sleep"), [msys.lock](lua.ref.msys.lock "msys.lock"), [msys.unlock](lua.ref.msys.unlock "msys.unlock"), [threadpool](conf.ref.threadpool "threadpool")
+
+| [Prev](lua.ref.msys.registerModule)  | [Up](lua.function.details) |  [Next](lua.ref.msys.sleep) |
+| msys.registerModule  | [Table of Contents](index) |  msys.sleep |
+

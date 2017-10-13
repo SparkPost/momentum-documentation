@@ -1,3 +1,6 @@
+| spool import_poll |
+| [Prev](console_commands.spool_import)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.spool_in) |
+
 <a name="console_commands.spool_import_poll"></a>
 ## Name
 
@@ -16,3 +19,7 @@ This command takes a single argument in the form of the path to the spool being 
 ## See Also
 
 [spool import](console_commands.spool_import "spool import")
+
+| [Prev](console_commands.spool_import)  | [Up](console.cmds.ref) |  [Next](console_commands.spool_in) |
+| spool import  | [Table of Contents](index) |  spool_in |
+

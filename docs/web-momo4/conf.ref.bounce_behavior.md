@@ -1,3 +1,6 @@
+| bounce_behavior |
+| [Prev](conf.ref.body_timeout)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.bounce_domains) |
+
 <a name="conf.ref.bounce_behavior"></a>
 ## Name
 
@@ -40,4 +43,8 @@ Bounces for Domain "bounces.xyz.com" will be blackholed because `bounce_behavior
 <a name="idp23721040"></a>
 ## See Also
 
-[blackhole](conf.ref.blackhole "blackhole"), [bounce_domains](conf.ref.bounce_domains.php "bounce_domains"), [bounce_pattern](conf.ref.bounce_pattern.php "bounce_pattern"), [generate_bounces](conf.ref.generate_bounces.php "generate_bounces") and [Section 71.13, “bounce_logger – Momentum-Style Bounce Logging”](modules.bounce_logger.php "71.13. bounce_logger – Momentum-Style Bounce Logging")
+[blackhole](conf.ref.blackhole "blackhole"), [bounce_domains](conf.ref.bounce_domains "bounce_domains"), [bounce_pattern](conf.ref.bounce_pattern "bounce_pattern"), [generate_bounces](conf.ref.generate_bounces "generate_bounces") and [Section 71.13, “bounce_logger – Momentum-Style Bounce Logging”](modules.bounce_logger "71.13. bounce_logger – Momentum-Style Bounce Logging")
+
+| [Prev](conf.ref.body_timeout)  | [Up](config.options.ref) |  [Next](conf.ref.bounce_domains) |
+| body_timeout  | [Table of Contents](index) |  bounce_domains |
+

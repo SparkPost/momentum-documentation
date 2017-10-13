@@ -1,3 +1,6 @@
+| 11.3. Perform a Cassandra Snapshot |
+| [Prev](upgrade.two_tier.preparation.prepare_all_nodes_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.upgrade_cassandra_rolling) |
+
 ## 11.3. Perform a Cassandra Snapshot
 
 1.  Prepare the database on each node for a snapshot. Perform the following steps on the **first Platform node** , then repeat on the remaining Platform nodes.
@@ -25,3 +28,7 @@
     A snapshot will place references on the current set of Cassandra sstables. After a snapshot compaction, operations will cause growth in disk space usage as new sstables will be created. To clear a snaphot and recover disk space, run the following command:
 
     `/opt/msys/3rdParty/cassandra/bin/nodetool clearsnapshot -t snapshot_name`
+
+| [Prev](upgrade.two_tier.preparation.prepare_all_nodes_rolling)  | [Up](upgrade.two_tier_configuration_rolling) |  [Next](upgrade.two_tier.preparation.upgrade_cassandra_rolling) |
+| 11.2. Before You Begin the Upgrade  | [Table of Contents](index) |  11.4. Upgrade Cassandra on the Platform Nodes |
+

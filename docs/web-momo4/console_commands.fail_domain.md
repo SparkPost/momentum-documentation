@@ -1,3 +1,6 @@
+| fail domain |
+| [Prev](console_commands.domain_all)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.fail_domain_quiet) |
+
 <a name="console_commands.fail_domain"></a>
 ## Name
 
@@ -25,3 +28,7 @@ Usually, the command is immediately proceded or followed by "blackholing" the do
 ## See Also
 
 [fail domain quiet](console_commands.fail_domain_quiet "fail domain quiet")
+
+| [Prev](console_commands.domain_all)  | [Up](console.cmds.ref) |  [Next](console_commands.fail_domain_quiet) |
+| domain all  | [Table of Contents](index) |  fail domain quiet |
+

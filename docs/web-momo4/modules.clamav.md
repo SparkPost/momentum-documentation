@@ -1,3 +1,6 @@
+| 71.17. clamav – ClamAV |
+| [Prev](modules.cidrdb)  | Chapter 71. Modules Reference |  [Next](modules.cloudmark) |
+
 ## 71.17. clamav – ClamAV
 
 <a class="indexterm" name="idp20294160"></a>
@@ -83,4 +86,8 @@ These functions return four values:
 
 *   The *engine scan code*           or `nil` if no engine scan code is available. If the scan result is msys.av.EC_AV_CLEAN, this code will be either `OK` or `Empty file`.
 
-For additional details about these functions, see [msys.av.scan](lua.ref.msys.av.scan "msys.av.scan") and [msys.av.scan_part](lua.ref.msys.av.scan_part.php "msys.av.scan_part").
+For additional details about these functions, see [msys.av.scan](lua.ref.msys.av.scan "msys.av.scan") and [msys.av.scan_part](lua.ref.msys.av.scan_part "msys.av.scan_part").
+
+| [Prev](modules.cidrdb)  | [Up](modules) |  [Next](modules.cloudmark) |
+| 71.16. cidrdb – CIDRDB  | [Table of Contents](index) |  71.18. cloudmark – Cloudmark Authority® Content Scanning |
+

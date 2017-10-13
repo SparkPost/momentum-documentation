@@ -1,3 +1,6 @@
+| 27.4. DuraVIP™ Configuration Conflicts and Ambiguities |
+| [Prev](cluster.config.arp_all_hosts)  | Chapter 27. DuraVIP™: IP Fail over |  [Next](cluster.config.replication) |
+
 ## 27.4. DuraVIP™ Configuration Conflicts and Ambiguities
 
 The DuraVIP™ subsystem attempts to make the most intelligent and **safe** decision regardless of the situation encountered.
@@ -40,3 +43,7 @@ In Momentum, most mechanisms for assigning a message to a MultiVIP© binding use
 The group membership and election processes that drive the DuraVIP™ subsystem are a dynamic extension atop advanced research in the area of highly reliable IP services. The system provides a unified and consistent virtual membership on a per-IP address basis. What this means is that you can have different nodes in the cluster managing different, possibly overlapping, DuraVIP™ sets.
 
 While this is certainly possible, it can be hard to understand the expected behavior of the system in such complicated configurations. As such, it is highly recommended that the global set of bindings and listeners managed under DuraVIP™ are identical on each system.
+
+| [Prev](cluster.config.arp_all_hosts)  | [Up](cluster.config.duravip) |  [Next](cluster.config.replication) |
+| 27.3. Address Resolution Protocol (ARP) traffic  | [Table of Contents](index) |  Chapter 28. Data Replication |
+

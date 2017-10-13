@@ -1,3 +1,6 @@
+| 71.35. fbl - Feedback Loop |
+| [Prev](modules.exim_logger)  | Chapter 71. Modules Reference |  [Next](modules.host_fingerprint) |
+
 ## 71.35. fbl - Feedback Loop
 
 <a class="indexterm" name="idp21825680"></a>
@@ -56,7 +59,7 @@ In order to be processed, these addresses must be added to the [relay_domains](c
 
 ### Warning
 
-If a domain in this list also appears in the [bounce_domains](conf.ref.bounce_domains "bounce_domains") list, then the incoming FBL complaint message destined to that domain will be logged to **both** [bouncelog](log_formats.bouncelog.php "35.3. bouncelog") and [fbllog](log_formats.fbllog.php "35.4. fbllog").
+If a domain in this list also appears in the [bounce_domains](conf.ref.bounce_domains "bounce_domains") list, then the incoming FBL complaint message destined to that domain will be logged to **both** [bouncelog](log_formats.bouncelog "35.3. bouncelog") and [fbllog](log_formats.fbllog "35.4. fbllog").
 
 </dd>
 
@@ -153,3 +156,7 @@ Binding "foo" {
 **Lua Scripts**
 
 With Lua, FBL scripting is typically implemented by the adaptive module. For more information see [Sweep Rules – Configuring Bounce and FBL Behavior](https://support.messagesystems.com/docs/web-ad/ad.rules.sweep.rules).
+
+| [Prev](modules.exim_logger)  | [Up](modules) |  [Next](modules.host_fingerprint) |
+| 71.34. exim_logger – Exim Logging  | [Table of Contents](index) |  71.36. fingerprint – Host Fingerprinting |
+

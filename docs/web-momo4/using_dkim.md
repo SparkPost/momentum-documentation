@@ -1,3 +1,6 @@
+| Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures |
+| [Prev](using_domainkeys.validation)  | Part III. Configuring Momentum |  [Next](using_dkim.validation) |
+
 ## Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures
 
 **Table of Contents**
@@ -62,7 +65,7 @@ Enabling DKIM signing in Momentum is a two-step process:
 
     *   Set the `opendkim_sign` option to `true` in the appropriate scope to enable DKIM signing on a global, per domain, per binding, or per binding-per domain basis. For details, see [opendkim_sign](conf.ref.opendkim_sign "opendkim_sign").
 
-To control how OpenDKIM signing statistics are recorded, see [signing_stats](conf.ref.signing_stats "signing_stats"). The console command [signing_stats](console_commands.signing_stats.php "signing_stats") is used to examine signing statistics and [signing_stats reset](console_commands.signing_stats_reset.php "signing_stats reset") resets statistics.
+To control how OpenDKIM signing statistics are recorded, see [signing_stats](conf.ref.signing_stats "signing_stats"). The console command [signing_stats](console_commands.signing_stats "signing_stats") is used to examine signing statistics and [signing_stats reset](console_commands.signing_stats_reset "signing_stats reset") resets statistics.
 
 ### 23.1.1. Generating DKIM Keys
 
@@ -160,3 +163,7 @@ Notes. If specified, the value of this tag is quoted-printable text used as a no
 </dd>
 
 </dl>
+
+| [Prev](using_domainkeys.validation)  | [Up](p.configuration) |  [Next](using_dkim.validation) |
+| 22.2. DomainKeys Validation  | [Table of Contents](index) |  23.2. DKIM Validation |
+

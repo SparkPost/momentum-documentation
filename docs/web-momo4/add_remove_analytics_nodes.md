@@ -1,3 +1,6 @@
+| Chapter 14. Adding and Removing Analytics Nodes |
+| [Prev](node_remove)  | Part II. Installing Momentum |  [Next](node_remove_analytics) |
+
 ## Chapter 14. Adding and Removing Analytics Nodes
 
 **Table of Contents**
@@ -275,3 +278,7 @@ The first two steps may take a while to complete, depending on how long the data
     service msys-app-webhooks-etl restart
     service msys-nginx reload
     ```
+
+| [Prev](node_remove)  | [Up](p.installing) |  [Next](node_remove_analytics) |
+| 13.2. Removing a Platform Node  | [Table of Contents](index) |  14.2. Removing an Analytics Node |
+

@@ -1,3 +1,6 @@
+| min_dns_ttl |
+| [Prev](conf.ref.mime_parse_large_messages_during_reception)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.mx_failures_fallback_to_a) |
+
 <a name="conf.ref.min_dns_ttl"></a>
 ## Name
 
@@ -21,3 +24,7 @@ min_dns_ttl is valid in the global scope.
 ## See Also
 
 [max_dns_ttl](conf.ref.max_dns_ttl "max_dns_ttl")
+
+| [Prev](conf.ref.mime_parse_large_messages_during_reception)  | [Up](config.options.ref) |  [Next](conf.ref.mx_failures_fallback_to_a) |
+| mime_parse_large_messages_during_reception  | [Table of Contents](index) |  mx_failures_fallback_to_a |
+

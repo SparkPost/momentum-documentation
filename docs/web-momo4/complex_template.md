@@ -1,3 +1,6 @@
+| Chapter 53. Using Complex Templates |
+| [Prev](sending_cc_bcc)  | Part VII. Message Generation (HTTP) |  [Next](p.analytics) |
+
 ## Chapter 53. Using Complex Templates
 
 **Introduction**
@@ -10,7 +13,7 @@ In this section, you will learn about advanced features of the templating langua
 
 ### Note
 
-This tutorial assumes that you have completed the tutorials in [Chapter 47, *Creating Stored Templates*                 ](stored_template "Chapter 47. Creating Stored Templates") and [Chapter 49, *Using Stored Templates*](using_template.php "Chapter 49. Using Stored Templates") .
+This tutorial assumes that you have completed the tutorials in [Chapter 47, *Creating Stored Templates*                 ](stored_template "Chapter 47. Creating Stored Templates") and [Chapter 49, *Using Stored Templates*](using_template "Chapter 49. Using Stored Templates") .
 
 A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required. As a prerequisite, you should also be familiar with the information provided in the Substitutions Reference section of the [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html) documentation.
 
@@ -198,3 +201,7 @@ Follow these steps to view your engagement data:
     ![Engagement Report](images/engagement_weather.png)
 
 Congratulations! You have used your knowledge of the REST API to create and use a complex template. For additional information, see [Momentum REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
+
+| [Prev](sending_cc_bcc)  | [Up](p.http_rest) |  [Next](p.analytics) |
+| Chapter 52. Sending Emails as CC and BCC  | [Table of Contents](index) |  Part VIII. Reporting and Engagement Tracking |
+

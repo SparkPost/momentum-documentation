@@ -1,3 +1,6 @@
+| Chapter 24. Configuring Multiple Event Loops |
+| [Prev](using_dkim.validation)  | Part III. Configuring Momentum |  [Next](outbound_mail) |
+
 ## Chapter 24. Configuring Multiple Event Loops
 
 To fully utilize the capacity of multi-core CPU architectures, you can configure Momentum for multiple event loops. This configuration enables Momentum to scale so that the overall performance is not limited by a single event-scheduler thread. Instead, a pool of event scheduler instances is created, running in separate threads. Tasks that are performed in the event scheduler thread will now be farmed out to this pool of scheduler instances. These tasks include message reception, message delivery, mail queue maintenance, DNS lookup, and event operations performed by the various modules.
@@ -43,3 +46,7 @@ To enable the multiple event loop feature for SMTP and HTTP injection, add the f
     ```
 
 After you edit your ecelerity.conf file, you must restart the ecelerity process using **/opt/msys/ecelerity/bin/ec_ctl** — issuing the ec_console command **config reload**        will not suffice. See [ec_ctl](executable.ec_ctl "ec_ctl").
+
+| [Prev](using_dkim.validation)  | [Up](p.configuration) |  [Next](outbound_mail) |
+| 23.2. DKIM Validation  | [Table of Contents](index) |  Chapter 25. Configuring Outbound Mail Delivery |
+

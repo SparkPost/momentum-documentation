@@ -1,3 +1,6 @@
+| 12.4. Download and Install the Vertica Management Console |
+| [Prev](install.post-install.rotate)  | Chapter 12. Post-Installation |  [Next](install.vertica.license) |
+
 ## 12.4. Download and Install the Vertica Management Console
 
 Install the Vertica Management Console on any Vertica node.
@@ -11,3 +14,7 @@ Install the Vertica Management Console on any Vertica node.
     2.  [Installing the Management Console](https://my.vertica.com/docs/7.1.x/HTML/index.htm#Authoring/InstallationGuide/InstallingMC/InstallingManagementConsole.htm)
 
     3.  [Configuring the Management Console](https://my.vertica.com/docs/7.1.x/HTML/index.htm#Authoring/InstallationGuide/InstallingMC/ConfiguringManagementConsole.htm)
+
+| [Prev](install.post-install.rotate)  | [Up](post_installation) |  [Next](install.vertica.license) |
+| 12.3. Rotating Logfiles  | [Table of Contents](index) |  12.5. Upgrading the Vertica License |
+

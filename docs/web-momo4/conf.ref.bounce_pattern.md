@@ -1,3 +1,6 @@
+| bounce_pattern |
+| [Prev](conf.ref.bounce_domains)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.bounce_suppress_list) |
+
 <a name="conf.ref.bounce_pattern"></a>
 ## Name
 
@@ -28,4 +31,8 @@ bounce_pattern is valid in the domain and global scopes.
 <a name="idp23761824"></a>
 ## See Also
 
-[bounce_domains](conf.ref.bounce_domains "bounce_domains"), [bounce_behavior](conf.ref.bounce_behavior.php "bounce_behavior"), [bounce_suppress_list](conf.ref.bounce_suppress_list.php "bounce_suppress_list"), and [Section 71.13, “bounce_logger – Momentum-Style Bounce Logging”](modules.bounce_logger.php "71.13. bounce_logger – Momentum-Style Bounce Logging")
+[bounce_domains](conf.ref.bounce_domains "bounce_domains"), [bounce_behavior](conf.ref.bounce_behavior "bounce_behavior"), [bounce_suppress_list](conf.ref.bounce_suppress_list "bounce_suppress_list"), and [Section 71.13, “bounce_logger – Momentum-Style Bounce Logging”](modules.bounce_logger "71.13. bounce_logger – Momentum-Style Bounce Logging")
+
+| [Prev](conf.ref.bounce_domains)  | [Up](config.options.ref) |  [Next](conf.ref.bounce_suppress_list) |
+| bounce_domains  | [Table of Contents](index) |  bounce_suppress_list |
+

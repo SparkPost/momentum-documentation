@@ -1,3 +1,6 @@
+| tls_verify |
+| [Prev](config.tls_verified_peer_is_authorized)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_verify_mode) |
+
 <a name="config.tls_verify"></a>
 ## Name
 
@@ -26,7 +29,7 @@ This option can be set to the following:
 
 ### Note
 
-For custom behavior create a C module that uses the [outbound_smtp_tls_verify_callback](https://support.messagesystems.com/docs/web-c-api/hooks.core.outbound_smtp_tls_verify_callback) and [inbound_smtp_tls_verify_callback](https://support.messagesystems.com/docs/web-c-api/hooks.core.inbound_smtp_tls_verify_callback.php) hooks.
+For custom behavior create a C module that uses the [outbound_smtp_tls_verify_callback](https://support.messagesystems.com/docs/web-c-api/hooks.core.outbound_smtp_tls_verify_callback) and [inbound_smtp_tls_verify_callback](https://support.messagesystems.com/docs/web-c-api/hooks.core.inbound_smtp_tls_verify_callback) hooks.
 
 The default value is `no`.
 
@@ -34,3 +37,7 @@ The default value is `no`.
 ## Scope
 
 `tls_verify` is valid in the binding, binding_group, domain and global scopes.
+
+| [Prev](config.tls_verified_peer_is_authorized)  | [Up](config.options.ref) |  [Next](config.tls_verify_mode) |
+| tls_verified_peer_is_authorized  | [Table of Contents](index) |  tls_verify_mode |
+

@@ -1,3 +1,6 @@
+| resolv_conf |
+| [Prev](conf.ref.reserve_maintenance_interval)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.response_transcode_pattern) |
+
 <a name="conf.ref.resolv_conf"></a>
 ## Name
 
@@ -65,3 +68,7 @@ Alias for `options attempts:2`
 ## Scope
 
 resolve_conf is valid in the global scope.
+
+| [Prev](conf.ref.reserve_maintenance_interval)  | [Up](config.options.ref) |  [Next](conf.ref.response_transcode_pattern) |
+| reserve_maintenance_interval  | [Table of Contents](index) |  response_transcode_pattern |
+

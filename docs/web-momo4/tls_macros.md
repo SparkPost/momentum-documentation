@@ -1,3 +1,6 @@
+| 71.72. tls_macros – TLS-related Logging |
+| [Prev](modules.syslog_io)  | Chapter 71. Modules Reference |  [Next](modules.url_ripper) |
+
 ## 71.72. tls_macros – TLS-related Logging
 
 The tls_macros module provides several macros supporting custom logging of TLS-related data.
@@ -97,7 +100,7 @@ custom_logger custom_logger1 {
    namespace = "custom_logger,sieve,outbound_tls"
 
    mainlog = "/tmp/ecelerity.5764/perl-tests_tls_tls_macros.t/customlog.cl"
-{% raw  %}
+
    reception_format = "%t{%m:%d:%H:%M:%S}@%i@%BI@%CI@R@%r@%R@%m@%M@%H@%B@%p@%g@%b »
    @%r@%R%local_ip@%outbound_tls@%outbound_tls_type@%outbound_tls_cipher »
    @%outbound_tls_cipher_algbits@%outbound_tls_cipher_usebits@%outbound_tls_protocol »
@@ -119,5 +122,9 @@ custom_logger custom_logger1 {
    @%outbound_tls_verified@%outbound_tls_issuer@%outbound_tls_subject"
 }
 ```
-{% endraw  %}
+
 For more information on the custom_logger, see [Section 71.25, “custom_logger – User-defined Logging”](modules.custom_logger "71.25. custom_logger – User-defined Logging").
+
+| [Prev](modules.syslog_io)  | [Up](modules) |  [Next](modules.url_ripper) |
+| 71.71. syslog_io – The syslog_io Module  | [Table of Contents](index) |  71.73. url_ripper – URL Extraction |
+

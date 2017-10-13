@@ -1,3 +1,6 @@
+| msys.parseRFC2822Addresses |
+| [Prev](lua.ref.msys.lock)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.readfile) |
+
 <a name="lua.ref.msys.parseRFC2822Addresses"></a>
 ## Name
 
@@ -39,3 +42,7 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 ## See Also
 
 [msg:address_header](lua.ref.msg_address_header "msg:address_header")
+
+| [Prev](lua.ref.msys.lock)  | [Up](lua.function.details) |  [Next](lua.ref.msys.readfile) |
+| msys.lock  | [Table of Contents](index) |  msys.readfile |
+

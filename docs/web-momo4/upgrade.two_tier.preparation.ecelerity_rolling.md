@@ -1,3 +1,6 @@
+| 11.6. Upgrade Ecelerity and the Cassandra Schema on the First Platform Node |
+| [Prev](upgrade.two_tier.preparation.stop_generations_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.stop_transmissions_rolling) |
+
 ## 11.6. Upgrade Ecelerity and the Cassandra Schema on the First Platform Node
 
 1.  The following steps connect Ecelerity and Cassandra. These steps should be done only on the **first Platform node** . Be sure you perform these steps in the order shown below.
@@ -44,3 +47,7 @@
     $CQLSH -k authentication -f $UPG/V2015.06.17_00.00.00__add_valid_ip_column.cql 2>&1 >> cassandra_schema.log
     $CQLSH -k authentication -f $UPG/V2015.06.22_00.00.00__add_last_login_column.cql 2>&1 >> cassandra_schema.log
     ```
+
+| [Prev](upgrade.two_tier.preparation.stop_generations_rolling)  | [Up](upgrade.two_tier_configuration_rolling) |  [Next](upgrade.two_tier.preparation.stop_transmissions_rolling) |
+| 11.5. Stop Transmissions to the First Platform Node  | [Table of Contents](index) |  11.7. Restore Transmissions to the First Platform Node and Stop Transmissions to all other Platform Nodes |
+

@@ -1,3 +1,6 @@
+| msys.bounce.classify_smtp_response |
+| [Prev](lua.ref.msys.bounce.classify)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.brightmail.scan) |
+
 <a name="lua.ref.msys.bounce.classify_smtp_response"></a>
 ## Name
 
@@ -42,4 +45,8 @@ msys.registerModule("test_bc", mod);
 <a name="idp17617072"></a>
 ## See Also
 
-[Section 71.12, “bounce_classifier_override – Override/Augment Bounce Classifications”](modules.bounce_classifier_override "71.12. bounce_classifier_override – Override/Augment Bounce Classifications"), [msys.bounce.classify](lua.ref.msys.bounce.classify.php "msys.bounce.classify")
+[Section 71.12, “bounce_classifier_override – Override/Augment Bounce Classifications”](modules.bounce_classifier_override "71.12. bounce_classifier_override – Override/Augment Bounce Classifications"), [msys.bounce.classify](lua.ref.msys.bounce.classify "msys.bounce.classify")
+
+| [Prev](lua.ref.msys.bounce.classify)  | [Up](lua.function.details) |  [Next](lua.ref.msys.brightmail.scan) |
+| msys.bounce.classify  | [Table of Contents](index) |  msys.brightmail.scan |
+

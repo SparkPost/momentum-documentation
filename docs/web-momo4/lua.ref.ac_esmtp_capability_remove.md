@@ -1,3 +1,6 @@
+| ac:esmtp_capability_remove |
+| [Prev](lua.ref.ac_esmtp_capability_add)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.ac_inbound_session_count) |
+
 <a name="lua.ref.ac_esmtp_capability_remove"></a>
 ## Name
 
@@ -23,3 +26,7 @@ Enable this function with the statement `require('msys.extended.ac');`.
 ## See Also
 
 [ac:esmtp_capability_add](lua.ref.ac_esmtp_capability_add "ac:esmtp_capability_add")
+
+| [Prev](lua.ref.ac_esmtp_capability_add)  | [Up](lua.function.details) |  [Next](lua.ref.ac_inbound_session_count) |
+| ac:esmtp_capability_add  | [Table of Contents](index) |  ac:inbound_session_count |
+

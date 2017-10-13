@@ -1,3 +1,6 @@
+| timestampformat |
+| [Prev](conf.ref.threadpool)  | Chapter 72. Configuration Options Reference |  [Next](config.ref.tls) |
+
 <a name="conf.ref.timestampformat"></a>
 ## Name
 
@@ -16,3 +19,7 @@ Sets the timestamp format used by Momentum when logging to `stderr`. This output
 ## Scope
 
 `timestampformat` is valid in the global scope.
+
+| [Prev](conf.ref.threadpool)  | [Up](config.options.ref) |  [Next](config.ref.tls) |
+| threadpool  | [Table of Contents](index) |  tls |
+

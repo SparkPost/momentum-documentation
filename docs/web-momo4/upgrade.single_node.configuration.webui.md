@@ -1,3 +1,6 @@
+| 10.6. Update Web UI Configuration |
+| [Prev](upgrade.single_node.configuration.software_upgrade)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.single_node.configuration.start_services) |
+
 ## 10.6. Update Web UI Configuration
 
 1.  Backup the `production.json` file then copy the `default.json` file to production. Answer `yes` at the prompt.
@@ -23,3 +26,7 @@
       }
     }
     ```
+
+| [Prev](upgrade.single_node.configuration.software_upgrade)  | [Up](upgrade.single_node) |  [Next](upgrade.single_node.configuration.start_services) |
+| 10.5. Software Upgrade  | [Table of Contents](index) |  10.7. Start Services |
+

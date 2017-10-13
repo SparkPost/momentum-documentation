@@ -1,3 +1,6 @@
+| msys.audit.connections |
+| [Prev](lua.ref.msys.asyncOk)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.audit.inbound_session_count) |
+
 <a name="lua.ref.msys.audit.connections"></a>
 ## Name
 
@@ -63,4 +66,8 @@ msys.registerModule("validate_mailfrom", mod);
 <a name="idp17252688"></a>
 ## See Also
 
-[msys.audit.inbound_session_count](lua.ref.msys.audit.inbound_session_count "msys.audit.inbound_session_count"), [msys.audit.rejections](lua.ref.msys.audit.rejections.php "msys.audit.rejections"), [msys.audit.receptions](lua.ref.msys.audit.receptions.php "msys.audit.receptions")
+[msys.audit.inbound_session_count](lua.ref.msys.audit.inbound_session_count "msys.audit.inbound_session_count"), [msys.audit.rejections](lua.ref.msys.audit.rejections "msys.audit.rejections"), [msys.audit.receptions](lua.ref.msys.audit.receptions "msys.audit.receptions")
+
+| [Prev](lua.ref.msys.asyncOk)  | [Up](lua.function.details) |  [Next](lua.ref.msys.audit.inbound_session_count) |
+| msys.asyncOk  | [Table of Contents](index) |  msys.audit.inbound_session_count |
+

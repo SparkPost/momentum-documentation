@@ -1,3 +1,6 @@
+| Chapter 60. Managing Your Webhooks in the UI |
+| [Prev](reporting_webhooks)  | Part VIII. Reporting and Engagement Tracking |  [Next](web-ui.webhooks.create) |
+
 ## Chapter 60. Managing Your Webhooks in the UI
 
 **Table of Contents**
@@ -122,3 +125,7 @@ For example, the message_events_webhook is subscribed to "delivery", "policy rej
 For the field definitions and a mapping of the fields that constitute a payload for a given event type, use the Webhook Events and Webhook Sample Events endpoints. See the Webhooks API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
 
 Using the UI, you can create webhooks to post data for any of the event types listed above.
+
+| [Prev](reporting_webhooks)  | [Up](p.analytics) |  [Next](web-ui.webhooks.create) |
+| Chapter 59. Using Webhooks for Event Data  | [Table of Contents](index) |  60.2. Creating a Webhook |
+

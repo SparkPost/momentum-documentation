@@ -1,3 +1,6 @@
+| msg:makeBoundary |
+| [Prev](lua.ref.msg_mailfrom)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_makeContainer) |
+
 <a name="lua.ref.msg_makeBoundary"></a>
 ## Name
 
@@ -21,3 +24,7 @@ The ellipsis (...) in the parameter list indicate that this function has any num
 ## See Also
 
 [msg:makeContainer](lua.ref.msg_makeContainer "msg:makeContainer")
+
+| [Prev](lua.ref.msg_mailfrom)  | [Up](lua.function.details) |  [Next](lua.ref.msg_makeContainer) |
+| msg:mailfrom  | [Table of Contents](index) |  msg:makeContainer |
+

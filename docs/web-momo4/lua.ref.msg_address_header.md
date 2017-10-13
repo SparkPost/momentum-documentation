@@ -1,3 +1,6 @@
+| msg:address_header |
+| [Prev](lua.ref.msg.id)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_binding) |
+
 <a name="lua.ref.msg_address_header"></a>
 ## Name
 
@@ -21,3 +24,7 @@ Enable this function with the statement `require('msys.extended.message');`.
 ## See Also
 
 [msys.parseRFC2822Addresses](lua.ref.msys.parseRFC2822Addresses "msys.parseRFC2822Addresses")
+
+| [Prev](lua.ref.msg.id)  | [Up](lua.function.details) |  [Next](lua.ref.msg_binding) |
+| msg.id  | [Table of Contents](index) |  msg:binding |
+

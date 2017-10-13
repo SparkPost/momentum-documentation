@@ -1,3 +1,6 @@
+| Chapter 25. Configuring Outbound Mail Delivery |
+| [Prev](multi_event_loops)  | Part III. Configuring Momentum |  [Next](outbound_mail.prohibited.hosts) |
+
 ## Chapter 25. Configuring Outbound Mail Delivery
 
 **Table of Contents**
@@ -38,3 +41,7 @@ Domain local.example.com {
   Delivery_Method = LMTP
 }
 ```
+
+| [Prev](multi_event_loops)  | [Up](p.configuration) |  [Next](outbound_mail.prohibited.hosts) |
+| Chapter 24. Configuring Multiple Event Loops  | [Table of Contents](index) |  25.2. Prohibited_Hosts |
+

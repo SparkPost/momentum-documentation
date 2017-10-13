@@ -1,3 +1,6 @@
+| ec_httpsrv_register_auth |
+| [Prev](apis.ec_config_rsrc_get)  | Chapter 69. Hook Points and C Functions Reference |  [Next](apis.ec_httpsrv_request_local_address) |
+
 <a name="apis.ec_httpsrv_register_auth"></a>
 ## Name
 
@@ -81,3 +84,7 @@ This function returns `0` on success. On failure, it returns an error number tha
 **Threading**
 
 This hook can be called in any thread.
+
+| [Prev](apis.ec_config_rsrc_get)  | [Up](hooks) |  [Next](apis.ec_httpsrv_request_local_address) |
+| ec_config_rsrc_get  | [Table of Contents](index) |  ec_httpsrv_request_local_address |
+

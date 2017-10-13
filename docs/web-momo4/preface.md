@@ -1,3 +1,6 @@
+| Preface |
+| [Prev](index)  |   |  [Next](p.intro) |
+
 ## Preface
 
 **Table of Contents**
@@ -43,3 +46,7 @@ Where possible, Unix command-line commands are broken using the ‘`\`’ charac
 
 /opt/msys/ecelerity/bin/eccfg bootstrap --clustername *`name`* --username=admin \
     --password=*`admin cluster_host`*
+
+| [Prev](index)  |   |  [Next](p.intro) |
+| Momentum 4 Reference Manual  | [Table of Contents](index) |  Part I. Introduction to Momentum |
+

@@ -1,3 +1,6 @@
+| trace_smtp_mode |
+| [Prev](config.tls_verify_mode)  | Chapter 72. Configuration Options Reference |  [Next](config.tracking_domain) |
+
 <a name="conf.ref.trace_smtp_mode"></a>
 ## Name
 
@@ -25,3 +28,7 @@ The default value is `0640`.
 ## See Also
 
 [trace smtp](console_commands.trace_smtp "trace smtp")
+
+| [Prev](config.tls_verify_mode)  | [Up](config.options.ref) |  [Next](config.tracking_domain) |
+| tls_verify_mode  | [Table of Contents](index) |  tracking_domain |
+

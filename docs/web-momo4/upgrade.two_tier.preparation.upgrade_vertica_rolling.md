@@ -1,3 +1,6 @@
+| 11.10. Upgrade Vertica on the Analytics Nodes |
+| [Prev](upgrade.two_tier.preparation.restore_tranmissions_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.configuration.flyway_rolling) |
+
 ## 11.10. Upgrade Vertica on the Analytics Nodes
 
 1.  Stop services.
@@ -156,3 +159,7 @@
     4.  Start Vertica. Enter your password when prompted.
 
         `service msys-vertica start`
+
+| [Prev](upgrade.two_tier.preparation.restore_tranmissions_rolling)  | [Up](upgrade.two_tier_configuration_rolling) |  [Next](upgrade.two_tier.configuration.flyway_rolling) |
+| 11.9. Restore Transmissions to the Remaining Platform Nodes  | [Table of Contents](index) |  11.11. Prepare and Run Flyway |
+

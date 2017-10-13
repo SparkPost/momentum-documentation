@@ -1,3 +1,6 @@
+| 71.55. pipe_transport – Module |
+| [Prev](modules.pipeio)  | Chapter 71. Modules Reference |  [Next](modules.postfix_logger) |
+
 ## 71.55. pipe_transport – Module
 
 <a class="indexterm" name="idp22619968"></a>
@@ -76,3 +79,7 @@ This option configures the program that will be used.
 </dd>
 
 </dl>
+
+| [Prev](modules.pipeio)  | [Up](modules) |  [Next](modules.postfix_logger) |
+| 71.54. pipe_io – Pipe IO Wrapper  | [Table of Contents](index) |  71.56. postfix_logger – Postfix Logging |
+

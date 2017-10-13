@@ -1,3 +1,6 @@
+| showqueue |
+| [Prev](console_commands.show_outbound)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.shutdown) |
+
 <a name="console_commands.showqueue"></a>
 ## Name
 
@@ -33,3 +36,7 @@ you can also list the messages in the queue for a particular domain on a particu
 [delayed/smtp-01] 10/00-21047-B5581944 Created: 1150387547
   From: <sender@example.com> To: <rcpt1@example.com>
 ```
+
+| [Prev](console_commands.show_outbound)  | [Up](console.cmds.ref) |  [Next](console_commands.shutdown) |
+| show outbound  | [Table of Contents](index) |  shutdown |
+

@@ -1,3 +1,6 @@
+| config |
+| [Prev](console_commands.cache_stats)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.count) |
+
 <a name="console_commands.config"></a>
 ## Name
 
@@ -353,3 +356,7 @@ Relay_Hosts = (
   10.0.0.2
   )
 ```
+
+| [Prev](console_commands.cache_stats)  | [Up](console.cmds.ref) |  [Next](console_commands.count) |
+| cache stats  | [Table of Contents](index) |  count |
+

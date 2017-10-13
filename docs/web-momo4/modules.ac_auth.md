@@ -1,3 +1,6 @@
+| 71.2. ac_auth – Authentication Handler |
+| [Prev](modules)  | Chapter 71. Modules Reference |  [Next](modules.adaptive) |
+
 ## 71.2. ac_auth – Authentication Handler
 
 <a class="indexterm" name="idp13900864"></a>
@@ -93,3 +96,7 @@ if mc then
   vctx = mc.ctx
 end
 ```
+
+| [Prev](modules)  | [Up](modules) |  [Next](modules.adaptive) |
+| Chapter 71. Modules Reference  | [Table of Contents](index) |  71.3. adaptive – Adaptive Delivery |
+

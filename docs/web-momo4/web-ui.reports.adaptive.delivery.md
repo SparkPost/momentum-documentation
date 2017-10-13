@@ -1,3 +1,6 @@
+| 57.3. Adaptive Delivery Report |
+| [Prev](web-ui.reports.viewing.reports)  | Chapter 57. Reports and Engagement Tracking in the UI |  [Next](web-ui.reports.evaluating.campaign.performance) |
+
 ## 57.3. Adaptive Delivery Report
 
 Adaptive Delivery® auto-tunes your outbound email delivery parameters and traffic shaping in real-time to avoid blocks, to safeguard your reputation, and to optimize delivery. Adaptive delivery events occur when an adaptive rule is triggered or as a result of automatic performance tuning. For details about Momentum's Adaptive Delivery® feature, see [Adaptive Delivery User Guide](https://support.messagesystems.com/docs/web-ad/index). The Adaptive Delivery report in the UI enables you to view details about adaptive delivery events when they occur and to relate these events to deliverability metrics that may be impacted by them.
@@ -87,3 +90,7 @@ The following are the columns in the table:
 *   Duration - Duration of the adaptive event
 
 You can filter the data further by Type to narrow the scope of your report. Click the filter icon in the Type column to select Throttle or Suspension from the drop-down list. Sort the table by any column to show different arrangements. For example, filter by Throttle for Type, and then sort in descending order by Trigger. The resulting table displays the reasons why messages were throttled in descending order of trigger code.
+
+| [Prev](web-ui.reports.viewing.reports)  | [Up](web-ui.reports) |  [Next](web-ui.reports.evaluating.campaign.performance) |
+| 57.2. Viewing Your Reports  | [Table of Contents](index) |  57.4. Evaluating Your Campaign Performance |
+

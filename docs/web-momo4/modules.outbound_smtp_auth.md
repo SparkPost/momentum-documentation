@@ -1,3 +1,6 @@
+| 71.52. outbound_smtp_auth |
+| [Prev](modules.outbound_audit)  | Chapter 71. Modules Reference |  [Next](modules.persistio) |
+
 ## 71.52. outbound_smtp_auth
 
 <a class="indexterm" name="idp22512848"></a>
@@ -98,3 +101,7 @@ Domain "sparkpost.com" {
   Outbound_SMTP_AUTH_Key = "someotherstring"
 }
 ```
+
+| [Prev](modules.outbound_audit)  | [Up](modules) |  [Next](modules.persistio) |
+| 71.51. outbound_audit – Outbound traffic analytics  | [Table of Contents](index) |  71.53. persist_io – Persistent IO Wrapper |
+

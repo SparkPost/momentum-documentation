@@ -1,3 +1,6 @@
+| 15.3. Configuration Scopes and Fallback |
+| [Prev](conf.options)  | Chapter 15. Configuration Overview |  [Next](listeners) |
+
 ## 15.3. Configuration Scopes and Fallback
 
 Momentum has a flexible configuration system that allows many options to be set to different values for different hosts, domains, bindings, and binding groups:
@@ -134,3 +137,7 @@ In summary, the value that a configuration option assumes, in order of decreasin
 *   Value specified within a global domain stanza
 
 *   Global setting
+
+| [Prev](conf.options)  | [Up](conf.overview) |  [Next](listeners) |
+| 15.2. Configuration Options  | [Table of Contents](index) |  15.4. Listeners |
+

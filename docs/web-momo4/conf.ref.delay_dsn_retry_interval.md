@@ -1,3 +1,6 @@
+| delay_dsn_retry_interval |
+| [Prev](conf.ref.delay_dsn_max_retry_interval)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.delayed_binding_domain_fuzz) |
+
 <a name="conf.ref.delay_dsn_retry_interval"></a>
 ## Name
 
@@ -26,4 +29,8 @@ The default value for this option is `3600`.
 <a name="idp24234976"></a>
 ## See Also
 
-[generate_delay_dsn](conf.ref.generate_delay_dsn "generate_delay_dsn"), [delay_dsn_max_retry_interval](conf.ref.delay_dsn_max_retry_interval.php "delay_dsn_max_retry_interval")
+[generate_delay_dsn](conf.ref.generate_delay_dsn "generate_delay_dsn"), [delay_dsn_max_retry_interval](conf.ref.delay_dsn_max_retry_interval "delay_dsn_max_retry_interval")
+
+| [Prev](conf.ref.delay_dsn_max_retry_interval)  | [Up](config.options.ref) |  [Next](conf.ref.delayed_binding_domain_fuzz) |
+| delay_dsn_max_retry_interval  | [Table of Contents](index) |  delayed_binding_domain_fuzz |
+

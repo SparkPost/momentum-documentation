@@ -1,3 +1,6 @@
+| supplemental_groups |
+| [Prev](config.starttls_injection_policy)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.suspend_delivery) |
+
 <a name="conf.ref.supplemental_groups"></a>
 ## Name
 
@@ -30,4 +33,8 @@ Supplemental_Groups is valid in the security scope.
 <a name="idp26789056"></a>
 ## See Also
 
-[security](conf.ref.security "security"), [capabilities](conf.ref.capabilities.php "capabilities"), [user](conf.ref.user.php "user"), and [chroot](conf.ref.chroot.php "chroot")
+[security](conf.ref.security "security"), [capabilities](conf.ref.capabilities "capabilities"), [user](conf.ref.user "user"), and [chroot](conf.ref.chroot "chroot")
+
+| [Prev](config.starttls_injection_policy)  | [Up](config.options.ref) |  [Next](conf.ref.suspend_delivery) |
+| starttls_injection_policy  | [Table of Contents](index) |  suspend_delivery |
+

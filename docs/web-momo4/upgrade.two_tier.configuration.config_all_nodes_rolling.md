@@ -1,3 +1,6 @@
+| 11.13. Configuration Changes |
+| [Prev](upgrade.two_tier.preparation.rpms_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.configuration.software_upgrade_rolling) |
+
 ## 11.13. Configuration Changes
 
 Move the Vertica stanza to the root level in the configuration files on all nodes as detailed below.
@@ -63,3 +66,7 @@ Multiple stanzas in the root must be separated by commas. For example, in the we
 8.  SCP the Platform changes to the **other Platform nodes** . See below for an example scp command:
 
     `scp –p /opt/msys/app/metrics-etl/config/production.json {nodename or IP}:/opt/msys/app/metrics-etl/config/production.json`
+
+| [Prev](upgrade.two_tier.preparation.rpms_rolling)  | [Up](upgrade.two_tier_configuration_rolling) |  [Next](upgrade.two_tier.configuration.software_upgrade_rolling) |
+| 11.12. Upgrade Remaining RPMs on Analytics Nodes  | [Table of Contents](index) |  11.14. Install the Adaptive Delivery API |
+

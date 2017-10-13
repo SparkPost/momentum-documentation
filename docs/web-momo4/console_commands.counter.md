@@ -1,3 +1,6 @@
+| counter |
+| [Prev](console_commands.count)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.delayed) |
+
 <a name="console_commands.counter"></a>
 ## Name
 
@@ -88,3 +91,7 @@ You can also display and manipulate counters through the following Lua functions
 *   [msys.counter.reset](lua.ref.msys.counter.reset "msys.counter.reset")
 
 *   [msys.counter.unlink](lua.ref.msys.counter.unlink "msys.counter.unlink")
+
+| [Prev](console_commands.count)  | [Up](console.cmds.ref) |  [Next](console_commands.delayed) |
+| count  | [Table of Contents](index) |  delayed |
+

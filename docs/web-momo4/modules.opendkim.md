@@ -1,3 +1,6 @@
+| 71.50. opendkim – Open Source DKIM |
+| [Prev](modules.mxip)  | Chapter 71. Modules Reference |  [Next](modules.outbound_audit) |
+
 ## 71.50. opendkim – Open Source DKIM
 
 The opendkim module adds OpenDKIM capabilities to Momentum. It implements the DKIM standard and provides for signing email messages on a global, per domain, per binding, or per binding-per domain basis. You can choose to sign messages through module configuration settings or do so at runtime using Lua functions. Validation of DKIM messages with the opendkim module is driven only through Lua policy.
@@ -226,7 +229,7 @@ Specifies the DKIM selector to be used for signing. During verification, the `se
 
 <dd>
 
-Specifies which validation context variable must exist as a predicate to signing messages. When an SMTP client performs an SMTP AUTH action, the [auth_user](policy.context.variables#predefined-context-conn-global "Table 63.1. Global Predefined Connection Context Variables") context key will be set to the username used during authorization. When an SMTP client is allowed to relay through Momentum because of an entry in the [relay_hosts](conf.ref.relay_hosts.php "relay_hosts") option or a `relaying` declaration in an ESMTP_Listener IP access control list, the [can_relay](policy.context.variables.php#predefined-context-conn-global "Table 63.1. Global Predefined Connection Context Variables") context key is set to `true`.
+Specifies which validation context variable must exist as a predicate to signing messages. When an SMTP client performs an SMTP AUTH action, the [auth_user](policy.context.variables#predefined-context-conn-global "Table 63.1. Global Predefined Connection Context Variables") context key will be set to the username used during authorization. When an SMTP client is allowed to relay through Momentum because of an entry in the [relay_hosts](conf.ref.relay_hosts "relay_hosts") option or a `relaying` declaration in an ESMTP_Listener IP access control list, the [can_relay](policy.context.variables#predefined-context-conn-global "Table 63.1. Global Predefined Connection Context Variables") context key is set to `true`.
 
 In most corporate environments, `sign_condition` should be `auth_user`. In large sending architectures where the relaying SMTP clients are implicitly trusted, `sign_condition` should be `can_relay`. There is no default value for this option.
 
@@ -252,7 +255,7 @@ Set this option to `true` if you are not in a production environment. Default va
 
 ### 71.50.2. Lua Functions
 
-You can sign OpenDKIM domains using module configuration settings or at runtime using Lua functions. The Lua APIs mirror the OpenDKIM API. In order to sign at runtime, you must create a Lua policy script and reference it from the [scriptlet](modules.scriptlet "71.60. scriptlet - Lua Policy Scripts") module as shown in [Example 71.74, “opendkim Configuration”](modules.opendkim.php#modules.opendkim.example "Example 71.74. opendkim Configuration").
+You can sign OpenDKIM domains using module configuration settings or at runtime using Lua functions. The Lua APIs mirror the OpenDKIM API. In order to sign at runtime, you must create a Lua policy script and reference it from the [scriptlet](modules.scriptlet "71.60. scriptlet - Lua Policy Scripts") module as shown in [Example 71.74, “opendkim Configuration”](modules.opendkim#modules.opendkim.example "Example 71.74. opendkim Configuration").
 
 Verification of DKIM messages is only driven through Lua policy.
 
@@ -293,3 +296,7 @@ The following OpenDKIM objects are passed in to or returned by these functions:
 *   `DKIM_STAT` – Return value or status
 
 For more information about these data types, see [OpenDKIM Library](http://www.opendkim.org/libopendkim/index.html).
+
+| [Prev](modules.mxip)  | [Up](modules) |  [Next](modules.outbound_audit) |
+| 71.49. mxip - IP Addresses In MX Records  | [Table of Contents](index) |  71.51. outbound_audit – Outbound traffic analytics |
+

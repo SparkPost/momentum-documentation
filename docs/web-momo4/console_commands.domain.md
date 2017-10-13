@@ -1,3 +1,6 @@
+| domain |
+| [Prev](console_commands.dns_cache)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.domain_all) |
+
 <a name="console_commands.domain"></a>
 ## Name
 
@@ -67,7 +70,7 @@ Active Connections: 12
 
 ### Note
 
-This console command manipulates the *route cache* , and likewise with the [dig](console_commands.dig "dig") and [refresh domain](console_commands.refresh_domain.php "refresh domain") commands. The *DNS cache* , as manipulated by the [dns_cache](console_commands.dns_cache.php "dns_cache") series of console commands.
+This console command manipulates the *route cache* , and likewise with the [dig](console_commands.dig "dig") and [refresh domain](console_commands.refresh_domain "refresh domain") commands. The *DNS cache* , as manipulated by the [dns_cache](console_commands.dns_cache "dns_cache") series of console commands.
 
 ## Domain Configuration
 
@@ -120,3 +123,7 @@ The total number of permanently failed delivery attempts to this domain since in
 The current number of established outbound SMTP sessions.
 
 Below the count is a list that details the system file descriptor and IP address that each SMTP session is using. The state reflects the current point in the SMTP transaction and the length of time since entering that state.
+
+| [Prev](console_commands.dns_cache)  | [Up](console.cmds.ref) |  [Next](console_commands.domain_all) |
+| dns_cache  | [Table of Contents](index) |  domain all |
+

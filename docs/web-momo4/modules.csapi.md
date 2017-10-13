@@ -1,3 +1,6 @@
+| 71.23. csapi – Symantec CSAPI Antivirus Support |
+| [Prev](modules.conntrol)  | Chapter 71. Modules Reference |  [Next](modules.custom_bounce_logger) |
+
 ## 71.23. csapi – Symantec CSAPI Antivirus Support
 
 <a class="indexterm" name="idp20759504"></a>
@@ -193,7 +196,7 @@ See [Section 71.6.1, “Configuration”](modules.antivirus#modules.antivirus.c
 
 ### 71.23.3. Lua Functions
 
-This module supports the [msys.av.scan](lua.ref.msys.av.scan "msys.av.scan") and [msys.av.scan_part](lua.ref.msys.av.scan_part.php "msys.av.scan_part") Lua functions.
+This module supports the [msys.av.scan](lua.ref.msys.av.scan "msys.av.scan") and [msys.av.scan_part](lua.ref.msys.av.scan_part "msys.av.scan_part") Lua functions.
 
 This function returns four values:
 
@@ -393,3 +396,7 @@ LiveUpdate will download the updates, unpack them, and move them into an "incomi
 LiveUpdate will log its progress to `/opt/Symantec/LiveUpdate/liveupdt.log`. Monitor this log to see if updates are being downloaded successfully. If no new logs are appearing in that file, there is some issue with `ec_avscan` that is preventing it from running LiveUpdate.
 
 LiveUpdate will download updates and unpack them under `/tmp`. Note that `/tmp` must have at least 3 GB of free space. Otherwise, LiveUpdate will fail and not be able to download and apply new updates. `/opt/Symantec/LiveUpdate/liveupdt.log` will contain an error when there is not enough disk space to download and unpack the updates.
+
+| [Prev](modules.conntrol)  | [Up](modules) |  [Next](modules.custom_bounce_logger) |
+| 71.22. conntrol – Fine-Grained Connection Control  | [Table of Contents](index) |  71.24. custom_bounce_logger – Custom Bounce Logging |
+

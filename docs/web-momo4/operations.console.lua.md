@@ -1,3 +1,6 @@
+| 37.5. Creating Custom Console Commands |
+| [Prev](modules.options.console)  | Chapter 37. Using the System Console (**ec_console**) |  [Next](cluster.config.operations) |
+
 ## 37.5. Creating Custom Console Commands
 
 In addition to the built-in console commands, you can create your own commands using the Lua function [msys.registerControl](lua.ref.msys.registerControl "msys.registerControl"). If, for example, you have domains that are heavily throttled and discard messages that are over the limit, you can create a console command to push emails for these domains into the delayed queue:
@@ -23,3 +26,7 @@ msys.registerControl("delay_domain", delay_domain);
 ```
 
 This code creates the ec_console command: **delay_domain *`domain`***           .
+
+| [Prev](modules.options.console)  | [Up](operations) |  [Next](cluster.config.operations) |
+| 37.4. Setting and Getting Module Options from the Console  | [Table of Contents](index) |  Chapter 38. Using the Cluster Manager (**eccmgr**) |
+

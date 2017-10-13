@@ -1,3 +1,6 @@
+| 32.2. Logging Configuration |
+| [Prev](logging.overview)  | Chapter 32. Logging Overview |  [Next](log_monitoring) |
+
 ## 32.2. Logging Configuration
 
 You control Momentum's logging behaviour by configuring the selected logging modules in one of Momentum's configuration files:
@@ -11,3 +14,7 @@ You control Momentum's logging behaviour by configuring the selected logging mod
 For a summary of all the non-module specific configuration options, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
 Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
+
+| [Prev](logging.overview)  | [Up](logging.overview) |  [Next](log_monitoring) |
+| Chapter 32. Logging Overview  | [Table of Contents](index) |  Chapter 33. Log Monitoring |
+

@@ -1,3 +1,6 @@
+| cache stat |
+| [Prev](console_commands.cache_list)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.cache_stats) |
+
 <a name="console_commands.cache_stat"></a>
 ## Name
 
@@ -41,4 +44,8 @@ This command shows much more detail than the [cache stats](console_commands.cach
 <a name="idp13022352"></a>
 ## See Also
 
-[cache list](console_commands.cache_list "cache list"), [cache stats](console_commands.cache_stats.php "cache stats"), [match_cache_life](conf.ref.match_cache_life.php "match_cache_life")
+[cache list](console_commands.cache_list "cache list"), [cache stats](console_commands.cache_stats "cache stats"), [match_cache_life](conf.ref.match_cache_life "match_cache_life")
+
+| [Prev](console_commands.cache_list)  | [Up](console.cmds.ref) |  [Next](console_commands.cache_stats) |
+| cache list  | [Table of Contents](index) |  cache stats |
+

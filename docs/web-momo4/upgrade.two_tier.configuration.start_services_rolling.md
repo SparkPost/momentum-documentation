@@ -1,3 +1,6 @@
+| 11.16. Start Services |
+| [Prev](upgrade.two_tier.configuration.webui_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.complete_setup_rolling) |
+
 ## 11.16. Start Services
 
 1.  Start the following services on **all nodes** .
@@ -19,3 +22,7 @@
     /etc/init.d/msys-app-webhooks-transmitter start
     /etc/init.d/msys-app-metrics-etl start
     ```
+
+| [Prev](upgrade.two_tier.configuration.webui_rolling)  | [Up](upgrade.two_tier_configuration_rolling) |  [Next](upgrade.two_tier.complete_setup_rolling) |
+| 11.15. Update the Web UI Configuration  | [Table of Contents](index) |  11.17. Complete the Software Set Up |
+

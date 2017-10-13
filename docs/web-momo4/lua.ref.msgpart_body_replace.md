@@ -1,3 +1,6 @@
+| msgpart:body_replace |
+| [Prev](lua.ref.msgpart_body_match)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_content_type) |
+
 <a name="lua.ref.msgpart_body_replace"></a>
 ## Name
 
@@ -18,3 +21,7 @@ replacement: string
 Streaming interface to a PCRE replacement of a message body part (minus headers).
 
 Enable this function with the statement `require('msys.extended.message');`.
+
+| [Prev](lua.ref.msgpart_body_match)  | [Up](lua.function.details) |  [Next](lua.ref.msgpart_content_type) |
+| msgpart:body_match  | [Table of Contents](index) |  msgpart:content_type |
+

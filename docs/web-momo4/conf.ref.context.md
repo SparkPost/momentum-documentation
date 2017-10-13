@@ -1,3 +1,6 @@
+| context |
+| [Prev](conf.ref.connection_allocation_aggressiveness)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.control_client_timeout) |
+
 <a name="conf.ref.context"></a>
 ## Name
 
@@ -21,3 +24,7 @@ context is valid in the esmtp_listener, listen, pathway, pathway_group, and peer
 ## See Also
 
 [Section 62.1, “Validation and the Validation Context”](policy#policy.validation "62.1. Validation and the Validation Context")
+
+| [Prev](conf.ref.connection_allocation_aggressiveness)  | [Up](config.options.ref) |  [Next](conf.ref.control_client_timeout) |
+| connection_allocation_aggressiveness  | [Table of Contents](index) |  control_client_timeout |
+

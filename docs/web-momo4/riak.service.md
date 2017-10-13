@@ -1,3 +1,6 @@
+| 30.2. Running the Riak Service |
+| [Prev](riak)  | Chapter 30. Riak |  [Next](operations.riak.ports) |
+
 ## 30.2. Running the Riak Service
 
 Riak is configured to start automatically when the system boots. The service can be controlled by the script located at `/etc/init.d/msys-riak`. This initialization script has the usual stop, start, and restart options. The following additional options are also available:
@@ -11,3 +14,7 @@ Riak is configured to start automatically when the system boots. The service can
 *   `attach` – Attaches to the console of a Riak node running in the background, giving access to the Erlang shell and runtime messages.
 
 *   `console` – Start the Riak node in the foreground, giving access to the Erlang shell and runtime messages.
+
+| [Prev](riak)  | [Up](riak) |  [Next](operations.riak.ports) |
+| Chapter 30. Riak  | [Table of Contents](index) |  30.3. Riak Ports |
+

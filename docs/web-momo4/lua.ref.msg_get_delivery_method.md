@@ -1,3 +1,6 @@
+| msg:get_delivery_method |
+| [Prev](lua.ref.msg_forward)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_get_message_size) |
+
 <a name="lua.ref.msg_get_delivery_method"></a>
 ## Name
 
@@ -43,3 +46,7 @@ Because this function is in the `msys.core` namespace, an explicit `require('msy
 ## See Also
 
 [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/)
+
+| [Prev](lua.ref.msg_forward)  | [Up](lua.function.details) |  [Next](lua.ref.msg_get_message_size) |
+| msg:forward  | [Table of Contents](index) |  msg:get_message_size |
+

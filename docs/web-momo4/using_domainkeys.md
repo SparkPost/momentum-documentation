@@ -1,3 +1,6 @@
+| Chapter 22. Using Yahoo! DomainKeys |
+| [Prev](auth)  | Part III. Configuring Momentum |  [Next](using_domainkeys.validation) |
+
 ## Chapter 22. Using Yahoo! DomainKeys
 
 **Table of Contents**
@@ -60,7 +63,7 @@ Enabling DomainKeys signing in Momentum is a two-step process:
 
     *   Set the `domainkeys` option to `enabled` in the appropriate scope to enable DomainKeys signing on a global, per domain, per binding, or per binding-per domain basis. For details, see [domainkeys](conf.ref.domainkeys "domainkeys").
 
-To control how DomainKeys signing statistics are recorded, see [signing_stats](conf.ref.signing_stats "signing_stats"). The console command [signing_stats](console_commands.signing_stats.php "signing_stats") is used to examine signing statistics and [signing_stats reset](console_commands.signing_stats_reset.php "signing_stats reset") resets statistics.
+To control how DomainKeys signing statistics are recorded, see [signing_stats](conf.ref.signing_stats "signing_stats"). The console command [signing_stats](console_commands.signing_stats "signing_stats") is used to examine signing statistics and [signing_stats reset](console_commands.signing_stats_reset "signing_stats reset") resets statistics.
 
 ### 22.1.1. Generating DomainKeys
 
@@ -146,3 +149,7 @@ Used to indicate that a domain is currently testing DomainKeys. `y` will indicat
 A sample DNS text record would look like:
 
 `_domainkey IN TXT "t=y; o=~"`
+
+| [Prev](auth)  | [Up](p.configuration) |  [Next](using_domainkeys.validation) |
+| Chapter 21. Enforcing REST API/UI User Authentication  | [Table of Contents](index) |  22.2. DomainKeys Validation |
+

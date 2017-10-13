@@ -1,3 +1,6 @@
+| Momentum 4 Reference Manual |
+
+**List of Tables**
 
 <dl>
 
@@ -112,4 +115,8 @@
 <dt>D.1\. [Editor Commands](libedit#emacs_and_editor_commands)</dt>
 
 <dt>D.2\. [Extended Commands](libedit.extended#extended_commands)</dt>
+
+</dl>
+
+|   | [Table of Contents](index) |   |
 

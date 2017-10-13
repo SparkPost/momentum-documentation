@@ -1,3 +1,6 @@
+| 12.5. Upgrading the Vertica License |
+| [Prev](install.post-install.vertica_mgmt_console)  | Chapter 12. Post-Installation |  [Next](install.security_considerations) |
+
 ## 12.5. Upgrading the Vertica License
 
 Momentum 4 is shipped with a perpetual 0.1 TB license for Vertica. If you were issued a Vertica license for a different volume level, you must upgrade the license after installation.
@@ -33,3 +36,7 @@ Portions of this procedure are adapted from the [HP Vertica License Renewals or 
 8.  When prompted, select View EULA to review the End-User License Agreement (EULA).
 
 9.  To officially accept the EULA and complete the license upgrade, exit the EULA and choose Accept EULA.
+
+| [Prev](install.post-install.vertica_mgmt_console)  | [Up](post_installation) |  [Next](install.security_considerations) |
+| 12.4. Download and Install the Vertica Management Console  | [Table of Contents](index) |  12.6. Security Considerations |
+

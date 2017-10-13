@@ -1,3 +1,6 @@
+| msg.batch_id |
+| [Prev](lua.ref.json.strerror)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg.conn_id) |
+
 <a name="lua.ref.msg.batch_id"></a>
 ## Name
 
@@ -32,3 +35,7 @@ end
 
 msys.registerModule("validate_data", mod);
 ```
+
+| [Prev](lua.ref.json.strerror)  | [Up](lua.function.details) |  [Next](lua.ref.msg.conn_id) |
+| json.strerror  | [Table of Contents](index) |  msg.conn_id |
+

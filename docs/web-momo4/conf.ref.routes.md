@@ -1,3 +1,6 @@
+| routes |
+| [Prev](conf.ref.rfc2822_trace_headers)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rset_timeout) |
+
 <a name="conf.ref.routes"></a>
 ## Name
 
@@ -98,3 +101,7 @@ The accepted convention is to require (in circumstances where a configuration pa
 ## See Also
 
 [gateway](conf.ref.gateway "gateway")
+
+| [Prev](conf.ref.rfc2822_trace_headers)  | [Up](config.options.ref) |  [Next](conf.ref.rset_timeout) |
+| rfc2822_trace_headers  | [Table of Contents](index) |  rset_timeout |
+

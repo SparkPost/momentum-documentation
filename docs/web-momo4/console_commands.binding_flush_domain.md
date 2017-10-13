@@ -1,3 +1,6 @@
+| binding flush domain |
+| [Prev](console_commands.binding_fail_domain_quiet)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.binding_summary) |
+
 <a name="console_commands.binding_flush_domain"></a>
 ## Name
 
@@ -27,3 +30,7 @@ You may substitute `all` for the domain name to apply to all domains.
 ## See Also
 
 [message_expiration](conf.ref.message_expiration "message_expiration")
+
+| [Prev](console_commands.binding_fail_domain_quiet)  | [Up](console.cmds.ref) |  [Next](console_commands.binding_summary) |
+| binding fail domain quiet  | [Table of Contents](index) |  binding summary |
+

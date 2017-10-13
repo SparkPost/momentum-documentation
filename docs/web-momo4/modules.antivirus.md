@@ -1,3 +1,6 @@
+| 71.6. antivirus – Antivirus |
+| [Prev](modules.alias)  | Chapter 71. Modules Reference |  [Next](modules.as_logger) |
+
 ## 71.6. antivirus – Antivirus
 
 <a class="indexterm" name="idp19698880"></a>
@@ -106,7 +109,7 @@ Each antivirus engine runs in a default [threadpool](conf.ref.threadpool "thread
 
 ### Note
 
-If you use the [csapi](modules.csapi "71.23. csapi – Symantec CSAPI Antivirus Support") module, be sure to set the concurrency of the [CPU threadpool](conf.ref.threadpool.php "threadpool") to a value that is less than the max_concurrency of the csapi module.
+If you use the [csapi](modules.csapi "71.23. csapi – Symantec CSAPI Antivirus Support") module, be sure to set the concurrency of the [CPU threadpool](conf.ref.threadpool "threadpool") to a value that is less than the max_concurrency of the csapi module.
 
 </dd>
 
@@ -231,3 +234,7 @@ Up to date
 </dd>
 
 </dl>
+
+| [Prev](modules.alias)  | [Up](modules) |  [Next](modules.as_logger) |
+| 71.5. alias – Alias Expansion  | [Table of Contents](index) |  71.7. as_logger – Audit Series Logger |
+

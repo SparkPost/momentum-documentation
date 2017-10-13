@@ -1,3 +1,6 @@
+| msys.idn.to_utf8 |
+| [Prev](lua.ref.msys.idn)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.lock) |
+
 <a name="lua.ref.msys.idn_utf8"></a>
 ## Name
 
@@ -40,3 +43,7 @@ This function wil help facilitate the translation of international characters to
 ## See Also
 
 [msys.idn.to_idn](lua.ref.msys.idn "msys.idn.to_idn")
+
+| [Prev](lua.ref.msys.idn)  | [Up](lua.function.details) |  [Next](lua.ref.msys.lock) |
+| msys.idn.to_idn  | [Table of Contents](index) |  msys.lock |
+

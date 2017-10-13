@@ -1,3 +1,6 @@
+| 35.7. `mainlog` |
+| [Prev](log_formats.importlog)  | Chapter 35. Log Formats |  [Next](log_formats.paniclog) |
+
 ## 35.7. `mainlog`
 
 The `mainlog` logs reception, delivery, transient failure, permanent failure, and heartbeat events. It is configured in the [ec_logger](modules.ec_logger "71.30. EC_logger – Momentum-Style Logging").
@@ -201,3 +204,7 @@ The following is a description of the fields:
 | 4 | M | `M` indicating a heartbeat |
 
 Having three unused fields ensures that, like other logs, the fifth field is the log entry type. This makes parsing easier.
+
+| [Prev](log_formats.importlog)  | [Up](log_formats) |  [Next](log_formats.paniclog) |
+| 35.6. `importlog`  | [Table of Contents](index) |  35.8. `paniclog` |
+

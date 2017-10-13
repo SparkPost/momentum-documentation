@@ -1,3 +1,6 @@
+| msys.audit_series.define |
+| [Prev](lua.ref.msys.audit_series.count)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.audit_series.remove_item) |
+
 <a name="lua.ref.msys.audit_series.define"></a>
 ## Name
 
@@ -84,4 +87,8 @@ The accepted convention is to require that, in circumstances where a configurati
 <a name="idp17438608"></a>
 ## See Also
 
-[msys.audit_series.count](lua.ref.msys.audit_series.count "msys.audit_series.count"), [msys.audit_series.add](lua.ref.msys.audit_series.add.php "msys.audit_series.add"), [msys.audit_series.remove_item](lua.ref.msys.audit_series.remove_item.php "msys.audit_series.remove_item"), [use_ipv6](conf.ref.use_ipv6.php "use_ipv6"), [Section 71.41, “inbound_audit – Inbound traffic analytics”](modules.inbound_audit.php "71.41. inbound_audit – Inbound traffic analytics")
+[msys.audit_series.count](lua.ref.msys.audit_series.count "msys.audit_series.count"), [msys.audit_series.add](lua.ref.msys.audit_series.add "msys.audit_series.add"), [msys.audit_series.remove_item](lua.ref.msys.audit_series.remove_item "msys.audit_series.remove_item"), [use_ipv6](conf.ref.use_ipv6 "use_ipv6"), [Section 71.41, “inbound_audit – Inbound traffic analytics”](modules.inbound_audit "71.41. inbound_audit – Inbound traffic analytics")
+
+| [Prev](lua.ref.msys.audit_series.count)  | [Up](lua.function.details) |  [Next](lua.ref.msys.audit_series.remove_item) |
+| msys.audit_series.count  | [Table of Contents](index) |  msys.audit_series.remove_item |
+

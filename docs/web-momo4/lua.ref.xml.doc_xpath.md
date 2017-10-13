@@ -1,3 +1,6 @@
+| doc:xpath |
+| [Prev](lua.ref.xml.doc_tostring)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.node_addchild) |
+
 <a name="lua.ref.xml.doc_xpath"></a>
 ## Name
 
@@ -34,3 +37,7 @@ end
 ### See Also
 
 [xml.parsexml](lua.ref.xml.parsexml "xml.parsexml")
+
+| [Prev](lua.ref.xml.doc_tostring)  | [Up](lua.function.details) |  [Next](lua.ref.xml.node_addchild) |
+| doc:tostring  | [Table of Contents](index) |  node:addchild |
+

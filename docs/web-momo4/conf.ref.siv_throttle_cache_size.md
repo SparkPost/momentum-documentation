@@ -1,3 +1,6 @@
+| siv_throttle_cache_size |
+| [Prev](conf.ref.signing_stats)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.skip_hosts) |
+
 <a name="conf.ref.siv_throttle_cache_size"></a>
 ## Name
 
@@ -23,3 +26,7 @@ The default value is `1000` (because Adaptive Delivery makes heavy use of thrott
 ## See Also
 
 [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery")
+
+| [Prev](conf.ref.signing_stats)  | [Up](config.options.ref) |  [Next](conf.ref.skip_hosts) |
+| signing_stats  | [Table of Contents](index) |  skip_hosts |
+

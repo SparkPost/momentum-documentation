@@ -1,3 +1,6 @@
+| 15.5. Modules |
+| [Prev](listeners)  | Chapter 15. Configuration Overview |  [Next](conf.ref.ecelerity.conf) |
+
 ## 15.5. Modules
 
 Momentum's module API is at the core of how it is extended. When a module is loaded, it is named based on the *`module_name`* specified in the configuration. Some modules can have multiple instances loaded with different configurations (e.g. to log different sets of information into different log files), while other modules are singletons and can only be loaded once.
@@ -133,4 +136,8 @@ scriptlet "scriptlet" {
 }
 ```
 
-For detailed information about how Lua is implemented in Momentum, see [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet "71.60. scriptlet - Lua Policy Scripts") and [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets").
+For detailed information about how Lua is implemented in Momentum, see [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet "71.60. scriptlet - Lua Policy Scripts") and [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets "62.2. Policy Scriptlets").
+
+| [Prev](listeners)  | [Up](conf.overview) |  [Next](conf.ref.ecelerity.conf) |
+| 15.4. Listeners  | [Table of Contents](index) |  15.6. `ecelerity.conf` File |
+

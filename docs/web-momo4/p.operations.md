@@ -1,3 +1,6 @@
+| Part V. Using the System Console |
+| [Prev](log_formats.connection.stages)  |   |  [Next](conf.starting) |
+
 ## Part V. Using the System Console
 
 **Table of Contents**
@@ -63,3 +66,7 @@
 </dd>
 
 </dl>
+
+| [Prev](log_formats.connection.stages)  |   |  [Next](conf.starting) |
+| 35.11. Connection Stages  | [Table of Contents](index) |  Chapter 36. Starting Momentum (**ecelerity**) |
+

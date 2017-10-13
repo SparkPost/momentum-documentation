@@ -1,3 +1,6 @@
+| node:name |
+| [Prev](lua.ref.xml.node_doc)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.node_tostring) |
+
 <a name="lua.ref.xml.node_name"></a>
 ## Name
 
@@ -43,4 +46,8 @@ If you remove the line, `child:contents("I am a child node.");`, from [Example 
 <a name="idp19474144"></a>
 ### See Also
 
-[xml.parsexml](lua.ref.xml.parsexml "xml.parsexml") and [node:contents](lua.ref.xml.node_contents.php "node:contents")
+[xml.parsexml](lua.ref.xml.parsexml "xml.parsexml") and [node:contents](lua.ref.xml.node_contents "node:contents")
+
+| [Prev](lua.ref.xml.node_doc)  | [Up](lua.function.details) |  [Next](lua.ref.xml.node_tostring) |
+| node:doc  | [Table of Contents](index) |  node:tostring |
+

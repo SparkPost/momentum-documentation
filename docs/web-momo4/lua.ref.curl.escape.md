@@ -1,3 +1,6 @@
+| curl.escape |
+| [Prev](lua.ref.curl.c_setopt)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.curl.new) |
+
 <a name="lua.ref.curl.escape"></a>
 ## Name
 
@@ -27,3 +30,7 @@ URL encode a string; useful when building an URL.
 ### See Also
 
 [curl.unescape](lua.ref.curl.unescape "curl.unescape")
+
+| [Prev](lua.ref.curl.c_setopt)  | [Up](lua.function.details) |  [Next](lua.ref.curl.new) |
+| c:setopt  | [Table of Contents](index) |  curl.new |
+

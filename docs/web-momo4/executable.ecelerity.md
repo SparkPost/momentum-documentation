@@ -1,3 +1,6 @@
+| ecelerity |
+| [Prev](executable.ecconfigd_ctl)  | Chapter 74. Executable Commands Reference |  [Next](executable.jlog_change_endian) |
+
 <a name="executable.ecelerity"></a>
 ## Name
 
@@ -65,4 +68,8 @@ Use an alternate config file.
 <a name="idp13199456"></a>
 ## See Also
 
-[ec_ctl](executable.ec_ctl "ec_ctl"), [Section 15.6, “`ecelerity.conf` File”](conf.ref.ecelerity.conf.php "15.6. ecelerity.conf File"), [Chapter 36, *Starting Momentum (**ecelerity**)*](conf.starting.php "Chapter 36. Starting Momentum (ecelerity)") 
+[ec_ctl](executable.ec_ctl "ec_ctl"), [Section 15.6, “`ecelerity.conf` File”](conf.ref.ecelerity.conf "15.6. ecelerity.conf File"), [Chapter 36, *Starting Momentum (**ecelerity**)*](conf.starting "Chapter 36. Starting Momentum (ecelerity)") 
+
+| [Prev](executable.ecconfigd_ctl)  | [Up](exec.cmds.ref) |  [Next](executable.jlog_change_endian) |
+| ecconfigd_ctl  | [Table of Contents](index) |  jlog_change_endian |
+

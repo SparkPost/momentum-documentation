@@ -1,3 +1,6 @@
+| msg_gen_data_spool |
+| [Prev](hooks)  | Chapter 69. Hook Points and C Functions Reference |  [Next](hooks.config_rsrc_setup) |
+
 <a name="hooks.msg_gen_data_spool"></a>
 ## Name
 
@@ -44,3 +47,7 @@ This hook will be called in any thread.
 ## See Also
 
 [msg_gen Module](modules.msg_gen "71.48. msg_gen – Message Generation")
+
+| [Prev](hooks)  | [Up](hooks) |  [Next](hooks.config_rsrc_setup) |
+| Chapter 69. Hook Points and C Functions Reference  | [Table of Contents](index) |  config_rsrc_setup |
+

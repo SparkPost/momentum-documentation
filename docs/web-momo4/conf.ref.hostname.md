@@ -1,3 +1,6 @@
+| hostname |
+| [Prev](conf.ref.host)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.host_failure_retry) |
+
 <a name="conf.ref.hostname"></a>
 ## Name
 
@@ -16,3 +19,7 @@ This configuration directive is used to override the default hostname as determi
 ## Scope
 
 hostname is valid in the global scope.
+
+| [Prev](conf.ref.host)  | [Up](config.options.ref) |  [Next](conf.ref.host_failure_retry) |
+| host  | [Table of Contents](index) |  host_failure_retry |
+

@@ -1,3 +1,6 @@
+| open_tracking_scheme |
+| [Prev](config.open_tracking_enabled)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.opendkim_sign) |
+
 <a name="config.open_tracking_scheme"></a>
 ## Name
 
@@ -22,3 +25,7 @@ The corresponding context variable is `smtpapi_open_tracking_scheme`. There is n
 ## Scope
 
 `open_tracking_scheme` is valid in the esmtp_listener, listen, pathway, pathway_group, and peer scope.
+
+| [Prev](config.open_tracking_enabled)  | [Up](config.options.ref) |  [Next](conf.ref.opendkim_sign) |
+| open_tracking_enabled  | [Table of Contents](index) |  opendkim_sign |
+

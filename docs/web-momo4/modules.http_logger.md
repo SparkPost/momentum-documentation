@@ -1,3 +1,6 @@
+| 71.37. http_logger – HTTP Requests and Responses |
+| [Prev](modules.host_fingerprint)  | Chapter 71. Modules Reference |  [Next](modules.httpsrv) |
+
 ## 71.37. http_logger – HTTP Requests and Responses
 
 The http_logger module enables logging of HTTP requests and responses made by the [httpsrv Module](https://support.messagesystems.com/docs/web-rest-injector/rest.configuring).
@@ -33,3 +36,7 @@ For details about the format of `httplog.ec`, see [Section 35.5, “`httplog`�
 </dl>
 
 The default log file created by this logger is rotated by the utility script **ec_rotate**. For more information, see [ec_rotate](executable.ec_rotate "ec_rotate").
+
+| [Prev](modules.host_fingerprint)  | [Up](modules) |  [Next](modules.httpsrv) |
+| 71.36. fingerprint – Host Fingerprinting  | [Table of Contents](index) |  71.38. httpsrv – HTTP Server |
+

@@ -1,3 +1,6 @@
+| 71.46. maildir – Maildir Delivery Support |
+| [Prev](modules.mail_loop)  | Chapter 71. Modules Reference |  [Next](modules.msgc) |
+
 ## 71.46. maildir – Maildir Delivery Support
 
 <a class="indexterm" name="idp22141520"></a>
@@ -84,3 +87,7 @@ The file permission mode to use on files created by the module.
 </dd>
 
 </dl>
+
+| [Prev](modules.mail_loop)  | [Up](modules) |  [Next](modules.msgc) |
+| 71.45. mail_loop – Mail Loop Detection  | [Table of Contents](index) |  71.47. msgc – Message Systems Group Communication |
+

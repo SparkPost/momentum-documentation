@@ -1,3 +1,6 @@
+| cache list |
+| [Prev](console_commands.binding_summary)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.cache_stat) |
+
 <a name="console_commands.cache_list"></a>
 ## Name
 
@@ -166,4 +169,8 @@ CAPACITY    ENTRIES     USED    HT/TL   RD/WR CACHE
 <a name="idp7330528"></a>
 ## See Also
 
-[cache stat](console_commands.cache_stat "cache stat"), [cache stats](console_commands.cache_stats.php "cache stats"), [match_cache_life](conf.ref.match_cache_life.php "match_cache_life")
+[cache stat](console_commands.cache_stat "cache stat"), [cache stats](console_commands.cache_stats "cache stats"), [match_cache_life](conf.ref.match_cache_life "match_cache_life")
+
+| [Prev](console_commands.binding_summary)  | [Up](console.cmds.ref) |  [Next](console_commands.cache_stat) |
+| binding summary  | [Table of Contents](index) |  cache stat |
+

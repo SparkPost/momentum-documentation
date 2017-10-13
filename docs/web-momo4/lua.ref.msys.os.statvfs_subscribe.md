@@ -1,3 +1,6 @@
+| msys.os.statvfs_subscribe |
+| [Prev](lua.ref.msys.os.statvfs_read)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.qp.decode) |
+
 <a name="lua.ref.msys.os.statvfs_subscribe"></a>
 ## Name
 
@@ -26,4 +29,8 @@ Enable this function with the statement `require('msys.os');`.
 <a name="idp18334992"></a>
 ## See Also
 
-[msys.os.statvfs_read](lua.ref.msys.os.statvfs_read "msys.os.statvfs_read") and [ec_statvfs](https://support.messagesystems.com/docs/web-c-api/structs.ec_statvfs.php)
+[msys.os.statvfs_read](lua.ref.msys.os.statvfs_read "msys.os.statvfs_read") and [ec_statvfs](https://support.messagesystems.com/docs/web-c-api/structs.ec_statvfs)
+
+| [Prev](lua.ref.msys.os.statvfs_read)  | [Up](lua.function.details) |  [Next](lua.ref.msys.qp.decode) |
+| msys.os.statvfs_read  | [Table of Contents](index) |  msys.qp.decode |
+

@@ -1,3 +1,6 @@
+| summary |
+| [Prev](console_commands.spool_in)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.summary_reset) |
+
 <a name="console_commands.summary"></a>
 ## Name
 
@@ -201,4 +204,8 @@ Use the `with-mobile` option to display the status of SMPP and MM7 message queue
 <a name="idp13483968"></a>
 ## See Also
 
-[binding summary](console_commands.binding_summary "binding summary"), [summary reset](console_commands.summary_reset.php "summary reset")
+[binding summary](console_commands.binding_summary "binding summary"), [summary reset](console_commands.summary_reset "summary reset")
+
+| [Prev](console_commands.spool_in)  | [Up](console.cmds.ref) |  [Next](console_commands.summary_reset) |
+| spool_in  | [Table of Contents](index) |  summary reset |
+

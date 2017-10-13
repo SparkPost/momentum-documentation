@@ -1,3 +1,6 @@
+| msys.unlock |
+| [Prev](lua.ref.msys.type)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.session_request_url_get) |
+
 <a name="lua.ref.msys.unlock"></a>
 ## Name
 
@@ -21,3 +24,7 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 ## See Also
 
 [msys.lock](lua.ref.msys.lock "msys.lock")
+
+| [Prev](lua.ref.msys.type)  | [Up](lua.function.details) |  [Next](lua.ref.session_request_url_get) |
+| msys.type  | [Table of Contents](index) |  session:request_url_get |
+

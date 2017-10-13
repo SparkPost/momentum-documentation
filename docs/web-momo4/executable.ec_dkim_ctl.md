@@ -1,3 +1,6 @@
+| ec_dkim_ctl |
+| [Prev](executable.ec_ctl)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_dump_config) |
+
 <a name="executable.ec_dkim_ctl"></a>
 ## Name
 
@@ -103,4 +106,8 @@ Show version information.
 <a name="idp11521792"></a>
 ## See Also
 
-[Chapter 22, *Using Yahoo! DomainKeys*](using_domainkeys "Chapter 22. Using Yahoo! DomainKeys") , [Chapter 23, *Using DomainKeys Identified Mail (DKIM) Signatures*](using_dkim.php "Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures") 
+[Chapter 22, *Using Yahoo! DomainKeys*](using_domainkeys "Chapter 22. Using Yahoo! DomainKeys") , [Chapter 23, *Using DomainKeys Identified Mail (DKIM) Signatures*](using_dkim "Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures") 
+
+| [Prev](executable.ec_ctl)  | [Up](exec.cmds.ref) |  [Next](executable.ec_dump_config) |
+| ec_ctl  | [Table of Contents](index) |  ec_dump_config |
+

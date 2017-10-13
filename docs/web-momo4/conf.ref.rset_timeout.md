@@ -1,3 +1,6 @@
+| rset_timeout |
+| [Prev](conf.ref.routes)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.scope_max_outbound_connections) |
+
 <a name="conf.ref.rset_timeout"></a>
 ## Name
 
@@ -16,3 +19,7 @@ The amount of time in seconds to wait for a response to a `RSET` command. `RSET`
 ## Scope
 
 rset_timeout is valid in the binding, binding_group, domain, and global scopes.
+
+| [Prev](conf.ref.routes)  | [Up](config.options.ref) |  [Next](conf.ref.scope_max_outbound_connections) |
+| routes  | [Table of Contents](index) |  scope_max_outbound_connections |
+

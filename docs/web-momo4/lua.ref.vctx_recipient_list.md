@@ -1,3 +1,6 @@
+| vctx:recipient_list |
+| [Prev](lua.ref.vctx_get)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.vctx_remove_recipient) |
+
 <a name="lua.ref.vctx_recipient_list"></a>
 ## Name
 
@@ -23,3 +26,7 @@ Enable this function with the statement `require('msys.extended.vctx');`.
 ## See Also
 
 [Example 70.69, “vctx_add_recipient example”](lua.ref.vctx_add_recipient#lua.ref.vctx_add_recipient.example "Example 70.69. vctx_add_recipient example")
+
+| [Prev](lua.ref.vctx_get)  | [Up](lua.function.details) |  [Next](lua.ref.vctx_remove_recipient) |
+| vctx:get  | [Table of Contents](index) |  vctx:remove_recipient |
+

@@ -1,3 +1,6 @@
+| Chapter 43. Creating an API Key |
+| [Prev](p.http_rest)  | Part VII. Message Generation (HTTP) |  [Next](web-ui.apikeys) |
+
 ## Chapter 43. Creating an API Key
 
 **Configuration Change. ** As of version 4.1, API authentication is enabled by default. For instructions to disable it, see [Chapter 21, *Enforcing REST API/UI User Authentication*](auth "Chapter 21. Enforcing REST API/UI User Authentication") . When disabled, an apikey and `Authorization` header is no longer required.
@@ -57,3 +60,7 @@ Follow these steps to create an API key:
     Be sure to copy and paste the API key when it is displayed. Following the creation of an API key, you can modify its grants and associated label, but the UI will no longer expose the original value. Please take care to record and safeguard your API keys at all times.
 
 Congratulations! You have successfully created an API key using Momentum's UI. In addition to the creating an API key, you can manage your existing API keys using the UI. For more information, see [Chapter 44, *Managing Your API Keys*](web-ui.apikeys "Chapter 44. Managing Your API Keys") .
+
+| [Prev](p.http_rest)  | [Up](p.http_rest) |  [Next](web-ui.apikeys) |
+| Part VII. Message Generation (HTTP)  | [Table of Contents](index) |  Chapter 44. Managing Your API Keys |
+

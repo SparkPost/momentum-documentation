@@ -1,3 +1,6 @@
+| vctx:set |
+| [Prev](lua.ref.vctx_remove_recipient)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.vctx_set_code) |
+
 <a name="lua.ref.vctx_set"></a>
 ## Name
 
@@ -42,3 +45,7 @@ Because this function is in the `msys.core` namespace, an explicit `require('msy
 ## See Also
 
 [vctx:get](lua.ref.vctx_get "vctx:get")
+
+| [Prev](lua.ref.vctx_remove_recipient)  | [Up](lua.function.details) |  [Next](lua.ref.vctx_set_code) |
+| vctx:remove_recipient  | [Table of Contents](index) |  vctx:set_code |
+

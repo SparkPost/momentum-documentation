@@ -1,3 +1,6 @@
+| json.strerror |
+| [Prev](lua.ref.json.new)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg.batch_id) |
+
 <a name="lua.ref.json.strerror"></a>
 ## Name
 
@@ -51,3 +54,7 @@ The follow constants are defined and can be used to determine the cause of failu
 ## See Also
 
 [json.new](lua.ref.json.new "json.new")
+
+| [Prev](lua.ref.json.new)  | [Up](lua.function.details) |  [Next](lua.ref.msg.batch_id) |
+| json.new  | [Table of Contents](index) |  msg.batch_id |
+

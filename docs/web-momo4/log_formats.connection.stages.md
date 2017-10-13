@@ -1,3 +1,6 @@
+| 35.11. Connection Stages |
+| [Prev](bounce_logger.classification.codes)  | Chapter 35. Log Formats |  [Next](p.operations) |
+
 ## 35.11. Connection Stages
 
 The following is a list of the codes for the stages and their meanings.
@@ -33,3 +36,7 @@ The following is a list of the codes for the stages and their meanings.
 | 22 | in unknown state |
 
 Code `21` is the only message disposition notification (MDN). With the exception of `22`, which is unknown, all other stages occur during the SMTP transaction. In other words, they are in-band bounces.
+
+| [Prev](bounce_logger.classification.codes)  | [Up](log_formats) |  [Next](p.operations) |
+| 35.10. Bounce Classification Codes  | [Table of Contents](index) |  Part V. Using the System Console |
+

@@ -1,3 +1,6 @@
+| Chapter 67. Console Commands Summary |
+| [Prev](config.options.summary)  | Part X. Reference |  [Next](exe) |
+
 ## Chapter 67. Console Commands Summary
 
 This table lists all console commands alphabetically giving a brief description. Click the command name to see detailed information. A module name appears in the `Module` column for commands that are module-specific. For module-specific commands to work, you must have the module loaded.
@@ -158,3 +161,7 @@ This table lists all console commands alphabetically giving a brief description.
 | [unlink stats](console_commands.unlink_stats "unlink stats") – Show statistics of removing messages from the disk | 4.0 |   | stats |
 | [version](console_commands.version "version") – Show version information of Momentum | 4.0 |   | misc |
 | [write config](console_commands.write_config "write config") – Display current running configuration | 4.0 |   | config |
+
+| [Prev](config.options.summary)  | [Up](p.reference) |  [Next](exe) |
+| Chapter 66. Configuration Options Summary  | [Table of Contents](index) |  Chapter 68. Executable Command Summary |
+

@@ -1,3 +1,6 @@
+| delivery_pool |
+| [Prev](conf.ref.delivery_method)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.delivery_response_timeout) |
+
 <a name="config.ref.delivery_pool"></a>
 ## Name
 
@@ -33,3 +36,7 @@ There is no default value for this option.
 ## See Also
 
 [eventloop](config.ref.eventloop "eventloop")
+
+| [Prev](conf.ref.delivery_method)  | [Up](config.options.ref) |  [Next](conf.ref.delivery_response_timeout) |
+| delivery_method  | [Table of Contents](index) |  delivery_response_timeout |
+

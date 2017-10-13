@@ -1,3 +1,6 @@
+| 35.3. `bouncelog` |
+| [Prev](adaptive.log.format)  | Chapter 35. Log Formats |  [Next](log_formats.fbllog) |
+
 ## 35.3. `bouncelog`
 
 The `bouncelog` records both in-band and out-of-band bounces. It is configured in the [bounce_logger](modules.bounce_logger "71.13. bounce_logger – Momentum-Style Bounce Logging") module.
@@ -61,3 +64,4 @@ Having three unused fields ensures that, like other logs, the fifth field is the
 
 | [Prev](adaptive.log.format)  | [Up](log_formats) |  [Next](log_formats.fbllog) |
 | 35.2. `adaptive` Log  | [Table of Contents](index) |  35.4. `fbllog` |
+

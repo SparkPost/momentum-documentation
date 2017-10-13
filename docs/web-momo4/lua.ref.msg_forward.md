@@ -1,3 +1,6 @@
+| msg:forward |
+| [Prev](lua.ref.msg_discard)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_get_delivery_method) |
+
 <a name="lua.ref.msg_forward"></a>
 ## Name
 
@@ -31,3 +34,7 @@ Forward the current message to recipients other than the original recipients. A 
 *   `charset` the character encoding of text. It need not be specified if text contains only ASCII.
 
 Enable this function with the statement `require('msys.extended.message');`.
+
+| [Prev](lua.ref.msg_discard)  | [Up](lua.function.details) |  [Next](lua.ref.msg_get_delivery_method) |
+| msg:discard  | [Table of Contents](index) |  msg:get_delivery_method |
+

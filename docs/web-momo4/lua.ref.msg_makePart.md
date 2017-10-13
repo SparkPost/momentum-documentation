@@ -1,3 +1,6 @@
+| msg:makePart |
+| [Prev](lua.ref.msg_makeContainer)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_mime) |
+
 <a name="lua.ref.msg_makePart"></a>
 ## Name
 
@@ -27,3 +30,7 @@ Creates a new, unlinked, singleton (or leaf) message part. `mimetype` specifies 
 *   `msys.core.EC_MIME_TE_QUOTED_PRINTABLE`
 
 Enable this function with the statement `require('msys.extended.message');`.
+
+| [Prev](lua.ref.msg_makeContainer)  | [Up](lua.function.details) |  [Next](lua.ref.msg_mime) |
+| msg:makeContainer  | [Table of Contents](index) |  msg:mime |
+

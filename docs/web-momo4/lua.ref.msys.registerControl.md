@@ -1,3 +1,6 @@
+| msys.registerControl |
+| [Prev](lua.ref.msys.registerAuth)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.registerModule) |
+
 <a name="lua.ref.msys.registerControl"></a>
 ## Name
 
@@ -62,4 +65,8 @@ The function that performs the registered action, in [Example 70.33, “registe
 <a name="idp16291632"></a>
 ## See Also
 
-[msys.core.dns_get_domain](lua.ref.msys.core.dns_get_domain "msys.core.dns_get_domain") and [command_construct](https://support.messagesystems.com/docs/web-c-api/structs.command_construct.php)
+[msys.core.dns_get_domain](lua.ref.msys.core.dns_get_domain "msys.core.dns_get_domain") and [command_construct](https://support.messagesystems.com/docs/web-c-api/structs.command_construct)
+
+| [Prev](lua.ref.msys.registerAuth)  | [Up](lua.function.details) |  [Next](lua.ref.msys.registerModule) |
+| msys.registerAuth  | [Table of Contents](index) |  msys.registerModule |
+

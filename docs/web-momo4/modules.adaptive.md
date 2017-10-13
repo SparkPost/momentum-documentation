@@ -1,3 +1,6 @@
+| 71.3. adaptive – Adaptive Delivery |
+| [Prev](modules.ac_auth)  | Chapter 71. Modules Reference |  [Next](modules.alerting) |
+
 ## 71.3. adaptive – Adaptive Delivery
 
 <a class="indexterm" name="idp13975168"></a>
@@ -668,7 +671,7 @@ The configuration options valid in the `adaptive_sweep_rule` scope are defined i
 
 Specify a list of bounce codes or FBL categories. The summation of their rates is used to evaluate the rule. Although the syntax does not prevent using both bounce codes and FBL categories within a rule, it is bad practice to mix them since they occur in very different time scales.
 
-Valid values for bounce codes start with the prefix `bc:` followed by a legitimate bounce code number. For a list of valid bounce codes, see [Section 35.10, “Bounce Classification Codes”](bounce_logger.classification.codes "35.10. Bounce Classification Codes"). You can also use custom bounce codes defined by the [Section 71.12, “bounce_classifier_override – Override/Augment Bounce Classifications”](modules.bounce_classifier_override.php "71.12. bounce_classifier_override – Override/Augment Bounce Classifications").
+Valid values for bounce codes start with the prefix `bc:` followed by a legitimate bounce code number. For a list of valid bounce codes, see [Section 35.10, “Bounce Classification Codes”](bounce_logger.classification.codes "35.10. Bounce Classification Codes"). You can also use custom bounce codes defined by the [Section 71.12, “bounce_classifier_override – Override/Augment Bounce Classifications”](modules.bounce_classifier_override "71.12. bounce_classifier_override – Override/Augment Bounce Classifications").
 
 Valid values for fbl codes start with the prefix `fbl:` followed by a legitimate fbl category such as `abuse` or `unsubscribe`. Legitimate categories are determined by the requirements of the specific ISP.
 
@@ -934,7 +937,7 @@ default                          test.messagesystems.com     14138       1
 
 ### 71.3.7. Summary Email
 
-A summary of actions taken by the adaptive module is created at `/var/log/ecelerity/adaptive.summary` and sent via email to the recipient defined by the option `adaptive_alert_email_destination`. The `/opt/msys/ecelerity/bin/ad_summary` script creates this summary and is added to `/etc/cron.d/msys-ecelerity` when the adaptive module is installed. It is run nightly as a cron job. This summary is created whether alerts have been generated or not. The default sender is `ecuser@localhost`. The log file,`/var/log/ecelerity/adaptive.summary`, should be added to `ec_rotate.conf`. For instructions on doing this, see [ec_rotate](executable.ec_rotate "ec_rotate"). For more information about the `/opt/msys/ecelerity/bin/ad_summary` script, see [ad_summary](executable.ad_summary.php "ad_summary").
+A summary of actions taken by the adaptive module is created at `/var/log/ecelerity/adaptive.summary` and sent via email to the recipient defined by the option `adaptive_alert_email_destination`. The `/opt/msys/ecelerity/bin/ad_summary` script creates this summary and is added to `/etc/cron.d/msys-ecelerity` when the adaptive module is installed. It is run nightly as a cron job. This summary is created whether alerts have been generated or not. The default sender is `ecuser@localhost`. The log file,`/var/log/ecelerity/adaptive.summary`, should be added to `ec_rotate.conf`. For instructions on doing this, see [ec_rotate](executable.ec_rotate "ec_rotate"). For more information about the `/opt/msys/ecelerity/bin/ad_summary` script, see [ad_summary](executable.ad_summary "ad_summary").
 
 The following is the layout of a sample summary email sent by the adaptive module:
 
@@ -1022,3 +1025,7 @@ Adjusting the format of this report by changing the parameters passed to the ad_
 Log retention is enabled by default and uses the existing ec_rotate log rotation process. ec_rotate consults `ec_rotate.conf` to determine what and where to look for logs to rotate. For more information, see [Section 34.1, “`ec_rotate.conf` File”](log_rotating#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File").
 
 For the format of the adaptive log, see [Section 35.2, “`adaptive` Log”](adaptive.log.format "35.2. adaptive Log").
+
+| [Prev](modules.ac_auth)  | [Up](modules) |  [Next](modules.alerting) |
+| 71.2. ac_auth – Authentication Handler  | [Table of Contents](index) |  71.4. alerting – Send Alerting Emails |
+

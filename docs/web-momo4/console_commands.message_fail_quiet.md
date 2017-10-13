@@ -1,3 +1,6 @@
+| message fail quiet |
+| [Prev](console_commands.message_fail)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.message_retry) |
+
 <a name="console_commands.message_fail_quiet"></a>
 ## Name
 
@@ -16,3 +19,7 @@ This command takes a single argument in the form of a message id and will immedi
 ## See Also
 
 [message fail](console_commands.message_fail "message fail")
+
+| [Prev](console_commands.message_fail)  | [Up](console.cmds.ref) |  [Next](console_commands.message_retry) |
+| message fail  | [Table of Contents](index) |  message retry |
+

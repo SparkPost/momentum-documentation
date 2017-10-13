@@ -1,3 +1,6 @@
+| Chapter 35. Log Formats |
+| [Prev](log_rotating)  | Part IV. Logging |  [Next](adaptive.log.format) |
+
 ## Chapter 35. Log Formats
 
 **Table of Contents**
@@ -92,3 +95,7 @@ The following is a description of the fields:
 ### Note
 
 The `?` type indicator denotes an unknown `acctlog` type.
+
+| [Prev](log_rotating)  | [Up](p.logs) |  [Next](adaptive.log.format) |
+| Chapter 34. Rotating Logs **ec_rotate**  | [Table of Contents](index) |  35.2. `adaptive` Log |
+

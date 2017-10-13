@@ -1,3 +1,6 @@
+| 71.43. jlog – jlog-Formatted Logging |
+| [Prev](modules.ipv6_lookup)  | Chapter 71. Modules Reference |  [Next](modules.live.bounce.updates) |
+
 ## 71.43. jlog – jlog-Formatted Logging
 
 <a class="indexterm" name="idp22053952"></a>
@@ -80,3 +83,7 @@ $reader->close();
 This code opens a jlog and reads each line in that jlog. The `$path` and `$subscriber` variables should match those configured in the custom_logger module. The `checkpoint` method indicates that records have been read successfully to this point. Records are removed after they have been read by all registered subscribers.
 
 For more information about JLog::Reader, issue the command **`/opt/msys/3rdParty/bin/perldoc JLog::Reader`**              .
+
+| [Prev](modules.ipv6_lookup)  | [Up](modules) |  [Next](modules.live.bounce.updates) |
+| 71.42. ipv6_lookup – Multi-address-family MX Records  | [Table of Contents](index) |  71.44. Live Bounce Updates – Live Bounce Updates Service |
+

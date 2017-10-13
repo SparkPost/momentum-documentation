@@ -1,3 +1,6 @@
+| domain_for_unqualified_sender_address |
+| [Prev](conf.ref.domain_for_unqualified_recipient_addresses)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.domain) |
+
 <a name="conf.ref.domain_for_unqualified_sender_address"></a>
 ## Name
 
@@ -18,3 +21,7 @@ When set, `domain_for_unqualified_sender_address` will rewrite the envelope addr
 ## Scope
 
 domain_for_unqualified_sender_address is valid in a pathway, pathway_group, listener, and global scopes.
+
+| [Prev](conf.ref.domain_for_unqualified_recipient_addresses)  | [Up](config.options.ref) |  [Next](conf.ref.domain) |
+| domain_for_unqualified_recipient_addresses  | [Table of Contents](index) |  domain |
+

@@ -1,3 +1,6 @@
+| adaptive_scope |
+| [Prev](conf.ref.adaptive_enabled)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.address_metrics_cleanse_interval) |
+
 <a name="conf.ref.adaptive_scope"></a>
 ## Name
 
@@ -48,4 +51,8 @@ adaptive_scope is valid in the binding, binding_group, domain, and global scopes
 <a name="idp23419600"></a>
 ## See Also
 
-[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery"), [adaptive_enabled](conf.ref.adaptive_enabled.php "adaptive_enabled")
+[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery"), [adaptive_enabled](conf.ref.adaptive_enabled "adaptive_enabled")
+
+| [Prev](conf.ref.adaptive_enabled)  | [Up](config.options.ref) |  [Next](conf.ref.address_metrics_cleanse_interval) |
+| adaptive_enabled  | [Table of Contents](index) |  address_metrics_cleanse_interval |
+

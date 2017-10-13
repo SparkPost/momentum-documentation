@@ -1,3 +1,6 @@
+| max_resident_transfails |
+| [Prev](conf.ref.max_resident_messages)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_retries) |
+
 <a name="conf.ref.max_resident_transfails"></a>
 ## Name
 
@@ -22,4 +25,8 @@ max_resident_transfails is valid in the global scope.
 <a name="idp25418112"></a>
 ## See Also
 
-[inline_transfail_processing](conf.ref.inline_transfail_processing "inline_transfail_processing") and [reserve_maintenance_interval](conf.ref.reserve_maintenance_interval.php "reserve_maintenance_interval")
+[inline_transfail_processing](conf.ref.inline_transfail_processing "inline_transfail_processing") and [reserve_maintenance_interval](conf.ref.reserve_maintenance_interval "reserve_maintenance_interval")
+
+| [Prev](conf.ref.max_resident_messages)  | [Up](config.options.ref) |  [Next](conf.ref.max_retries) |
+| max_resident_messages  | [Table of Contents](index) |  max_retries |
+

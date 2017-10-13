@@ -1,3 +1,6 @@
+| jlog_change_endian |
+| [Prev](executable.ecelerity)  | Chapter 74. Executable Commands Reference |  [Next](executable.jlog_sanity_check) |
+
 <a name="executable.jlog_change_endian"></a>
 ## Name
 
@@ -17,3 +20,7 @@ The first argument is the path to the jlog you want to convert.
 The second argument indicates the endianness of the destination jlog (and implicitly of the source jlog). `tole` will convert a big-endian jlog to little-endian (e.g. sparc to i386), while `tobe` will convert a little-endian jlog to big-endian (e.g. i386 to sparc).
 
 The third argument is the path where you want the converted jlog to be written; it must not exist, but its parent directory must exist before you run `jlog_change_endian.pl`.
+
+| [Prev](executable.ecelerity)  | [Up](exec.cmds.ref) |  [Next](executable.jlog_sanity_check) |
+| ecelerity  | [Table of Contents](index) |  jlog_sanity_check |
+

@@ -1,3 +1,6 @@
+| msys.counter.open |
+| [Prev](lua.ref.msys.counter.inc)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.counter.read) |
+
 <a name="lua.ref.msys.counter.open"></a>
 ## Name
 
@@ -44,4 +47,8 @@ Enable this function with the statement `require('msys.counter');`.
 <a name="idp17840368"></a>
 ## See Also
 
-[msys.counter.reset](lua.ref.msys.counter.reset "msys.counter.reset"), [msys.counter.add](lua.ref.msys.counter.add.php "msys.counter.add"), [msys.counter.inc](lua.ref.msys.counter.inc.php "msys.counter.inc"), [msys.counter.unlink](lua.ref.msys.counter.unlink.php "msys.counter.unlink")
+[msys.counter.reset](lua.ref.msys.counter.reset "msys.counter.reset"), [msys.counter.add](lua.ref.msys.counter.add "msys.counter.add"), [msys.counter.inc](lua.ref.msys.counter.inc "msys.counter.inc"), [msys.counter.unlink](lua.ref.msys.counter.unlink "msys.counter.unlink")
+
+| [Prev](lua.ref.msys.counter.inc)  | [Up](lua.function.details) |  [Next](lua.ref.msys.counter.read) |
+| msys.counter.inc  | [Table of Contents](index) |  msys.counter.read |
+

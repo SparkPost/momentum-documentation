@@ -1,3 +1,6 @@
+| binding delayed |
+| [Prev](console_commands.binding_active)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.binding_fail_domain) |
+
 <a name="console_commands.binding_delayed"></a>
 ## Name
 
@@ -62,3 +65,7 @@ The row detailing the totals represents the totals across *all* domains on the g
 ## See Also
 
 [binding active](console_commands.binding_active "binding active")
+
+| [Prev](console_commands.binding_active)  | [Up](console.cmds.ref) |  [Next](console_commands.binding_fail_domain) |
+| binding active  | [Table of Contents](index) |  binding fail domain |
+

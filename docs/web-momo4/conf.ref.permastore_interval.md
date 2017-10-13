@@ -1,3 +1,6 @@
+| permastore_interval |
+| [Prev](conf.ref.pcre_cache_ttl)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pidfile) |
+
 <a name="conf.ref.permastore_interval"></a>
 ## Name
 
@@ -20,3 +23,7 @@ The default value is `300`.
 ## Scope
 
 permastore_interval is valid in the global scope.
+
+| [Prev](conf.ref.pcre_cache_ttl)  | [Up](config.options.ref) |  [Next](conf.ref.pidfile) |
+| pcre_cache_ttl  | [Table of Contents](index) |  pidfile |
+

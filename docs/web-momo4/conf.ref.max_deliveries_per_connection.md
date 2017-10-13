@@ -1,3 +1,6 @@
+| max_deliveries_per_connection |
+| [Prev](conf.ref.match_cache_size)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_dns_ttl) |
+
 <a name="conf.ref.max_deliveries_per_connection"></a>
 ## Name
 
@@ -16,3 +19,7 @@ The maximum number of messages that will be sent over a single SMTP connection. 
 ## Scope
 
 max_deliveries_per_connection is valid in the binding, binding_group, domain and global scopes.
+
+| [Prev](conf.ref.match_cache_size)  | [Up](config.options.ref) |  [Next](conf.ref.max_dns_ttl) |
+| match_cache_size  | [Table of Contents](index) |  max_dns_ttl |
+

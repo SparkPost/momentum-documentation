@@ -1,3 +1,6 @@
+| Part I. Introduction to Momentum |
+| [Prev](preface)  |   |  [Next](components) |
+
 ## Part I. Introduction to Momentum
 
 **Table of Contents**
@@ -27,3 +30,7 @@
 </dd>
 
 </dl>
+
+| [Prev](preface)  |   |  [Next](components) |
+| Preface  | [Table of Contents](index) |  Chapter 1. Components |
+

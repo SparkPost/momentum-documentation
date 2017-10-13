@@ -1,3 +1,6 @@
+| opendkim_sign |
+| [Prev](config.open_tracking_scheme)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.outbound_throttle_connections) |
+
 <a name="conf.ref.opendkim_sign"></a>
 ## Name
 
@@ -23,3 +26,7 @@ Default value is `true`.
 ## See Also
 
 [`opendkim`](modules.opendkim "71.50. opendkim – Open Source DKIM")
+
+| [Prev](config.open_tracking_scheme)  | [Up](config.options.ref) |  [Next](conf.ref.outbound_throttle_connections) |
+| open_tracking_scheme  | [Table of Contents](index) |  outbound_throttle_connections |
+

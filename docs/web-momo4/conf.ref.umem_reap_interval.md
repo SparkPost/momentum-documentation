@@ -1,3 +1,6 @@
+| umem_reap_interval |
+| [Prev](conf.ref.transform_8bitmime_content)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.unlink_on_spool_in_failure) |
+
 <a name="conf.ref.umem_reap_interval"></a>
 ## Name
 
@@ -18,3 +21,7 @@ The default value is `1800`.
 ## Scope
 
 umem_reap_interval is valid in the global scope.
+
+| [Prev](conf.ref.transform_8bitmime_content)  | [Up](config.options.ref) |  [Next](conf.ref.unlink_on_spool_in_failure) |
+| transform_8bitmime_content  | [Table of Contents](index) |  unlink_on_spool_in_failure |
+

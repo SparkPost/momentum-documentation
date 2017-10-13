@@ -1,3 +1,6 @@
+| disk_queue_drain_rate |
+| [Prev](conf.ref.disable_nagle_algorithm)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.dns_cache_purge_interval) |
+
 <a name="conf.ref.disk_queue_drain_rate"></a>
 ## Name
 
@@ -20,3 +23,7 @@ This is an advanced option. Setting this value too high could saturate a server'
 ## Scope
 
 disk_queue_drain_rate is valid in the global scope.
+
+| [Prev](conf.ref.disable_nagle_algorithm)  | [Up](config.options.ref) |  [Next](conf.ref.dns_cache_purge_interval) |
+| disable_nagle_algorithm  | [Table of Contents](index) |  dns_cache_purge_interval |
+

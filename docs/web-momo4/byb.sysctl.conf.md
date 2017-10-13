@@ -1,3 +1,6 @@
+| 6.7. Adjusting `/etc/sysctl.conf` |
+| [Prev](byb.ntp)  | Chapter 6. Before You Begin |  [Next](byb.set_hostnames) |
+
 ## 6.7. Adjusting `/etc/sysctl.conf`
 
 Momentum 4 uses a large number of connections and is able to establish them quickly. This can overwhelm the operating system if special parameters are not used. These issues can be addressed by configuring the following lines in `/etc/sysctl.conf`:
@@ -24,3 +27,7 @@ These options are described below:
 *   `vm.max_map_count` – This kernel parameter controls mapped areas and needs to be increased.
 
 *   `net.core.wmem_max` – This kernel parameter raises the maximum operating system send buffer size for all types of connections.
+
+| [Prev](byb.ntp)  | [Up](before_you_begin) |  [Next](byb.set_hostnames) |
+| 6.6. Enable Network Time Protocol (NTP)  | [Table of Contents](index) |  6.8. Setting Hostnames |
+

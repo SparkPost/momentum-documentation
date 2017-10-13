@@ -1,3 +1,6 @@
+| msys.delivery.ob_get_current_message |
+| [Prev](lua.ref.msys.db.query)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.dumper.Dumper) |
+
 <a name="lua.ref.msys.delivery.ob_get_current_message"></a>
 ## Name
 
@@ -43,3 +46,7 @@ msys.registerModule("http_delivery", mod);
 ## See Also
 
 [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/)
+
+| [Prev](lua.ref.msys.db.query)  | [Up](lua.function.details) |  [Next](lua.ref.msys.dumper.Dumper) |
+| msys.db.query  | [Table of Contents](index) |  msys.dumper.Dumper |
+

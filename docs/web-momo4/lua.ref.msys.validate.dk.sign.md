@@ -1,3 +1,6 @@
+| msys.validate.dk.sign |
+| [Prev](lua.ref.msys.validate.dk.get_responsible_domain)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.validate.opendkim.get_num_sigs) |
+
 <a name="lua.ref.msys.validate.dk.sign"></a>
 ## Name
 
@@ -46,3 +49,7 @@ This function should only be invoked from the core_final_validation hook.
 ## See Also
 
 [msys.validate.dk.get_responsible_domain](lua.ref.msys.validate.dk.get_responsible_domain "msys.validate.dk.get_responsible_domain")
+
+| [Prev](lua.ref.msys.validate.dk.get_responsible_domain)  | [Up](lua.function.details) |  [Next](lua.ref.msys.validate.opendkim.get_num_sigs) |
+| msys.validate.dk.get_responsible_domain  | [Table of Contents](index) |  msys.validate.opendkim.get_num_sigs |
+

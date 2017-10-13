@@ -1,3 +1,6 @@
+| exclude_vctx_mess |
+| [Prev](conf.ref.exclude_vctx_conn)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.expensive_batch_assessment) |
+
 <a name="conf.ref.exclude_vctx_mess"></a>
 ## Name
 
@@ -28,4 +31,8 @@ Exclude_VCTX_Mess is valid in the global, binding, binding_group, and domain sco
 <a name="idp24671440"></a>
 ## See Also
 
-[exclude_vctx_mess](conf.ref.exclude_vctx_mess "exclude_vctx_mess"), [keep_message_dicts_in_memory](conf.ref.keep_message_dicts_in_memory.php "keep_message_dicts_in_memory")
+[exclude_vctx_mess](conf.ref.exclude_vctx_mess "exclude_vctx_mess"), [keep_message_dicts_in_memory](conf.ref.keep_message_dicts_in_memory "keep_message_dicts_in_memory")
+
+| [Prev](conf.ref.exclude_vctx_conn)  | [Up](config.options.ref) |  [Next](conf.ref.expensive_batch_assessment) |
+| exclude_vctx_conn  | [Table of Contents](index) |  expensive_batch_assessment |
+

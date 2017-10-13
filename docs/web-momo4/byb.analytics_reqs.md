@@ -1,3 +1,6 @@
+| 6.18. Verifying Analytics Node Requirements |
+| [Prev](byb.disable_postfix)  | Chapter 6. Before You Begin |  [Next](download_bundle) |
+
 ## 6.18. Verifying Analytics Node Requirements
 
 Analytics nodes have very specific requirements for the HP Vertica Analytic Database. Ensure that the node is suitable for Vertica prior to installation.
@@ -39,3 +42,7 @@ When `FAIL` is returned, check the referenced URL for a detailed description of 
 *   See [Transparent Hugepages](https://my.vertica.com/docs/7.0.x/HTML/index.htm#cshid=S0310)
 
 *   See [The NTP Server](https://my.vertica.com/docs/7.0.x/HTML/index.htm#cshid=S0030) and [Section 6.6, “Enable Network Time Protocol (NTP)”](byb.ntp "6.6. Enable Network Time Protocol (NTP)")
+
+| [Prev](byb.disable_postfix)  | [Up](before_you_begin) |  [Next](download_bundle) |
+| 6.17. Disable Postfix and QPIDD  | [Table of Contents](index) |  Chapter 7. Download the Software Bundle and Prepare |
+

@@ -1,3 +1,6 @@
+| msys.qp.encode |
+| [Prev](lua.ref.msys.qp.decode)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.rfc3464.compute_delivery_status) |
+
 <a name="lua.ref.msys.qp.encode"></a>
 ## Name
 
@@ -24,3 +27,7 @@ Enable this function with the statement `require('msys.qp');`.
 ## See Also
 
 [msys.qp.decode](lua.ref.msys.qp.decode "msys.qp.decode")
+
+| [Prev](lua.ref.msys.qp.decode)  | [Up](lua.function.details) |  [Next](lua.ref.msys.rfc3464.compute_delivery_status) |
+| msys.qp.decode  | [Table of Contents](index) |  msys.rfc3464.compute_delivery_status |
+

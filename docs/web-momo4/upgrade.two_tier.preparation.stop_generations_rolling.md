@@ -1,3 +1,6 @@
+| 11.5. Stop Transmissions to the First Platform Node |
+| [Prev](upgrade.two_tier.preparation.upgrade_cassandra_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.ecelerity_rolling) |
+
 ## 11.5. Stop Transmissions to the First Platform Node
 
 Be sure that the first Platform node will no longer have transmission requests routed to it.
@@ -39,3 +42,7 @@ Be sure that the first Platform node will no longer have transmission requests r
     16:26:06 /tmp/2025> msg_gen joblist                                                                                          
     Ok
     ```
+
+| [Prev](upgrade.two_tier.preparation.upgrade_cassandra_rolling)  | [Up](upgrade.two_tier_configuration_rolling) |  [Next](upgrade.two_tier.preparation.ecelerity_rolling) |
+| 11.4. Upgrade Cassandra on the Platform Nodes  | [Table of Contents](index) |  11.6. Upgrade Ecelerity and the Cassandra Schema on the First Platform Node |
+

@@ -1,3 +1,6 @@
+| 16.4. `msgc_server.conf` File |
+| [Prev](conf.ref.ecelerity_cluster.conf)  | Chapter 16. Cluster-specific Configuration |  [Next](cluster.listeners) |
+
 ## 16.4. `msgc_server.conf` File
 
 The `msgc_server.conf` file contains the configuration relevant to the cluster messaging bus. This file is referenced from the `eccluster.conf` file on the cluster manager and from the `ecelerity-cluster.conf` file on nodes. It MUST live in the global portion of the repository, as it must be the same for all nodes in the cluster.
@@ -41,3 +44,7 @@ The msgcserver_listener mediates between msgc_servers and between msgc_servers a
 </dd>
 
 </dl>
+
+| [Prev](conf.ref.ecelerity_cluster.conf)  | [Up](cluster) |  [Next](cluster.listeners) |
+| 16.3. `ecelerity-cluster.conf` File  | [Table of Contents](index) |  16.5. Cluster-specific Listeners |
+

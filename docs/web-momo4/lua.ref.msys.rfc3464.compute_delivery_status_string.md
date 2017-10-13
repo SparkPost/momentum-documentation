@@ -1,3 +1,6 @@
+| msys.rfc3464.compute_delivery_status_string |
+| [Prev](lua.ref.msys.rfc3464.compute_delivery_status)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.rfc3464.create_mdn) |
+
 <a name="lua.ref.msys.rfc3464.compute_delivery_status_string"></a>
 ## Name
 
@@ -19,3 +22,7 @@ Enable this function with the statement `require('msys.rfc3464');`.
 ## See Also
 
 [msys.rfc3464.compute_delivery_status](lua.ref.msys.rfc3464.compute_delivery_status "msys.rfc3464.compute_delivery_status")
+
+| [Prev](lua.ref.msys.rfc3464.compute_delivery_status)  | [Up](lua.function.details) |  [Next](lua.ref.msys.rfc3464.create_mdn) |
+| msys.rfc3464.compute_delivery_status  | [Table of Contents](index) |  msys.rfc3464.create_mdn |
+

@@ -1,3 +1,6 @@
+| curl.unescape |
+| [Prev](lua.ref.curl.new)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.core.dns_get_domain) |
+
 <a name="lua.ref.curl.unescape"></a>
 ## Name
 
@@ -27,3 +30,7 @@ This function unescapes URL encoding in strings and is suitable for use when dec
 ### See Also
 
 [curl.escape](lua.ref.curl.escape "curl.escape")
+
+| [Prev](lua.ref.curl.new)  | [Up](lua.function.details) |  [Next](lua.ref.msys.core.dns_get_domain) |
+| curl.new  | [Table of Contents](index) |  msys.core.dns_get_domain |
+

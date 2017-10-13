@@ -1,3 +1,6 @@
+| exclude_vctx_conn |
+| [Prev](conf.ref.events_per_iter)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.exclude_vctx_mess) |
+
 <a name="conf.ref.exclude_vctx_conn"></a>
 ## Name
 
@@ -24,4 +27,8 @@ Exclude_VCTX_Conn is valid in the global, binding, binding_group, and domain sco
 <a name="idp24653056"></a>
 ## See Also
 
-[exclude_vctx_mess](conf.ref.exclude_vctx_mess "exclude_vctx_mess"), [keep_message_dicts_in_memory](conf.ref.keep_message_dicts_in_memory.php "keep_message_dicts_in_memory")
+[exclude_vctx_mess](conf.ref.exclude_vctx_mess "exclude_vctx_mess"), [keep_message_dicts_in_memory](conf.ref.keep_message_dicts_in_memory "keep_message_dicts_in_memory")
+
+| [Prev](conf.ref.events_per_iter)  | [Up](config.options.ref) |  [Next](conf.ref.exclude_vctx_mess) |
+| events_per_iter  | [Table of Contents](index) |  exclude_vctx_mess |
+

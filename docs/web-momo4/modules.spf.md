@@ -1,3 +1,6 @@
+| 71.68. spf Modules – spf_macros, spf_v1, and senderid (SPF v2) |
+| [Prev](modules.smtpapi)  | Chapter 71. Modules Reference |  [Next](modules.static_routes) |
+
 ## 71.68. spf Modules – spf_macros, spf_v1, and senderid (SPF v2)
 
 <a class="indexterm" name="idp23084592"></a><a class="indexterm" name="idp23086384"></a>
@@ -332,3 +335,7 @@ The <sender> is strong-bad@email.example.com.
    %{ir}.%{v}._spf.%{d2}                               1.0.B.C.0.0.0.0.
    0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.B.D.0.1.0.0.2.ip6._spf.example.com
 ```
+
+| [Prev](modules.smtpapi)  | [Up](modules) |  [Next](modules.static_routes) |
+| 71.67. smtpapi – SMTP Engagement Tracking  | [Table of Contents](index) |  71.69. static-routes - Static Routes |
+

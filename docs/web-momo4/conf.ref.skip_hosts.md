@@ -1,3 +1,6 @@
+| skip_hosts |
+| [Prev](conf.ref.siv_throttle_cache_size)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.snmp) |
+
 <a name="conf.ref.skip_hosts"></a>
 ## Name
 
@@ -28,3 +31,7 @@ skip_hosts is valid in the global scope.
 ## See Also
 
 [prohibited_hosts](conf.ref.prohibited_hosts "prohibited_hosts")
+
+| [Prev](conf.ref.siv_throttle_cache_size)  | [Up](config.options.ref) |  [Next](conf.ref.snmp) |
+| siv_throttle_cache_size  | [Table of Contents](index) |  SNMP |
+

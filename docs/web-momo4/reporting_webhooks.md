@@ -1,3 +1,6 @@
+| Chapter 59. Using Webhooks for Event Data |
+| [Prev](reporting_metrics)  | Part VIII. Reporting and Engagement Tracking |  [Next](web-ui.webhooks) |
+
 ## Chapter 59. Using Webhooks for Event Data
 
 **Introduction**
@@ -119,3 +122,7 @@ Congratulations! You have successfully created a webhook using the Webhooks API.
 **Managing Webhooks using the UI** 
 
 You can alos create and manage your webhooks in the web-based UI. For detailed instructions, see [Chapter 60, *Managing Your Webhooks in the UI*](web-ui.webhooks "Chapter 60. Managing Your Webhooks in the UI") .
+
+| [Prev](reporting_metrics)  | [Up](p.analytics) |  [Next](web-ui.webhooks) |
+| Chapter 58. Using the Metrics API for Reporting  | [Table of Contents](index) |  Chapter 60. Managing Your Webhooks in the UI |
+

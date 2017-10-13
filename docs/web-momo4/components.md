@@ -1,3 +1,6 @@
+| Chapter 1. Components |
+| [Prev](p.intro)  | Part I. Introduction to Momentum |  [Next](loam) |
+
 ## Chapter 1. Components
 
 The principle components that make up Momentum 4 are Platform nodes and Analytics nodes.
@@ -11,3 +14,7 @@ The principle components that make up Momentum 4 are Platform nodes and Analytic
 **Figure 1.1. Momentum 4 Components**
 
 ![Momentum 4 Components](images/components.png)
+
+| [Prev](p.intro)  | [Up](p.intro) |  [Next](loam) |
+| Part I. Introduction to Momentum  | [Table of Contents](index) |  Chapter 2. Life of A Message |
+

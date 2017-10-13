@@ -1,3 +1,6 @@
+| tls_allow_renegotiation |
+| [Prev](config.ref.tls)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_ca) |
+
 <a name="config.tls_allow_renegotiation"></a>
 ## Name
 
@@ -49,3 +52,7 @@ The default value is `true`.
 ## See Also
 
 [tls](config.ref.tls "tls")
+
+| [Prev](config.ref.tls)  | [Up](config.options.ref) |  [Next](config.tls_ca) |
+| tls  | [Table of Contents](index) |  tls_ca |
+

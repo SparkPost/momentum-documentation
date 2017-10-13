@@ -1,3 +1,6 @@
+| 17.2. Control_Listener Authentication |
+| [Prev](control_listener)  | Chapter 17. Configuring Momentum's System Console |  [Next](control_acct) |
+
 ## 17.2. Control_Listener Authentication
 
 Momentum can be configured to perform authentication on Control connections by using the authentication modules.
@@ -100,3 +103,7 @@ Control_Listener {
 ```
 
 In this case, access to `Peer "127.0.0.1"` is always allowed regardless of the results of authentication.
+
+| [Prev](control_listener)  | [Up](control_listener) |  [Next](control_acct) |
+| Chapter 17. Configuring Momentum's System Console  | [Table of Contents](index) |  17.3. Control_Listener Accounting |
+

@@ -1,3 +1,6 @@
+| Part VII. Message Generation (HTTP) |
+| [Prev](smtp_reporting_options)  |   |  [Next](create_apikey) |
+
 ## Part VII. Message Generation (HTTP)
 
 **Table of Contents**
@@ -73,3 +76,7 @@
 <dt>[53\. Using Complex Templates](complex_template)</dt>
 
 </dl>
+
+| [Prev](smtp_reporting_options)  |   |  [Next](create_apikey) |
+| Chapter 42. Reporting Options  | [Table of Contents](index) |  Chapter 43. Creating an API Key |
+

@@ -1,3 +1,6 @@
+| 71.30. EC_logger – Momentum-Style Logging |
+| [Prev](modules.ds_core)  | Chapter 71. Modules Reference |  [Next](modules.eleven) |
+
 ## 71.30. EC_logger – Momentum-Style Logging
 
 <a class="indexterm" name="idp21571376"></a>
@@ -41,7 +44,7 @@ This configuration instructs Momentum to write a `mainlog` file to `/var/log/ece
 
 The `paniclog` file is written to `/var/log/ecelerity/paniclog.ec`. This log file is used to debug errors in your system. Under normal circumstances, this log should be empty, excepting informational startup messages. It is recommended that you periodically check your `paniclog.ec` (or schedule a cron job to do it for you) to look for any anomalous events. This log file is included in the default configuration.
 
-The `acctlog` file is an accounting log and is written to `/var/log/ecelerity/acctlog.ec`. Configure this log if you are using authentication or authorization for the ESMTP_Listener or Control_Listener. This log file is included in the default configuration. For additional details, see [Section 19.5.5, “Logging SMTP Authentication Events”](inbound_smtp#inbound_smtp.logging.auth "19.5.5. Logging SMTP Authentication Events") and [Section 17.4, “Control_Listener Authorization”](control_authz.php "17.4. Control_Listener Authorization").
+The `acctlog` file is an accounting log and is written to `/var/log/ecelerity/acctlog.ec`. Configure this log if you are using authentication or authorization for the ESMTP_Listener or Control_Listener. This log file is included in the default configuration. For additional details, see [Section 19.5.5, “Logging SMTP Authentication Events”](inbound_smtp#inbound_smtp.logging.auth "19.5.5. Logging SMTP Authentication Events") and [Section 17.4, “Control_Listener Authorization”](control_authz "17.4. Control_Listener Authorization").
 
 The `importlog` file is written to `/var/log/ecelerity/importlog.ec`. This log records the outcome of a spool import operation. This log file is not included in the default configuration. For more information, see [spool import](console_commands.spool_import "spool import").
 
@@ -172,3 +175,7 @@ Closes and reopens the logs.
 </dd>
 
 </dl>
+
+| [Prev](modules.ds_core)  | [Up](modules) |  [Next](modules.eleven) |
+| 71.29. ds_core - Datasource Query Core  | [Table of Contents](index) |  71.31. eleven – Eleven eXpurgate Content Scanning |
+

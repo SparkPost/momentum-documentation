@@ -1,3 +1,6 @@
+| Chapter 12. Post-Installation |
+| [Prev](upgrade.two_tier.complete_setup_rolling)  | Part II. Installing Momentum |  [Next](install.post-install.config) |
+
 ## Chapter 12. Post-Installation
 
 **Table of Contents**
@@ -34,7 +37,7 @@ After you install Momentum 4, you will need to perform some additional actions a
 
 See the specific module documentation for more information.
 
-*   Policy Tools suite – This package contains tools for receivers and requires the pcap library. This gives you passive OS fingerprinting (p0f) and the url_ripper module, needed for SURBL. For more information, see [Section 71.73, “url_ripper – URL Extraction”](modules.url_ripper "71.73. url_ripper – URL Extraction") and [Passive operating system (OS) fingerprinting](glossary.php#gloss-p0f "Passive operating system (OS) fingerprinting").
+*   Policy Tools suite – This package contains tools for receivers and requires the pcap library. This gives you passive OS fingerprinting (p0f) and the url_ripper module, needed for SURBL. For more information, see [Section 71.73, “url_ripper – URL Extraction”](modules.url_ripper "71.73. url_ripper – URL Extraction") and [Passive operating system (OS) fingerprinting](glossary#gloss-p0f "Passive operating system (OS) fingerprinting").
 
 *   Commtouch content scanning – This package provides the CYREN (formerly known as Commtouch) spam protection technology. Only install this module if you have a license from CYREN. For more information, see [Section 71.20, “commtouch_ctasd – Commtouch Spam Protection”](modules.commtouch "71.20. commtouch_ctasd – Commtouch Spam Protection").
 
@@ -49,3 +52,7 @@ See the specific module documentation for more information.
 *   Symantec Brightmail™ content scanning support – This package checks inbound content against a Symantec Brightmail AntiSpam content server. Only install this module if you have a license from Symantec. For more information, see [Section 71.14, “brightmail – Symantec Brightmail™ Content Scanning Support”](modules.brightmail "71.14. brightmail – Symantec Brightmail™ Content Scanning Support").
 
 *   Ecelerity Developer Tools – You only need to install these tools if you are compiling your own extensions on the machine on which it is installed. Files related to this package are found under the `/opt/msys/ecelerity` directory.
+
+| [Prev](upgrade.two_tier.complete_setup_rolling)  | [Up](p.installing) |  [Next](install.post-install.config) |
+| 11.17. Complete the Software Set Up  | [Table of Contents](index) |  12.2. Reviewing Configuration Files |
+

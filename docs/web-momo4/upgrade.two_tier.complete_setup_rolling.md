@@ -1,3 +1,6 @@
+| 11.17. Complete the Software Set Up |
+| [Prev](upgrade.two_tier.configuration.start_services_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](post_installation) |
+
 ## 11.17. Complete the Software Set Up
 
 1.  Complete the Vertica setup on the **first Analytics node** .
@@ -180,3 +183,7 @@
 ### Note
 
 Be sure to read the [Release Notes](https://support.messagesystems.com/start) for the version of Momentum that you are installing.
+
+| [Prev](upgrade.two_tier.configuration.start_services_rolling)  | [Up](upgrade.two_tier_configuration_rolling) |  [Next](post_installation) |
+| 11.16. Start Services  | [Table of Contents](index) |  Chapter 12. Post-Installation |
+

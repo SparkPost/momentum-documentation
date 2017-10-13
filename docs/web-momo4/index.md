@@ -1,31 +1,3 @@
-## Momentum 4 Reference Manual
-### Message Systems, Inc.
-Copyright © 2014 Message Systems, Inc.
-Confidential & Proprietary.
-**Abstract**
-This book documents Momentum 4.
-Document generated on: 2017-Aug-09
-* * *
-**Table of Contents**
-* [Preface](preface "test")
-	* [1\. Typographical Conventions Used in This Document](preface#typographical)
-* [I. Introduction to Momentum](p.intro)
-	* [1\. Components](components)
-	* [2\. Life of A Message](loam)
-	* [3\. Roles and Behaviors](roles_behaviors)
-	* [4\. Licensed Features](licensed_features)
-		* [4.1\. Message Generation](licensed_features#licensed_features.message.generation)
-		* [4.2\. Adaptive Delivery](licensed_features.adaptive.delivery)
-		* [4.3\. Supercharger](licensed_features.supercharger)
-* [II. Installing Momentum](p.installing)
-	* [5\. Hardware Considerations](hardware.requirements)
-		* [5.1\. Server Roles](hardware.requirements#hardware.server_roles)
-		* [5.2\. Configuration Options](hardware.config_options)
-		* [5.3\. Hardware Scaling Approach](hardware.scaling)
-		* [5.4\. Environmental Considerations](hardware.environmental)
-		* [5.5\. Hardware Deployment Configuration](hardware.config)
-		* [5.6\. Production Environment Configurations](production.config)
-		* [5.7\. Additional Configuration Notes](addl.config.notes)
 	* [6\. Before You Begin](before_you_begin)
 		* [6.1\. Momentum License](before_you_begin#byb.msg.gen.license)
 		* [6.2\. Operating System](byb.os)
@@ -878,3 +850,6 @@ Document generated on: 2017-Aug-09
 		* [E.1\. Acknowledgements](copyrights#copyright.ack)
 		* [E.2\. Disclaimers for Redistributed Third-Party Software](copyright.3rdparty-disclaimer)
 	[List of Figures](figure-toc)[List of Tables](table-toc)[List of Examples](example-toc)
+|   |   |  [Next](preface) |
+|   |   |  Preface |
+

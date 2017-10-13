@@ -1,3 +1,6 @@
+| Momentum 4 Reference Manual |
+
+**List of Figures**
 
 <dl>
 
@@ -140,4 +143,8 @@
 <dt>70.1\. [Counter semantics](lua.ref.msys.counter.open#fig.console_command.counter)</dt>
 
 <dt>72.1\. [Connection Allocation Aggressiveness](conf.ref.connection_allocation_aggressiveness#conf.ref.connagg-diagram)</dt>
+
+</dl>
+
+|   | [Table of Contents](index) |   |
 

@@ -1,3 +1,6 @@
+| dns_cache |
+| [Prev](console_commands.dig)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.domain) |
+
 <a name="console_commands.dns_cache"></a>
 ## Name
 
@@ -70,4 +73,8 @@ DNS cache:
 
 ### Note
 
-These console commands manipulate the *DNS cache* . The [dig](console_commands.dig "dig"), [refresh domain](console_commands.refresh_domain.php "refresh domain") and [domain](console_commands.domain.php "domain") commands manipulate the *route cache* .
+These console commands manipulate the *DNS cache* . The [dig](console_commands.dig "dig"), [refresh domain](console_commands.refresh_domain "refresh domain") and [domain](console_commands.domain "domain") commands manipulate the *route cache* .
+
+| [Prev](console_commands.dig)  | [Up](console.cmds.ref) |  [Next](console_commands.domain) |
+| dig  | [Table of Contents](index) |  domain |
+

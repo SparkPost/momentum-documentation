@@ -1,3 +1,6 @@
+| Chapter 61. Tracking Engagement for HTTP |
+| [Prev](web-ui.webhooks.delete)  | Part VIII. Reporting and Engagement Tracking |  [Next](p.policy) |
+
 ## Chapter 61. Tracking Engagement for HTTP
 
 **Introduction**
@@ -131,3 +134,7 @@ Follow these steps to view your engagement data:
     ![Engagement Report](images/engagement.png)
 
 Congratulations! You have successfully sent an email with a link and tracked the engagement of your message in the UI. To learn more about using the Engagement report, see [Section 57.4, “Evaluating Your Campaign Performance”](web-ui.reports.evaluating.campaign.performance "57.4. Evaluating Your Campaign Performance").
+
+| [Prev](web-ui.webhooks.delete)  | [Up](p.analytics) |  [Next](p.policy) |
+| 60.5. Deleting a Webhook  | [Table of Contents](index) |  Part IX. Writing Policy |
+

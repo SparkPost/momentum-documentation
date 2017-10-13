@@ -1,3 +1,6 @@
+| Chapter 15. Configuration Overview |
+| [Prev](p.configuration)  | Part III. Configuring Momentum |  [Next](conf.options) |
+
 ## Chapter 15. Configuration Overview
 
 **Table of Contents**
@@ -72,7 +75,7 @@ include "/opt/msys/ecelerity/etc/config.d"
 
 When the referenced path is a directory, all the files within that directory are included in alphabetical order. Hidden files (those whose names begin with a single period) are not included. Sub-directories are not automatically processed.
 
-The `readonly_include` directive also supports making online changes to the configuration with the [config set](console_commands.config "config") and [config unset](console_commands.config.php "config") commands.
+The `readonly_include` directive also supports making online changes to the configuration with the [config set](console_commands.config "config") and [config unset](console_commands.config "config") commands.
 
 When making an online change, Momentum must decide to which configuration file to save online changes. This decision is controlled by the following factors:
 
@@ -120,7 +123,7 @@ Any configuration files included with the `readonly_include` directive are read-
 
 ### 15.1.3. Configuration Management (ecconfigd)
 
-Both single-node and clustered installations take advantage of Momentum's revision control system for configuration files. Any configuration changes should be committed to the Momentum Configuration Server **ecconfigd**, henceforth referred to as the configuration server. On start up, the script in the `/etc/init.d` directory runs the **ecconfigd** as a service on the node designated as Manager. For details about the configuration server, see [ecconfigd](executable.ecconfigd "ecconfigd"). For details about the **ecconfigd** service in a cluster configuration, see [Section 16.1.1, “Cluster-specific Configuration Management”](cluster.php#cluster.config_files.mgmt "16.1.1. Cluster-specific Configuration Management").
+Both single-node and clustered installations take advantage of Momentum's revision control system for configuration files. Any configuration changes should be committed to the Momentum Configuration Server **ecconfigd**, henceforth referred to as the configuration server. On start up, the script in the `/etc/init.d` directory runs the **ecconfigd** as a service on the node designated as Manager. For details about the configuration server, see [ecconfigd](executable.ecconfigd "ecconfigd"). For details about the **ecconfigd** service in a cluster configuration, see [Section 16.1.1, “Cluster-specific Configuration Management”](cluster#cluster.config_files.mgmt "16.1.1. Cluster-specific Configuration Management").
 
 Use **ecconfigd_ctl** to start, stop, or restart the configuration server. For details about this command, see [ecconfigd_ctl](executable.ecconfigd_ctl "ecconfigd_ctl").
 
@@ -263,3 +266,7 @@ As discussed in [Section 15.1.2, “Using the `include` and `readonly_include` 
         Some configuration changes require restarting the ecelerity process, as documented throughout this guide. Running the **`config reload`**         command will not suffice.
 
     *   For a node-specific configuration, use the [ec_ctl](executable.ec_ctl "ec_ctl") command to restart the ecelerity process. The **`config reload`**         command will not load configuration changes.
+
+| [Prev](p.configuration)  | [Up](p.configuration) |  [Next](conf.options) |
+| Part III. Configuring Momentum  | [Table of Contents](index) |  15.2. Configuration Options |
+

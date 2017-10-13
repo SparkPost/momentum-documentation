@@ -1,3 +1,6 @@
+| adaptive_backstore_leveldb |
+| [Prev](config.options.ref)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.adaptive_backstore_riak) |
+
 <a name="conf.ref.adaptive_backstore_leveldb"></a>
 ## Name
 
@@ -33,3 +36,7 @@ Please consult with support before reconfiguring Momentum as described here. The
 ## See Also
 
 [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery")
+
+| [Prev](config.options.ref)  | [Up](config.options.ref) |  [Next](conf.ref.adaptive_backstore_riak) |
+| Chapter 72. Configuration Options Reference  | [Table of Contents](index) |  adaptive_backstore_riak |
+

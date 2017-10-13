@@ -1,3 +1,6 @@
+| Chapter 68. Executable Command Summary |
+| [Prev](console_commands)  | Part X. Reference |  [Next](hooks) |
+
 ## Chapter 68. Executable Command Summary
 
 This table lists all executable commands alphabetically giving a brief description. Click the command name to see detailed information.
@@ -33,3 +36,7 @@ This table lists all executable commands alphabetically giving a brief descripti
 | [jlogctl](executable.jlogctl "jlogctl") – Analyze and maintain jlogs | logs |
 | [lu_pull](executable.lu_pull "lu_pull") – Update the Live Updates database | adaptive |
 | [validate_config](executable.validate_config "validate_config") – Check the validity of the configuration files | config |
+
+| [Prev](console_commands)  | [Up](p.reference) |  [Next](hooks) |
+| Chapter 67. Console Commands Summary  | [Table of Contents](index) |  Chapter 69. Hook Points and C Functions Reference |
+

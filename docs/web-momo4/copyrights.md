@@ -1,3 +1,6 @@
+| Appendix E. Copyright Notices |
+| [Prev](glossary)  |   |  [Next](copyright.3rdparty-disclaimer) |
+
 ## Copyright Notices
 
 **Table of Contents**
@@ -131,3 +134,7 @@ This product includes software developed by Michael A. Davis <mike@datanerds.net
 This product includes software developed by Nginx, Inc.
 
 This product includes software developed by RabbitMQ.
+
+| [Prev](glossary)  |   |  [Next](copyright.3rdparty-disclaimer) |
+| Glossary  | [Table of Contents](index) |  E.2. Disclaimers for Redistributed Third-Party Software |
+

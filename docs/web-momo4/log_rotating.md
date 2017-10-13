@@ -1,3 +1,6 @@
+| Chapter 34. Rotating Logs **ec_rotate** |
+| [Prev](log_monitoring)  | Part IV. Logging |  [Next](log_formats) |
+
 ## Chapter 34. Rotating Logs ec_rotate
 
 **Table of Contents**
@@ -10,7 +13,7 @@
 
 Momentum provides a utility script **ec_rotate** that you can use to rotate and compress logs that Momentum writes. It is recommended that you run this script daily from your system's crontab (`/etc/cron.d/msys-ecelerity-core`).
 
-To invoke ec_rotate, execute **ec_rotate** as the root user. By default, this command will rotate the files specified in the `ec_rotate.conf` file, compress them using `bzip`, and keep seven days of logs on disk. For details about this script, including options to change its behavior, see [ec_rotate](executable.ec_rotate "ec_rotate"). For the default configuration, see [Section 34.1, “`ec_rotate.conf` File”](log_rotating.php#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File").
+To invoke ec_rotate, execute **ec_rotate** as the root user. By default, this command will rotate the files specified in the `ec_rotate.conf` file, compress them using `bzip`, and keep seven days of logs on disk. For details about this script, including options to change its behavior, see [ec_rotate](executable.ec_rotate "ec_rotate"). For the default configuration, see [Section 34.1, “`ec_rotate.conf` File”](log_rotating#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File").
 
 The following logfiles are **not** rotated by **ec_rotate**:
 
@@ -117,3 +120,7 @@ Retention period in days
 </dd>
 
 </dl>
+
+| [Prev](log_monitoring)  | [Up](p.logs) |  [Next](log_formats) |
+| Chapter 33. Log Monitoring  | [Table of Contents](index) |  Chapter 35. Log Formats |
+

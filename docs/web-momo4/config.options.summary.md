@@ -1,3 +1,6 @@
+| Chapter 66. Configuration Options Summary |
+| [Prev](modules.summary.all.modules)  | Part X. Reference |  [Next](console_commands) |
+
 ## Chapter 66. Configuration Options Summary
 
 This chapter lists all configuration options visible in the following scopes; global, domain, host, binding, binding_group, security, pathway, pathway_group, listener, listen, peer, threadpool, debug_flags, and cluster, as well as in the listener-specific scope. Module-specific options are documented in the module documentation and options specific to Mobile Momentum are documented in the Mobile Momentum documents. Options are sorted alphabetically by name. If an option functions as a scope, this is indicated by `(scope)`.
@@ -381,6 +384,10 @@ The `Version` column indicated the version(s) of Momentum that support the optio
 | [trap_interval](conf.ref.snmp#conf.ref.snmp.watch_interval) – Interval for watched system variables for SNMP traps | na | 10 (*non-dynamic*) | 4.0 and later | snmp_traps |
 | [watch_variables](conf.ref.snmp#conf.ref.snmp.watch_variables) – SNMP traps watch variables | na | (*non-dynamic*) | 4.0 and later | snmp_traps |
 | [xclient](conf.ref.xclient "xclient") – Use the XCLIENT extension to SMTP for outbound mail | sending | no | 4.0 and later | binding, binding_group, domain, global |
-| [xmpp_dialback_secret](https://support.messagesystems.com/docs/web-mobility/mobility.xmpp.modules#mobility.xmpp.modules.xmpp_role.php) – Use when verifying the XMPP server dialback key (Mobile Momentum) | both |   | 4.0 and later | domain |
-| [xmpp_listener](https://support.messagesystems.com/docs/web-mobility/mobility.xmpp.modules#modules.xmpp.xmpp_listener.php) *(scope)* – The listener for incoming XMPP connections (Mobile Momentum) | receiving |   | 4.0 and later | global |
-| [xmpp_role](https://support.messagesystems.com/docs/web-mobility/mobility.xmpp.modules#mobility.xmpp.modules.xmpp_role.php) – Define whether a domain is an XMPP server or client (Mobile Momentum) | both |   | 4.0 and later | domain |
+| [xmpp_dialback_secret](https://support.messagesystems.com/docs/web-mobility/mobility.xmpp.modules#mobility.xmpp.modules.xmpp_role) – Use when verifying the XMPP server dialback key (Mobile Momentum) | both |   | 4.0 and later | domain |
+| [xmpp_listener](https://support.messagesystems.com/docs/web-mobility/mobility.xmpp.modules#modules.xmpp.xmpp_listener) *(scope)* – The listener for incoming XMPP connections (Mobile Momentum) | receiving |   | 4.0 and later | global |
+| [xmpp_role](https://support.messagesystems.com/docs/web-mobility/mobility.xmpp.modules#mobility.xmpp.modules.xmpp_role) – Define whether a domain is an XMPP server or client (Mobile Momentum) | both |   | 4.0 and later | domain |
+
+| [Prev](modules.summary.all.modules)  | [Up](p.reference) |  [Next](console_commands) |
+| Chapter 65. Modules Summary  | [Table of Contents](index) |  Chapter 67. Console Commands Summary |
+

@@ -1,3 +1,6 @@
+| 25.3. MultiVIP© Interfaces |
+| [Prev](outbound_mail.prohibited.hosts)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](outbound_mail.traffic.shaping) |
+
 ## 25.3. MultiVIP© Interfaces
 
 <a class="indexterm" name="idp3618464"></a>![](images/multivip.png)
@@ -32,6 +35,10 @@ When you are removing a binding that is in use, do the following:
 
 2.  If there are no policy settings, suspend the binding and apply the configuration changes. For information about suspending a binding, see [suspend_delivery](conf.ref.suspend_delivery "suspend_delivery").
 
-3.  Examine the mail queue. If there is mail for the suspended binding, reassign it to another binding. If the queued messages are not reassigned to another binding, they will go to the `default` binding. For more information, see [showqueue](console_commands.showqueue "showqueue") and [reroute queue](console_commands.reroute_queue.php "reroute queue").
+3.  Examine the mail queue. If there is mail for the suspended binding, reassign it to another binding. If the queued messages are not reassigned to another binding, they will go to the `default` binding. For more information, see [showqueue](console_commands.showqueue "showqueue") and [reroute queue](console_commands.reroute_queue "reroute queue").
 
 4.  Once all reassigned messages are out of the queue, restart ecelerity to fully remove the binding from the configuration.
+
+| [Prev](outbound_mail.prohibited.hosts)  | [Up](outbound_mail) |  [Next](outbound_mail.traffic.shaping) |
+| 25.2. Prohibited_Hosts  | [Table of Contents](index) |  25.4. Throttling and Traffic Shaping |
+

@@ -1,3 +1,6 @@
+| Chapter 2. Life of A Message |
+| [Prev](components)  | Part I. Introduction to Momentum |  [Next](roles_behaviors) |
+
 ## Chapter 2. Life of A Message
 
 ## Inject SMTP Messages or Transmissions
@@ -49,3 +52,7 @@ Momentum uses Engagement Tracking to track opens and clicks. This activity occur
 ## Reporting
 
 The event hose reports all aspects of the message disposition to the Analytics database, including any messages generated via HTTP injection.
+
+| [Prev](components)  | [Up](p.intro) |  [Next](roles_behaviors) |
+| Chapter 1. Components  | [Table of Contents](index) |  Chapter 3. Roles and Behaviors |
+

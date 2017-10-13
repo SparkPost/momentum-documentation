@@ -1,3 +1,6 @@
+| 62.2. Policy Scriptlets |
+| [Prev](policy)  | Chapter 62. Implementing Policy with Momentum |  [Next](policy.context.variables) |
+
 ## 62.2. Policy Scriptlets
 
 Lua scripts provide you with the capability to express the logic behind your policy. Aside from being very convenient (policy scripts can be reloaded on the fly, allowing real-time adjustment of policy without interrupting service), the Momentum implementation has extremely low overhead and tightly integrates with the event-based architecture, being able to suspend processing until asynchronous operations (such as DNS resolution, or database queries) complete. Note that variables used in a policy script are scoped locally and only persist in the particular policy script in which it is defined. Use the [validation context](policy#policy.validation "62.1. Validation and the Validation Context") to persist data over different policy phases and policy scripts.
@@ -335,3 +338,7 @@ Use `msg.priority` to read the priority of a message.
 ### Note
 
 It is important not to overuse the priority setting. High priority messages should be reserved for messages that need to go out immediately, before other messages. Keeping high priority messages to a low percentage of the total message volume is important so the high priority messages do not cause delays for normal priority messages. A common use case for high priority messages is sending out password resets in the midst of a major mail campaign.
+
+| [Prev](policy)  | [Up](policy) |  [Next](policy.context.variables) |
+| Chapter 62. Implementing Policy with Momentum  | [Table of Contents](index) |  Chapter 63. Validation Context Variables |
+

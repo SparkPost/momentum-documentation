@@ -1,3 +1,6 @@
+| Chapter 62. Implementing Policy with Momentum |
+| [Prev](p.policy)  | Part IX. Writing Policy |  [Next](implementing.policy.scriptlets) |
+
 ## Chapter 62. Implementing Policy with Momentum
 
 **Table of Contents**
@@ -12,7 +15,7 @@
 
 <a class="indexterm" name="idp6950352"></a>
 
-In order to effectively implement your site policy, it is important to understand how mail transits through Momentum and when the policy is applied. [Figure 62.1, “Momentum Policy Phases”](policy#policy.flow-diagram "Figure 62.1. Momentum Policy Phases") provides visual representations of mail injected via HTTP and SMTP. Additional policy information is provided after the diagram. For more information about the other mail transmission stages, see [Chapter 2, *Life of A Message*](loam.php "Chapter 2. Life of A Message") .
+In order to effectively implement your site policy, it is important to understand how mail transits through Momentum and when the policy is applied. [Figure 62.1, “Momentum Policy Phases”](policy#policy.flow-diagram "Figure 62.1. Momentum Policy Phases") provides visual representations of mail injected via HTTP and SMTP. Additional policy information is provided after the diagram. For more information about the other mail transmission stages, see [Chapter 2, *Life of A Message*](loam "Chapter 2. Life of A Message") .
 
 <a name="policy.flow-diagram"></a>
 
@@ -62,7 +65,7 @@ The validation process in Momentum is extensible, designed to consist of any num
 
 The validation context contains two dictionaries of information, referred to as the `connection context` and `message context` respectively. The former holds information associated with the remote client connected to Momentum, whereas the latter holds information about the current message. The message context is emptied for each message transmitted on a given connection, whereas the connection context retains its information for the lifetime of that connection.
 
-A number of context variables are pre-defined by Momentum, depending on how the connection was made, and what modules are loaded. A complete list of pre-defined context variables can be found in [Chapter 63, *Validation Context Variables*](policy.context.variables "Chapter 63. Validation Context Variables") . In addition, the [context](conf.ref.context.php "context") option provides a mechanism to set arbitrary connection context key value pairs.
+A number of context variables are pre-defined by Momentum, depending on how the connection was made, and what modules are loaded. A complete list of pre-defined context variables can be found in [Chapter 63, *Validation Context Variables*](policy.context.variables "Chapter 63. Validation Context Variables") . In addition, the [context](conf.ref.context "context") option provides a mechanism to set arbitrary connection context key value pairs.
 
 ### 62.1.1. Setting Context Based on Connecting IP
 
@@ -98,3 +101,7 @@ ESMTP_Listener {
 To bypass validation modules, add a context variable to your listener by creating a context variable with the name __bypass_*`module_name`* and setting its value to `true`. For example, to bypass the spf_v1 module create a variable called `__bypass_spf_v1` and set its value to `true`.
 
 To determine whether a module is a validation module, see [Chapter 65, *Modules Summary*](modules.summary.all.modules "Chapter 65. Modules Summary") .
+
+| [Prev](p.policy)  | [Up](p.policy) |  [Next](implementing.policy.scriptlets) |
+| Part IX. Writing Policy  | [Table of Contents](index) |  62.2. Policy Scriptlets |
+

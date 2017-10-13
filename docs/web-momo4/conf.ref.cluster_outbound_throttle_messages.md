@@ -1,3 +1,6 @@
+| cluster_outbound_throttle_messages |
+| [Prev](conf.ref.cluster_outbound_throttle_connections)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.cluster_scope_max_outbound_connections) |
+
 <a name="conf.ref.cluster_outbound_throttle_messages"></a>
 ## Name
 
@@ -26,3 +29,7 @@ The cluster module must be configured with the outbound throttle parameters.
 ## Scope
 
 `cluster_outbound_throttle_messages` is valid in the binding_group, domain, and global scopes.
+
+| [Prev](conf.ref.cluster_outbound_throttle_connections)  | [Up](config.options.ref) |  [Next](conf.ref.cluster_scope_max_outbound_connections) |
+| cluster_outbound_throttle_connections  | [Table of Contents](index) |  cluster_scope_max_outbound_connections |
+

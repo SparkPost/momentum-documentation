@@ -1,3 +1,6 @@
+| msg:binding_group |
+| [Prev](lua.ref.msg_binding)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_body) |
+
 <a name="lua.ref.msg_binding_group"></a>
 ## Name
 
@@ -27,3 +30,7 @@ Enable this function with the statement `require('msys.extended.message');`.
 ## See Also
 
 [msg:binding](lua.ref.msg_binding "msg:binding")
+
+| [Prev](lua.ref.msg_binding)  | [Up](lua.function.details) |  [Next](lua.ref.msg_body) |
+| msg:binding  | [Table of Contents](index) |  msg:body |
+

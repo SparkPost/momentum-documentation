@@ -1,3 +1,6 @@
+| 71.18. cloudmark – Cloudmark Authority® Content Scanning |
+| [Prev](modules.clamav)  | Chapter 71. Modules Reference |  [Next](modules.cluster) |
+
 ## 71.18. cloudmark – Cloudmark Authority® Content Scanning
 
 <a class="indexterm" name="idp20342944"></a>
@@ -165,7 +168,7 @@ The Cloudmark subcategory name
 
 ### 71.18.4. Lua Functions
 
-This module makes the Lua functions `msys.cloudmark.score` and `msys.cloudmark.analyze` available. For a description of how these functions are used, see [msys.cloudmark.score](lua.ref.msys.cloudmark.score "msys.cloudmark.score") and [msys.cloudmark.analyze](lua.ref.msys.cloudmark.analyze.php "msys.cloudmark.analyze").
+This module makes the Lua functions `msys.cloudmark.score` and `msys.cloudmark.analyze` available. For a description of how these functions are used, see [msys.cloudmark.score](lua.ref.msys.cloudmark.score "msys.cloudmark.score") and [msys.cloudmark.analyze](lua.ref.msys.cloudmark.analyze "msys.cloudmark.analyze").
 
 ### 71.18.5. Console Commands
 
@@ -274,3 +277,7 @@ This describes how you can configure Momentum to communicate with the Cloudmark 
     ### Note
 
     The latter case is only significant in the MOVEMSG ActiveFilter mode. If you are discarding messages then there is no action to take in the false positive case.
+
+| [Prev](modules.clamav)  | [Up](modules) |  [Next](modules.cluster) |
+| 71.17. clamav – ClamAV  | [Table of Contents](index) |  71.19. cluster – Cluster |
+

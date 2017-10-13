@@ -1,3 +1,6 @@
+| 35.8. `paniclog` |
+| [Prev](log_formats.mainlog)  | Chapter 35. Log Formats |  [Next](log_formats.rejectlog) |
+
 ## 35.8. `paniclog`
 
 The `paniclog` is a debugging log in which system events are logged depending on the level of Debug_Flags set in your configuration. It is configured in the [ec_logger](modules.ec_logger "71.30. EC_logger – Momentum-Style Logging").
@@ -30,3 +33,7 @@ The following is a description of the fields:
 | 5 | 200 | HTTP response status code |
 | 6 | 224 | Total number of bytes of the response |
 | 7 | 5.000 | Time taken from request to response in milliseconds |
+
+| [Prev](log_formats.mainlog)  | [Up](log_formats) |  [Next](log_formats.rejectlog) |
+| 35.7. `mainlog`  | [Table of Contents](index) |  35.9. `rejectlog` |
+

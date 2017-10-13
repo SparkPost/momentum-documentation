@@ -1,3 +1,6 @@
+| 25.4. Throttling and Traffic Shaping |
+| [Prev](outbound_mail.multivip.interfaces)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](tls_option) |
+
 ## 25.4. Throttling and Traffic Shaping
 
 Momentum provides a variety of options that allows you to control its network traffic profile, such as the rate at which outbound connections are established, the rate at which messages are transmitted, and the number of connections that are established to a given domain. These options can be set per-binding and per-domain, following the usual fall-back rules allowing a great deal of flexibility. (see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback"))
@@ -21,3 +24,7 @@ binding "customer-2" {
   }
 }
 ```
+
+| [Prev](outbound_mail.multivip.interfaces)  | [Up](outbound_mail) |  [Next](tls_option) |
+| 25.3. MultiVIP© Interfaces  | [Table of Contents](index) |  25.5. Outbound TLS |
+

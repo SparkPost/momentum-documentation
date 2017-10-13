@@ -1,3 +1,6 @@
+| max_dns_ttl |
+| [Prev](conf.ref.max_deliveries_per_connection)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_outbound_connections) |
+
 <a name="conf.ref.max_dns_ttl"></a>
 ## Name
 
@@ -23,3 +26,7 @@ max_dns_ttl is valid in the global scope.
 ## See Also
 
 [min_dns_ttl](conf.ref.min_dns_ttl "min_dns_ttl")
+
+| [Prev](conf.ref.max_deliveries_per_connection)  | [Up](config.options.ref) |  [Next](conf.ref.max_outbound_connections) |
+| max_deliveries_per_connection  | [Table of Contents](index) |  max_outbound_connections |
+

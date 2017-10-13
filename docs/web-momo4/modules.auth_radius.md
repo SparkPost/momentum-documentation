@@ -1,3 +1,6 @@
+| 71.9. auth_radius – RADIUS based SMTP Authentication |
+| [Prev](modules.auth_ds)  | Chapter 71. Modules Reference |  [Next](modules.beik) |
+
 ## 71.9. auth_radius – RADIUS based SMTP Authentication
 
 <a class="indexterm" name="idp19937808"></a>
@@ -178,3 +181,7 @@ If the token to the left of the `||` is the empty string, then the value to the 
 </dd>
 
 </dl>
+
+| [Prev](modules.auth_ds)  | [Up](modules) |  [Next](modules.beik) |
+| 71.8. auth_ds – Datasource based SMTP Authentication  | [Table of Contents](index) |  71.10. beik – Symantec Brightmail™ Engine Integration Kit |
+

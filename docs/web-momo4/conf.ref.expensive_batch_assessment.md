@@ -1,3 +1,6 @@
+| expensive_batch_assessment |
+| [Prev](conf.ref.exclude_vctx_mess)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.force_fsync) |
+
 <a name="conf.ref.expensive_batch_assessment"></a>
 ## Name
 
@@ -18,3 +21,7 @@ The default value is `false`.
 ## Scope
 
 expensive_batch_assessment is valid in the global scope.
+
+| [Prev](conf.ref.exclude_vctx_mess)  | [Up](config.options.ref) |  [Next](conf.ref.force_fsync) |
+| exclude_vctx_mess  | [Table of Contents](index) |  force_fsync |
+

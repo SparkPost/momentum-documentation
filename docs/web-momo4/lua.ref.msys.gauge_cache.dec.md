@@ -1,3 +1,6 @@
+| msys.gauge_cache.dec |
+| [Prev](lua.ref.msys.expurgate.scan)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.gauge_cache.define) |
+
 <a name="lua.ref.msys.gauge_cache.dec"></a>
 ## Name
 
@@ -22,4 +25,8 @@ Enable this function with the statement `require('msys.gauge_cache');`.
 <a name="idp18114896"></a>
 ## See Also
 
-[msys.gauge_cache.define](lua.ref.msys.gauge_cache.define "msys.gauge_cache.define"), [Section 28.1.9, “Shared Gauge Caches”](cluster.config.replication.php#cluster.replication.gauge_cache "28.1.9. Shared Gauge Caches")
+[msys.gauge_cache.define](lua.ref.msys.gauge_cache.define "msys.gauge_cache.define"), [Section 28.1.9, “Shared Gauge Caches”](cluster.config.replication#cluster.replication.gauge_cache "28.1.9. Shared Gauge Caches")
+
+| [Prev](lua.ref.msys.expurgate.scan)  | [Up](lua.function.details) |  [Next](lua.ref.msys.gauge_cache.define) |
+| msys.expurgate.scan  | [Table of Contents](index) |  msys.gauge_cache.define |
+

@@ -1,3 +1,6 @@
+| signing_stats |
+| [Prev](console_commands.shutdown)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.signing_stats_reset) |
+
 <a name="console_commands.signing_stats"></a>
 ## Name
 
@@ -144,4 +147,8 @@ The total number of messages processed including messages that the signing algor
 <a name="idp11281376"></a>
 ## See Also
 
-[Section 71.28, “domainkeys – Yahoo! DomainKeys”](modules.domainkeys "71.28. domainkeys – Yahoo! DomainKeys"), [Section 71.50, “opendkim – Open Source DKIM”](modules.opendkim.php "71.50. opendkim – Open Source DKIM"), and [signing_stats reset](console_commands.signing_stats_reset.php "signing_stats reset")
+[Section 71.28, “domainkeys – Yahoo! DomainKeys”](modules.domainkeys "71.28. domainkeys – Yahoo! DomainKeys"), [Section 71.50, “opendkim – Open Source DKIM”](modules.opendkim "71.50. opendkim – Open Source DKIM"), and [signing_stats reset](console_commands.signing_stats_reset "signing_stats reset")
+
+| [Prev](console_commands.shutdown)  | [Up](console.cmds.ref) |  [Next](console_commands.signing_stats_reset) |
+| shutdown  | [Table of Contents](index) |  signing_stats reset |
+

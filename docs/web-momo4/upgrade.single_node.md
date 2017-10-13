@@ -1,3 +1,6 @@
+| Chapter 10. Upgrade - Single Node |
+| [Prev](install.start_remaining_services)  | Part II. Installing Momentum |  [Next](upgrade.single_node.vertica_updates) |
+
 ## Chapter 10. Upgrade - Single Node
 
 **Table of Contents**
@@ -316,3 +319,7 @@ Upgrade Cassandra from version 2.0.8 to 2.0.15.
     $CQLSH -k authentication -f $UPG/V2015.06.17_00.00.00__add_valid_ip_column.cql 2>&1 >> cassandra_schema.log
     $CQLSH -k authentication -f $UPG/V2015.06.22_00.00.00__add_last_login_column.cql 2>&1 >> cassandra_schema.log
     ```
+
+| [Prev](install.start_remaining_services)  | [Up](p.installing) |  [Next](upgrade.single_node.vertica_updates) |
+| 9.4. Start Remaining Services  | [Table of Contents](index) |  10.2. Vertica Updates |
+

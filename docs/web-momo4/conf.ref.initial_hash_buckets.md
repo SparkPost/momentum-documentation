@@ -1,3 +1,6 @@
+| initial_hash_buckets |
+| [Prev](conf.ref.inbound_throttle_messages)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.inline_transfail_processing) |
+
 <a name="conf.ref.initial_hash_buckets"></a>
 ## Name
 
@@ -20,3 +23,7 @@ The default value is `32`.
 ## Scope
 
 `initial_hash_buckets` is valid in the global scope.
+
+| [Prev](conf.ref.inbound_throttle_messages)  | [Up](config.options.ref) |  [Next](conf.ref.inline_transfail_processing) |
+| inbound_throttle_messages  | [Table of Contents](index) |  inline_transfail_processing |
+

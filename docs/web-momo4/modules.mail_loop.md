@@ -1,3 +1,6 @@
+| 71.45. mail_loop – Mail Loop Detection |
+| [Prev](modules.live.bounce.updates)  | Chapter 71. Modules Reference |  [Next](modules.maildir) |
+
 ## 71.45. mail_loop – Mail Loop Detection
 
 <a class="indexterm" name="idp22115552"></a>
@@ -71,3 +74,7 @@ Set to `match`, if a self-connect was detected.
 </dd>
 
 </dl>
+
+| [Prev](modules.live.bounce.updates)  | [Up](modules) |  [Next](modules.maildir) |
+| 71.44. Live Bounce Updates – Live Bounce Updates Service  | [Table of Contents](index) |  71.46. maildir – Maildir Delivery Support |
+

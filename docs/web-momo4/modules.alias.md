@@ -1,3 +1,6 @@
+| 71.5. alias – Alias Expansion |
+| [Prev](modules.alerting)  | Chapter 71. Modules Reference |  [Next](modules.antivirus) |
+
 ## 71.5. alias – Alias Expansion
 
 <a class="indexterm" name="idp19680880"></a>
@@ -34,4 +37,8 @@ Within the desired domain, the `Alias_Schemes` option is set to the Scheme name 
 
 ### 71.5.2. See Also
 
-[alias_schemes](conf.ref.alias_schemes "alias_schemes") and [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core.php "71.29. ds_core - Datasource Query Core").
+[alias_schemes](conf.ref.alias_schemes "alias_schemes") and [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core "71.29. ds_core - Datasource Query Core").
+
+| [Prev](modules.alerting)  | [Up](modules) |  [Next](modules.antivirus) |
+| 71.4. alerting – Send Alerting Emails  | [Table of Contents](index) |  71.6. antivirus – Antivirus |
+

@@ -1,3 +1,6 @@
+| 10.2. Vertica Updates |
+| [Prev](upgrade.single_node)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.single_node.configuration.flyway) |
+
 ## 10.2. Vertica Updates
 
 It is best to perform these steps at a time of low volume. Some services will need to be temporarily stopped, and queues could back up if there is too much activity. Also, pay special attention to the verification steps; some will take longer to complete, and they will need to be verified before moving on.
@@ -134,3 +137,7 @@ It is best to perform these steps at a time of low volume. Some services will ne
          20157
         (10 rows)
         ```
+
+| [Prev](upgrade.single_node)  | [Up](upgrade.single_node) |  [Next](upgrade.single_node.configuration.flyway) |
+| Chapter 10. Upgrade - Single Node  | [Table of Contents](index) |  10.3. Prepare and Run Flyway |
+

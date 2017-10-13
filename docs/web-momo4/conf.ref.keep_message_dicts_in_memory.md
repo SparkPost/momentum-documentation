@@ -1,3 +1,6 @@
+| keep_message_dicts_in_memory |
+| [Prev](conf.ref.inline_transfail_processing)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.large_message_threshold) |
+
 <a name="conf.ref.keep_message_dicts_in_memory"></a>
 ## Name
 
@@ -34,4 +37,8 @@ keep_message_dicts_in_memory is valid in the global scope.
 <a name="idp25058368"></a>
 ## See Also
 
-[exclude_vctx_conn](conf.ref.exclude_vctx_conn "exclude_vctx_conn"), [exclude_vctx_mess](conf.ref.exclude_vctx_mess.php "exclude_vctx_mess")
+[exclude_vctx_conn](conf.ref.exclude_vctx_conn "exclude_vctx_conn"), [exclude_vctx_mess](conf.ref.exclude_vctx_mess "exclude_vctx_mess")
+
+| [Prev](conf.ref.inline_transfail_processing)  | [Up](config.options.ref) |  [Next](conf.ref.large_message_threshold) |
+| inline_transfail_processing  | [Table of Contents](index) |  large_message_threshold |
+

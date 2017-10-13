@@ -1,3 +1,6 @@
+| 71.44. Live Bounce Updates – Live Bounce Updates Service |
+| [Prev](modules.jlog)  | Chapter 71. Modules Reference |  [Next](modules.mail_loop) |
+
 ## 71.44. Live Bounce Updates – Live Bounce Updates Service
 
 <a class="indexterm" name="idp22090272"></a>
@@ -36,3 +39,7 @@ If you installed the adaptive module and you enabled the update service during i
 This setting enables automatic updating of the adaptive rules using port `443`. To disable adaptive updates, set this option to `disabled`. You can also choose to update adaptive rules using a proxy server or manually. For instructions, see [Automated Updates for the Adaptive Rules](https://support.messagesystems.com/docs/web-ad/ad.adaptive.update).
 
 For information about the adaptive module, see [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery").
+
+| [Prev](modules.jlog)  | [Up](modules) |  [Next](modules.mail_loop) |
+| 71.43. jlog – jlog-Formatted Logging  | [Table of Contents](index) |  71.45. mail_loop – Mail Loop Detection |
+

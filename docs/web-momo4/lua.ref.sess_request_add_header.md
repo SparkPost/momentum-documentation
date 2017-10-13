@@ -1,3 +1,6 @@
+| sess:request_add_header |
+| [Prev](lua.ref.client_get_status)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.sess_request_delete_header) |
+
 <a name="lua.ref.sess_request_add_header"></a>
 ## Name
 
@@ -25,4 +28,8 @@ For a code example see [http_request_eval](https://support.messagesystems.com/do
 <a name="idp15267824"></a>
 ## See Also
 
-[sess:request_set_body](lua.ref.sess_request_set_body "sess:request_set_body") and [sess:request_finalize](lua.ref.sess_request_finalize.php "sess:request_finalize")
+[sess:request_set_body](lua.ref.sess_request_set_body "sess:request_set_body") and [sess:request_finalize](lua.ref.sess_request_finalize "sess:request_finalize")
+
+| [Prev](lua.ref.client_get_status)  | [Up](lua.function.details) |  [Next](lua.ref.sess_request_delete_header) |
+| client:get_status  | [Table of Contents](index) |  sess:request_delete_header |
+

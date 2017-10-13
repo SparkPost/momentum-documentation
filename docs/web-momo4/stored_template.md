@@ -1,3 +1,6 @@
+| Chapter 47. Creating Stored Templates |
+| [Prev](substitution_data)  | Part VII. Message Generation (HTTP) |  [Next](web-ui.templates) |
+
 ## Chapter 47. Creating Stored Templates
 
 **Introduction**
@@ -170,3 +173,7 @@ Congratulations! You have created your first stored template using Momentum's Te
 **Configuration Change. ** Version 4.1 and later support managing your templates using the UI.
 
 You can also create and manage your templates using the web-based UI. For detailed instructions, see [Chapter 48, *Managing Your Templates in the UI*](web-ui.templates "Chapter 48. Managing Your Templates in the UI") .
+
+| [Prev](substitution_data)  | [Up](p.http_rest) |  [Next](web-ui.templates) |
+| Chapter 46. Using Substitution Data  | [Table of Contents](index) |  Chapter 48. Managing Your Templates in the UI |
+

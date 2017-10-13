@@ -1,3 +1,6 @@
+| eccfg |
+| [Prev](executable.ec_show)  | Chapter 74. Executable Commands Reference |  [Next](executable.eccmgr) |
+
 <a name="executable.eccfg"></a>
 ## Name
 
@@ -157,7 +160,7 @@ Committed revision 47.
 
 ### Note
 
-*Committing changes does not automatically load them into the running ecelerity process.*                                                                              For details, see See [Section 15.1.4, “Changing Configuration Files”](conf.overview#conf.manual.changes "15.1.4. Changing Configuration Files") and [Section 15.1.5, “Adding Configuration Files”](conf.overview.php#conf.adding.configuration.files "15.1.5. Adding Configuration Files").
+*Committing changes does not automatically load them into the running ecelerity process.*                                                                              For details, see See [Section 15.1.4, “Changing Configuration Files”](conf.overview#conf.manual.changes "15.1.4. Changing Configuration Files") and [Section 15.1.5, “Adding Configuration Files”](conf.overview#conf.adding.configuration.files "15.1.5. Adding Configuration Files").
 
 </dd>
 
@@ -383,4 +386,8 @@ Request that the cluster's nominal MASTER attempt to resolve the CONFLICT state.
 <a name="idp14721088"></a>
 ## See Also
 
-[ecconfigd](executable.ecconfigd "ecconfigd"), [Section 15.1.3, “Configuration Management (**ecconfigd**)”](conf.overview.php#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)")
+[ecconfigd](executable.ecconfigd "ecconfigd"), [Section 15.1.3, “Configuration Management (**ecconfigd**)”](conf.overview#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)")
+
+| [Prev](executable.ec_show)  | [Up](exec.cmds.ref) |  [Next](executable.eccmgr) |
+| ec_show  | [Table of Contents](index) |  eccmgr |
+

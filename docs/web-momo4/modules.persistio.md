@@ -1,3 +1,6 @@
+| 71.53. persist_io – Persistent IO Wrapper |
+| [Prev](modules.outbound_smtp_auth)  | Chapter 71. Modules Reference |  [Next](modules.pipeio) |
+
 ## 71.53. persist_io – Persistent IO Wrapper
 
 <a class="indexterm" name="idp22544784"></a>
@@ -45,3 +48,7 @@ The path to the directory that holds the cached files. The default value is `/va
 </dd>
 
 </dl>
+
+| [Prev](modules.outbound_smtp_auth)  | [Up](modules) |  [Next](modules.pipeio) |
+| 71.52. outbound_smtp_auth  | [Table of Contents](index) |  71.54. pipe_io – Pipe IO Wrapper |
+

@@ -1,3 +1,6 @@
+| unlink stats |
+| [Prev](console_commands.trace_smtp)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.version) |
+
 <a name="console_commands.unlink_stats"></a>
 ## Name
 
@@ -23,3 +26,7 @@ Attempts       :        6000      6000      6000
 Current Backlog:      0
 Batch Backlog  :      0
 ```
+
+| [Prev](console_commands.trace_smtp)  | [Up](console.cmds.ref) |  [Next](console_commands.version) |
+| trace smtp  | [Table of Contents](index) |  version |
+

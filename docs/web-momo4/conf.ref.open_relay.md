@@ -1,3 +1,6 @@
+| open_relay |
+| [Prev](conf.ref.only_use_best_mx_for_relay_domains)  | Chapter 72. Configuration Options Reference |  [Next](config.open_tracking_enabled) |
+
 <a name="conf.ref.open_relay"></a>
 ## Name
 
@@ -36,3 +39,7 @@ ESMTP_Listener {
 ## See Also
 
 [relay_hosts](conf.ref.relay_hosts "relay_hosts")
+
+| [Prev](conf.ref.only_use_best_mx_for_relay_domains)  | [Up](config.options.ref) |  [Next](config.open_tracking_enabled) |
+| only_use_best_mx_for_relay_domains  | [Table of Contents](index) |  open_tracking_enabled |
+

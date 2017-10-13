@@ -1,3 +1,6 @@
+| spoolbase |
+| [Prev](conf.ref.spool_mode)  | Chapter 72. Configuration Options Reference |  [Next](config.ssl_lock_method) |
+
 <a name="conf.ref.spoolbase"></a>
 ## Name
 
@@ -21,3 +24,7 @@ spoolbase — set the base directory for the spool
 ## See Also
 
 [spool_mode](conf.ref.spool_mode "spool_mode")
+
+| [Prev](conf.ref.spool_mode)  | [Up](config.options.ref) |  [Next](config.ssl_lock_method) |
+| spool_mode  | [Table of Contents](index) |  ssl_lock_method |
+

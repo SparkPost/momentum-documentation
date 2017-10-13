@@ -1,3 +1,6 @@
+| event_loop |
+| [Prev](conf.ref.enable_fbl_header_insertion)  | Chapter 72. Configuration Options Reference |  [Next](config.ref.eventloop) |
+
 <a name="config.ref.event_loop"></a>
 ## Name
 
@@ -45,3 +48,7 @@ There is no default value for this option.
 ## See Also
 
 [eventloop](config.ref.eventloop "eventloop")
+
+| [Prev](conf.ref.enable_fbl_header_insertion)  | [Up](config.options.ref) |  [Next](config.ref.eventloop) |
+| enable_fbl_header_insertion  | [Table of Contents](index) |  eventloop |
+

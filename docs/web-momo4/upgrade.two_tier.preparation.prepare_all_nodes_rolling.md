@@ -1,3 +1,6 @@
+| 11.2. Before You Begin the Upgrade |
+| [Prev](upgrade.two_tier_configuration_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.snapshot_cassandra_rolling) |
+
 ## 11.2. Before You Begin the Upgrade
 
 The steps in this section should be done prior to the upgrading your Momentum software. We recommend you perform these steps several days before your planned software upgrade.
@@ -220,3 +223,7 @@ You should perform these steps at a time of low volume. Some services will need 
          20157
         (10 rows)
         ```
+
+| [Prev](upgrade.two_tier_configuration_rolling)  | [Up](upgrade.two_tier_configuration_rolling) |  [Next](upgrade.two_tier.preparation.snapshot_cassandra_rolling) |
+| Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node  | [Table of Contents](index) |  11.3. Perform a Cassandra Snapshot |
+

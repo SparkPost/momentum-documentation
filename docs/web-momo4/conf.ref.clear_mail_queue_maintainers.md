@@ -1,3 +1,6 @@
+| clear_mail_queue_maintainers |
+| [Prev](conf.ref.chroot)  | Chapter 72. Configuration Options Reference |  [Next](config.click_tracking_enabled) |
+
 <a name="conf.ref.clear_mail_queue_maintainers"></a>
 ## Name
 
@@ -18,3 +21,7 @@ The default value is `true`.
 ## Scope
 
 This option is valid in the global scope.
+
+| [Prev](conf.ref.chroot)  | [Up](config.options.ref) |  [Next](config.click_tracking_enabled) |
+| chroot  | [Table of Contents](index) |  click_tracking_enabled |
+

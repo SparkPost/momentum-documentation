@@ -1,3 +1,6 @@
+| validate_config |
+| [Prev](executable.lu_pull)  | Chapter 74. Executable Commands Reference |  [Next](p.appendix) |
+
 <a name="executable.validate_config"></a>
 ## Name
 
@@ -25,4 +28,8 @@ This script is especially useful for confirming the validity of manual changes t
 <a name="idp10882976"></a>
 ## See Also
 
-[Section 15.1.4, “Changing Configuration Files”](conf.overview#conf.manual.changes "15.1.4. Changing Configuration Files"), [ec_dump_config](executable.ec_dump_config.php "ec_dump_config")
+[Section 15.1.4, “Changing Configuration Files”](conf.overview#conf.manual.changes "15.1.4. Changing Configuration Files"), [ec_dump_config](executable.ec_dump_config "ec_dump_config")
+
+| [Prev](executable.lu_pull)  | [Up](exec.cmds.ref) |  [Next](p.appendix) |
+| lu_pull  | [Table of Contents](index) |  Part XI. Appendix |
+

@@ -1,3 +1,6 @@
+| 16.2. `eccluster.conf` File |
+| [Prev](cluster)  | Chapter 16. Cluster-specific Configuration |  [Next](conf.ref.ecelerity_cluster.conf) |
+
 ## 16.2. `eccluster.conf` File
 
 The `eccluster.conf` file configures the behavior of the Momentum Cluster Manager [eccmgr](executable.eccmgr "eccmgr"). Note that it does not configure the behavior of cluster nodes. This file is found in the `/opt/msys/ecelerity/etc/conf/default/` directory.
@@ -266,3 +269,7 @@ The [as_logger](modules.as_logger "71.7. as_logger – Audit Series Logger") mo
 </dd>
 
 </dl>
+
+| [Prev](cluster)  | [Up](cluster) |  [Next](conf.ref.ecelerity_cluster.conf) |
+| Chapter 16. Cluster-specific Configuration  | [Table of Contents](index) |  16.3. `ecelerity-cluster.conf` File |
+

@@ -1,3 +1,6 @@
+| delivery_method |
+| [Prev](conf.ref.delayed_queue_scan_interval)  | Chapter 72. Configuration Options Reference |  [Next](config.ref.delivery_pool) |
+
 <a name="conf.ref.delivery_method"></a>
 ## Name
 
@@ -59,4 +62,8 @@ For domain configuration when the `delivery_method` is `mm7` see [Domain Configu
 <a name="idp24296160"></a>
 ## See Also
 
-[ecstream_port](conf.ref.ecstream_port "ecstream_port"), [lmtp_port](conf.ref.lmtp_port.php "lmtp_port"), [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/), [msg:get_delivery_method](lua.ref.msg_get_delivery_method.php "msg:get_delivery_method"), and [routes](conf.ref.routes.php "routes")
+[ecstream_port](conf.ref.ecstream_port "ecstream_port"), [lmtp_port](conf.ref.lmtp_port "lmtp_port"), [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/), [msg:get_delivery_method](lua.ref.msg_get_delivery_method "msg:get_delivery_method"), and [routes](conf.ref.routes "routes")
+
+| [Prev](conf.ref.delayed_queue_scan_interval)  | [Up](config.options.ref) |  [Next](config.ref.delivery_pool) |
+| delayed_queue_scan_interval  | [Table of Contents](index) |  delivery_pool |
+

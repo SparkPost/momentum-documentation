@@ -1,3 +1,6 @@
+| 29.4. Dumping and Restoring the Database |
+| [Prev](postgresql.client)  | Chapter 29. PostgreSQL |  [Next](riak) |
+
 ## 29.4. Dumping and Restoring the Database
 
 In some circumstances, you may need to change the machine that hosts Momentum and migrate your data to new hardware. When moving to a host with the same operating system, architecture, and bit size, you can simply archive the `/var/db/msyspg` directory and then restore it. Otherwise, you can use PostgreSQL tools to dump and restore the database.
@@ -16,3 +19,7 @@ Database dumps are plain-text files that contain the SQL commands and data requi
 
     `shell> /opt/msys/3rdParty/bin/pg_restore -c -U msyspg -d ecelerity /path/to/db.dump`
 3.  Examine any warnings that are output. You will get errors trying to drop and create some of the schemas, but they are harmless.
+
+| [Prev](postgresql.client)  | [Up](postgresql) |  [Next](riak) |
+| 29.3. Using the PostgreSQL Client Program  | [Table of Contents](index) |  Chapter 30. Riak |
+

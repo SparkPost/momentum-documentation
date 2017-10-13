@@ -1,3 +1,6 @@
+| 35.5. `httplog` |
+| [Prev](log_formats.fbllog)  | Chapter 35. Log Formats |  [Next](log_formats.importlog) |
+
 ## 35.5. `httplog`
 
 The `httplog` logs HTTP requests and responses. It is configured in the [http_logger](modules.http_logger "71.37. http_logger – HTTP Requests and Responses") module.
@@ -27,3 +30,7 @@ The following is a description of the fields:
 | 6 | 500 | HTTP response status code |
 | 7 | 332 | Total number of bytes of the response |
 | 8 | 1045.000 | Time taken from request to response in milliseconds |
+
+| [Prev](log_formats.fbllog)  | [Up](log_formats) |  [Next](log_formats.importlog) |
+| 35.4. `fbllog`  | [Table of Contents](index) |  35.6. `importlog` |
+

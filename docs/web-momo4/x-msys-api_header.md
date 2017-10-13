@@ -1,3 +1,6 @@
+| 41.2. Using the X-MSYS-API Header for Engagement Tracking |
+| [Prev](engagement_tracking_smtp)  | Chapter 41. Tracking Engagement for SMTP |  [Next](engagement_tracking_smtp.policy) |
+
 ## 41.2. Using the X-MSYS-API Header for Engagement Tracking
 
 The X-MSYS-API header can be used to override the configuration option to enable or disable engagement tracking for a specific message. Also, you can specify engagement tracking data in the header fields. For details about engagement tracking for SMTP injections, see [Chapter 41, *Tracking Engagement for SMTP*](engagement_tracking_smtp "Chapter 41. Tracking Engagement for SMTP") .
@@ -43,7 +46,7 @@ There are no X-MSYS-API header fallbacks for the following:
 | tracking_domain | smtpapi_tracking_domain |
 | tracking_link_expiry | smtpapi_tracking_link_expiry |
 
-You must specify the configuration options or the context variables in Lua policy. This is especially important for `tracking_domain`, as the default value of `"localhost:8080"` is not appropriate for production environments. See [Section 71.67.4, “Configuration Options for Engagement Tracking”](modules.smtpapi#modules.smtpapi.config.options "71.67.4. Configuration Options for Engagement Tracking") or [Section 41.3, “Using Policy for Engagement Tracking”](engagement_tracking_smtp.policy.php "41.3. Using Policy for Engagement Tracking"), respectively.
+You must specify the configuration options or the context variables in Lua policy. This is especially important for `tracking_domain`, as the default value of `"localhost:8080"` is not appropriate for production environments. See [Section 71.67.4, “Configuration Options for Engagement Tracking”](modules.smtpapi#modules.smtpapi.config.options "71.67.4. Configuration Options for Engagement Tracking") or [Section 41.3, “Using Policy for Engagement Tracking”](engagement_tracking_smtp.policy "41.3. Using Policy for Engagement Tracking"), respectively.
 
 **X-MSYS-API Header Line Length** 
 
@@ -126,3 +129,7 @@ If the X-MSYS-API header includes invalid JSON values, the SMTP message will be 
 4.3.3 [internal] smtpapi unable to generate unique transmission id
 
  |
+
+| [Prev](engagement_tracking_smtp)  | [Up](engagement_tracking_smtp) |  [Next](engagement_tracking_smtp.policy) |
+| Chapter 41. Tracking Engagement for SMTP  | [Table of Contents](index) |  41.3. Using Policy for Engagement Tracking |
+

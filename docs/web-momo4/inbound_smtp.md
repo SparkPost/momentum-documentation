@@ -1,3 +1,6 @@
+| 19.5. ESMTP_Listener Authentication |
+| [Prev](esmtp_listener.extensions)  | Chapter 19. Configuring Inbound Mail Service Using SMTP |  [Next](inbound_ssl) |
+
 ## 19.5. ESMTP_Listener Authentication
 
 Momentum can be configured to perform authentication on SMTP connections. It provides out-of-the-box support for authenticating remote users against a flat-file using CRAM-MD5, DIGEST-MD5, and LOGIN authentication extensions to SMTP. Additional authentication back-ends can be plugged into Momentum in the form of authentication modules; Momentum ships with authentication modules for a number of standard datasources, and third-party vendors may provide others. For more details on datasource based authentication modules, see [Section 71.8, “auth_ds – Datasource based SMTP Authentication”](modules.auth_ds "71.8. auth_ds – Datasource based SMTP Authentication").
@@ -16,7 +19,7 @@ These results of the authentication attempt will be used to generate an `Authent
 
 ### Note
 
-Hosts are not subject to any SMTP authentication that you may have implemented when specified by the [`relay_hosts`](conf.ref.relay_hosts "relay_hosts") option or when [`open_relay`](conf.ref.open_relay.php "open_relay") is set to "true".
+Hosts are not subject to any SMTP authentication that you may have implemented when specified by the [`relay_hosts`](conf.ref.relay_hosts "relay_hosts") option or when [`open_relay`](conf.ref.open_relay "open_relay") is set to "true".
 
 ### 19.5.1. DIGEST-MD5 Authentication
 
@@ -118,4 +121,8 @@ ESMTP_Listener {
 }
 ```
 
-However, you still need to configure an account log logging module in order to record the accounting information. Set the `acctlog` option in an [ec_logger](modules.ec_logger "71.30. EC_logger – Momentum-Style Logging") module in your configuration. When log authentication is enabled, a line will be written to the `acctlog` file for every authorization event. Each command and its authorization status will be logged to the `acctlog`. If a command is allowed, the role that matched will be included in the log entry. For `acctlog` format, see [Section 35.1, “`acctlog`”](log_formats.php#log_formats.acctlog "35.1. acctlog").
+However, you still need to configure an account log logging module in order to record the accounting information. Set the `acctlog` option in an [ec_logger](modules.ec_logger "71.30. EC_logger – Momentum-Style Logging") module in your configuration. When log authentication is enabled, a line will be written to the `acctlog` file for every authorization event. Each command and its authorization status will be logged to the `acctlog`. If a command is allowed, the role that matched will be included in the log entry. For `acctlog` format, see [Section 35.1, “`acctlog`”](log_formats#log_formats.acctlog "35.1. acctlog").
+
+| [Prev](esmtp_listener.extensions)  | [Up](esmtp_listener) |  [Next](inbound_ssl) |
+| 19.4. SMTP Extensions  | [Table of Contents](index) |  19.6. Inbound SSL |
+

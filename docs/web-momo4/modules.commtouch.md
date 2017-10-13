@@ -1,3 +1,6 @@
+| 71.20. commtouch_ctasd – Commtouch Spam Protection |
+| [Prev](modules.cluster)  | Chapter 71. Modules Reference |  [Next](modules.compress_spool) |
+
 ## 71.20. commtouch_ctasd – Commtouch Spam Protection
 
 <a class="indexterm" name="idp20662576"></a>
@@ -115,3 +118,7 @@ This command outputs the number of pending jobs.
 </dd>
 
 </dl>
+
+| [Prev](modules.cluster)  | [Up](modules) |  [Next](modules.compress_spool) |
+| 71.19. cluster – Cluster  | [Table of Contents](index) |  71.21. compress_spool – Dynamic Spool Compression |
+

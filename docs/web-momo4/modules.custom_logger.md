@@ -1,3 +1,6 @@
+| 71.25. custom_logger – User-defined Logging |
+| [Prev](modules.custom_bounce_logger)  | Chapter 71. Modules Reference |  [Next](modules.delay_dsn) |
+
 ## 71.25. custom_logger – User-defined Logging
 
 <a class="indexterm" name="idp20960112"></a>
@@ -20,7 +23,7 @@ custom_logger "custom_logger1"
 }
 ```
 
-In this example, the `delivery_logfile` option specifies the log file for the delivery stage, and only deliveries will be logged to this path. The `delivery_format` option specifies the fields that will be captured in the log. A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’. For an example, see the `@R@` field shown in [Example 71.41, “`namespace` example”](modules.custom_logger.php#modules.custom_logger.namespace.example "Example 71.41. namespace example"). Don't confuse this with the `@%R@` field which is the macro for the domain of the envelope RCPT TO.
+In this example, the `delivery_logfile` option specifies the log file for the delivery stage, and only deliveries will be logged to this path. The `delivery_format` option specifies the fields that will be captured in the log. A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’. For an example, see the `@R@` field shown in [Example 71.41, “`namespace` example”](modules.custom_logger#modules.custom_logger.namespace.example "Example 71.41. namespace example"). Don't confuse this with the `@%R@` field which is the macro for the domain of the envelope RCPT TO.
 
 Use the following directives to specify a log file for a specific stage. Multiple stages may be specified in the configuration stanza, but a given stage can only be specified once.
 
@@ -391,13 +394,13 @@ The custom logger gets most of its information from the message object. The mess
 
 For example, suppose you have the following custom_logger configuration:
 
-{% raw  %}```
+```
 custom_logger "custom_logger1" {
     rejection_format = "%p @ %s @ %BI @ %A @ %U @ %n @ %h{Subject} @ %r »
 @ %R @ %m @ %M @ %i @ %t @ %t{%Y-%m-%d} @ %H @ %mx @ %S"
   rejection_logfile = "/var/log/ecelerity/my_reject.log"
 }
-```{% endraw  %}
+```
 
 If a message is rejected during the connect phase, the rejection log entry will resemble the following entry:
 
@@ -799,3 +802,7 @@ Value of entry "key" in the message context dictionary
 ### 71.25.9. Configuration of Aggregated Cluster Node Logging
 
 It is possible to aggregate logs in a cluster configuration. For an sample configuration, see [Section 26.2, “Centralized Logging Example”](cluster.config.logging.centalized.logging "26.2. Centralized Logging Example").
+
+| [Prev](modules.custom_bounce_logger)  | [Up](modules) |  [Next](modules.delay_dsn) |
+| 71.24. custom_bounce_logger – Custom Bounce Logging  | [Table of Contents](index) |  71.26. delay_dsn – Delay DSN Generation |
+

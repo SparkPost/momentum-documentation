@@ -1,3 +1,6 @@
+| 16.6. Configuring Momentum for High Availability and Failover |
+| [Prev](cluster.listeners)  | Chapter 16. Cluster-specific Configuration |  [Next](cluster.riak.configuration) |
+
 ## 16.6. Configuring Momentum for High Availability and Failover
 
 Momentum's architecture supports fault-tolerant configurations. This means that you can operate in an environment that is readily configured to support failing over automatically.
@@ -16,6 +19,10 @@ Components that support high availability and fault tolerance include the follow
 
     On the SAN, the paths to directories should be unique per node and each node should be able to mount the SAN directory at its unique location.
 
-*   [cidr_server](cluster.cidr_server "Chapter 39. CIDR Server") and [as_logger](modules.as_logger.php "71.7. as_logger – Audit Series Logger")
+*   [cidr_server](cluster.cidr_server "Chapter 39. CIDR Server") and [as_logger](modules.as_logger "71.7. as_logger – Audit Series Logger")
 
     The **cidr_server** queries the data created by an as_logger module and displays the result in the cluster console. The **cidr_server** and as_logger can be configured to log data to a SAN. Locking semantics must be checked.
+
+| [Prev](cluster.listeners)  | [Up](cluster) |  [Next](cluster.riak.configuration) |
+| 16.5. Cluster-specific Listeners  | [Table of Contents](index) |  16.7. Configuring Riak in a Cluster |
+

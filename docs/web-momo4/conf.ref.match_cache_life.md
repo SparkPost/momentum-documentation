@@ -1,3 +1,6 @@
+| match_cache_life |
+| [Prev](conf.ref.masterdb_file)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.match_cache_size) |
+
 <a name="conf.ref.match_cache_life"></a>
 ## Name
 
@@ -20,4 +23,8 @@ match_cache_life — set the maximum number of seconds that the match cache will
 <a name="idp25257536"></a>
 ## See Also
 
-[match_cache_size](conf.ref.match_cache_size "match_cache_size"), [domain](conf.ref.domain.php "domain")
+[match_cache_size](conf.ref.match_cache_size "match_cache_size"), [domain](conf.ref.domain "domain")
+
+| [Prev](conf.ref.masterdb_file)  | [Up](config.options.ref) |  [Next](conf.ref.match_cache_size) |
+| masterdb_file  | [Table of Contents](index) |  match_cache_size |
+

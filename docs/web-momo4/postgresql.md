@@ -1,3 +1,6 @@
+| Chapter 29. PostgreSQL |
+| [Prev](cluster.config.replication)  | Part III. Configuring Momentum |  [Next](postgresql.server) |
+
 ## Chapter 29. PostgreSQL
 
 **Table of Contents**
@@ -36,7 +39,7 @@ The following describes the default directories and configuration related to the
 
     Other PostgreSQL programs such as **pg_dump** and **pg_dumpall** are also found in this directory.
 
-*   `/opt/msys/3rdParty/etc.d` – Contains the `ecdb.ini` file, which includes the database credentials
+*   `/opt/msys/3rdParty/etc/php.d` – Contains the `ecdb.ini` file, which includes the database credentials
 
 ### Warning
 
@@ -91,3 +94,7 @@ Default setting is `100MB`. With the default settings, a new log file will be cr
 </dd>
 
 </dl>
+
+| [Prev](cluster.config.replication)  | [Up](p.configuration) |  [Next](postgresql.server) |
+| Chapter 28. Data Replication  | [Table of Contents](index) |  29.2. Running the PostgreSQL Server |
+

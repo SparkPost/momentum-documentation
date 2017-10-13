@@ -1,3 +1,6 @@
+| 71.56. postfix_logger – Postfix Logging |
+| [Prev](modules.pipe_transport)  | Chapter 71. Modules Reference |  [Next](modules.reception_timing) |
+
 ## 71.56. postfix_logger – Postfix Logging
 
 <a class="indexterm" name="idp22647248"></a>
@@ -27,3 +30,7 @@ postfix_logger "postfix_logger1" {
 You must manually create the `postfix` directory and it must be writable by the user, `ecuser`. You must do this if you manually create the postfix module. You can change the ownership of the directory by issuing the shell command: **chown -R ecuser:ecuser /var/log/postfix** .
 
 You can toggle the logging of transient failures using the `log_transient_failures` option.
+
+| [Prev](modules.pipe_transport)  | [Up](modules) |  [Next](modules.reception_timing) |
+| 71.55. pipe_transport – Module  | [Table of Contents](index) |  71.57. reception_timing - Reception Timing Modules |
+

@@ -1,3 +1,6 @@
+| msys.qp.decode |
+| [Prev](lua.ref.msys.os.statvfs_subscribe)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.qp.encode) |
+
 <a name="lua.ref.msys.qp.decode"></a>
 ## Name
 
@@ -23,3 +26,7 @@ Enable this function with the statement `require('msys.qp');`.
 ## See Also
 
 [msys.qp.encode](lua.ref.msys.qp.encode "msys.qp.encode")
+
+| [Prev](lua.ref.msys.os.statvfs_subscribe)  | [Up](lua.function.details) |  [Next](lua.ref.msys.qp.encode) |
+| msys.os.statvfs_subscribe  | [Table of Contents](index) |  msys.qp.encode |
+

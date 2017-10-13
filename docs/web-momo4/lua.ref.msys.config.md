@@ -1,3 +1,6 @@
+| msys.config |
+| [Prev](lua.ref.msys.cast)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.dnslookup) |
+
 <a name="lua.ref.msys.config"></a>
 ## Name
 
@@ -29,3 +32,7 @@ This function returns two values:
 *   The textual output from the command (what you would have seen had you typed it via ec_console)
 
 Because this function is in the `msys` namespace, an explicit `require` is not necessary.
+
+| [Prev](lua.ref.msys.cast)  | [Up](lua.function.details) |  [Next](lua.ref.msys.dnslookup) |
+| msys.cast  | [Table of Contents](index) |  msys.dnsLookup |
+

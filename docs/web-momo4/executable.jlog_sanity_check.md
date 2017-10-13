@@ -1,3 +1,6 @@
+| jlog_sanity_check |
+| [Prev](executable.jlog_change_endian)  | Chapter 74. Executable Commands Reference |  [Next](executable.jlogctl) |
+
 <a name="executable.jlog_sanity_check"></a>
 ## Name
 
@@ -17,3 +20,7 @@ The first argument indicates the endianness of the system on which the jlog was 
 The second argument is the path to the jlog you want to check.
 
 This command should be run as `ecuser`.
+
+| [Prev](executable.jlog_change_endian)  | [Up](exec.cmds.ref) |  [Next](executable.jlogctl) |
+| jlog_change_endian  | [Table of Contents](index) |  jlogctl |
+

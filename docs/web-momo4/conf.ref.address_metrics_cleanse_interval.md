@@ -1,3 +1,6 @@
+| address_metrics_cleanse_interval |
+| [Prev](conf.ref.adaptive_scope)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.address_metrics_lifetime) |
+
 <a name="conf.ref.address_metrics_cleanse_interval"></a>
 ## Name
 
@@ -23,3 +26,7 @@ address_metrics_cleanse_interval is valid in the global scope.
 ## See Also
 
 [address_metrics_lifetime](conf.ref.address_metrics_lifetime "address_metrics_lifetime")
+
+| [Prev](conf.ref.adaptive_scope)  | [Up](config.options.ref) |  [Next](conf.ref.address_metrics_lifetime) |
+| adaptive_scope  | [Table of Contents](index) |  address_metrics_lifetime |
+

@@ -1,3 +1,6 @@
+| 71.73. url_ripper – URL Extraction |
+| [Prev](tls_macros)  | Chapter 71. Modules Reference |  [Next](config.options.ref) |
+
 ## 71.73. url_ripper – URL Extraction
 
 <a class="indexterm" name="idp23292880"></a>
@@ -41,7 +44,7 @@ url_ripper "url_ripper1" {
 
 ### Note
 
-This module no longer supports the `checklist_suppress_hostnames` and `checklist_suppress_ips` options, which were dependent upon the deprecated `checklist` module. You can replace this functionality with Lua datasource functions. For more information, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core "71.29. ds_core - Datasource Query Core") and [msys.dp_config.whitelist](https://support.messagesystems.com/docs/web-policy/policy.default.configuration.php#policy.default.configuration.msys.dp_config.whitelist).
+This module no longer supports the `checklist_suppress_hostnames` and `checklist_suppress_ips` options, which were dependent upon the deprecated `checklist` module. You can replace this functionality with Lua datasource functions. For more information, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core "71.29. ds_core - Datasource Query Core") and [msys.dp_config.whitelist](https://support.messagesystems.com/docs/web-policy/policy.default.configuration#policy.default.configuration.msys.dp_config.whitelist).
 
 The following are the configuration options defined within this module:
 
@@ -162,3 +165,7 @@ The list is consulted by resolving A records for:
 Any A records found are checked against the configuration file, and the local message context is updated to reflect any matches.
 
 In the example above, if `forward` was set to `false`, the EHLO hostname (sender.example.com) would not be converted to an IP address and queried against DNSBL, and mail.example.com from the MAIL FROM and test.omniti.com from RCPT TO would only be looked up as domains. Also, there would be no lookup for 10.2.0.192.multi.surbl.org or 20.2.0.192.multi.surbl.org from the body, just superabuser.com.multi.surbl.org and covertabuser.co.uk.multi.surbl.org.
+
+| [Prev](tls_macros)  | [Up](modules) |  [Next](config.options.ref) |
+| 71.72. tls_macros – TLS-related Logging  | [Table of Contents](index) |  Chapter 72. Configuration Options Reference |
+

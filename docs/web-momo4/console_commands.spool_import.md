@@ -1,3 +1,6 @@
+| spool import |
+| [Prev](console_commands.sp_async)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.spool_import_poll) |
+
 <a name="console_commands.spool_import"></a>
 ## Name
 
@@ -28,3 +31,7 @@ You can configure the ec_logger module to log import events as described in [Sec
 ## See Also
 
 [spool import_poll](console_commands.spool_import_poll "spool import_poll")
+
+| [Prev](console_commands.sp_async)  | [Up](console.cmds.ref) |  [Next](console_commands.spool_import_poll) |
+| sp_async  | [Table of Contents](index) |  spool import_poll |
+

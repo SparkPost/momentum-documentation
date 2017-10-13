@@ -1,3 +1,6 @@
+| tracking_domain |
+| [Prev](conf.ref.trace_smtp_mode)  | Chapter 72. Configuration Options Reference |  [Next](config.tracking_link_expiry) |
+
 <a name="config.tracking_domain"></a>
 ## Name
 
@@ -22,3 +25,7 @@ The corresponding context variable is `smtpapi_tracking_domain`. There is no cor
 ## Scope
 
 `tracking_domain` is valid in the esmtp_listener, listen, pathway, pathway_group, and peer scope.
+
+| [Prev](conf.ref.trace_smtp_mode)  | [Up](config.options.ref) |  [Next](config.tracking_link_expiry) |
+| trace_smtp_mode  | [Table of Contents](index) |  tracking_link_expiry |
+

@@ -1,3 +1,6 @@
+| message details |
+| [Prev](console_commands.memory)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.message_fail) |
+
 <a name="console_commands.message_details"></a>
 ## Name
 
@@ -40,3 +43,7 @@ If both the metadata and the body are desired, the "full" option should be used:
 ### Note
 
 `message details` cannot show details for a message that is in the process of being delivered.
+
+| [Prev](console_commands.memory)  | [Up](console.cmds.ref) |  [Next](console_commands.message_fail) |
+| memory  | [Table of Contents](index) |  message fail |
+

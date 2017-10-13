@@ -1,3 +1,6 @@
+| msys.brightmail.scan |
+| [Prev](lua.ref.msys.bounce.classify_smtp_response)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.cidr.define) |
+
 <a name="lua.ref.msys.brightmail.scan"></a>
 ## Name
 
@@ -65,3 +68,7 @@ end
 
 msys.registerModule("test_bm", mod);
 ```
+
+| [Prev](lua.ref.msys.bounce.classify_smtp_response)  | [Up](lua.function.details) |  [Next](lua.ref.msys.cidr.define) |
+| msys.bounce.classify_smtp_response  | [Table of Contents](index) |  msys.cidr.define |
+

@@ -1,3 +1,6 @@
+| node:addchild |
+| [Prev](lua.ref.xml.doc_xpath)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.node_attribute) |
+
 <a name="lua.ref.xml.node_addchild"></a>
 ## Name
 
@@ -33,3 +36,7 @@ You can also pass a node object to this function, the return value of [node:chil
 ### See Also
 
 [doc:root](lua.ref.xml.doc_root "doc:root")
+
+| [Prev](lua.ref.xml.doc_xpath)  | [Up](lua.function.details) |  [Next](lua.ref.xml.node_attribute) |
+| doc:xpath  | [Table of Contents](index) |  node:attribute |
+

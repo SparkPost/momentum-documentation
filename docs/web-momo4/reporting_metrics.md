@@ -1,3 +1,6 @@
+| Chapter 58. Using the Metrics API for Reporting |
+| [Prev](web-ui.reports.evaluating.campaign.performance)  | Part VIII. Reporting and Engagement Tracking |  [Next](reporting_webhooks) |
+
 ## Chapter 58. Using the Metrics API for Reporting
 
 **Introduction**
@@ -49,3 +52,7 @@ Follow these steps to report data using the Metrics API:
     This response shows that there was one unique click for the link to www.messagesystems.com.
 
 Congratulations! You have successfully retrieved reporting data using the Metrics API. This tutorial demonstrated retrieving data for only one event type. The Metrics API supports many different reports. For detailed information about all the reporting options, see the Metrics API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
+
+| [Prev](web-ui.reports.evaluating.campaign.performance)  | [Up](p.analytics) |  [Next](reporting_webhooks) |
+| 57.4. Evaluating Your Campaign Performance  | [Table of Contents](index) |  Chapter 59. Using Webhooks for Event Data |
+

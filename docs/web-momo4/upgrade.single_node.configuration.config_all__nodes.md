@@ -1,3 +1,6 @@
+| 10.4. Configuration Changes |
+| [Prev](upgrade.single_node.configuration.flyway)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.single_node.configuration.software_upgrade) |
+
 ## 10.4. Configuration Changes
 
 Update the following files by copying the root -> application -> vertica stanza to root -> vertica:
@@ -49,3 +52,7 @@ In the webhooks-api version, a Cassandra stanza follows the Application stanza, 
          // stuff, probably hosts
       }
     ```
+
+| [Prev](upgrade.single_node.configuration.flyway)  | [Up](upgrade.single_node) |  [Next](upgrade.single_node.configuration.software_upgrade) |
+| 10.3. Prepare and Run Flyway  | [Table of Contents](index) |  10.5. Software Upgrade |
+

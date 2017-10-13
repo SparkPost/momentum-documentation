@@ -1,3 +1,6 @@
+| Chapter 40. Adjusting your Client Mail Application |
+| [Prev](p.smtp_injections)  | Part VI. SMTP Injection |  [Next](engagement_tracking_smtp) |
+
 ## Chapter 40. Adjusting your Client Mail Application
 
 **Introduction**
@@ -35,3 +38,7 @@ If you have some management code that needs to use the local server's "Mail" fun
 *   Execute the management code as normal.
 
 The mail will route to Momentum for delivery.
+
+| [Prev](p.smtp_injections)  | [Up](p.smtp_injections) |  [Next](engagement_tracking_smtp) |
+| Part VI. SMTP Injection  | [Table of Contents](index) |  Chapter 41. Tracking Engagement for SMTP |
+

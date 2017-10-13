@@ -1,3 +1,6 @@
+| msys.httpclnt.http_status_classifier |
+| [Prev](lua.ref.sess_request_set_body)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.http.client.new) |
+
 <a name="lua.ref.msys.httpclnt.http_status_classifier"></a>
 ## Name
 
@@ -27,4 +30,8 @@ Use this function in the `http_response_eval` callout.
 <a name="idp15331728"></a>
 ## See Also
 
-[Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/), [msys.gcm.gcm_classify_error](lua.ref.msys.gcm.gcm_classify_error "msys.gcm.gcm_classify_error") and [msys.apn.apn_status_classifier](lua.ref.msys.apn.apn_status_classifier.php "msys.apn.apn_status_classifier").
+[Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/), [msys.gcm.gcm_classify_error](lua.ref.msys.gcm.gcm_classify_error "msys.gcm.gcm_classify_error") and [msys.apn.apn_status_classifier](lua.ref.msys.apn.apn_status_classifier "msys.apn.apn_status_classifier").
+
+| [Prev](lua.ref.sess_request_set_body)  | [Up](lua.function.details) |  [Next](lua.ref.msys.http.client.new) |
+| sess:request_set_body  | [Table of Contents](index) |  msys.http.client.new |
+

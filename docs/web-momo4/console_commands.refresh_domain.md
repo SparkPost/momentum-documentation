@@ -1,3 +1,6 @@
+| refresh domain |
+| [Prev](console_commands.rebind)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.reopen_logs) |
+
 <a name="console_commands.refresh_domain"></a>
 ## Name
 
@@ -14,4 +17,8 @@ This command takes a single argument in the form of a domain name and refreshes 
 
 ### Note
 
-This console command manipulates the *route cache* , and likewise with the [dig](console_commands.dig "dig") and [domain](console_commands.domain.php "domain") commands. The *DNS cache* , is manipulated by the [dns_cache](console_commands.dns_cache.php "dns_cache") series of console commands.
+This console command manipulates the *route cache* , and likewise with the [dig](console_commands.dig "dig") and [domain](console_commands.domain "domain") commands. The *DNS cache* , is manipulated by the [dns_cache](console_commands.dns_cache "dns_cache") series of console commands.
+
+| [Prev](console_commands.rebind)  | [Up](console.cmds.ref) |  [Next](console_commands.reopen_logs) |
+| rebind  | [Table of Contents](index) |  reopen logs |
+

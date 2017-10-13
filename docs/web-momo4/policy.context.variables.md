@@ -1,3 +1,6 @@
+| Chapter 63. Validation Context Variables |
+| [Prev](implementing.policy.scriptlets)  | Part IX. Writing Policy |  [Next](policy.context-mess) |
+
 ## Chapter 63. Validation Context Variables
 
 **Table of Contents**
@@ -110,3 +113,7 @@ Modules that support predefined module-specific connection context variables are
 *   [conntrol – Fine-Grained Connection Control](modules.conntrol#modules.conntrol.context.variables "71.22.2. Connection Context Variables")
 
 *   [mail_loop – Mail Loop Detection](modules.mail_loop#modules.mail_loop.context.variables "71.45.2. Connection Context Variables")
+
+| [Prev](implementing.policy.scriptlets)  | [Up](p.policy) |  [Next](policy.context-mess) |
+| 62.2. Policy Scriptlets  | [Table of Contents](index) |  63.2. Message Context Variables |
+

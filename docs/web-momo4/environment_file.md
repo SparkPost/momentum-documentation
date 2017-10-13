@@ -1,3 +1,6 @@
+| Chapter 31. Configuring the Environment File |
+| [Prev](operations.riak.backups)  | Part III. Configuring Momentum |  [Next](p.logs) |
+
 ## Chapter 31. Configuring the Environment File
 
 Environment variables should be set or adjusted on startup. If Momentum is started up using the [ec_ctl](executable.ec_ctl "ec_ctl") script, any environment variables included in the `environment` file will be set.
@@ -56,8 +59,12 @@ Environment variables can be set in the `/opt/msys/ecelerity/etc/environment` fi
 
 *   `TRY` – number of times to loop waiting for Momentum to start up
 
-    For examples of usage, see [ec_ctl](executable.ec_ctl "ec_ctl") and [ecconfigd_ctl](executable.ecconfigd_ctl.php "ecconfigd_ctl").
+    For examples of usage, see [ec_ctl](executable.ec_ctl "ec_ctl") and [ecconfigd_ctl](executable.ecconfigd_ctl "ecconfigd_ctl").
 
 ### Note
 
 The `GIMLI_WATCHDOG_INTERVAL`, `GIMLI_WATCHDOG_START_INTERVAL`, and `GIMLI_WATCHDOG_STOP_INTERVAL` variables set the interval for restarting Momentum when it has been unresponsive. For more details execute **`man -M /opt/msys/gimli/man monitor`**                                .
+
+| [Prev](operations.riak.backups)  | [Up](p.configuration) |  [Next](p.logs) |
+| 30.4. Backups  | [Table of Contents](index) |  Part IV. Logging |
+

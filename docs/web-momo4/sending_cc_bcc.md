@@ -1,3 +1,6 @@
+| Chapter 52. Sending Emails as CC and BCC |
+| [Prev](using_list)  | Part VII. Message Generation (HTTP) |  [Next](complex_template) |
+
 ## Chapter 52. Sending Emails as CC and BCC
 
 **Configuration Change. ** Sending emails as BCC is supported as of version 4.1-HF4.
@@ -114,3 +117,7 @@ Follow these steps to send a simple transmission with *CC* and *BCC* recipients:
     Verify that your recipients received the emails, then open the UI and confirm that your message was successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui "Chapter 56. Using the UI for Reporting") .
 
 Congratulations! You have used your knowledge of the REST API to send an email as a *CC* and *BCC*. You can find more information about the attributes used in the Templates and Recipient Lists API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
+
+| [Prev](using_list)  | [Up](p.http_rest) |  [Next](complex_template) |
+| Chapter 51. Using Stored Recipient Lists  | [Table of Contents](index) |  Chapter 53. Using Complex Templates |
+

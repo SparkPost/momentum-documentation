@@ -1,3 +1,6 @@
+| Part III. Configuring Momentum |
+| [Prev](node_remove_analytics)  |   |  [Next](conf.overview) |
+
 ## Part III. Configuring Momentum
 
 **Table of Contents**
@@ -263,3 +266,7 @@
 <dt>[31\. Configuring the Environment File](environment_file)</dt>
 
 </dl>
+
+| [Prev](node_remove_analytics)  |   |  [Next](conf.overview) |
+| 14.2. Removing an Analytics Node  | [Table of Contents](index) |  Chapter 15. Configuration Overview |
+

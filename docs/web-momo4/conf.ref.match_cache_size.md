@@ -1,3 +1,6 @@
+| match_cache_size |
+| [Prev](conf.ref.match_cache_life)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_deliveries_per_connection) |
+
 <a name="conf.ref.match_cache_size"></a>
 ## Name
 
@@ -30,4 +33,8 @@ match_cache_size is valid in the global scope.
 <a name="idp25276576"></a>
 ## See Also
 
-[match_cache_life](conf.ref.match_cache_life "match_cache_life") and [domain](conf.ref.domain.php "domain")
+[match_cache_life](conf.ref.match_cache_life "match_cache_life") and [domain](conf.ref.domain "domain")
+
+| [Prev](conf.ref.match_cache_life)  | [Up](config.options.ref) |  [Next](conf.ref.max_deliveries_per_connection) |
+| match_cache_life  | [Table of Contents](index) |  max_deliveries_per_connection |
+

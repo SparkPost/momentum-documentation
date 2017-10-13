@@ -1,3 +1,6 @@
+| outbound_throttle_connections |
+| [Prev](conf.ref.opendkim_sign)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.outbound_throttle_messages) |
+
 <a name="conf.ref.outbound_throttle_connections"></a>
 ## Name
 
@@ -26,3 +29,7 @@ This option can also be used to throttle *ecstream* connections.
 ## Scope
 
 outbound_throttle_connections is valid in the binding, binding_group, domain, and global scopes.
+
+| [Prev](conf.ref.opendkim_sign)  | [Up](config.options.ref) |  [Next](conf.ref.outbound_throttle_messages) |
+| opendkim_sign  | [Table of Contents](index) |  outbound_throttle_messages |
+

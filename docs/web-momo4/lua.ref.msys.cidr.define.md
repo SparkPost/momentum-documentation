@@ -1,3 +1,6 @@
+| msys.cidr.define |
+| [Prev](lua.ref.msys.brightmail.scan)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.cidr.query) |
+
 <a name="lua.ref.msys.cidr.define"></a>
 ## Name
 
@@ -106,4 +109,8 @@ This value creates an empty CIDR that you can populate for yourself.
 <a name="idp17704256"></a>
 ## See Also
 
-[Section 71.16, “cidrdb – CIDRDB”](modules.cidrdb "71.16. cidrdb – CIDRDB"), [msys.cidr.reload](lua.ref.msys.cidr.reload.php "msys.cidr.reload"), [msys.cidr.query](lua.ref.msys.cidr.query.php "msys.cidr.query")
+[Section 71.16, “cidrdb – CIDRDB”](modules.cidrdb "71.16. cidrdb – CIDRDB"), [msys.cidr.reload](lua.ref.msys.cidr.reload "msys.cidr.reload"), [msys.cidr.query](lua.ref.msys.cidr.query "msys.cidr.query")
+
+| [Prev](lua.ref.msys.brightmail.scan)  | [Up](lua.function.details) |  [Next](lua.ref.msys.cidr.query) |
+| msys.brightmail.scan  | [Table of Contents](index) |  msys.cidr.query |
+

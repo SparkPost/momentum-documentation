@@ -1,3 +1,6 @@
+| delayed |
+| [Prev](console_commands.counter)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.dig) |
+
 <a name="console_commands.delayed"></a>
 ## Name
 
@@ -57,3 +60,7 @@ total messages sent during the life of the domain record
 </dl>
 
 The row detailing the totals represents the totals across *all* domains, not just those listed.
+
+| [Prev](console_commands.counter)  | [Up](console.cmds.ref) |  [Next](console_commands.dig) |
+| counter  | [Table of Contents](index) |  dig |
+

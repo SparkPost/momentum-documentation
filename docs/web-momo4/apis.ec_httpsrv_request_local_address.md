@@ -1,3 +1,6 @@
+| ec_httpsrv_request_local_address |
+| [Prev](apis.ec_httpsrv_register_auth)  | Chapter 69. Hook Points and C Functions Reference |  [Next](apis.ec_httpsrv_request_peer_address) |
+
 <a name="apis.ec_httpsrv_request_local_address"></a>
 ## Name
 
@@ -35,3 +38,7 @@ session to interrogate
 address in ec_sockaddr * format
 
 The local IP address will be valid for the lifetime of the session.
+
+| [Prev](apis.ec_httpsrv_register_auth)  | [Up](hooks) |  [Next](apis.ec_httpsrv_request_peer_address) |
+| ec_httpsrv_register_auth  | [Table of Contents](index) |  ec_httpsrv_request_peer_address |
+

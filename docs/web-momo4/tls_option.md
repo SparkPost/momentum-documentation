@@ -1,3 +1,6 @@
+| 25.5. Outbound TLS |
+| [Prev](outbound_mail.traffic.shaping)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](outbound_mail.outbound.xclient) |
+
 ## 25.5. Outbound TLS
 
 A recent initiative among the large ISPs and receiving domains is to use Transport Layer Security protocol (TLS) by default for mail traffic. TLS is a standard for providing cryptographic protection of communication sessions between two systems. It is derived from the earlier standard, Secure Sockets Layer (SSL) and is the replacement for SSL. – They are not the same.
@@ -46,7 +49,7 @@ By default, TLS is disabled. To use TLS, you must change the `TLS` option in the
 
 ### Note
 
-If you enable TLS, see [Section 12.6, “Security Considerations”](install.security_considerations "12.6. Security Considerations") for information on how to fix the POODLE vulnerability using either the [tls_protocols](config.tls_protocols.php "tls_protocols") option (for OpenSSL) or the [tls_ciphers](config.tls_ciphers.php "tls_ciphers") option (for GNUTLS).
+If you enable TLS, see [Section 12.6, “Security Considerations”](install.security_considerations "12.6. Security Considerations") for information on how to fix the POODLE vulnerability using either the [tls_protocols](config.tls_protocols "tls_protocols") option (for OpenSSL) or the [tls_ciphers](config.tls_ciphers "tls_ciphers") option (for GNUTLS).
 
 The following is an example configuration in the `ecelerity.conf` file:
 
@@ -66,3 +69,7 @@ binding "customer-1" {
 ### 25.5.2. Logging Macros
 
 A number of macros are available to enable logging of details about the TLS session used for a delivery attempt. To use these macros, you must load the tls_macros module. See [Section 71.72, “tls_macros – TLS-related Logging”](tls_macros "71.72. tls_macros – TLS-related Logging").
+
+| [Prev](outbound_mail.traffic.shaping)  | [Up](outbound_mail) |  [Next](outbound_mail.outbound.xclient) |
+| 25.4. Throttling and Traffic Shaping  | [Table of Contents](index) |  25.6. Outbound XCLIENT support |
+

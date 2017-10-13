@@ -1,3 +1,6 @@
+| c:setopt |
+| [Prev](lua.ref.curl.c_perform)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.curl.escape) |
+
 <a name="lua.ref.curl.c_setopt"></a>
 ## Name
 
@@ -375,3 +378,7 @@ The following options are set to boolean, `true` or `false` only. (`0` and `1` a
 ### See Also
 
 [curl.new](lua.ref.curl.new "curl.new")
+
+| [Prev](lua.ref.curl.c_perform)  | [Up](lua.function.details) |  [Next](lua.ref.curl.escape) |
+| c:perform  | [Table of Contents](index) |  curl.escape |
+

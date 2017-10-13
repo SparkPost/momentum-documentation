@@ -1,3 +1,6 @@
+| generate_bounces |
+| [Prev](conf.ref.gateway)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.generate_bounces_for_multi_recipient_policy_rejections) |
+
 <a name="conf.ref.generate_bounces"></a>
 ## Name
 
@@ -25,3 +28,7 @@ generate_bounces is valid in the binding, binding_group, domain and global scope
 ## See Also
 
 [bounce_behavior](conf.ref.bounce_behavior "bounce_behavior")
+
+| [Prev](conf.ref.gateway)  | [Up](config.options.ref) |  [Next](conf.ref.generate_bounces_for_multi_recipient_policy_rejections) |
+| gateway  | [Table of Contents](index) |  generate_bounces_for_multi_recipient_policy_rejections |
+

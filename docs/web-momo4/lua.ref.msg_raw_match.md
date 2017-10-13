@@ -1,3 +1,6 @@
+| msg:raw_match |
+| [Prev](lua.ref.msg_raw)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_raw_replace) |
+
 <a name="lua.ref.msg_raw_match"></a>
 ## Name
 
@@ -19,3 +22,7 @@ Enable this function with the statement `require('msys.extended.message');`.
 ## See Also
 
 [msg:raw_replace](lua.ref.msg_raw_replace "msg:raw_replace")
+
+| [Prev](lua.ref.msg_raw)  | [Up](lua.function.details) |  [Next](lua.ref.msg_raw_replace) |
+| msg:raw  | [Table of Contents](index) |  msg:raw_replace |
+

@@ -1,3 +1,6 @@
+| delayed_queue_scan_interval |
+| [Prev](conf.ref.delayed_binding_domain_fuzz)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.delivery_method) |
+
 <a name="conf.ref.delayed_queue_scan_interval"></a>
 ## Name
 
@@ -24,3 +27,7 @@ The default value is `15`.
 ## Scope
 
 delayed_queue_scan_interval is valid in the global scope.
+
+| [Prev](conf.ref.delayed_binding_domain_fuzz)  | [Up](config.options.ref) |  [Next](conf.ref.delivery_method) |
+| delayed_binding_domain_fuzz  | [Table of Contents](index) |  delivery_method |
+

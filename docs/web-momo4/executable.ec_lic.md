@@ -1,3 +1,6 @@
+| ec_lic |
+| [Prev](executable.ec_dump_config)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_log_trace) |
+
 <a name="executable.ec_lic"></a>
 ## Name
 
@@ -125,3 +128,7 @@ Proxy type (HTTP, SOCKS4, SOCKS5).
 </dd>
 
 </dl>
+
+| [Prev](executable.ec_dump_config)  | [Up](exec.cmds.ref) |  [Next](executable.ec_log_trace) |
+| ec_dump_config  | [Table of Contents](index) |  ec_log_trace |
+

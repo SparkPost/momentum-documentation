@@ -1,3 +1,6 @@
+| outbound_throttle_messages |
+| [Prev](conf.ref.outbound_throttle_connections)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pathway) |
+
 <a name="conf.ref.outbound_throttle_messages"></a>
 ## Name
 
@@ -109,3 +112,7 @@ outbound_throttle_messages is valid in the binding, binding_group, domain, and g
 ## See Also
 
 [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback")
+
+| [Prev](conf.ref.outbound_throttle_connections)  | [Up](config.options.ref) |  [Next](conf.ref.pathway) |
+| outbound_throttle_connections  | [Table of Contents](index) |  pathway |
+

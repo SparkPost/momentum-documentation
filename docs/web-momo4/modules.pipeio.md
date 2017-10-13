@@ -1,3 +1,6 @@
+| 71.54. pipe_io – Pipe IO Wrapper |
+| [Prev](modules.persistio)  | Chapter 71. Modules Reference |  [Next](modules.pipe_transport) |
+
 ## 71.54. pipe_io – Pipe IO Wrapper
 
 <a class="indexterm" name="idp22563168"></a>
@@ -149,3 +152,7 @@ Logs {
 ### 71.54.4. See Also
 
 [Chapter 31, *Configuring the Environment File*](environment_file "Chapter 31. Configuring the Environment File") 
+
+| [Prev](modules.persistio)  | [Up](modules) |  [Next](modules.pipe_transport) |
+| 71.53. persist_io – Persistent IO Wrapper  | [Table of Contents](index) |  71.55. pipe_transport – Module |
+

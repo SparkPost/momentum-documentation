@@ -1,3 +1,6 @@
+| msys.pcre.replace |
+| [Prev](lua.ref.msys.pcre.match)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.pcre.split) |
+
 <a name="lua.ref.msys.pcre.replace"></a>
 ## Name
 
@@ -36,4 +39,8 @@ Enable this function with the statement `require('msys.pcre')`.
 <a name="idp18264336"></a>
 ## See Also
 
-[msys.pcre.match](lua.ref.msys.pcre.match "msys.pcre.match"), [msys.pcre.split](lua.ref.msys.pcre.split.php "msys.pcre.split")
+[msys.pcre.match](lua.ref.msys.pcre.match "msys.pcre.match"), [msys.pcre.split](lua.ref.msys.pcre.split "msys.pcre.split")
+
+| [Prev](lua.ref.msys.pcre.match)  | [Up](lua.function.details) |  [Next](lua.ref.msys.pcre.split) |
+| msys.pcre.match  | [Table of Contents](index) |  msys.pcre.split |
+

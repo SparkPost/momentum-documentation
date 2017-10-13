@@ -1,3 +1,6 @@
+| 6.12. Configuring Locale |
+| [Prev](byb.redefine_ephemeral_ports)  | Chapter 6. Before You Begin |  [Next](byb.config_SSH_and_SSHD) |
+
 ## 6.12. Configuring Locale
 
 Ensure that your locale is a UTF-8 setting by invoking the locale command. There are two environment variables that identify non-default locale settings: `LANG` and `LC_ALL`. We recommend that you set `LANG` to `en_US.UTF-8`.
@@ -11,3 +14,7 @@ If the system configuration can be changed; then change the setting in the `/etc
 If set, `LC_ALL` supersedes `LANG`. If neither is set, Vertica will use `en_US`.
 
 For examples of how to set `LANG`, see [Implement Locales for International Data Sets](https://my.vertica.com/docs/7.1.x/HTML/Content/Authoring/AdministratorsGuide/ConfiguringTheDB/ImplementLocalesForInternationalDataSets.htm).
+
+| [Prev](byb.redefine_ephemeral_ports)  | [Up](before_you_begin) |  [Next](byb.config_SSH_and_SSHD) |
+| 6.11. Redefining Ephemeral Ports  | [Table of Contents](index) |  6.13. Configuring SSH and SSHD |
+

@@ -1,3 +1,6 @@
+| 71.11. bind_address_secondary – Dual-stack IPv4/IPv6 Support |
+| [Prev](modules.beik)  | Chapter 71. Modules Reference |  [Next](modules.bounce_classifier_override) |
+
 ## 71.11. bind_address_secondary – Dual-stack IPv4/IPv6 Support
 
 <a class="indexterm" name="idp20047296"></a>
@@ -18,3 +21,7 @@ bind_address_secondary {}
 binding "whatever" {
   bind_address_secondary = *`whatever`*
 }
+
+| [Prev](modules.beik)  | [Up](modules) |  [Next](modules.bounce_classifier_override) |
+| 71.10. beik – Symantec Brightmail™ Engine Integration Kit  | [Table of Contents](index) |  71.12. bounce_classifier_override – Override/Augment Bounce Classifications |
+

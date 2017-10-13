@@ -1,3 +1,6 @@
+| Chapter 45. Generating a Transmission |
+| [Prev](web-ui.apikeys.delete)  | Part VII. Message Generation (HTTP) |  [Next](substitution_data) |
+
 ## Chapter 45. Generating a Transmission
 
 **Introduction**
@@ -78,3 +81,7 @@ Follow these steps to create a simple transmission:
     Verify that your recipient received the email, then open the UI and confirm that your message was successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui "Chapter 56. Using the UI for Reporting") .
 
 Congratulations! You have sent your first email using Momentum's Transmissions API and a simple inline template. In addition to the POST method used in this example, the Transmissions API supports the GET method to retrieve or list details about your transmissions. You can find more information in the Transmissions API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
+
+| [Prev](web-ui.apikeys.delete)  | [Up](p.http_rest) |  [Next](substitution_data) |
+| 44.4. Deleting an API Key  | [Table of Contents](index) |  Chapter 46. Using Substitution Data |
+

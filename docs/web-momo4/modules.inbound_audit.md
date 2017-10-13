@@ -1,10 +1,13 @@
+| 71.41. inbound_audit – Inbound traffic analytics |
+| [Prev](modules.ilf_logger)  | Chapter 71. Modules Reference |  [Next](modules.ipv6_lookup) |
+
 ## 71.41. inbound_audit – Inbound traffic analytics
 
 <a class="indexterm" name="idp21959664"></a>
 
 The inbound_audit module provides time-series analytics on the behavior of sending IPs. It is designed to help spot emergent issues, such as abuse, and to provide a mechanism for implementing counter-based policy on IPs. The inbound_audit module differs from the standard analytics available in Momentum in that it allows you to compare short-term real-time data with data from earlier time windows. This makes it easy to spot changes in behavior.
 
-This module is required by the [adaptive](modules.adaptive "71.3. adaptive – Adaptive Delivery") and [alerting](modules.alerting.php "71.4. alerting – Send Alerting Emails") modules.
+This module is required by the [adaptive](modules.adaptive "71.3. adaptive – Adaptive Delivery") and [alerting](modules.alerting "71.4. alerting – Send Alerting Emails") modules.
 
 ### 71.41.1. Configuration
 
@@ -202,3 +205,7 @@ Subtract a value from a CIDR in a named series.
 </dd>
 
 </dl>
+
+| [Prev](modules.ilf_logger)  | [Up](modules) |  [Next](modules.ipv6_lookup) |
+| 71.40. ilf_logger – Incremental License Fee Logging  | [Table of Contents](index) |  71.42. ipv6_lookup – Multi-address-family MX Records |
+

@@ -1,3 +1,6 @@
+| threads |
+| [Prev](console_commands.sysinfo)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.tls) |
+
 <a name="console_commands.threads"></a>
 ## Name
 
@@ -60,3 +63,7 @@ Jobs in the CPU pool
 ## See Also
 
 [threadpool](conf.ref.threadpool "threadpool")
+
+| [Prev](console_commands.sysinfo)  | [Up](console.cmds.ref) |  [Next](console_commands.tls) |
+| sysinfo  | [Table of Contents](index) |  tls |
+

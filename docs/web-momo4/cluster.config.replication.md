@@ -1,3 +1,6 @@
+| Chapter 28. Data Replication |
+| [Prev](cluster.duravip.conflict)  | Part III. Configuring Momentum |  [Next](postgresql) |
+
 ## Chapter 28. Data Replication
 
 **Table of Contents**
@@ -157,7 +160,7 @@ cluster {
 }
 ```
 
-With this configuration, you can use Lua to add data to a named series and specify that it be replicated. You can also obtain counts from these series. See [msys.audit_series.add](lua.ref.msys.audit_series.add "msys.audit_series.add") and [msys.audit_series.define](lua.ref.msys.audit_series.define.php "msys.audit_series.define").
+With this configuration, you can use Lua to add data to a named series and specify that it be replicated. You can also obtain counts from these series. See [msys.audit_series.add](lua.ref.msys.audit_series.add "msys.audit_series.add") and [msys.audit_series.define](lua.ref.msys.audit_series.define "msys.audit_series.define").
 
 ### 28.1.6. Replicated Caches
 
@@ -181,9 +184,9 @@ cluster {
 }
 ```
 
-Note that if you have the replicate type defined as `cache`, you must supply the `replication_name` of the cache and that name must match the cache name defined in the ds_core module. In [Example 28.1, “Replicated caches”](cluster.config.replication#cluster.replicatedcache.code "Example 28.1. Replicated caches"), for example, the name `mycache` referenced in the cluster stanza is defined in the Datasource scope of the ds_core module. For more information about using the ds_core module, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core.php "71.29. ds_core - Datasource Query Core").
+Note that if you have the replicate type defined as `cache`, you must supply the `replication_name` of the cache and that name must match the cache name defined in the ds_core module. In [Example 28.1, “Replicated caches”](cluster.config.replication#cluster.replicatedcache.code "Example 28.1. Replicated caches"), for example, the name `mycache` referenced in the cluster stanza is defined in the Datasource scope of the ds_core module. For more information about using the ds_core module, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core "71.29. ds_core - Datasource Query Core").
 
-This stanza can be repeated any number of times, specifying a unique `replication_name` for each cache. Key-value pairs can be inserted into, or retrieved from, the replicated cache at run time using Lua. See [msys.gauge_cache.define](lua.ref.msys.gauge_cache.define "msys.gauge_cache.define") and [msys.gauge_cache.get](lua.ref.msys.gauge_cache.get.php "msys.gauge_cache.get").
+This stanza can be repeated any number of times, specifying a unique `replication_name` for each cache. Key-value pairs can be inserted into, or retrieved from, the replicated cache at run time using Lua. See [msys.gauge_cache.define](lua.ref.msys.gauge_cache.define "msys.gauge_cache.define") and [msys.gauge_cache.get](lua.ref.msys.gauge_cache.get "msys.gauge_cache.get").
 
 By default, nodes that join the cluster will receive new or updated key-value pairs as they are inserted into the cache. Any pre-existing key-value pairs present on other nodes will not be populated into the cache on a new node until the key-value pair is updated. To change this behavior, snapshots can be enabled on a per-cache basis. This causes all pre-existing key-value pairs on the other nodes to be populated on a new node as soon as it joins the cluster.
 
@@ -210,7 +213,7 @@ cluster {
 
 ### 28.1.8. Shared Outbound Throttles
 
-Cluster-wide outbound connection and message throttles are supported in the MTA, using the [cluster_outbound_throttle_connections](conf.ref.cluster_outbound_throttle_connections "cluster_outbound_throttle_connections") and [cluster_outbound_throttle_messages](conf.ref.cluster_outbound_throttle_messages.php "cluster_outbound_throttle_messages") configuration parameters. The cluster stanza must include a `replicate` directive to enable outbound message throttles (OBTM) or outbound connection throttles (OBTC).
+Cluster-wide outbound connection and message throttles are supported in the MTA, using the [cluster_outbound_throttle_connections](conf.ref.cluster_outbound_throttle_connections "cluster_outbound_throttle_connections") and [cluster_outbound_throttle_messages](conf.ref.cluster_outbound_throttle_messages "cluster_outbound_throttle_messages") configuration parameters. The cluster stanza must include a `replicate` directive to enable outbound message throttles (OBTM) or outbound connection throttles (OBTC).
 
 ```
 cluster {
@@ -222,7 +225,7 @@ cluster {
 
 ### 28.1.9. Shared Gauge Caches
 
-A gauge cache is a collection of named counters (gauges), which are manipulated by increment or decrement operations. For the Lua functions, see [msys.gauge_cache.inc](lua.ref.msys.gauge_cache.inc "msys.gauge_cache.inc") and [msys.gauge_cache.dec](lua.ref.msys.gauge_cache.dec.php "msys.gauge_cache.dec"). When gauge cache replication is enabled, increments or decrements are broadcast to all nodes on the cluster.
+A gauge cache is a collection of named counters (gauges), which are manipulated by increment or decrement operations. For the Lua functions, see [msys.gauge_cache.inc](lua.ref.msys.gauge_cache.inc "msys.gauge_cache.inc") and [msys.gauge_cache.dec](lua.ref.msys.gauge_cache.dec "msys.gauge_cache.dec"). When gauge cache replication is enabled, increments or decrements are broadcast to all nodes on the cluster.
 
 ```
 cluster {
@@ -232,3 +235,7 @@ cluster {
   }
 }
 ```
+
+| [Prev](cluster.duravip.conflict)  | [Up](p.configuration) |  [Next](postgresql) |
+| 27.4. DuraVIP™ Configuration Conflicts and Ambiguities  | [Table of Contents](index) |  Chapter 29. PostgreSQL |
+

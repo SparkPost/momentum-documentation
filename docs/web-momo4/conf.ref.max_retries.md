@@ -1,3 +1,6 @@
+| max_retries |
+| [Prev](conf.ref.max_resident_transfails)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_retry_interval) |
+
 <a name="conf.ref.max_retries"></a>
 ## Name
 
@@ -42,4 +45,8 @@ The default value for `max_retries` is "auto" so be sure to change it to a posit
 <a name="idp25444688"></a>
 ## See Also
 
-[message_expiration](conf.ref.message_expiration "message_expiration") and [max_retry_interval](conf.ref.max_retry_interval.php "max_retry_interval")
+[message_expiration](conf.ref.message_expiration "message_expiration") and [max_retry_interval](conf.ref.max_retry_interval "max_retry_interval")
+
+| [Prev](conf.ref.max_resident_transfails)  | [Up](config.options.ref) |  [Next](conf.ref.max_retry_interval) |
+| max_resident_transfails  | [Table of Contents](index) |  max_retry_interval |
+

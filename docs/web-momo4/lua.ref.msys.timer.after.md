@@ -1,3 +1,6 @@
+| msys.timer.after |
+| [Prev](lua.ref.msys.threadpool.stat)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.timer.at) |
+
 <a name="lua.ref.msys.timer.after"></a>
 ## Name
 
@@ -50,4 +53,8 @@ Enable this function with the statements `require('msys.timer');` and `require("
 <a name="idp18523184"></a>
 ## See Also
 
-[msys.timer.at](lua.ref.msys.timer.at "msys.timer.at"), [msys.timer.every](lua.ref.msys.timer.every.php "msys.timer.every")
+[msys.timer.at](lua.ref.msys.timer.at "msys.timer.at"), [msys.timer.every](lua.ref.msys.timer.every "msys.timer.every")
+
+| [Prev](lua.ref.msys.threadpool.stat)  | [Up](lua.function.details) |  [Next](lua.ref.msys.timer.at) |
+| msys.threadpool.stat  | [Table of Contents](index) |  msys.timer.at |
+

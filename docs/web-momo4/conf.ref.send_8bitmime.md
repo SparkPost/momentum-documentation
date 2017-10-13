@@ -1,3 +1,6 @@
+| send_8bitmime |
+| [Prev](conf.ref.security)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.server_max_file_descriptors) |
+
 <a name="conf.ref.send_8bitmime"></a>
 ## Name
 
@@ -33,3 +36,7 @@ For RFC 1652 compliance you should set `Send_8BitMime` to `ifavailable` and `Tra
 ## See Also
 
 [transform_8bitmime_content](conf.ref.transform_8bitmime_content "transform_8bitmime_content")
+
+| [Prev](conf.ref.security)  | [Up](config.options.ref) |  [Next](conf.ref.server_max_file_descriptors) |
+| security  | [Table of Contents](index) |  server_max_file_descriptors |
+

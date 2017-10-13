@@ -1,3 +1,6 @@
+| 9.3. Configure the Analytics Nodes |
+| [Prev](install.configure_cassandra)  | Chapter 9. New Installation - All Configurations |  [Next](install.start_remaining_services) |
+
 ## 9.3. Configure the Analytics Nodes
 
 ### 9.3.1. Configure the First Analytics Node
@@ -199,7 +202,7 @@ Copy these configuration files from the FIRST Analytics node to each of the rema
 
 Follow the steps below to create the Vertica database on the first Analytics node.
 
-1.  Configure an environment variable prior to running the Vertica installer. Use the **IP addresses**           for each Vertica node in your deployment. These should be the same IP addresses that you configured in step [4](install_upgrade_packages#install_upgrade_packages.vertica_ips) of [Chapter 8, *Install / Upgrade the Packages*](install_upgrade_packages.php "Chapter 8. Install / Upgrade the Packages") .
+1.  Configure an environment variable prior to running the Vertica installer. Use the **IP addresses**           for each Vertica node in your deployment. These should be the same IP addresses that you configured in step [4](install_upgrade_packages#install_upgrade_packages.vertica_ips) of [Chapter 8, *Install / Upgrade the Packages*](install_upgrade_packages "Chapter 8. Install / Upgrade the Packages") .
 
     export SERVERS=*`1.2.3.1`*,*`1.2.3.2`*, ... ,*`1.2.3.n`*
 2.  Create the database.
@@ -291,3 +294,7 @@ Follow the steps below to create the Vertica database on the first Analytics nod
 14.  Exit the Vertica database administrator user bash session.
 
     `exit`
+
+| [Prev](install.configure_cassandra)  | [Up](new_installation) |  [Next](install.start_remaining_services) |
+| 9.2. Configure the Cassandra Nodes  | [Table of Contents](index) |  9.4. Start Remaining Services |
+

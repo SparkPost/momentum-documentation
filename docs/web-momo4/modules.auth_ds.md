@@ -1,3 +1,6 @@
+| 71.8. auth_ds – Datasource based SMTP Authentication |
+| [Prev](modules.as_logger)  | Chapter 71. Modules Reference |  [Next](modules.auth_radius) |
+
 ## 71.8. auth_ds – Datasource based SMTP Authentication
 
 <a class="indexterm" name="idp19829184"></a>
@@ -10,7 +13,7 @@ You may define multiple authentication schemes against different datasources, an
 
 ### Note
 
-Hosts are not subject to any SMTP authentication that you may have implemented when specified by the [`relay_hosts`](conf.ref.relay_hosts "relay_hosts") option or when [`open_relay`](conf.ref.open_relay.php "open_relay") is set to `true`.
+Hosts are not subject to any SMTP authentication that you may have implemented when specified by the [`relay_hosts`](conf.ref.relay_hosts "relay_hosts") option or when [`open_relay`](conf.ref.open_relay "open_relay") is set to `true`.
 
 When a user attempts to authenticate, the SMTP listener routes the authentication attempt to the authentication module, which then uses the query that you have configured. If the results of the query are not already known, a query is run asynchronously to obtain them, and the SMTP session is suspended, allowing Momentum to continue to service other sessions. When the results come back, the first column of the first row is inspected; if it is a non-zero value, then the authentication is considered successful.
 
@@ -354,3 +357,7 @@ auth_ds {
   }
 }
 ```
+
+| [Prev](modules.as_logger)  | [Up](modules) |  [Next](modules.auth_radius) |
+| 71.7. as_logger – Audit Series Logger  | [Table of Contents](index) |  71.9. auth_radius – RADIUS based SMTP Authentication |
+

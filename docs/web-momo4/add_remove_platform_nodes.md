@@ -1,3 +1,6 @@
+| Chapter 13. Adding and Removing Platform Nodes |
+| [Prev](install.security_considerations)  | Part II. Installing Momentum |  [Next](node_remove) |
+
 ## Chapter 13. Adding and Removing Platform Nodes
 
 **Table of Contents**
@@ -298,3 +301,7 @@ Perform the following steps on each Analytics node in your cluster.
 3.  On all original Platform nodes, the Cassandra database will have duplicate keys that have now been distributed to the added node. Run the following command on each Platform/Cassandra node:
 
     `/opt/msys/3rdParty/cassandra/bin/nodetool cleanup`
+
+| [Prev](install.security_considerations)  | [Up](p.installing) |  [Next](node_remove) |
+| 12.6. Security Considerations  | [Table of Contents](index) |  13.2. Removing a Platform Node |
+

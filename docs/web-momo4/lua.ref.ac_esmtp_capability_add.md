@@ -1,3 +1,6 @@
+| ac:esmtp_capability_add |
+| [Prev](lua.ref.msys.db.execute)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.ac_esmtp_capability_remove) |
+
 <a name="lua.ref.ac_esmtp_capability_add"></a>
 ## Name
 
@@ -39,3 +42,7 @@ The `ac` variable is an accept construct userdata data type. For a description o
 ## See Also
 
 [ac:esmtp_capability_remove](lua.ref.ac_esmtp_capability_remove "ac:esmtp_capability_remove")
+
+| [Prev](lua.ref.msys.db.execute)  | [Up](lua.function.details) |  [Next](lua.ref.ac_esmtp_capability_remove) |
+| msys.db.execute  | [Table of Contents](index) |  ac:esmtp_capability_remove |
+

@@ -1,3 +1,6 @@
+| 71.65. smtp_cbv – SMTP Callback Verification |
+| [Prev](modules.smtp_auth_proxy)  | Chapter 71. Modules Reference |  [Next](modules.smtp_rcptto_proxy) |
+
 ## 71.65. smtp_cbv – SMTP Callback Verification
 
 <a class="indexterm" name="idp22983232"></a>
@@ -77,3 +80,7 @@ You may act on the context variable from a script or from other validation modul
 ### 71.65.3. Abuse Issues With CBV
 
 Using SMTP CBV can abuse a remote MTA if a large number of inbound messages are forged to look like they have been sent from a third party's domain. Exercise caution before deploying this module.
+
+| [Prev](modules.smtp_auth_proxy)  | [Up](modules) |  [Next](modules.smtp_rcptto_proxy) |
+| 71.64. smtp_auth_proxy - SMTP Authentication Proxy  | [Table of Contents](index) |  71.66. smtp_rcptto_proxy - SMTP Recipient-To Proxy |
+

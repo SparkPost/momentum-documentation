@@ -1,3 +1,6 @@
+| 71.62. seedlist – Seedlist Integration |
+| [Prev](modules.securecreds)  | Chapter 71. Modules Reference |  [Next](modules.sendmail_logger) |
+
 ## 71.62. seedlist – Seedlist Integration
 
 <a class="indexterm" name="idp22912176"></a>
@@ -112,3 +115,7 @@ This example matches the original VERP header, as well as two possible patterns,
 ### 71.62.2. Runtime Usage
 
 For custom processing from a Lua script, use the `seedlist_generate_seed` hook point. After seed generation, the message context variable, `#seedlist-orig-from`, is accessible from this hook point and contains the original MAIL FROM of the triggering message. You can take a custom processing step, such as inspecting the `#seedlist-orig-from` context variable and rewriting the MAIL FROM.
+
+| [Prev](modules.securecreds)  | [Up](modules) |  [Next](modules.sendmail_logger) |
+| 71.61. securecreds – Password Encryption/Credential Retrieval  | [Table of Contents](index) |  71.63. sendmail_logger – Sendmail Logging |
+

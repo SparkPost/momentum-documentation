@@ -1,3 +1,6 @@
+| 57.4. Evaluating Your Campaign Performance |
+| [Prev](web-ui.reports.adaptive.delivery)  | Chapter 57. Reports and Engagement Tracking in the UI |  [Next](reporting_metrics) |
+
 ## 57.4. Evaluating Your Campaign Performance
 
 Knowing how many of your messages were opened and what links within the messages were selected are critical pieces in evaluating your campaign's success. The UI provides this engagement data in one specialized report. Use this Engagement report to view details about the performance of your messages and links.
@@ -10,7 +13,7 @@ The Engagement report is specially designed to enable you to drill down to the l
 
 Navigating to the Engagement section removes all filters except time period and campaign. Navigating to the Engagement section removes the binding, binding group, and node filters.
 
-[Figure 57.21, “Engagement Report”](web-ui.reports.evaluating.campaign.performance#figure_engagement_report "Figure 57.21. Engagement Report") shows an example report with filters for domain and campaign. [Figure 57.21, “Engagement Report”](web-ui.reports.evaluating.campaign.performance.php#figure_engagement_report "Figure 57.21. Engagement Report") shows an example report with a filter for campaign.
+[Figure 57.21, “Engagement Report”](web-ui.reports.evaluating.campaign.performance#figure_engagement_report "Figure 57.21. Engagement Report") shows an example report with filters for domain and campaign. [Figure 57.21, “Engagement Report”](web-ui.reports.evaluating.campaign.performance#figure_engagement_report "Figure 57.21. Engagement Report") shows an example report with a filter for campaign.
 
 <a name="figure_engagement_report"></a>
 
@@ -50,3 +53,7 @@ The following are the columns in the table:
 *   Total - Total number of clicks for the given link (i.e., Clicks) divided by Total Clicks for the time period and/or campaign filters applied. Note that Total Clicks is not listed in the report.
 
 You can sort the data by any column to show different arrangements. For example, sorting by Clicks in descending order shows the links that had the most clicks.
+
+| [Prev](web-ui.reports.adaptive.delivery)  | [Up](web-ui.reports) |  [Next](reporting_metrics) |
+| 57.3. Adaptive Delivery Report  | [Table of Contents](index) |  Chapter 58. Using the Metrics API for Reporting |
+

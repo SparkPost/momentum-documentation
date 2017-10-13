@@ -1,3 +1,6 @@
+| Chapter 56. Using the UI for Reporting |
+| [Prev](web-ui)  | Part VIII. Reporting and Engagement Tracking |  [Next](web-ui.reports) |
+
 ## Chapter 56. Using the UI for Reporting
 
 **Introduction**
@@ -39,3 +42,7 @@ To create your custom reports, begin in theSummary section by selecting your met
 See [Chapter 57, *Reports and Engagement Tracking in the UI*                                  ](web-ui.reports "Chapter 57. Reports and Engagement Tracking in the UI") for detailed information about the six reports including screen captures, descriptions of the various metrics, and instructions to create custom reports.
 
 Congratulations! You have successfully logged into Momentum's UI. You can create custom reports in the UI by selecting the metrics and filters for your specific reporting needs. Become familiar with the UI and explore its capabilities.
+
+| [Prev](web-ui)  | [Up](p.analytics) |  [Next](web-ui.reports) |
+| Chapter 55. Getting Started with the Web-based User Interface  | [Table of Contents](index) |  Chapter 57. Reports and Engagement Tracking in the UI |
+

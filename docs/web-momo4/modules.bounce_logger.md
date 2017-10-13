@@ -1,3 +1,6 @@
+| 71.13. bounce_logger – Momentum-Style Bounce Logging |
+| [Prev](modules.bounce_classifier_override)  | Chapter 71. Modules Reference |  [Next](modules.brightmail) |
+
 ## 71.13. bounce_logger – Momentum-Style Bounce Logging
 
 <a class="indexterm" name="idp20140576"></a>
@@ -41,7 +44,7 @@ log_transient_failures = <on|off:  default on>
 
 The `log_transient_failures` option creates a log entry of type ‘`T`’ in the bounce log along with the actual bounce log line. Apart from the type identifier, the log entry for a transient failure is the same as other bounce log entries. Note that bounce log entries differ in format from ec_logger entries. The default value for this option is `on`.
 
-The bounce_logger relies on additional global configuration options: [bounce_domains](conf.ref.bounce_domains "bounce_domains"), [bounce_behavior](conf.ref.bounce_behavior.php "bounce_behavior"), [bounce_suppress_list](conf.ref.bounce_suppress_list.php "bounce_suppress_list") and [bounce_pattern](conf.ref.bounce_pattern.php "bounce_pattern").
+The bounce_logger relies on additional global configuration options: [bounce_domains](conf.ref.bounce_domains "bounce_domains"), [bounce_behavior](conf.ref.bounce_behavior "bounce_behavior"), [bounce_suppress_list](conf.ref.bounce_suppress_list "bounce_suppress_list") and [bounce_pattern](conf.ref.bounce_pattern "bounce_pattern").
 
 The default log file created by this logger is rotated by the utility script **ec_rotate**. For more information, see [ec_rotate](executable.ec_rotate "ec_rotate").
 
@@ -82,3 +85,7 @@ If you move a log, use the ec_console command **reopen logs**      to close and 
 </dd>
 
 </dl>
+
+| [Prev](modules.bounce_classifier_override)  | [Up](modules) |  [Next](modules.brightmail) |
+| 71.12. bounce_classifier_override – Override/Augment Bounce Classifications  | [Table of Contents](index) |  71.14. brightmail – Symantec Brightmail™ Content Scanning Support |
+

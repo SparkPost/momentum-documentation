@@ -1,3 +1,6 @@
+| 48.2. Creating a Template |
+| [Prev](web-ui.templates)  | Chapter 48. Managing Your Templates in the UI |  [Next](web-ui.templates.preview) |
+
 ## 48.2. Creating a Template
 
 In the New Template form, you can specify your template details, enter your template content, preview and test your template using test data, and update your template. Templates can be saved as drafts or set to published.
@@ -73,3 +76,7 @@ An example of plain text content is shown in [Figure 48.5, “Text Content”](
 ![Text Content](images/text_content.png)
 
 Click Save Draft in the New Template form to save your template as a draft. If successfully, a message indicating that your template was saved will be displayed briefly.
+
+| [Prev](web-ui.templates)  | [Up](web-ui.templates) |  [Next](web-ui.templates.preview) |
+| Chapter 48. Managing Your Templates in the UI  | [Table of Contents](index) |  48.3. Previewing and Testing Your Template |
+

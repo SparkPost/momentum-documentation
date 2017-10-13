@@ -1,3 +1,6 @@
+| eccmgr |
+| [Prev](executable.eccfg)  | Chapter 74. Executable Commands Reference |  [Next](executable.eccmgr_ctl) |
+
 <a name="executable.eccmgr"></a>
 ## Name
 
@@ -81,4 +84,8 @@ Show version information.
 <a name="idp12193728"></a>
 ## See Also
 
-[eccmgr_ctl](executable.eccmgr_ctl "eccmgr_ctl"), [Section 16.2, “`eccluster.conf` File”](conf.ref.eccluster.conf.php "16.2. eccluster.conf File"), [Chapter 38, *Using the Cluster Manager (**eccmgr**)*](cluster.config.operations.php "Chapter 38. Using the Cluster Manager (eccmgr)") 
+[eccmgr_ctl](executable.eccmgr_ctl "eccmgr_ctl"), [Section 16.2, “`eccluster.conf` File”](conf.ref.eccluster.conf "16.2. eccluster.conf File"), [Chapter 38, *Using the Cluster Manager (**eccmgr**)*](cluster.config.operations "Chapter 38. Using the Cluster Manager (eccmgr)") 
+
+| [Prev](executable.eccfg)  | [Up](exec.cmds.ref) |  [Next](executable.eccmgr_ctl) |
+| eccfg  | [Table of Contents](index) |  eccmgr_ctl |
+

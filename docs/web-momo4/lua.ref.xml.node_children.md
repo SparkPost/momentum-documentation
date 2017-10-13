@@ -1,3 +1,6 @@
+| node:children |
+| [Prev](lua.ref.xml.node_attribute)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.node_contents) |
+
 <a name="lua.ref.xml.node_children"></a>
 ## Name
 
@@ -29,3 +32,7 @@ end
 ### See Also
 
 [xml.parsexml](lua.ref.xml.parsexml "xml.parsexml")
+
+| [Prev](lua.ref.xml.node_attribute)  | [Up](lua.function.details) |  [Next](lua.ref.xml.node_contents) |
+| node:attribute  | [Table of Contents](index) |  node:contents |
+

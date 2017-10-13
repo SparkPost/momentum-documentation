@@ -1,3 +1,6 @@
+| 71.59. sched – The Schedule Module |
+| [Prev](modules.response_transcode)  | Chapter 71. Modules Reference |  [Next](modules.scriptlet) |
+
 ## 71.59. sched – The Schedule Module
 
 <a class="indexterm" name="idp22796112"></a>
@@ -74,3 +77,7 @@ The output shows the job id followed by the scheduled run time expressed in Unix
 </dd>
 
 </dl>
+
+| [Prev](modules.response_transcode)  | [Up](modules) |  [Next](modules.scriptlet) |
+| 71.58. response_transcode – Module  | [Table of Contents](index) |  71.60. scriptlet - Lua Policy Scripts |
+

@@ -1,3 +1,6 @@
+| rcptto_timeout |
+| [Prev](conf.ref.prohibited_hosts)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.relay_for_sending_domains) |
+
 <a name="conf.ref.rcptto_timeout"></a>
 ## Name
 
@@ -16,3 +19,7 @@ The amount of time in seconds to wait for a response to the `RCPT TO` command. T
 ## Scope
 
 rcptto_timeout is valid in the binding, binding_group, domain, and global scopes.
+
+| [Prev](conf.ref.prohibited_hosts)  | [Up](config.options.ref) |  [Next](conf.ref.relay_for_sending_domains) |
+| prohibited_hosts  | [Table of Contents](index) |  relay_for_sending_domains |
+

@@ -1,3 +1,6 @@
+| 71.22. conntrol – Fine-Grained Connection Control |
+| [Prev](modules.compress_spool)  | Chapter 71. Modules Reference |  [Next](modules.csapi) |
+
 ## 71.22. conntrol – Fine-Grained Connection Control
 
 <a class="indexterm" name="idp20736944"></a>
@@ -53,3 +56,7 @@ Whether the peer started issuing commands before Momentum sent the initial SMTP 
 </dd>
 
 </dl>
+
+| [Prev](modules.compress_spool)  | [Up](modules) |  [Next](modules.csapi) |
+| 71.21. compress_spool – Dynamic Spool Compression  | [Table of Contents](index) |  71.23. csapi – Symantec CSAPI Antivirus Support |
+

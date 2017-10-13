@@ -1,3 +1,6 @@
+| Part IV. Logging |
+| [Prev](environment_file)  |   |  [Next](logging.overview) |
+
 ## Part IV. Logging
 
 **Table of Contents**
@@ -65,3 +68,7 @@
 </dd>
 
 </dl>
+
+| [Prev](environment_file)  |   |  [Next](logging.overview) |
+| Chapter 31. Configuring the Environment File  | [Table of Contents](index) |  Chapter 32. Logging Overview |
+

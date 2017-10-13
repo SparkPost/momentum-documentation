@@ -1,3 +1,6 @@
+| 30.3. Riak Ports |
+| [Prev](riak.service)  | Chapter 30. Riak |  [Next](operations.riak.backups) |
+
 ## 30.3. Riak Ports
 
 Riak uses the following ports:
@@ -15,3 +18,7 @@ None of these ports should be exposed to the public Internet; we strongly recomm
 ### Erlang and Firewalls
 
 The maximum number of concurrent ports used by Erlang is defined in the `/opt/msys/3rdParty/riak/etc/vm.args` file by the variable `ERL_MAX_PORTS`. If port usage needs to be restricted, we recommend defining a range of ports equal to the number of nodes in the cluster. For details on network security and firewall configurations, consult the [Riak](http://http://docs.basho.com/riak/latest/) documentation.
+
+| [Prev](riak.service)  | [Up](riak) |  [Next](operations.riak.backups) |
+| 30.2. Running the Riak Service  | [Table of Contents](index) |  30.4. Backups |
+

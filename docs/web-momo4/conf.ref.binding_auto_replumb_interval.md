@@ -1,3 +1,6 @@
+| binding_auto_replumb_interval |
+| [Prev](conf.ref.binding_auto_replumb)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.binding_group) |
+
 <a name="conf.ref.binding_auto_replumb_interval"></a>
 ## Name
 
@@ -23,3 +26,7 @@ The default value is `60`.
 ## See Also
 
 [binding_auto_replumb](conf.ref.binding_auto_replumb "binding_auto_replumb")
+
+| [Prev](conf.ref.binding_auto_replumb)  | [Up](config.options.ref) |  [Next](conf.ref.binding_group) |
+| binding_auto_replumb  | [Table of Contents](index) |  binding_group |
+

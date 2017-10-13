@@ -1,3 +1,6 @@
+| Chapter 7. Download the Software Bundle and Prepare |
+| [Prev](byb.analytics_reqs)  | Part II. Installing Momentum |  [Next](install_upgrade_packages) |
+
 ## Chapter 7. Download the Software Bundle and Prepare
 
 Whether you intend to perform a **new install**         or an **upgrade** you need to download the software bundle **on all nodes** .
@@ -22,3 +25,7 @@ Whether you intend to perform a **new install**         or an **upgrade** you ne
 4.  Confirm your valid Momentum `license` file is in the `/opt/msys/ecelerity/etc` folder on each MTA node. Your licenses should be pulled automatically once they have been issued.
 
     If your node does not have public internet access during installation, you will need to add your valid Momentum `license` files manually.
+
+| [Prev](byb.analytics_reqs)  | [Up](p.installing) |  [Next](install_upgrade_packages) |
+| 6.18. Verifying Analytics Node Requirements  | [Table of Contents](index) |  Chapter 8. Install / Upgrade the Packages |
+

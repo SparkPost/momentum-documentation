@@ -1,3 +1,6 @@
+| 29.2. Running the PostgreSQL Server |
+| [Prev](postgresql)  | Chapter 29. PostgreSQL |  [Next](postgresql.client) |
+
 ## 29.2. Running the PostgreSQL Server
 
 <a class="indexterm" name="idp3925776"></a>
@@ -21,3 +24,7 @@ where
 *   `stop` – Stop the PostgreSQL server
 
 *   `restart` – Restart the PostgreSQL server
+
+| [Prev](postgresql)  | [Up](postgresql) |  [Next](postgresql.client) |
+| Chapter 29. PostgreSQL  | [Table of Contents](index) |  29.3. Using the PostgreSQL Client Program |
+

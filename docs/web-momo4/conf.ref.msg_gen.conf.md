@@ -1,3 +1,6 @@
+| 20.2. `msg_gen.conf` File |
+| [Prev](http_listener)  | Chapter 20. Configuring Inbound Mail Service Using HTTP |  [Next](auth) |
+
 ## 20.2. `msg_gen.conf` File
 
 The `msg_gen.conf` file contains the configuration relevant to message generation. This file is included from within `ecelerity.conf`.
@@ -117,3 +120,7 @@ This module handles substitution in the templates. It has no configuration optio
 </dd>
 
 </dl>
+
+| [Prev](http_listener)  | [Up](http_listener) |  [Next](auth) |
+| Chapter 20. Configuring Inbound Mail Service Using HTTP  | [Table of Contents](index) |  Chapter 21. Enforcing REST API/UI User Authentication |
+

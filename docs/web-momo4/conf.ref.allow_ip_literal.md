@@ -1,3 +1,6 @@
+| allow_ip_literal |
+| [Prev](conf.ref.alias_schemes)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.allow_null_envelope_sender) |
+
 <a name="conf.ref.allow_ip_literal"></a>
 ## Name
 
@@ -25,3 +28,7 @@ allow_ip_literal is valid in the global, listener, listen, peer, pathway, and pa
 ## See Also
 
 [allow_null_envelope_sender](conf.ref.allow_null_envelope_sender "allow_null_envelope_sender")
+
+| [Prev](conf.ref.alias_schemes)  | [Up](config.options.ref) |  [Next](conf.ref.allow_null_envelope_sender) |
+| alias_schemes  | [Table of Contents](index) |  allow_null_envelope_sender |
+

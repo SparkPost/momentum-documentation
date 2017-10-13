@@ -1,3 +1,6 @@
+| msg:body |
+| [Prev](lua.ref.msg_binding_group)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_body_match) |
+
 <a name="lua.ref.msg_body"></a>
 ## Name
 
@@ -20,3 +23,7 @@ When called without parameters, this function returns content that does not have
 If you are modifying content be sure set readonly to `false` using the [msg:mime](lua.ref.msg_mime "msg:mime") function.
 
 Enable this function with the statement `require('msys.extended.message');`.
+
+| [Prev](lua.ref.msg_binding_group)  | [Up](lua.function.details) |  [Next](lua.ref.msg_body_match) |
+| msg:binding_group  | [Table of Contents](index) |  msg:body_match |
+

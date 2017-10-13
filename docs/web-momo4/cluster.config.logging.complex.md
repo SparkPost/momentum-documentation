@@ -1,3 +1,6 @@
+| 26.3. Complex Centralized Logging Deployments |
+| [Prev](cluster.config.logging.centalized.logging)  | Chapter 26. Log Aggregation |  [Next](cluster.config.logging.redundancy) |
+
 ## 26.3. Complex Centralized Logging Deployments
 
 More complex deployments may arrange for the logs for a given subcluster to be aggregated on a custer manager local to that subcluster. Consider an environment with "east" and "west" subclusters, where the intention is for logs from the "east" subcluster to be journalled on a cluster manager node physically located in the east, and similarly, logs from "west" logged to a cluster manager in the west. The east subcluster has nodes "east1" and "east2", and the west subcluster has nodes "west1" and "west2".
@@ -79,3 +82,7 @@ ec_logger "ec_logger_cluster" {
 Repeat this change for each log file that you want to export in this way.
 
 Note that each subscriber that you declare will maintain a checkpoint for the log data in the jlog. If a subscriber never consumes data from the jlog, the jlog will continue to grow and occupy an increasing amount of disk space. For this reason, ensure that you only provision subscribers that will be actively consuming data from the jlog.
+
+| [Prev](cluster.config.logging.centalized.logging)  | [Up](log_aggregation) |  [Next](cluster.config.logging.redundancy) |
+| 26.2. Centralized Logging Example  | [Table of Contents](index) |  26.4. Redundant Logs |
+

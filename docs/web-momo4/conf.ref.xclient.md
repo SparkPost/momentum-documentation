@@ -1,3 +1,6 @@
+| xclient |
+| [Prev](conf.ref.user)  | Chapter 72. Configuration Options Reference |  [Next](console.cmds.ref) |
+
 <a name="conf.ref.xclient"></a>
 ## Name
 
@@ -29,3 +32,7 @@ The default value is `no`.
 ## Scope
 
 `xclient` is valid in the binding, binding_group, domain, and global scopes.
+
+| [Prev](conf.ref.user)  | [Up](config.options.ref) |  [Next](console.cmds.ref) |
+| user  | [Table of Contents](index) |  Chapter 73. Non-Module-Specific Console Commands |
+

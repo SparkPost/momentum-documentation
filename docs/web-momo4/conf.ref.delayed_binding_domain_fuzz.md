@@ -1,3 +1,6 @@
+| delayed_binding_domain_fuzz |
+| [Prev](conf.ref.delay_dsn_retry_interval)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.delayed_queue_scan_interval) |
+
 <a name="conf.ref.delayed_binding_domain_fuzz"></a>
 ## Name
 
@@ -23,3 +26,7 @@ delayed_binding_domain_fuzz is valid in the global, binding, and binding_group s
 ## See Also
 
 [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery")
+
+| [Prev](conf.ref.delay_dsn_retry_interval)  | [Up](config.options.ref) |  [Next](conf.ref.delayed_queue_scan_interval) |
+| delay_dsn_retry_interval  | [Table of Contents](index) |  delayed_queue_scan_interval |
+

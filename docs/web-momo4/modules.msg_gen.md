@@ -1,3 +1,6 @@
+| 71.48. msg_gen – Message Generation |
+| [Prev](modules.msgc)  | Chapter 71. Modules Reference |  [Next](modules.mxip) |
+
 ## 71.48. msg_gen – Message Generation
 
 The msg_gen module handles message generation, which is triggered by injecting messages using HTTP. The module accepts the components of a transmission, including recipient list, template, and message content, and constructs a personalized message for each recipient. The generated message is then queued for delivery. Each transmission is handled independently, and the creation of all messages is managed as a trackable unit. The tracking and logging of messages post generation is handled by other modules.
@@ -163,3 +166,7 @@ The precedence for engagement tracking options, from highest to lowest is as fol
 *   msg_gen level
 
 For example, if click_tracking is not specified at the transmission level, the value at the template level is used. If the template level is also not specified, the setting of the configuration option in the msg_gen module is used.
+
+| [Prev](modules.msgc)  | [Up](modules) |  [Next](modules.mxip) |
+| 71.47. msgc – Message Systems Group Communication  | [Table of Contents](index) |  71.49. mxip - IP Addresses In MX Records |
+

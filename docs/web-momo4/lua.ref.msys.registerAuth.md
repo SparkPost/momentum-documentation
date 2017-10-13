@@ -1,3 +1,6 @@
+| msys.registerAuth |
+| [Prev](lua.ref.msys.readfile)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.registerControl) |
+
 <a name="lua.ref.msys.registerAuth"></a>
 ## Name
 
@@ -69,3 +72,7 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 ## See Also
 
 [authorization](conf.ref.authorization "authorization")
+
+| [Prev](lua.ref.msys.readfile)  | [Up](lua.function.details) |  [Next](lua.ref.msys.registerControl) |
+| msys.readfile  | [Table of Contents](index) |  msys.registerControl |
+

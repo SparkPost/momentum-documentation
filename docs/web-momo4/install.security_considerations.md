@@ -1,3 +1,6 @@
+| 12.6. Security Considerations |
+| [Prev](install.vertica.license)  | Chapter 12. Post-Installation |  [Next](add_remove_platform_nodes) |
+
 ## 12.6. Security Considerations
 
 This section will document security issues and fixes for those issues.
@@ -40,3 +43,7 @@ For more information, see the [GNUTLS website](http://www.gnutls.org/security.ht
 To fix this vulnerability in OpenSSL, make sure you are running Momentum 4.1.0.2 or later and set the [tls_protocols](config.tls_protocols "tls_protocols") configuration option to disable SSLv3 in your `ecelerity.conf` file:
 
 `TLS_Protocols = "+ALL:-SSLv3"`
+
+| [Prev](install.vertica.license)  | [Up](post_installation) |  [Next](add_remove_platform_nodes) |
+| 12.5. Upgrading the Vertica License  | [Table of Contents](index) |  Chapter 13. Adding and Removing Platform Nodes |
+

@@ -1,3 +1,6 @@
+| 37.3. Using Module-Specific Console Commands |
+| [Prev](operations.console-commands)  | Chapter 37. Using the System Console (**ec_console**) |  [Next](modules.options.console) |
+
 ## 37.3. Using Module-Specific Console Commands
 
 How module-specific console commands are issued depends upon whether a module is a singleton. To determine whether a module is a singleton, refer to [Chapter 65, *Modules Summary*        ](modules.summary.all.modules "Chapter 65. Modules Summary") or use the **module list**      command from the console. This command displays a full list of all loaded modules. The following is an example partial output:
@@ -31,3 +34,7 @@ Singleton module commands are executed by using the module scope name followed b
 `ds_core flush sqlite`
 
 For a list of module-specific console commands, see [Chapter 67, *Console Commands Summary*](console_commands "Chapter 67. Console Commands Summary") .
+
+| [Prev](operations.console-commands)  | [Up](operations) |  [Next](modules.options.console) |
+| 37.2. Console Commands  | [Table of Contents](index) |  37.4. Setting and Getting Module Options from the Console |
+

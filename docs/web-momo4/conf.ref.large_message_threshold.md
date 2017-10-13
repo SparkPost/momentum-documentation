@@ -1,3 +1,6 @@
+| large_message_threshold |
+| [Prev](conf.ref.keep_message_dicts_in_memory)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.legacy_message_threshold) |
+
 <a name="conf.ref.large_message_threshold"></a>
 ## Name
 
@@ -24,4 +27,8 @@ large_message_threshold is valid in the global scope.
 <a name="idp25074656"></a>
 ## See Also
 
-[growbuf_size](conf.ref.growbuf_size "growbuf_size"), [legacy_message_threshold](conf.ref.legacy_message_threshold.php "legacy_message_threshold")
+[growbuf_size](conf.ref.growbuf_size "growbuf_size"), [legacy_message_threshold](conf.ref.legacy_message_threshold "legacy_message_threshold")
+
+| [Prev](conf.ref.keep_message_dicts_in_memory)  | [Up](config.options.ref) |  [Next](conf.ref.legacy_message_threshold) |
+| keep_message_dicts_in_memory  | [Table of Contents](index) |  legacy_message_threshold |
+

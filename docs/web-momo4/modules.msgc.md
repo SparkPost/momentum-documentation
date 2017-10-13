@@ -1,3 +1,6 @@
+| 71.47. msgc – Message Systems Group Communication |
+| [Prev](modules.maildir)  | Chapter 71. Modules Reference |  [Next](modules.msg_gen) |
+
 ## 71.47. msgc – Message Systems Group Communication
 
 <a class="indexterm" name="idp22166944"></a>
@@ -226,3 +229,7 @@ The loopback address is used because msgc_server is run on all managers and node
 </dd>
 
 </dl>
+
+| [Prev](modules.maildir)  | [Up](modules) |  [Next](modules.msg_gen) |
+| 71.46. maildir – Maildir Delivery Support  | [Table of Contents](index) |  71.48. msg_gen – Message Generation |
+

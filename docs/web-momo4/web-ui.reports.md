@@ -1,3 +1,6 @@
+| Chapter 57. Reports and Engagement Tracking in the UI |
+| [Prev](reporting_ui)  | Part VIII. Reporting and Engagement Tracking |  [Next](web-ui.reports.viewing.reports) |
+
 ## Chapter 57. Reports and Engagement Tracking in the UI
 
 **Table of Contents**
@@ -64,7 +67,7 @@ The Summary report provides graphical and tabular views of the metric data.
 
 **57.1.2.1. Graphical Display**
 
-In the METRICS area of the Summary report, the totals for the selected metrics are displayed next to the corresponding name. Each metric is displayed as a function of time in the adjacent graph. The graph uses a different color for each metric with the color corresponding to the bar along the right side of the METRICS area and the legend above the graph. The precision of the graph changes based on the time period selected. In [Figure 57.3, “Summary Graph”](web-ui.reports#figure_summary_graph "Figure 57.3. Summary Graph"), the time period is Last 7 Days. Note that the units on the x-axis are by day. For information about selecting the time period filter, see [Section 57.1.3.1, “Time Period”](web-ui.reports.php#web-ui.reports.select.time "57.1.3.1. Time Period").
+In the METRICS area of the Summary report, the totals for the selected metrics are displayed next to the corresponding name. Each metric is displayed as a function of time in the adjacent graph. The graph uses a different color for each metric with the color corresponding to the bar along the right side of the METRICS area and the legend above the graph. The precision of the graph changes based on the time period selected. In [Figure 57.3, “Summary Graph”](web-ui.reports#figure_summary_graph "Figure 57.3. Summary Graph"), the time period is Last 7 Days. Note that the units on the x-axis are by day. For information about selecting the time period filter, see [Section 57.1.3.1, “Time Period”](web-ui.reports#web-ui.reports.select.time "57.1.3.1. Time Period").
 
 There are four possible measurements for the metrics:
 
@@ -191,3 +194,7 @@ To remove any filter, click the X located to the right of the filter, as shown i
 ### Note
 
 Navigating to the Engagement section removes all filters except time period and campaign, if selected. Navigating to the Engagement section removes the binding, binding group, and node filters, if selected.
+
+| [Prev](reporting_ui)  | [Up](p.analytics) |  [Next](web-ui.reports.viewing.reports) |
+| Chapter 56. Using the UI for Reporting  | [Table of Contents](index) |  57.2. Viewing Your Reports |
+

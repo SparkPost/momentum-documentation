@@ -1,3 +1,6 @@
+| Chapter 49. Using Stored Templates |
+| [Prev](web-ui.templates.delete)  | Part VII. Message Generation (HTTP) |  [Next](stored_list) |
+
 ## Chapter 49. Using Stored Templates
 
 **Introduction**
@@ -89,3 +92,7 @@ Follow these steps to send an email using a stored template:
     Verify that each recipient received a personalized email, then open the UI and confirm that two messages were successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui "Chapter 56. Using the UI for Reporting") .
 
 Congratulations! You have successfully sent an email using a stored template. To learn more about using the Transmissions API, see the Transmission API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
+
+| [Prev](web-ui.templates.delete)  | [Up](p.http_rest) |  [Next](stored_list) |
+| 48.6. Deleting a Template  | [Table of Contents](index) |  Chapter 50. Creating Stored Recipient Lists |
+

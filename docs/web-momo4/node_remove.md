@@ -1,3 +1,6 @@
+| 13.2. Removing a Platform Node |
+| [Prev](add_remove_platform_nodes)  | Chapter 13. Adding and Removing Platform Nodes |  [Next](add_remove_analytics_nodes) |
+
 ## 13.2. Removing a Platform Node
 
 This section describes how to remove a functional Platform node, which involves removing the node from the Cassandra and Momentum clusters and making some manual configuration changes on the remaining Platform nodes and on the existing Analytics nodes.
@@ -277,3 +280,7 @@ Move the spool files to a functional Platform node. For more information, see [s
 2.  Double-check the Cassandra cluster status.
 
     `service msys-cassandra status`
+
+| [Prev](add_remove_platform_nodes)  | [Up](add_remove_platform_nodes) |  [Next](add_remove_analytics_nodes) |
+| Chapter 13. Adding and Removing Platform Nodes  | [Table of Contents](index) |  Chapter 14. Adding and Removing Analytics Nodes |
+

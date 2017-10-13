@@ -1,3 +1,6 @@
+| thread.mutex |
+| [Prev](lua.ref.msys.validate.opendkim.verify)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.vctx_add_recipient) |
+
 <a name="lua.ref.thread.mutex"></a>
 ## Name
 
@@ -52,4 +55,8 @@ Enable this function with the statement `require('thread');`.
 <a name="idp19233296"></a>
 ## See Also
 
-[msys.runInPool](lua.ref.msys.runinpool "msys.runInPool"), [msys.sleep](lua.ref.msys.sleep.php "msys.sleep"), [msys.lock](lua.ref.msys.lock.php "msys.lock"), [msys.unlock](lua.ref.msys.unlock.php "msys.unlock")
+[msys.runInPool](lua.ref.msys.runinpool "msys.runInPool"), [msys.sleep](lua.ref.msys.sleep "msys.sleep"), [msys.lock](lua.ref.msys.lock "msys.lock"), [msys.unlock](lua.ref.msys.unlock "msys.unlock")
+
+| [Prev](lua.ref.msys.validate.opendkim.verify)  | [Up](lua.function.details) |  [Next](lua.ref.vctx_add_recipient) |
+| msys.validate.opendkim.verify  | [Table of Contents](index) |  vctx:add_recipient |
+

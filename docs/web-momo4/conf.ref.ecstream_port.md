@@ -1,3 +1,6 @@
+| ecstream_port |
+| [Prev](conf.ref.drop_body_after_trans_fail)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.ecstream_timeout) |
+
 <a name="conf.ref.ecstream_port"></a>
 ## Name
 
@@ -32,3 +35,7 @@ ecstream_port is valid in the binding, binding_group, domain, and global scopes.
 ## See Also
 
 [delivery_method](conf.ref.delivery_method "delivery_method")
+
+| [Prev](conf.ref.drop_body_after_trans_fail)  | [Up](config.options.ref) |  [Next](conf.ref.ecstream_timeout) |
+| drop_body_after_trans_fail  | [Table of Contents](index) |  ecstream_timeout |
+

@@ -1,3 +1,6 @@
+| 16.5. Cluster-specific Listeners |
+| [Prev](conf.ref.msgc_server.conf)  | Chapter 16. Cluster-specific Configuration |  [Next](cluster.config.failover) |
+
 ## 16.5. Cluster-specific Listeners
 
 This section describes the listeners that are used in a cluster configuration.
@@ -37,3 +40,7 @@ For details about the non-module specific configuration options that are valid i
 Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
 For general information regarding listeners, see [Section 15.4, “Listeners”](listeners "15.4. Listeners").
+
+| [Prev](conf.ref.msgc_server.conf)  | [Up](cluster) |  [Next](cluster.config.failover) |
+| 16.4. `msgc_server.conf` File  | [Table of Contents](index) |  16.6. Configuring Momentum for High Availability and Failover |
+

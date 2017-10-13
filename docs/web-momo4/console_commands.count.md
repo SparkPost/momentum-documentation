@@ -1,3 +1,6 @@
+| count |
+| [Prev](console_commands.config)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.counter) |
+
 <a name="console_commands.count"></a>
 ## Name
 
@@ -29,3 +32,7 @@ The **count** counts open connections grouped by IP addresses. It needs two argu
 Displaying 'SMTP' from /32 to /32
       1                                 127.0.0.1/32
 ```
+
+| [Prev](console_commands.config)  | [Up](console.cmds.ref) |  [Next](console_commands.counter) |
+| config  | [Table of Contents](index) |  counter |
+

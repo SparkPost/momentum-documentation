@@ -1,3 +1,6 @@
+| msys.dumper.Dumper |
+| [Prev](lua.ref.msys.delivery.ob_get_current_message)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.expurgate.scan) |
+
 <a name="lua.ref.msys.dumper.Dumper"></a>
 ## Name
 
@@ -40,3 +43,7 @@ end
 
 msys.registerModule("dns-test", mod);
 ```
+
+| [Prev](lua.ref.msys.delivery.ob_get_current_message)  | [Up](lua.function.details) |  [Next](lua.ref.msys.expurgate.scan) |
+| msys.delivery.ob_get_current_message  | [Table of Contents](index) |  msys.expurgate.scan |
+

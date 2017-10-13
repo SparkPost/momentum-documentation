@@ -1,3 +1,6 @@
+| tls_enable_dhe_ciphers |
+| [Prev](conf.ref.tls_dhparams_file)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_engine) |
+
 <a name="conf.ref.tls_enable_dhe_ciphers"></a>
 ## Name
 
@@ -16,3 +19,7 @@ The default value is `true`.
 ## Scope
 
 tls_enable_dhe_ciphers is valid in the global scope.
+
+| [Prev](conf.ref.tls_dhparams_file)  | [Up](config.options.ref) |  [Next](config.tls_engine) |
+| tls_dhparams_file  | [Table of Contents](index) |  tls_engine |
+

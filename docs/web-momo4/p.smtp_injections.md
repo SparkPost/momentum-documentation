@@ -1,3 +1,6 @@
+| Part VI. SMTP Injection |
+| [Prev](cluster.cidr_server)  |   |  [Next](smtp_injection) |
+
 ## Part VI. SMTP Injection
 
 **Table of Contents**
@@ -27,3 +30,7 @@
 <dt>[42\. Reporting Options](smtp_reporting_options)</dt>
 
 </dl>
+
+| [Prev](cluster.cidr_server)  |   |  [Next](smtp_injection) |
+| Chapter 39. CIDR Server  | [Table of Contents](index) |  Chapter 40. Adjusting your Client Mail Application |
+

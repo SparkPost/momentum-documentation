@@ -1,3 +1,6 @@
+| 9.2. Configure the Cassandra Nodes |
+| [Prev](new_installation)  | Chapter 9. New Installation - All Configurations |  [Next](install.analytics_nodes) |
+
 ## 9.2. Configure the Cassandra Nodes
 
 The Cassandra distributed database can be configured to run on its own cluster of nodes OR together on the MTA nodes. You must know the name and IP address of each Cassandra cluster node (or Platform node if you are combining it with an MTA) before you can configure Cassandra.
@@ -160,3 +163,7 @@ Follow all steps below on the first Cassandra node until reaching the final numb
         UN  10.77.0.233  110.98 KB  256     35.4%  2713fb8f-b188-4b0b-9d11-b76506e922bc  rack1
         UN  10.77.0.235  111.41 KB  256     33.3%  88a7616c-36b9-4aa0-9ddc-db24ad76115c  rack1
         ```
+
+| [Prev](new_installation)  | [Up](new_installation) |  [Next](install.analytics_nodes) |
+| Chapter 9. New Installation - All Configurations  | [Table of Contents](index) |  9.3. Configure the Analytics Nodes |
+

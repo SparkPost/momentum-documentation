@@ -1,3 +1,6 @@
+| eventloop |
+| [Prev](config.ref.event_loop)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.events_per_iter) |
+
 <a name="config.ref.eventloop"></a>
 ## Name
 
@@ -43,4 +46,8 @@ You cannot define an eventloop or change its `concurrency` at runtime as these c
 <a name="idp24618256"></a>
 ## See Also
 
-[delivery_pool](config.ref.delivery_pool "delivery_pool"), [maintainer_pool](config.ref.maintainer_pool.php "maintainer_pool"), and [event_loop](config.ref.event_loop.php "event_loop")
+[delivery_pool](config.ref.delivery_pool "delivery_pool"), [maintainer_pool](config.ref.maintainer_pool "maintainer_pool"), and [event_loop](config.ref.event_loop "event_loop")
+
+| [Prev](config.ref.event_loop)  | [Up](config.options.ref) |  [Next](conf.ref.events_per_iter) |
+| event_loop  | [Table of Contents](index) |  events_per_iter |
+

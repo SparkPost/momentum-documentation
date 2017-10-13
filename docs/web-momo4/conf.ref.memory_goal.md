@@ -1,3 +1,6 @@
+| memory_goal |
+| [Prev](conf.ref.mdn_failures_notify)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.memory_hwm) |
+
 <a name="conf.ref.memory_goal"></a>
 ## Name
 
@@ -23,3 +26,7 @@ memory_goal is valid in the global scope.
 ## See Also
 
 [memory_hwm](conf.ref.memory_hwm "memory_hwm")
+
+| [Prev](conf.ref.mdn_failures_notify)  | [Up](config.options.ref) |  [Next](conf.ref.memory_hwm) |
+| mdn_failures_notify  | [Table of Contents](index) |  memory_hwm |
+
