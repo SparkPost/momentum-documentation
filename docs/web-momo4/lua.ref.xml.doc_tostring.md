@@ -1,4 +1,3 @@
-| doc:tostring |
 | [Prev](lua.ref.xml.doc_root)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.doc_xpath) |
 
 <a name="lua.ref.xml.doc_tostring"></a>

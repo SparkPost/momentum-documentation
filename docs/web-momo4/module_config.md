@@ -1,4 +1,3 @@
-| 15.5. Modules |
 | [Prev](listeners)  | Chapter 15. Configuration Overview |  [Next](conf.ref.ecelerity.conf) |
 
 ## 15.5. Modules

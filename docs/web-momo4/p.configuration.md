@@ -1,4 +1,3 @@
-| Part III. Configuring Momentum |
 | [Prev](node_remove_analytics)  |   |  [Next](conf.overview) |
 
 ## Part III. Configuring Momentum

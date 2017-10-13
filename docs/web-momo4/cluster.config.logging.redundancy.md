@@ -1,4 +1,3 @@
-| 26.4. Redundant Logs |
 | [Prev](cluster.config.logging.complex)  | Chapter 26. Log Aggregation |  [Next](cluster.config.logging.decommissioning) |
 
 ## 26.4. Redundant Logs

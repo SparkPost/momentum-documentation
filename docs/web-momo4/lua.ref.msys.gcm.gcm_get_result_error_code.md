@@ -1,4 +1,3 @@
-| msys.gcm.gcm_get_result_error_code |
 | [Prev](lua.ref.msys.gcm.gcm_classify_error)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.pcre.match) |
 
 <a name="lua.ref.msys.gcm.gcm_get_result_error_code"></a>

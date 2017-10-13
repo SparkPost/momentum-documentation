@@ -1,4 +1,3 @@
-| client:get_body |
 | [Prev](lua.ref.client_do_request)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.client_get_headers) |
 
 <a name="lua.ref.client_get_body"></a>

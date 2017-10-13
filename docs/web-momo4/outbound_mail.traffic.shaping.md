@@ -1,4 +1,3 @@
-| 25.4. Throttling and Traffic Shaping |
 | [Prev](outbound_mail.multivip.interfaces)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](tls_option) |
 
 ## 25.4. Throttling and Traffic Shaping

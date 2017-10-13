@@ -1,4 +1,3 @@
-| msys.gauge_cache.inc |
 | [Prev](lua.ref.msys.gauge_cache.get)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.gauge_cache.remove_item) |
 
 <a name="lua.ref.msys.gauge_cache.inc"></a>

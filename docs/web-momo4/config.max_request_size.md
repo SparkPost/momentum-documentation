@@ -1,4 +1,3 @@
-| max_request_size |
 | [Prev](conf.ref.max_recipients_per_batch)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_resident_active_queue) |
 
 <a name="config.max_request_size"></a>

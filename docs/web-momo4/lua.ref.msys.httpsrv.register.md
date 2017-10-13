@@ -1,4 +1,3 @@
-| msys.httpsrv.register |
 | [Prev](lua.ref.msys.getClassMetaTable)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.idn) |
 
 <a name="lua.ref.msys.httpsrv.register"></a>

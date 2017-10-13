@@ -1,4 +1,3 @@
-| 71.64. smtp_auth_proxy - SMTP Authentication Proxy |
 | [Prev](modules.sendmail_logger)  | Chapter 71. Modules Reference |  [Next](modules.smtp_cbv) |
 
 ## 71.64. smtp_auth_proxy - SMTP Authentication Proxy

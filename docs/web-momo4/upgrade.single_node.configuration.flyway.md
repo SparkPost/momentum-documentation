@@ -1,4 +1,3 @@
-| 10.3. Prepare and Run Flyway |
 | [Prev](upgrade.single_node.vertica_updates)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.single_node.configuration.config_all__nodes) |
 
 ## 10.3. Prepare and Run Flyway

@@ -1,4 +1,3 @@
-| 71.25. custom_logger – User-defined Logging |
 | [Prev](modules.custom_bounce_logger)  | Chapter 71. Modules Reference |  [Next](modules.delay_dsn) |
 
 ## 71.25. custom_logger – User-defined Logging

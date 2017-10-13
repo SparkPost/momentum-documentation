@@ -1,4 +1,3 @@
-| 35.5. `httplog` |
 | [Prev](log_formats.fbllog)  | Chapter 35. Log Formats |  [Next](log_formats.importlog) |
 
 ## 35.5. `httplog`

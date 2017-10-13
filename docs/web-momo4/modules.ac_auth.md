@@ -1,4 +1,3 @@
-| 71.2. ac_auth – Authentication Handler |
 | [Prev](modules)  | Chapter 71. Modules Reference |  [Next](modules.adaptive) |
 
 ## 71.2. ac_auth – Authentication Handler

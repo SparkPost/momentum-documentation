@@ -1,4 +1,3 @@
-| 16.3. `ecelerity-cluster.conf` File |
 | [Prev](conf.ref.eccluster.conf)  | Chapter 16. Cluster-specific Configuration |  [Next](conf.ref.msgc_server.conf) |
 
 ## 16.3. `ecelerity-cluster.conf` File

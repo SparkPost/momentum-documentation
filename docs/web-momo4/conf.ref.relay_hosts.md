@@ -1,4 +1,3 @@
-| relay_hosts |
 | [Prev](conf.ref.relay_domains)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.remote_smtp_port) |
 
 <a name="conf.ref.relay_hosts"></a>

@@ -1,4 +1,3 @@
-| 14.2. Removing an Analytics Node |
 | [Prev](add_remove_analytics_nodes)  | Chapter 14. Adding and Removing Analytics Nodes |  [Next](p.configuration) |
 
 ## 14.2. Removing an Analytics Node

@@ -1,4 +1,3 @@
-| authz roles list |
 | [Prev](console_commands.authz_id)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.binding_active) |
 
 <a name="console_commands.authz_roles_list"></a>

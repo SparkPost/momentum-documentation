@@ -1,4 +1,3 @@
-| 71.58. response_transcode – Module |
 | [Prev](modules.reception_timing)  | Chapter 71. Modules Reference |  [Next](modules.sched) |
 
 ## 71.58. response_transcode – Module

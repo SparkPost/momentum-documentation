@@ -1,4 +1,3 @@
-| enable_fbl_header_insertion |
 | [Prev](conf.ref.ehlo_timeout)  | Chapter 72. Configuration Options Reference |  [Next](config.ref.event_loop) |
 
 <a name="conf.ref.enable_fbl_header_insertion"></a>

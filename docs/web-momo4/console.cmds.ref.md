@@ -1,4 +1,3 @@
-| Chapter 73. Non-Module-Specific Console Commands |
 | [Prev](conf.ref.xclient)  | Part X. Reference |  [Next](console_commands.active) |
 
 ## Chapter 73. Non-Module-Specific Console Commands

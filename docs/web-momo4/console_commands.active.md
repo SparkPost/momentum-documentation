@@ -1,4 +1,3 @@
-| active |
 | [Prev](console.cmds.ref)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.authz_id) |
 
 <a name="console_commands.active"></a>

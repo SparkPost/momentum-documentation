@@ -1,4 +1,3 @@
-| 57.4. Evaluating Your Campaign Performance |
 | [Prev](web-ui.reports.adaptive.delivery)  | Chapter 57. Reports and Engagement Tracking in the UI |  [Next](reporting_metrics) |
 
 ## 57.4. Evaluating Your Campaign Performance

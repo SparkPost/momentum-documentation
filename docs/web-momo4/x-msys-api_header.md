@@ -1,4 +1,3 @@
-| 41.2. Using the X-MSYS-API Header for Engagement Tracking |
 | [Prev](engagement_tracking_smtp)  | Chapter 41. Tracking Engagement for SMTP |  [Next](engagement_tracking_smtp.policy) |
 
 ## 41.2. Using the X-MSYS-API Header for Engagement Tracking

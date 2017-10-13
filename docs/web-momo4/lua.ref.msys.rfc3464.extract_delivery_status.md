@@ -1,4 +1,3 @@
-| msys.rfc3464.extract_delivery_status |
 | [Prev](lua.ref.msys.rfc3464.create_mdn)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.rfc3464.send_mdn) |
 
 <a name="lua.ref.msys.rfc3464.extract_delivery_status"></a>

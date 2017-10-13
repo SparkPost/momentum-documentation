@@ -1,4 +1,3 @@
-| rfc2822_max_line_length_policy |
 | [Prev](conf.ref.rfc2822_max_line_length)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rfc2822_messageid_header) |
 
 <a name="conf.ref.rfc2822_max_line_length_policy"></a>

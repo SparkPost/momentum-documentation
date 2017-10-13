@@ -1,4 +1,3 @@
-| rfc2822_missing_headers |
 | [Prev](conf.ref.rfc2822_messageid_header)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rfc2822_trace_headers) |
 
 <a name="conf.ref.rfc2822_missing_headers"></a>

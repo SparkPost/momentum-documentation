@@ -1,4 +1,3 @@
-| msys.core.get_now_ts |
 | [Prev](lua.ref.msys.core.dns_get_domain)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.core.mail_queue_delay_domain) |
 
 <a name="lua.ref.msys.core.get_now_ts"></a>

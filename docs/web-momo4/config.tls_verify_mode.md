@@ -1,4 +1,3 @@
-| tls_verify_mode |
 | [Prev](config.tls_verify)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.trace_smtp_mode) |
 
 <a name="config.tls_verify_mode"></a>

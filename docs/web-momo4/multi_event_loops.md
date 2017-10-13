@@ -1,4 +1,3 @@
-| Chapter 24. Configuring Multiple Event Loops |
 | [Prev](using_dkim.validation)  | Part III. Configuring Momentum |  [Next](outbound_mail) |
 
 ## Chapter 24. Configuring Multiple Event Loops

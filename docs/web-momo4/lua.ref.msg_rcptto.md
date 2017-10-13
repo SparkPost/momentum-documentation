@@ -1,4 +1,3 @@
-| msg:rcptto |
 | [Prev](lua.ref.msg_raw_replace)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_routing_domain) |
 
 <a name="lua.ref.msg_rcptto"></a>

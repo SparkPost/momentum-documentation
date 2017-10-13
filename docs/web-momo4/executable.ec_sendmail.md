@@ -1,4 +1,3 @@
-| ec_sendmail |
 | [Prev](executable.ec_rotate)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_show) |
 
 <a name="executable.ec_sendmail"></a>

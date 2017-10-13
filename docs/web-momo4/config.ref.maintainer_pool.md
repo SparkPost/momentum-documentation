@@ -1,4 +1,3 @@
-| maintainer_pool |
 | [Prev](conf.ref.mailfrom_timeout)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.malloc2mmap_threshold) |
 
 <a name="config.ref.maintainer_pool"></a>

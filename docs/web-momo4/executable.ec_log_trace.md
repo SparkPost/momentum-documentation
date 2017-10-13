@@ -1,4 +1,3 @@
-| ec_log_trace |
 | [Prev](executable.ec_lic)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_md5passwd) |
 
 <a name="executable.ec_log_trace"></a>

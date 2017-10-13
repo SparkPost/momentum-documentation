@@ -1,4 +1,3 @@
-| delay_dsn_max_retry_interval |
 | [Prev](conf.ref.default_charset)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.delay_dsn_retry_interval) |
 
 <a name="conf.ref.delay_dsn_max_retry_interval"></a>

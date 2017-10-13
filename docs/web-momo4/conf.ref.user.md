@@ -1,4 +1,3 @@
-| user |
 | [Prev](conf.ref.use_sendfile)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.xclient) |
 
 <a name="conf.ref.user"></a>

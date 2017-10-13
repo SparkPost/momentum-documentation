@@ -1,4 +1,3 @@
-| 25.3. MultiVIP© Interfaces |
 | [Prev](outbound_mail.prohibited.hosts)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](outbound_mail.traffic.shaping) |
 
 ## 25.3. MultiVIP© Interfaces

@@ -1,4 +1,3 @@
-| Chapter 71. Modules Reference |
 | [Prev](lua.ref.xml.parsexml)  | Part X. Reference |  [Next](modules.ac_auth) |
 
 ## Chapter 71. Modules Reference

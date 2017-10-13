@@ -1,4 +1,3 @@
-| outbound_throttle_messages |
 | [Prev](conf.ref.outbound_throttle_connections)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pathway) |
 
 <a name="conf.ref.outbound_throttle_messages"></a>

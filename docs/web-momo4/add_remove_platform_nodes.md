@@ -1,4 +1,3 @@
-| Chapter 13. Adding and Removing Platform Nodes |
 | [Prev](install.security_considerations)  | Part II. Installing Momentum |  [Next](node_remove) |
 
 ## Chapter 13. Adding and Removing Platform Nodes

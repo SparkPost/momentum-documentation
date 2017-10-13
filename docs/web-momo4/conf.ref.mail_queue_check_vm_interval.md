@@ -1,4 +1,3 @@
-| mail_queue_check_vm_interval |
 | [Prev](conf.ref.local_changes_only)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.mailerdaemon) |
 
 <a name="conf.ref.mail_queue_check_vm_interval"></a>

@@ -1,4 +1,3 @@
-| generate_bounces |
 | [Prev](conf.ref.gateway)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.generate_bounces_for_multi_recipient_policy_rejections) |
 
 <a name="conf.ref.generate_bounces"></a>

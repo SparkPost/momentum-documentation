@@ -1,4 +1,3 @@
-| msys.rfc3464.compute_delivery_status |
 | [Prev](lua.ref.msys.qp.encode)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.rfc3464.compute_delivery_status_string) |
 
 <a name="lua.ref.msys.rfc3464.compute_delivery_status"></a>

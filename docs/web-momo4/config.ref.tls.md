@@ -1,4 +1,3 @@
-| tls |
 | [Prev](conf.ref.timestampformat)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_allow_renegotiation) |
 
 <a name="config.ref.tls"></a>

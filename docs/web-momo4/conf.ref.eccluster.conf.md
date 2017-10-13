@@ -1,4 +1,3 @@
-| 16.2. `eccluster.conf` File |
 | [Prev](cluster)  | Chapter 16. Cluster-specific Configuration |  [Next](conf.ref.ecelerity_cluster.conf) |
 
 ## 16.2. `eccluster.conf` File

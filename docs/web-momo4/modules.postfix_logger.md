@@ -1,4 +1,3 @@
-| 71.56. postfix_logger – Postfix Logging |
 | [Prev](modules.pipe_transport)  | Chapter 71. Modules Reference |  [Next](modules.reception_timing) |
 
 ## 71.56. postfix_logger – Postfix Logging

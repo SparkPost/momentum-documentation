@@ -1,4 +1,3 @@
-| tls_key |
 | [Prev](config.tls_ifavailable_fallback)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_protocols) |
 
 <a name="config.tls_key"></a>

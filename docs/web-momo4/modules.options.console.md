@@ -1,4 +1,3 @@
-| 37.4. Setting and Getting Module Options from the Console |
 | [Prev](module_specific_console_commands.using)  | Chapter 37. Using the System Console (**ec_console**) |  [Next](operations.console.lua) |
 
 ## 37.4. Setting and Getting Module Options from the Console

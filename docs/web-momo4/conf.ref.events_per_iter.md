@@ -1,4 +1,3 @@
-| events_per_iter |
 | [Prev](config.ref.eventloop)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.exclude_vctx_conn) |
 
 <a name="conf.ref.events_per_iter"></a>

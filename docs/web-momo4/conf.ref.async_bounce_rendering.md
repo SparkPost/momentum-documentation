@@ -1,4 +1,3 @@
-| async_bounce_rendering |
 | [Prev](conf.ref.allow_trailing_whitespace_in_commands)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.authorization) |
 
 <a name="conf.ref.async_bounce_rendering"></a>

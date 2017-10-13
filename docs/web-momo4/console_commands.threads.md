@@ -1,4 +1,3 @@
-| threads |
 | [Prev](console_commands.sysinfo)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.tls) |
 
 <a name="console_commands.threads"></a>

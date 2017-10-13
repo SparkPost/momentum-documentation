@@ -1,4 +1,3 @@
-| 6.9. Java Runtime Environment (JRE) |
 | [Prev](byb.set_hostnames)  | Chapter 6. Before You Begin |  [Next](byb.root_and_vertica_dba) |
 
 ## 6.9. Java Runtime Environment (JRE)

@@ -1,4 +1,3 @@
-| scheduler |
 | [Prev](conf.ref.scope_max_outbound_connections)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.security) |
 
 <a name="conf.ref.scheduler"></a>

@@ -1,4 +1,3 @@
-| 71.10. beik – Symantec Brightmail™ Engine Integration Kit |
 | [Prev](modules.auth_radius)  | Chapter 71. Modules Reference |  [Next](modules.bind_address_secondary) |
 
 ## 71.10. beik – Symantec Brightmail™ Engine Integration Kit

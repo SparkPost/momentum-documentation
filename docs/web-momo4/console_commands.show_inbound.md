@@ -1,4 +1,3 @@
-| show inbound |
 | [Prev](console_commands.reroute_queue)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.show_outbound) |
 
 <a name="console_commands.show_inbound"></a>

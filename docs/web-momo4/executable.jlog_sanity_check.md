@@ -1,4 +1,3 @@
-| jlog_sanity_check |
 | [Prev](executable.jlog_change_endian)  | Chapter 74. Executable Commands Reference |  [Next](executable.jlogctl) |
 
 <a name="executable.jlog_sanity_check"></a>

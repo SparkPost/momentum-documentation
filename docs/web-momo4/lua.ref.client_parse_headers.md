@@ -1,4 +1,3 @@
-| client:parse_headers |
 | [Prev](lua.ref.msys.http.client.new)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.client_set_header) |
 
 <a name="lua.ref.client_parse_headers"></a>

@@ -1,4 +1,3 @@
-| context |
 | [Prev](conf.ref.connection_allocation_aggressiveness)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.control_client_timeout) |
 
 <a name="conf.ref.context"></a>

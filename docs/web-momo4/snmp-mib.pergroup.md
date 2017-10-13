@@ -1,4 +1,3 @@
-| B.2. Per-group (binding) Metrics, 1.3.6.1.4.1.19552.1.3 |
 | [Prev](snmp-mib)  | Appendix B. MIB Files |  [Next](snmp-mib.omniti) |
 
 ## B.2. Per-group (binding) Metrics, 1.3.6.1.4.1.19552.1.3

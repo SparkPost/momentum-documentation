@@ -1,4 +1,3 @@
-| 48.6. Deleting a Template |
 | [Prev](web-ui.templates.publish)  | Chapter 48. Managing Your Templates in the UI |  [Next](using_template) |
 
 ## 48.6. Deleting a Template

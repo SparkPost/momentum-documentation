@@ -1,4 +1,3 @@
-| create_ssl_cert |
 | [Prev](executable.ad_summary)  | Chapter 74. Executable Commands Reference |  [Next](executable.credmgr) |
 
 <a name="executable.create_ssl_cert"></a>

@@ -1,4 +1,3 @@
-| curl.new |
 | [Prev](lua.ref.curl.escape)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.curl.unescape) |
 
 <a name="lua.ref.curl.new"></a>

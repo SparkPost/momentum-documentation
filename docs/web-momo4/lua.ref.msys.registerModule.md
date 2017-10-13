@@ -1,4 +1,3 @@
-| msys.registerModule |
 | [Prev](lua.ref.msys.registerControl)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.runinpool) |
 
 <a name="lua.ref.msys.registerModule"></a>

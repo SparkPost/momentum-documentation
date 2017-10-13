@@ -1,4 +1,3 @@
-| 6.4. Load Balancing |
 | [Prev](byb.redundancy)  | Chapter 6. Before You Begin |  [Next](byb.disable_selinux) |
 
 ## 6.4. Load Balancing

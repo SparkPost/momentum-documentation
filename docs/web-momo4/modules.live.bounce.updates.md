@@ -1,4 +1,3 @@
-| 71.44. Live Bounce Updates – Live Bounce Updates Service |
 | [Prev](modules.jlog)  | Chapter 71. Modules Reference |  [Next](modules.mail_loop) |
 
 ## 71.44. Live Bounce Updates – Live Bounce Updates Service

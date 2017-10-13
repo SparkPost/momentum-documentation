@@ -1,4 +1,3 @@
-| Chapter 46. Using Substitution Data |
 | [Prev](message_gen)  | Part VII. Message Generation (HTTP) |  [Next](stored_template) |
 
 ## Chapter 46. Using Substitution Data

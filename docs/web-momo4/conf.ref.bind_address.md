@@ -1,4 +1,3 @@
-| bind_address |
 | [Prev](conf.ref.authorization)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.binding) |
 
 <a name="conf.ref.bind_address"></a>

@@ -1,4 +1,3 @@
-| 25.5. Outbound TLS |
 | [Prev](outbound_mail.traffic.shaping)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](outbound_mail.outbound.xclient) |
 
 ## 25.5. Outbound TLS

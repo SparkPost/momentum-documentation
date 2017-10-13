@@ -1,4 +1,3 @@
-| domain_for_unqualified_recipient_addresses |
 | [Prev](conf.ref.dns_fallback_to_tcp)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.domain_for_unqualified_sender_address) |
 
 <a name="conf.ref.domain_for_unqualified_recipient_addresses"></a>

@@ -1,4 +1,3 @@
-| 71.61. securecreds – Password Encryption/Credential Retrieval |
 | [Prev](modules.scriptlet)  | Chapter 71. Modules Reference |  [Next](modules.seedlist) |
 
 ## 71.61. securecreds – Password Encryption/Credential Retrieval

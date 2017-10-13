@@ -1,4 +1,3 @@
-| use_sendfile |
 | [Prev](conf.ref.use_mmap)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.user) |
 
 <a name="conf.ref.use_sendfile"></a>

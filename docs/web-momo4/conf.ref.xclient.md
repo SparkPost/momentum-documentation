@@ -1,4 +1,3 @@
-| xclient |
 | [Prev](conf.ref.user)  | Chapter 72. Configuration Options Reference |  [Next](console.cmds.ref) |
 
 <a name="conf.ref.xclient"></a>

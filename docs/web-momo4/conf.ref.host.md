@@ -1,4 +1,3 @@
-| host |
 | [Prev](conf.ref.growbuf_size)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.hostname) |
 
 <a name="conf.ref.host"></a>

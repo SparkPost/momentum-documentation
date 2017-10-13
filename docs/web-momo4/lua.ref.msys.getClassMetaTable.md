@@ -1,4 +1,3 @@
-| msys.getClassMetaTable |
 | [Prev](lua.ref.msys.expandMacro)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.httpsrv.register) |
 
 <a name="lua.ref.msys.getClassMetaTable"></a>

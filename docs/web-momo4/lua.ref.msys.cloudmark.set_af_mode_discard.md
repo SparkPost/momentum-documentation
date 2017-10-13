@@ -1,4 +1,3 @@
-| msys.cloudmark.set_af_mode_discard |
 | [Prev](lua.ref.msys.cloudmark.score_af)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.cloudmark.set_af_mode_keep) |
 
 <a name="lua.ref.msys.cloudmark.set_af_mode_discard"></a>

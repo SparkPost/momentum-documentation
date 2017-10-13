@@ -1,4 +1,3 @@
-| spoolbase |
 | [Prev](conf.ref.spool_mode)  | Chapter 72. Configuration Options Reference |  [Next](config.ssl_lock_method) |
 
 <a name="conf.ref.spoolbase"></a>

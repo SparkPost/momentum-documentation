@@ -1,4 +1,3 @@
-| message retry |
 | [Prev](console_commands.message_fail_quiet)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.module) |
 
 <a name="console_commands.message_retry"></a>

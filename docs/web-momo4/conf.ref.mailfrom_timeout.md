@@ -1,4 +1,3 @@
-| mailfrom_timeout |
 | [Prev](conf.ref.mailerdaemon)  | Chapter 72. Configuration Options Reference |  [Next](config.ref.maintainer_pool) |
 
 <a name="conf.ref.mailfrom_timeout"></a>

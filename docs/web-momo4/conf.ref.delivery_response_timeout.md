@@ -1,4 +1,3 @@
-| delivery_response_timeout |
 | [Prev](config.ref.delivery_pool)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.disable_nagle_algorithm) |
 
 <a name="conf.ref.delivery_response_timeout"></a>

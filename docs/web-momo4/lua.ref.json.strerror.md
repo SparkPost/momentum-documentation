@@ -1,4 +1,3 @@
-| json.strerror |
 | [Prev](lua.ref.json.new)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg.batch_id) |
 
 <a name="lua.ref.json.strerror"></a>

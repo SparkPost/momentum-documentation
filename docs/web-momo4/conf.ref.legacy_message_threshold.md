@@ -1,4 +1,3 @@
-| legacy_message_threshold |
 | [Prev](conf.ref.large_message_threshold)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.license) |
 
 <a name="conf.ref.legacy_message_threshold"></a>

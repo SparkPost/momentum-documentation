@@ -1,4 +1,3 @@
-| 71.73. url_ripper – URL Extraction |
 | [Prev](tls_macros)  | Chapter 71. Modules Reference |  [Next](config.options.ref) |
 
 ## 71.73. url_ripper – URL Extraction

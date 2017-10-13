@@ -1,4 +1,3 @@
-| 6.3. Redundancy |
 | [Prev](byb.os)  | Chapter 6. Before You Begin |  [Next](byb.load_balancing) |
 
 ## 6.3. Redundancy

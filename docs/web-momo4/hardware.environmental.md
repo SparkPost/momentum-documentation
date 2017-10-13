@@ -1,4 +1,3 @@
-| 5.4. Environmental Considerations |
 | [Prev](hardware.scaling)  | Chapter 5. Hardware Considerations |  [Next](hardware.config) |
 
 ## 5.4. Environmental Considerations

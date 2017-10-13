@@ -1,4 +1,3 @@
-| 71.17. clamav – ClamAV |
 | [Prev](modules.cidrdb)  | Chapter 71. Modules Reference |  [Next](modules.cloudmark) |
 
 ## 71.17. clamav – ClamAV

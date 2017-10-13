@@ -1,4 +1,3 @@
-| 5.3. Hardware Scaling Approach |
 | [Prev](hardware.config_options)  | Chapter 5. Hardware Considerations |  [Next](hardware.environmental) |
 
 ## 5.3. Hardware Scaling Approach

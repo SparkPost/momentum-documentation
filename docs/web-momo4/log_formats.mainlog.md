@@ -1,4 +1,3 @@
-| 35.7. `mainlog` |
 | [Prev](log_formats.importlog)  | Chapter 35. Log Formats |  [Next](log_formats.paniclog) |
 
 ## 35.7. `mainlog`

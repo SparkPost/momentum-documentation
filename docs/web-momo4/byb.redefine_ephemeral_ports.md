@@ -1,4 +1,3 @@
-| 6.11. Redefining Ephemeral Ports |
 | [Prev](byb.root_and_vertica_dba)  | Chapter 6. Before You Begin |  [Next](byb.config_vertica_services) |
 
 ## 6.11. Redefining Ephemeral Ports

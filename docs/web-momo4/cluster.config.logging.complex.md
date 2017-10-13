@@ -1,4 +1,3 @@
-| 26.3. Complex Centralized Logging Deployments |
 | [Prev](cluster.config.logging.centalized.logging)  | Chapter 26. Log Aggregation |  [Next](cluster.config.logging.redundancy) |
 
 ## 26.3. Complex Centralized Logging Deployments

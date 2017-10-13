@@ -1,4 +1,3 @@
-| tls_verify |
 | [Prev](config.tls_verified_peer_is_authorized)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_verify_mode) |
 
 <a name="config.tls_verify"></a>

@@ -1,4 +1,3 @@
-| 48.2. Creating a Template |
 | [Prev](web-ui.templates)  | Chapter 48. Managing Your Templates in the UI |  [Next](web-ui.templates.preview) |
 
 ## 48.2. Creating a Template

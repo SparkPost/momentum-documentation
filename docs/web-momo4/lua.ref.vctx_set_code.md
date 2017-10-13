@@ -1,4 +1,3 @@
-| vctx:set_code |
 | [Prev](lua.ref.vctx_set)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.vctx_tarpit) |
 
 <a name="lua.ref.vctx_set_code"></a>

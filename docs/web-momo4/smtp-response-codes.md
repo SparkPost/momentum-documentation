@@ -1,4 +1,3 @@
-| Appendix C. SMTP Response Codes |
 | [Prev](snmp-mib.omniti)  | Part XI. Appendix |  [Next](libedit) |
 
 ## SMTP Response Codes

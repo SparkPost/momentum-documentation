@@ -1,4 +1,3 @@
-| resolv_conf |
 | [Prev](conf.ref.reserve_maintenance_interval)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.response_transcode_pattern) |
 
 <a name="conf.ref.resolv_conf"></a>

@@ -1,4 +1,3 @@
-| _unsafe_spool |
 | [Prev](conf.ref.unlink_on_spool_in_failure)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.use_iflist_cache) |
 
 <a name="conf.ref.unsafe_spool"></a>

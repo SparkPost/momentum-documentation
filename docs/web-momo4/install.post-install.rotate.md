@@ -1,4 +1,3 @@
-| 12.3. Rotating Logfiles |
 | [Prev](install.post-install.config)  | Chapter 12. Post-Installation |  [Next](install.post-install.vertica_mgmt_console) |
 
 ## 12.3. Rotating Logfiles

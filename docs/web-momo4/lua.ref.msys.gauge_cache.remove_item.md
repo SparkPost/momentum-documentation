@@ -1,4 +1,3 @@
-| msys.gauge_cache.remove_item |
 | [Prev](lua.ref.msys.gauge_cache.inc)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.gcm.gcm_classify_error) |
 
 <a name="lua.ref.msys.gauge_cache.remove_item"></a>

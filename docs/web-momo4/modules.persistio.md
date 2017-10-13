@@ -1,4 +1,3 @@
-| 71.53. persist_io – Persistent IO Wrapper |
 | [Prev](modules.outbound_smtp_auth)  | Chapter 71. Modules Reference |  [Next](modules.pipeio) |
 
 ## 71.53. persist_io – Persistent IO Wrapper

@@ -1,4 +1,3 @@
-| 26.5. Decommissioning a Log Aggregator |
 | [Prev](cluster.config.logging.redundancy)  | Chapter 26. Log Aggregation |  [Next](cluster.config.duravip) |
 
 ## 26.5. Decommissioning a Log Aggregator

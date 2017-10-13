@@ -1,4 +1,3 @@
-| 25.7. Outbound Email Relay |
 | [Prev](outbound_mail.outbound.xclient)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](log_aggregation) |
 
 ## 25.7. Outbound Email Relay

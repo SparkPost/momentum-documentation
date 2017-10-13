@@ -1,4 +1,3 @@
-| 6.6. Enable Network Time Protocol (NTP) |
 | [Prev](byb.disable_selinux)  | Chapter 6. Before You Begin |  [Next](byb.sysctl.conf) |
 
 ## 6.6. Enable Network Time Protocol (NTP)

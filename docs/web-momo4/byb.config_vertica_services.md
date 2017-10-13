@@ -1,4 +1,3 @@
-| 6.12. Configuring Locale |
 | [Prev](byb.redefine_ephemeral_ports)  | Chapter 6. Before You Begin |  [Next](byb.config_SSH_and_SSHD) |
 
 ## 6.12. Configuring Locale

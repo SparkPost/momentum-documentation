@@ -1,4 +1,3 @@
-| clear_mail_queue_maintainers |
 | [Prev](conf.ref.chroot)  | Chapter 72. Configuration Options Reference |  [Next](config.click_tracking_enabled) |
 
 <a name="conf.ref.clear_mail_queue_maintainers"></a>

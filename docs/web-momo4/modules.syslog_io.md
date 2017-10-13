@@ -1,4 +1,3 @@
-| 71.71. syslog_io – The syslog_io Module |
 | [Prev](modules.suppress_spool)  | Chapter 71. Modules Reference |  [Next](tls_macros) |
 
 ## 71.71. syslog_io – The syslog_io Module

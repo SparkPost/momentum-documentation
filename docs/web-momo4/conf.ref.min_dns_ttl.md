@@ -1,4 +1,3 @@
-| min_dns_ttl |
 | [Prev](conf.ref.mime_parse_large_messages_during_reception)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.mx_failures_fallback_to_a) |
 
 <a name="conf.ref.min_dns_ttl"></a>

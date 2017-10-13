@@ -1,4 +1,3 @@
-| memory_goal |
 | [Prev](conf.ref.mdn_failures_notify)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.memory_hwm) |
 
 <a name="conf.ref.memory_goal"></a>

@@ -1,4 +1,3 @@
-| msg:body |
 | [Prev](lua.ref.msg_binding_group)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_body_match) |
 
 <a name="lua.ref.msg_body"></a>

@@ -1,4 +1,3 @@
-| Part II. Installing Momentum |
 | [Prev](licensed_features.supercharger)  |   |  [Next](hardware.requirements) |
 
 ## Part II. Installing Momentum

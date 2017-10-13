@@ -1,4 +1,3 @@
-| Chapter 27. DuraVIP™: IP Fail over |
 | [Prev](cluster.config.logging.decommissioning)  | Part III. Configuring Momentum |  [Next](cluster.config.mmove) |
 
 ## Chapter 27. DuraVIP™: IP Fail over

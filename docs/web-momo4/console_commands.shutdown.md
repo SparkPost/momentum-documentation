@@ -1,4 +1,3 @@
-| shutdown |
 | [Prev](console_commands.showqueue)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.signing_stats) |
 
 <a name="console_commands.shutdown"></a>

@@ -1,4 +1,3 @@
-| Chapter 59. Using Webhooks for Event Data |
 | [Prev](reporting_metrics)  | Part VIII. Reporting and Engagement Tracking |  [Next](web-ui.webhooks) |
 
 ## Chapter 59. Using Webhooks for Event Data

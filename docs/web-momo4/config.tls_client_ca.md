@@ -1,4 +1,3 @@
-| tls_client_ca |
 | [Prev](config.tls_ciphers)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.tls_dhparams_file) |
 
 <a name="config.tls_client_ca"></a>

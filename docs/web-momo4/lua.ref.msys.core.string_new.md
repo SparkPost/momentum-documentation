@@ -1,4 +1,3 @@
-| msys.core.string_new |
 | [Prev](lua.ref.msys.core.mail_queue_delay_domain)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_code) |
 
 <a name="lua.ref.msys.core.string_new"></a>

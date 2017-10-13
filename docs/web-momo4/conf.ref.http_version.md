@@ -1,4 +1,3 @@
-| http_version |
 | [Prev](conf.ref.http_uri)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.idle_timeout) |
 
 <a name="conf.ref.http_version"></a>

@@ -1,4 +1,3 @@
-| Chapter 67. Console Commands Summary |
 | [Prev](config.options.summary)  | Part X. Reference |  [Next](exe) |
 
 ## Chapter 67. Console Commands Summary

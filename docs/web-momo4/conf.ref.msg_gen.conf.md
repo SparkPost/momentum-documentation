@@ -1,4 +1,3 @@
-| 20.2. `msg_gen.conf` File |
 | [Prev](http_listener)  | Chapter 20. Configuring Inbound Mail Service Using HTTP |  [Next](auth) |
 
 ## 20.2. `msg_gen.conf` File

@@ -1,4 +1,3 @@
-| E.2. Disclaimers for Redistributed Third-Party Software |
 | [Prev](copyrights)  | Appendix E. Copyright Notices |   |
 
 ## E.2. Disclaimers for Redistributed Third-Party Software

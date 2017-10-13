@@ -1,4 +1,3 @@
-| drop_body_after_trans_fail |
 | [Prev](conf.ref.domainkeys)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.ecstream_port) |
 
 <a name="conf.ref.drop_body_after_trans_fail"></a>

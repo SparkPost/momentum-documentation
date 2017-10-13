@@ -1,4 +1,3 @@
-| Part VI. SMTP Injection |
 | [Prev](cluster.cidr_server)  |   |  [Next](smtp_injection) |
 
 ## Part VI. SMTP Injection

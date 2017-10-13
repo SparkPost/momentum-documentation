@@ -1,4 +1,3 @@
-| 71.47. msgc – Message Systems Group Communication |
 | [Prev](modules.maildir)  | Chapter 71. Modules Reference |  [Next](modules.msg_gen) |
 
 ## 71.47. msgc – Message Systems Group Communication

@@ -1,4 +1,3 @@
-| msgpart:text |
 | [Prev](lua.ref.msgpart_text2)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_text_match) |
 
 <a name="lua.ref.msgpart_text"></a>

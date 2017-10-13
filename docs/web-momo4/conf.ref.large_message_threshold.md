@@ -1,4 +1,3 @@
-| large_message_threshold |
 | [Prev](conf.ref.keep_message_dicts_in_memory)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.legacy_message_threshold) |
 
 <a name="conf.ref.large_message_threshold"></a>

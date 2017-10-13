@@ -1,4 +1,3 @@
-| Chapter 20. Configuring Inbound Mail Service Using HTTP |
 | [Prev](inbound_tls)  | Part III. Configuring Momentum |  [Next](conf.ref.msg_gen.conf) |
 
 ## Chapter 20. Configuring Inbound Mail Service Using HTTP

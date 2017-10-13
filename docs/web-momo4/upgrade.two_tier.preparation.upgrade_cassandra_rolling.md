@@ -1,4 +1,3 @@
-| 11.4. Upgrade Cassandra on the Platform Nodes |
 | [Prev](upgrade.two_tier.preparation.snapshot_cassandra_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.stop_generations_rolling) |
 
 ## 11.4. Upgrade Cassandra on the Platform Nodes

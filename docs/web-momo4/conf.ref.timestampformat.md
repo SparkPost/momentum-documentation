@@ -1,4 +1,3 @@
-| timestampformat |
 | [Prev](conf.ref.threadpool)  | Chapter 72. Configuration Options Reference |  [Next](config.ref.tls) |
 
 <a name="conf.ref.timestampformat"></a>

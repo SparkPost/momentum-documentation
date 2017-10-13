@@ -1,4 +1,3 @@
-| msg.batch_id |
 | [Prev](lua.ref.json.strerror)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg.conn_id) |
 
 <a name="lua.ref.msg.batch_id"></a>

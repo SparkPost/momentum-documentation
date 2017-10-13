@@ -1,4 +1,3 @@
-| pathway |
 | [Prev](conf.ref.outbound_throttle_messages)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pathway_group) |
 
 <a name="conf.ref.pathway"></a>

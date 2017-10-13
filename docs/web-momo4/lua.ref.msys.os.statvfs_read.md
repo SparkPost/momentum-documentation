@@ -1,4 +1,3 @@
-| msys.os.statvfs_read |
 | [Prev](lua.ref.msys.pcre.split)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.os.statvfs_subscribe) |
 
 <a name="lua.ref.msys.os.statvfs_read"></a>

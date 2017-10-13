@@ -1,4 +1,3 @@
-| 57.3. Adaptive Delivery Report |
 | [Prev](web-ui.reports.viewing.reports)  | Chapter 57. Reports and Engagement Tracking in the UI |  [Next](web-ui.reports.evaluating.campaign.performance) |
 
 ## 57.3. Adaptive Delivery Report

@@ -1,4 +1,3 @@
-| 6.16. Separate Vertica Partition |
 | [Prev](byb.riak_provisioning)  | Chapter 6. Before You Begin |  [Next](byb.disable_postfix) |
 
 ## 6.16. Separate Vertica Partition

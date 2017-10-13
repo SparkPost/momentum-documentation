@@ -1,4 +1,3 @@
-| ad_summary |
 | [Prev](exec.cmds.ref)  | Chapter 74. Executable Commands Reference |  [Next](executable.create_ssl_cert) |
 
 <a name="executable.ad_summary"></a>

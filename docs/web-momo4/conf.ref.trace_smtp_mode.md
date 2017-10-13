@@ -1,4 +1,3 @@
-| trace_smtp_mode |
 | [Prev](config.tls_verify_mode)  | Chapter 72. Configuration Options Reference |  [Next](config.tracking_domain) |
 
 <a name="conf.ref.trace_smtp_mode"></a>

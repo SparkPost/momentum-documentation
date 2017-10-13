@@ -1,4 +1,3 @@
-| 71.72. tls_macros – TLS-related Logging |
 | [Prev](modules.syslog_io)  | Chapter 71. Modules Reference |  [Next](modules.url_ripper) |
 
 ## 71.72. tls_macros – TLS-related Logging

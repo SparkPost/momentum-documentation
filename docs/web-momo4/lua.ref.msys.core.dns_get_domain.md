@@ -1,4 +1,3 @@
-| msys.core.dns_get_domain |
 | [Prev](lua.ref.curl.unescape)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.core.get_now_ts) |
 
 <a name="lua.ref.msys.core.dns_get_domain"></a>

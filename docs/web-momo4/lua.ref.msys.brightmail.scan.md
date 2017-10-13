@@ -1,4 +1,3 @@
-| msys.brightmail.scan |
 | [Prev](lua.ref.msys.bounce.classify_smtp_response)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.cidr.define) |
 
 <a name="lua.ref.msys.brightmail.scan"></a>

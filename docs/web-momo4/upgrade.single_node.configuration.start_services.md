@@ -1,4 +1,3 @@
-| 10.7. Start Services |
 | [Prev](upgrade.single_node.configuration.webui)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.single_node.complete_setup) |
 
 ## 10.7. Start Services

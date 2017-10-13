@@ -1,4 +1,3 @@
-| msgpart:insertBefore |
 | [Prev](lua.ref.msgpart_insertAfter)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_raw_match) |
 
 <a name="lua.ref.msgpart_insertBefore"></a>

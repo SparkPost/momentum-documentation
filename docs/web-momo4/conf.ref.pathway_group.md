@@ -1,4 +1,3 @@
-| pathway_group |
 | [Prev](conf.ref.pathway)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pcre_cache_size) |
 
 <a name="conf.ref.pathway_group"></a>

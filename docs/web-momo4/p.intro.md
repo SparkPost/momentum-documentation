@@ -1,4 +1,3 @@
-| Part I. Introduction to Momentum |
 | [Prev](preface)  |   |  [Next](components) |
 
 ## Part I. Introduction to Momentum

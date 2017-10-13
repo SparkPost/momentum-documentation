@@ -1,4 +1,3 @@
-| 15.2. Configuration Options |
 | [Prev](conf.overview)  | Chapter 15. Configuration Overview |  [Next](ecelerity.conf.fallback) |
 
 ## 15.2. Configuration Options

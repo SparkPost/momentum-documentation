@@ -1,4 +1,3 @@
-| msys.av.scan_part |
 | [Prev](lua.ref.msys.av.scan)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.base64.decode) |
 
 <a name="lua.ref.msys.av.scan_part"></a>

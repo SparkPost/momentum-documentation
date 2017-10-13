@@ -1,4 +1,3 @@
-| Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |
 | [Prev](upgrade.single_node.configuration.next_steps)  | Part II. Installing Momentum |  [Next](upgrade.two_tier.preparation.prepare_all_nodes_rolling) |
 
 ## Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node

@@ -1,4 +1,3 @@
-| 27.4. DuraVIP™ Configuration Conflicts and Ambiguities |
 | [Prev](cluster.config.arp_all_hosts)  | Chapter 27. DuraVIP™: IP Fail over |  [Next](cluster.config.replication) |
 
 ## 27.4. DuraVIP™ Configuration Conflicts and Ambiguities

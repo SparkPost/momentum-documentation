@@ -1,4 +1,3 @@
-| Chapter 2. Life of A Message |
 | [Prev](components)  | Part I. Introduction to Momentum |  [Next](roles_behaviors) |
 
 ## Chapter 2. Life of A Message

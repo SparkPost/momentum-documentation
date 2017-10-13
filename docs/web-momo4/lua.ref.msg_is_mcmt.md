@@ -1,4 +1,3 @@
-| msg:is_mcmt |
 | [Prev](lua.ref.msg_inject)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_mailfrom) |
 
 <a name="lua.ref.msg_is_mcmt"></a>

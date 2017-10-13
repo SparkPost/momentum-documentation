@@ -1,4 +1,3 @@
-| 35.10. Bounce Classification Codes |
 | [Prev](log_formats.rejectlog)  | Chapter 35. Log Formats |  [Next](log_formats.connection.stages) |
 
 ## 35.10. Bounce Classification Codes

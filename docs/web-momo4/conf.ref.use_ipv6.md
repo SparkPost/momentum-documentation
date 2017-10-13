@@ -1,4 +1,3 @@
-| use_ipv6 |
 | [Prev](conf.ref.use_iflist_cache)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.use_mmap) |
 
 <a name="conf.ref.use_ipv6"></a>

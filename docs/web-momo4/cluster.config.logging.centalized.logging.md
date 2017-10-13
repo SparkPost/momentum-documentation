@@ -1,4 +1,3 @@
-| 26.2. Centralized Logging Example |
 | [Prev](log_aggregation)  | Chapter 26. Log Aggregation |  [Next](cluster.config.logging.complex) |
 
 ## 26.2. Centralized Logging Example

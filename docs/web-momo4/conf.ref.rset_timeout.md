@@ -1,4 +1,3 @@
-| rset_timeout |
 | [Prev](conf.ref.routes)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.scope_max_outbound_connections) |
 
 <a name="conf.ref.rset_timeout"></a>

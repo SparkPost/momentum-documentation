@@ -1,4 +1,3 @@
-| dns_failures_to_purge |
 | [Prev](conf.ref.dns_expire_interval)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.dns_fallback_to_tcp) |
 
 <a name="conf.ref.dns_failures_to_purge"></a>

@@ -1,4 +1,3 @@
-| authorization |
 | [Prev](conf.ref.async_bounce_rendering)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.bind_address) |
 
 <a name="conf.ref.authorization"></a>

@@ -1,4 +1,3 @@
-| 71.67. smtpapi – SMTP Engagement Tracking |
 | [Prev](modules.smtp_rcptto_proxy)  | Chapter 71. Modules Reference |  [Next](modules.spf) |
 
 ## 71.67. smtpapi – SMTP Engagement Tracking

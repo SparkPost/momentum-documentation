@@ -1,4 +1,3 @@
-| delivery_pool |
 | [Prev](conf.ref.delivery_method)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.delivery_response_timeout) |
 
 <a name="config.ref.delivery_pool"></a>

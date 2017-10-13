@@ -1,4 +1,3 @@
-| tls_protocols |
 | [Prev](config.tls_key)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_verified_peer_is_authorized) |
 
 <a name="config.tls_protocols"></a>

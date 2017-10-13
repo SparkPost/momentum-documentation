@@ -1,4 +1,3 @@
-| 71.4. alerting – Send Alerting Emails |
 | [Prev](modules.adaptive)  | Chapter 71. Modules Reference |  [Next](modules.alias) |
 
 ## 71.4. alerting – Send Alerting Emails

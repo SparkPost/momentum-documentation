@@ -1,4 +1,3 @@
-| binding_auto_replumb_interval |
 | [Prev](conf.ref.binding_auto_replumb)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.binding_group) |
 
 <a name="conf.ref.binding_auto_replumb_interval"></a>

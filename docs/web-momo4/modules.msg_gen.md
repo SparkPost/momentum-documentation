@@ -1,4 +1,3 @@
-| 71.48. msg_gen – Message Generation |
 | [Prev](modules.msgc)  | Chapter 71. Modules Reference |  [Next](modules.mxip) |
 
 ## 71.48. msg_gen – Message Generation

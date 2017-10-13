@@ -1,4 +1,3 @@
-| 71.32. engagement_tracker – HTTP Engagement Tracking |
 | [Prev](modules.eleven)  | Chapter 71. Modules Reference |  [Next](modules.event_hydrant) |
 
 ## 71.32. engagement_tracker – HTTP Engagement Tracking

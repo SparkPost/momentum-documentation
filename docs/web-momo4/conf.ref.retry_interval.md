@@ -1,4 +1,3 @@
-| retry_interval |
 | [Prev](conf.ref.response_transcode_replace)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rfc2821_allow_whitespace_in_envelope) |
 
 <a name="conf.ref.retry_interval"></a>

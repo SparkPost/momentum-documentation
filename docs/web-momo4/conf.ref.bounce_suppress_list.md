@@ -1,4 +1,3 @@
-| bounce_suppress_list |
 | [Prev](conf.ref.bounce_pattern)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.bounces_inline_original) |
 
 <a name="conf.ref.bounce_suppress_list"></a>

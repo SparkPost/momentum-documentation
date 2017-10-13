@@ -1,4 +1,3 @@
-| Chapter 18. Configuring Inbound Mail Service Using ECStream |
 | [Prev](control_authz)  | Part III. Configuring Momentum |  [Next](esmtp_listener) |
 
 ## Chapter 18. Configuring Inbound Mail Service Using ECStream

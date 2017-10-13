@@ -1,4 +1,3 @@
-| 11.13. Configuration Changes |
 | [Prev](upgrade.two_tier.preparation.rpms_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.configuration.software_upgrade_rolling) |
 
 ## 11.13. Configuration Changes

@@ -1,4 +1,3 @@
-| only_use_best_mx_for_relay_domains |
 | [Prev](conf.ref.never_retry)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.open_relay) |
 
 <a name="conf.ref.only_use_best_mx_for_relay_domains"></a>

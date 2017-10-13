@@ -1,4 +1,3 @@
-| 11.10. Upgrade Vertica on the Analytics Nodes |
 | [Prev](upgrade.two_tier.preparation.restore_tranmissions_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.configuration.flyway_rolling) |
 
 ## 11.10. Upgrade Vertica on the Analytics Nodes

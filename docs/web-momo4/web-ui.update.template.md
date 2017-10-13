@@ -1,4 +1,3 @@
-| 48.4. Updating Your Template |
 | [Prev](web-ui.templates.preview)  | Chapter 48. Managing Your Templates in the UI |  [Next](web-ui.templates.publish) |
 
 ## 48.4. Updating Your Template

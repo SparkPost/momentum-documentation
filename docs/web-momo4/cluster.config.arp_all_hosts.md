@@ -1,4 +1,3 @@
-| 27.3. Address Resolution Protocol (ARP) traffic |
 | [Prev](cluster.config.mmove)  | Chapter 27. DuraVIP™: IP Fail over |  [Next](cluster.duravip.conflict) |
 
 ## 27.3. Address Resolution Protocol (ARP) traffic

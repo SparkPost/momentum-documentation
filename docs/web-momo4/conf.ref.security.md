@@ -1,4 +1,3 @@
-| security |
 | [Prev](conf.ref.scheduler)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.send_8bitmime) |
 
 <a name="conf.ref.security"></a>

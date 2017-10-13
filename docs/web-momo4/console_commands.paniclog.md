@@ -1,4 +1,3 @@
-| paniclog |
 | [Prev](console_commands.pager)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.pid) |
 
 <a name="console_commands.paniclog"></a>

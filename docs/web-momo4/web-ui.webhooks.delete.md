@@ -1,4 +1,3 @@
-| 60.5. Deleting a Webhook |
 | [Prev](web-ui.webhooks.update)  | Chapter 60. Managing Your Webhooks in the UI |  [Next](engagement_tracking_http) |
 
 ## 60.5. Deleting a Webhook

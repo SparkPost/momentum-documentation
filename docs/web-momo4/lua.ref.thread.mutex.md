@@ -1,4 +1,3 @@
-| thread.mutex |
 | [Prev](lua.ref.msys.validate.opendkim.verify)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.vctx_add_recipient) |
 
 <a name="lua.ref.thread.mutex"></a>

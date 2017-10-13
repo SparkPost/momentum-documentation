@@ -1,4 +1,3 @@
-| debug_flags |
 | [Prev](config.crypto_lock_method)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.default_binding) |
 
 <a name="conf.ref.debug_flags"></a>

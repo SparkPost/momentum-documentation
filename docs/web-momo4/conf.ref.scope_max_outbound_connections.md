@@ -1,4 +1,3 @@
-| scope_max_outbound_connections |
 | [Prev](conf.ref.rset_timeout)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.scheduler) |
 
 <a name="conf.ref.scope_max_outbound_connections"></a>

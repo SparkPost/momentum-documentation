@@ -1,4 +1,3 @@
-| 41.3. Using Policy for Engagement Tracking |
 | [Prev](x-msys-api_header)  | Chapter 41. Tracking Engagement for SMTP |  [Next](engagement_tracking_smtp.escaping) |
 
 ## 41.3. Using Policy for Engagement Tracking

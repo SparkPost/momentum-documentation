@@ -1,4 +1,3 @@
-| Chapter 66. Configuration Options Summary |
 | [Prev](modules.summary.all.modules)  | Part X. Reference |  [Next](console_commands) |
 
 ## Chapter 66. Configuration Options Summary

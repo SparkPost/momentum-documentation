@@ -1,4 +1,3 @@
-| tls_ca |
 | [Prev](config.tls_allow_renegotiation)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_certificate) |
 
 <a name="config.tls_ca"></a>

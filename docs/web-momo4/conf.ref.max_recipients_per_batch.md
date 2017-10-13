@@ -1,4 +1,3 @@
-| max_recipients_per_batch |
 | [Prev](conf.ref.max_outbound_connections)  | Chapter 72. Configuration Options Reference |  [Next](config.max_request_size) |
 
 <a name="conf.ref.max_recipients_per_batch"></a>

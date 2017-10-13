@@ -1,4 +1,3 @@
-| 29.4. Dumping and Restoring the Database |
 | [Prev](postgresql.client)  | Chapter 29. PostgreSQL |  [Next](riak) |
 
 ## 29.4. Dumping and Restoring the Database

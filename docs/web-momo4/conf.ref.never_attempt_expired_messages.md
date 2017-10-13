@@ -1,4 +1,3 @@
-| never_attempt_expired_messages |
 | [Prev](conf.ref.mx_failures_to_delay)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.never_retry) |
 
 <a name="conf.ref.never_attempt_expired_messages"></a>

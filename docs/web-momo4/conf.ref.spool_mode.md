@@ -1,4 +1,3 @@
-| spool_mode |
 | [Prev](conf.ref.soft_bounce_drain_rate)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.spoolbase) |
 
 <a name="conf.ref.spool_mode"></a>

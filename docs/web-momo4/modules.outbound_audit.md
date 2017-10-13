@@ -1,4 +1,3 @@
-| 71.51. outbound_audit – Outbound traffic analytics |
 | [Prev](modules.opendkim)  | Chapter 71. Modules Reference |  [Next](modules.outbound_smtp_auth) |
 
 ## 71.51. outbound_audit – Outbound traffic analytics

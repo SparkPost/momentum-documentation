@@ -1,4 +1,3 @@
-| msys.pcre.replace |
 | [Prev](lua.ref.msys.pcre.match)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.pcre.split) |
 
 <a name="lua.ref.msys.pcre.replace"></a>

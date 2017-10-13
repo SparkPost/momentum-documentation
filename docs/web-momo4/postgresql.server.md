@@ -1,4 +1,3 @@
-| 29.2. Running the PostgreSQL Server |
 | [Prev](postgresql)  | Chapter 29. PostgreSQL |  [Next](postgresql.client) |
 
 ## 29.2. Running the PostgreSQL Server

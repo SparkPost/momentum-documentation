@@ -1,4 +1,3 @@
-| curl.escape |
 | [Prev](lua.ref.curl.c_setopt)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.curl.new) |
 
 <a name="lua.ref.curl.escape"></a>

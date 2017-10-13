@@ -1,4 +1,3 @@
-| 10.6. Update Web UI Configuration |
 | [Prev](upgrade.single_node.configuration.software_upgrade)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.single_node.configuration.start_services) |
 
 ## 10.6. Update Web UI Configuration

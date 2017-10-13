@@ -1,4 +1,3 @@
-| rfc2822_messageid_header |
 | [Prev](conf.ref.rfc2822_max_line_length_policy)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rfc2822_missing_headers) |
 
 <a name="conf.ref.rfc2822_messageid_header"></a>

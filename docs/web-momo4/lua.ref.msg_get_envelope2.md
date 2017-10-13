@@ -1,4 +1,3 @@
-| msg:get_envelope2 |
 | [Prev](lua.ref.msg_code)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.header) |
 
 <a name="lua.ref.msg_get_envelope2"></a>

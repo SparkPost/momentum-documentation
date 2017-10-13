@@ -1,4 +1,3 @@
-| Chapter 38. Using the Cluster Manager (**eccmgr**) |
 | [Prev](operations.console.lua)  | Part V. Using the System Console |  [Next](cluster.config.operations.eccmgr.console) |
 
 ## Chapter 38. Using the Cluster Manager (eccmgr)

@@ -1,4 +1,3 @@
-| exclude_vctx_conn |
 | [Prev](conf.ref.events_per_iter)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.exclude_vctx_mess) |
 
 <a name="conf.ref.exclude_vctx_conn"></a>

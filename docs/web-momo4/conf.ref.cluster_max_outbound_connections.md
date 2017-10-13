@@ -1,4 +1,3 @@
-| cluster_max_outbound_connections |
 | [Prev](config.click_tracking_scheme)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.cluster_outbound_throttle_connections) |
 
 <a name="conf.ref.cluster_max_outbound_connections"></a>

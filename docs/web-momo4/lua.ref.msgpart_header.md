@@ -1,4 +1,3 @@
-| msgpart:header |
 | [Prev](lua.ref.msgpart_content_type)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_header2) |
 
 <a name="lua.ref.msgpart_header"></a>

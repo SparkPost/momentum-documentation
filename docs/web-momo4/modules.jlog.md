@@ -1,4 +1,3 @@
-| 71.43. jlog – jlog-Formatted Logging |
 | [Prev](modules.ipv6_lookup)  | Chapter 71. Modules Reference |  [Next](modules.live.bounce.updates) |
 
 ## 71.43. jlog – jlog-Formatted Logging

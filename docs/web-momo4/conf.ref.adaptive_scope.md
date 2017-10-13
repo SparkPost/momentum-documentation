@@ -1,4 +1,3 @@
-| adaptive_scope |
 | [Prev](conf.ref.adaptive_enabled)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.address_metrics_cleanse_interval) |
 
 <a name="conf.ref.adaptive_scope"></a>

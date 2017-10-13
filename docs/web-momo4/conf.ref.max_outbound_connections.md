@@ -1,4 +1,3 @@
-| max_outbound_connections |
 | [Prev](conf.ref.max_dns_ttl)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_recipients_per_batch) |
 
 <a name="conf.ref.max_outbound_connections"></a>

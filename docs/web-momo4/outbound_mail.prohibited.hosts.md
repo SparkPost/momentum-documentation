@@ -1,4 +1,3 @@
-| 25.2. Prohibited_Hosts |
 | [Prev](outbound_mail)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](outbound_mail.multivip.interfaces) |
 
 ## 25.2. Prohibited_Hosts

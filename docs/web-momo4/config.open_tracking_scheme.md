@@ -1,4 +1,3 @@
-| open_tracking_scheme |
 | [Prev](config.open_tracking_enabled)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.opendkim_sign) |
 
 <a name="config.open_tracking_scheme"></a>

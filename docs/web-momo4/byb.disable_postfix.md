@@ -1,4 +1,3 @@
-| 6.17. Disable Postfix and QPIDD |
 | [Prev](byb.vertica_partition)  | Chapter 6. Before You Begin |  [Next](byb.analytics_reqs) |
 
 ## 6.17. Disable Postfix and QPIDD

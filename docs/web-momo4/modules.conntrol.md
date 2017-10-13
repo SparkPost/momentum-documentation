@@ -1,4 +1,3 @@
-| 71.22. conntrol – Fine-Grained Connection Control |
 | [Prev](modules.compress_spool)  | Chapter 71. Modules Reference |  [Next](modules.csapi) |
 
 ## 71.22. conntrol – Fine-Grained Connection Control

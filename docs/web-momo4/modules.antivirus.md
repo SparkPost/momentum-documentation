@@ -1,4 +1,3 @@
-| 71.6. antivirus – Antivirus |
 | [Prev](modules.alias)  | Chapter 71. Modules Reference |  [Next](modules.as_logger) |
 
 ## 71.6. antivirus – Antivirus

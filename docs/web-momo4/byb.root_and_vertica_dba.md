@@ -1,4 +1,3 @@
-| 6.10. Creating `root` and `vertica_dba` Accounts |
 | [Prev](byb.jre)  | Chapter 6. Before You Begin |  [Next](byb.redefine_ephemeral_ports) |
 
 ## 6.10. Creating `root` and `vertica_dba` Accounts

@@ -1,4 +1,3 @@
-| Chapter 64. Lua Functions Summary |
 | [Prev](p.reference)  | Part X. Reference |  [Next](modules.summary.all.modules) |
 
 ## Chapter 64. Lua Functions Summary

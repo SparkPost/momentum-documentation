@@ -1,4 +1,3 @@
-| 44.4. Deleting an API Key |
 | [Prev](web-ui.apikeys.update)  | Chapter 44. Managing Your API Keys |  [Next](message_gen) |
 
 ## 44.4. Deleting an API Key

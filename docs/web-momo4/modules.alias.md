@@ -1,4 +1,3 @@
-| 71.5. alias – Alias Expansion |
 | [Prev](modules.alerting)  | Chapter 71. Modules Reference |  [Next](modules.antivirus) |
 
 ## 71.5. alias – Alias Expansion

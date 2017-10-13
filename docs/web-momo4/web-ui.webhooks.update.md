@@ -1,4 +1,3 @@
-| 60.4. Updating Your Webhook |
 | [Prev](web-ui.webhooks.test)  | Chapter 60. Managing Your Webhooks in the UI |  [Next](web-ui.webhooks.delete) |
 
 ## 60.4. Updating Your Webhook

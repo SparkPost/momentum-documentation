@@ -1,4 +1,3 @@
-| msys.cloudmark.add_af_data |
 | [Prev](lua.ref.msys.cloudmark.analyze)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.cloudmark.score) |
 
 <a name="lua.ref.msys.cloudmark.add_af_data"></a>

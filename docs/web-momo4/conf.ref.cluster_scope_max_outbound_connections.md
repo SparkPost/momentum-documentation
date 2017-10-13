@@ -1,4 +1,3 @@
-| cluster_scope_max_outbound_connections |
 | [Prev](conf.ref.cluster_outbound_throttle_messages)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.cluster_server_max_outbound_connections) |
 
 <a name="conf.ref.cluster_scope_max_outbound_connections"></a>

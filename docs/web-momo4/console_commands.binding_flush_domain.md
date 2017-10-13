@@ -1,4 +1,3 @@
-| binding flush domain |
 | [Prev](console_commands.binding_fail_domain_quiet)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.binding_summary) |
 
 <a name="console_commands.binding_flush_domain"></a>

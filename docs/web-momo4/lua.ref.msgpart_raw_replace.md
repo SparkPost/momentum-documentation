@@ -1,4 +1,3 @@
-| msgpart:raw_replace |
 | [Prev](lua.ref.msgpart_raw_match)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_text2) |
 
 <a name="lua.ref.msgpart_raw_replace"></a>

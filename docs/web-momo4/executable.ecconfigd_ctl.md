@@ -1,4 +1,3 @@
-| ecconfigd_ctl |
 | [Prev](executable.ecconfigd)  | Chapter 74. Executable Commands Reference |  [Next](executable.ecelerity) |
 
 <a name="executable.ecconfigd_ctl"></a>

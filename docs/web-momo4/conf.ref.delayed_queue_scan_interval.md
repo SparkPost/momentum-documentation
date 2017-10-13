@@ -1,4 +1,3 @@
-| delayed_queue_scan_interval |
 | [Prev](conf.ref.delayed_binding_domain_fuzz)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.delivery_method) |
 
 <a name="conf.ref.delayed_queue_scan_interval"></a>

@@ -1,4 +1,3 @@
-| 9.3. Configure the Analytics Nodes |
 | [Prev](install.configure_cassandra)  | Chapter 9. New Installation - All Configurations |  [Next](install.start_remaining_services) |
 
 ## 9.3. Configure the Analytics Nodes

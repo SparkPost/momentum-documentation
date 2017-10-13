@@ -1,4 +1,3 @@
-| 35.6. `importlog` |
 | [Prev](log_formats.httplog)  | Chapter 35. Log Formats |  [Next](log_formats.mainlog) |
 
 ## 35.6. `importlog`

@@ -1,4 +1,3 @@
-| msg:header |
 | [Prev](lua.ref.msg_get_envelope2)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_listener_addr) |
 
 <a name="lua.ref.header"></a>

@@ -1,4 +1,3 @@
-| never_retry |
 | [Prev](conf.ref.never_attempt_expired_messages)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.only_use_best_mx_for_relay_domains) |
 
 <a name="conf.ref.never_retry"></a>

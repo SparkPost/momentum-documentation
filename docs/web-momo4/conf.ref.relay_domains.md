@@ -1,4 +1,3 @@
-| relay_domains |
 | [Prev](conf.ref.relay_for_sending_domains)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.relay_hosts) |
 
 <a name="conf.ref.relay_domains"></a>

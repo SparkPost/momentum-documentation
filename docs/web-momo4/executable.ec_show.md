@@ -1,4 +1,3 @@
-| ec_show |
 | [Prev](executable.ec_sendmail)  | Chapter 74. Executable Commands Reference |  [Next](executable.eccfg) |
 
 <a name="executable.ec_show"></a>

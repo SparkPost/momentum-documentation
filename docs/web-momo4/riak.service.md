@@ -1,4 +1,3 @@
-| 30.2. Running the Riak Service |
 | [Prev](riak)  | Chapter 30. Riak |  [Next](operations.riak.ports) |
 
 ## 30.2. Running the Riak Service

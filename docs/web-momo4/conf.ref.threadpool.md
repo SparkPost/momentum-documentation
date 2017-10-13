@@ -1,4 +1,3 @@
-| threadpool |
 | [Prev](conf.ref.tcp_buffer_size)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.timestampformat) |
 
 <a name="conf.ref.threadpool"></a>

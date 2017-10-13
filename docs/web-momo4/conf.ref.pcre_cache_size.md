@@ -1,4 +1,3 @@
-| pcre_cache_size |
 | [Prev](conf.ref.pathway_group)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pcre_cache_ttl) |
 
 <a name="conf.ref.pcre_cache_size"></a>

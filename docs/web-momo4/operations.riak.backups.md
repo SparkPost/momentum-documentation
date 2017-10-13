@@ -1,4 +1,3 @@
-| 30.4. Backups |
 | [Prev](operations.riak.ports)  | Chapter 30. Riak |  [Next](environment_file) |
 
 ## 30.4. Backups

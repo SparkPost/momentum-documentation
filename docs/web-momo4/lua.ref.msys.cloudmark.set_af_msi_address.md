@@ -1,4 +1,3 @@
-| msys.cloudmark.set_af_msi_address |
 | [Prev](lua.ref.msys.cloudmark.set_af_mode_movemsg)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.apn.apn_status_classifier) |
 
 <a name="lua.ref.msys.cloudmark.set_af_msi_address"></a>

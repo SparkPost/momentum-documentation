@@ -1,4 +1,3 @@
-| rcptto_timeout |
 | [Prev](conf.ref.prohibited_hosts)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.relay_for_sending_domains) |
 
 <a name="conf.ref.rcptto_timeout"></a>

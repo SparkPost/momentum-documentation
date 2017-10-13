@@ -1,4 +1,3 @@
-| binding summary |
 | [Prev](console_commands.binding_flush_domain)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.cache_list) |
 
 <a name="console_commands.binding_summary"></a>

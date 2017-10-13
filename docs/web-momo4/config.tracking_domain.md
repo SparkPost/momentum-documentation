@@ -1,4 +1,3 @@
-| tracking_domain |
 | [Prev](conf.ref.trace_smtp_mode)  | Chapter 72. Configuration Options Reference |  [Next](config.tracking_link_expiry) |
 
 <a name="config.tracking_domain"></a>

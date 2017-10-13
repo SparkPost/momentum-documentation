@@ -1,4 +1,3 @@
-| jlog_change_endian |
 | [Prev](executable.ecelerity)  | Chapter 74. Executable Commands Reference |  [Next](executable.jlog_sanity_check) |
 
 <a name="executable.jlog_change_endian"></a>

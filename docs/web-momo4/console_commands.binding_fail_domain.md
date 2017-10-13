@@ -1,4 +1,3 @@
-| binding fail domain |
 | [Prev](console_commands.binding_delayed)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.binding_fail_domain_quiet) |
 
 <a name="console_commands.binding_fail_domain"></a>

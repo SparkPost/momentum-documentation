@@ -1,4 +1,3 @@
-| 6.8. Setting Hostnames |
 | [Prev](byb.sysctl.conf)  | Chapter 6. Before You Begin |  [Next](byb.jre) |
 
 ## 6.8. Setting Hostnames

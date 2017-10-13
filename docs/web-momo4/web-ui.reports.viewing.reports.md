@@ -1,4 +1,3 @@
-| 57.2. Viewing Your Reports |
 | [Prev](web-ui.reports)  | Chapter 57. Reports and Engagement Tracking in the UI |  [Next](web-ui.reports.adaptive.delivery) |
 
 ## 57.2. Viewing Your Reports

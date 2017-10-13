@@ -1,4 +1,3 @@
-| 63.2. Message Context Variables |
 | [Prev](policy.context.variables)  | Chapter 63. Validation Context Variables |  [Next](p.reference) |
 
 ## 63.2. Message Context Variables

@@ -1,4 +1,3 @@
-| 71.46. maildir – Maildir Delivery Support |
 | [Prev](modules.mail_loop)  | Chapter 71. Modules Reference |  [Next](modules.msgc) |
 
 ## 71.46. maildir – Maildir Delivery Support

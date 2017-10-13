@@ -1,4 +1,3 @@
-| msys.validate.dk.sign |
 | [Prev](lua.ref.msys.validate.dk.get_responsible_domain)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.validate.opendkim.get_num_sigs) |
 
 <a name="lua.ref.msys.validate.dk.sign"></a>

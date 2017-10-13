@@ -1,4 +1,3 @@
-| Part XI. Appendix |
 | [Prev](executable.validate_config)  |   |  [Next](message_responses) |
 
 ## Part XI. Appendix

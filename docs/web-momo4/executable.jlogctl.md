@@ -1,4 +1,3 @@
-| jlogctl |
 | [Prev](executable.jlog_sanity_check)  | Chapter 74. Executable Commands Reference |  [Next](executable.lu_pull) |
 
 <a name="executable.jlogctl"></a>

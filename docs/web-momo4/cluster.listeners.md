@@ -1,4 +1,3 @@
-| 16.5. Cluster-specific Listeners |
 | [Prev](conf.ref.msgc_server.conf)  | Chapter 16. Cluster-specific Configuration |  [Next](cluster.config.failover) |
 
 ## 16.5. Cluster-specific Listeners

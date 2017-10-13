@@ -1,4 +1,3 @@
-| Chapter 28. Data Replication |
 | [Prev](cluster.duravip.conflict)  | Part III. Configuring Momentum |  [Next](postgresql) |
 
 ## Chapter 28. Data Replication

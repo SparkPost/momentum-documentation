@@ -1,4 +1,3 @@
-| 29.3. Using the PostgreSQL Client Program |
 | [Prev](postgresql.server)  | Chapter 29. PostgreSQL |  [Next](postgresql.migrating) |
 
 ## 29.3. Using the PostgreSQL Client Program

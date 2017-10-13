@@ -1,4 +1,3 @@
-| msgpart:text_replace |
 | [Prev](lua.ref.msgpart_text_match)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.asyncOk) |
 
 <a name="lua.ref.msgpart_text_replace"></a>

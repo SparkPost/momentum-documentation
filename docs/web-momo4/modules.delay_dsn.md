@@ -1,4 +1,3 @@
-| 71.26. delay_dsn – Delay DSN Generation |
 | [Prev](modules.custom_logger)  | Chapter 71. Modules Reference |  [Next](modules.dnsbuf) |
 
 ## 71.26. delay_dsn – Delay DSN Generation

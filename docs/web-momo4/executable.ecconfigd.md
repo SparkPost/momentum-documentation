@@ -1,4 +1,3 @@
-| ecconfigd |
 | [Prev](executable.eccmgr_ctl)  | Chapter 74. Executable Commands Reference |  [Next](executable.ecconfigd_ctl) |
 
 <a name="executable.ecconfigd"></a>

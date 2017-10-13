@@ -1,4 +1,3 @@
-| 6.13. Configuring SSH and SSHD |
 | [Prev](byb.config_vertica_services)  | Chapter 6. Before You Begin |  [Next](byb.basic_packages) |
 
 ## 6.13. Configuring SSH and SSHD

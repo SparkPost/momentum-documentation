@@ -1,4 +1,3 @@
-| ac:esmtp_capability_add |
 | [Prev](lua.ref.msys.db.execute)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.ac_esmtp_capability_remove) |
 
 <a name="lua.ref.ac_esmtp_capability_add"></a>

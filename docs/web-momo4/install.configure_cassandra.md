@@ -1,4 +1,3 @@
-| 9.2. Configure the Cassandra Nodes |
 | [Prev](new_installation)  | Chapter 9. New Installation - All Configurations |  [Next](install.analytics_nodes) |
 
 ## 9.2. Configure the Cassandra Nodes

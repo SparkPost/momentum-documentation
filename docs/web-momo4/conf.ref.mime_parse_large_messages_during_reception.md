@@ -1,4 +1,3 @@
-| mime_parse_large_messages_during_reception |
 | [Prev](conf.ref.migrate_connections_between_sibling_domains)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.min_dns_ttl) |
 
 <a name="conf.ref.mime_parse_large_messages_during_reception"></a>

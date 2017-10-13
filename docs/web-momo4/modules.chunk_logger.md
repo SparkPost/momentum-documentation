@@ -1,4 +1,3 @@
-| 71.15. chunk_logger Module |
 | [Prev](modules.brightmail)  | Chapter 71. Modules Reference |  [Next](modules.cidrdb) |
 
 ## 71.15. chunk_logger Module

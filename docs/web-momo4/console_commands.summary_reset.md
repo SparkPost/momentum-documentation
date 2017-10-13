@@ -1,4 +1,3 @@
-| summary reset |
 | [Prev](console_commands.summary)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.sysinfo) |
 
 <a name="console_commands.summary_reset"></a>

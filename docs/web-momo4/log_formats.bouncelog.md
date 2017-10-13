@@ -1,4 +1,3 @@
-| 35.3. `bouncelog` |
 | [Prev](adaptive.log.format)  | Chapter 35. Log Formats |  [Next](log_formats.fbllog) |
 
 ## 35.3. `bouncelog`

@@ -1,4 +1,3 @@
-| match_cache_size |
 | [Prev](conf.ref.match_cache_life)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_deliveries_per_connection) |
 
 <a name="conf.ref.match_cache_size"></a>

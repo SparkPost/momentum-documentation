@@ -1,4 +1,3 @@
-| binding |
 | [Prev](conf.ref.bind_address)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.binding_auto_replumb) |
 
 <a name="conf.ref.binding"></a>

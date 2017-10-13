@@ -1,4 +1,3 @@
-| domain all |
 | [Prev](console_commands.domain)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.fail_domain) |
 
 <a name="console_commands.domain_all"></a>

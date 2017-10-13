@@ -1,4 +1,3 @@
-| 32.2. Logging Configuration |
 | [Prev](logging.overview)  | Chapter 32. Logging Overview |  [Next](log_monitoring) |
 
 ## 32.2. Logging Configuration

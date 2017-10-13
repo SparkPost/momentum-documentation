@@ -1,4 +1,3 @@
-| 41.4. Escaping {{ and }} in SMTP Message Body |
 | [Prev](engagement_tracking_smtp.policy)  | Chapter 41. Tracking Engagement for SMTP |  [Next](smtp_reporting_options) |
 
 ## 41.4. Escaping {{ and }} in SMTP Message Body

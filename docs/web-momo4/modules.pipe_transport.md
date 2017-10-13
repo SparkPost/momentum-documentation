@@ -1,4 +1,3 @@
-| 71.55. pipe_transport – Module |
 | [Prev](modules.pipeio)  | Chapter 71. Modules Reference |  [Next](modules.postfix_logger) |
 
 ## 71.55. pipe_transport – Module

@@ -1,4 +1,3 @@
-| signing_stats |
 | [Prev](conf.ref.server_reserve_outbound_connections)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.siv_throttle_cache_size) |
 
 <a name="conf.ref.signing_stats"></a>

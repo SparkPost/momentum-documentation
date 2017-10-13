@@ -1,4 +1,3 @@
-| crypto_lock_method |
 | [Prev](conf.ref.crypto_engine)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.debug_flags) |
 
 <a name="config.crypto_lock_method"></a>

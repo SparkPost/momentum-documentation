@@ -1,4 +1,3 @@
-| 71.59. sched – The Schedule Module |
 | [Prev](modules.response_transcode)  | Chapter 71. Modules Reference |  [Next](modules.scriptlet) |
 
 ## 71.59. sched – The Schedule Module

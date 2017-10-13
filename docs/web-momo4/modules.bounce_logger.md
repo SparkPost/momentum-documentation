@@ -1,4 +1,3 @@
-| 71.13. bounce_logger – Momentum-Style Bounce Logging |
 | [Prev](modules.bounce_classifier_override)  | Chapter 71. Modules Reference |  [Next](modules.brightmail) |
 
 ## 71.13. bounce_logger – Momentum-Style Bounce Logging

@@ -1,4 +1,3 @@
-| Chapter 26. Log Aggregation |
 | [Prev](outbound_mail.relay_hosts)  | Part III. Configuring Momentum |  [Next](cluster.config.logging.centalized.logging) |
 
 ## Chapter 26. Log Aggregation

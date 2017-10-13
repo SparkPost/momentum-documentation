@@ -1,4 +1,3 @@
-| 71.9. auth_radius – RADIUS based SMTP Authentication |
 | [Prev](modules.auth_ds)  | Chapter 71. Modules Reference |  [Next](modules.beik) |
 
 ## 71.9. auth_radius – RADIUS based SMTP Authentication

@@ -1,4 +1,3 @@
-| license |
 | [Prev](conf.ref.legacy_message_threshold)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.lmtp_port) |
 
 <a name="conf.ref.license"></a>

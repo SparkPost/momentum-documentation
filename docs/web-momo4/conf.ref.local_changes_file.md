@@ -1,4 +1,3 @@
-| local_changes_file |
 | [Prev](conf.ref.lmtp_port)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.local_changes_only) |
 
 <a name="conf.ref.local_changes_file"></a>

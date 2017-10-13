@@ -1,4 +1,3 @@
-| 35.11. Connection Stages |
 | [Prev](bounce_logger.classification.codes)  | Chapter 35. Log Formats |  [Next](p.operations) |
 
 ## 35.11. Connection Stages

@@ -1,4 +1,3 @@
-| Chapter 9. New Installation - All Configurations |
 | [Prev](install_upgrade_packages)  | Part II. Installing Momentum |  [Next](install.configure_cassandra) |
 
 ## Chapter 9. New Installation - All Configurations

@@ -1,4 +1,3 @@
-| 35.9. `rejectlog` |
 | [Prev](log_formats.paniclog)  | Chapter 35. Log Formats |  [Next](bounce_logger.classification.codes) |
 
 ## 35.9. `rejectlog`

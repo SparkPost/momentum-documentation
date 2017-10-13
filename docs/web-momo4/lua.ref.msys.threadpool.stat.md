@@ -1,4 +1,3 @@
-| msys.threadpool.stat |
 | [Prev](lua.ref.msys.threadpool.find)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.timer.after) |
 
 <a name="lua.ref.msys.threadpool.stat"></a>

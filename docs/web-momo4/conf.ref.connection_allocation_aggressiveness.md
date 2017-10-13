@@ -1,4 +1,3 @@
-| connection_allocation_aggressiveness |
 | [Prev](conf.ref.connect_timeout_to_delay)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.context) |
 
 <a name="conf.ref.connection_allocation_aggressiveness"></a>

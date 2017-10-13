@@ -1,4 +1,3 @@
-| msys.apn.apn_status_classifier |
 | [Prev](lua.ref.msys.cloudmark.set_af_msi_address)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.client_do_request) |
 
 <a name="lua.ref.msys.apn.apn_status_classifier"></a>

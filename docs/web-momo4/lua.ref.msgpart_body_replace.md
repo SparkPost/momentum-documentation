@@ -1,4 +1,3 @@
-| msgpart:body_replace |
 | [Prev](lua.ref.msgpart_body_match)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_content_type) |
 
 <a name="lua.ref.msgpart_body_replace"></a>

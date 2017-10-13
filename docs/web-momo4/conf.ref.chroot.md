@@ -1,4 +1,3 @@
-| chroot |
 | [Prev](conf.ref.capabilities)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.clear_mail_queue_maintainers) |
 
 <a name="conf.ref.chroot"></a>

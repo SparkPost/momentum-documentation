@@ -1,4 +1,3 @@
-| ecelerity |
 | [Prev](executable.ecconfigd_ctl)  | Chapter 74. Executable Commands Reference |  [Next](executable.jlog_change_endian) |
 
 <a name="executable.ecelerity"></a>

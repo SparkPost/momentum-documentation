@@ -1,4 +1,3 @@
-| module |
 | [Prev](console_commands.message_retry)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.pager) |
 
 <a name="console_commands.module"></a>

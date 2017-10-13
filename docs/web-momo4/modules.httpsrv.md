@@ -1,4 +1,3 @@
-| 71.38. httpsrv – HTTP Server |
 | [Prev](modules.http_logger)  | Chapter 71. Modules Reference |  [Next](modules.icu) |
 
 ## 71.38. httpsrv – HTTP Server

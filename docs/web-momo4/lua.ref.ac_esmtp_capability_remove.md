@@ -1,4 +1,3 @@
-| ac:esmtp_capability_remove |
 | [Prev](lua.ref.ac_esmtp_capability_add)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.ac_inbound_session_count) |
 
 <a name="lua.ref.ac_esmtp_capability_remove"></a>

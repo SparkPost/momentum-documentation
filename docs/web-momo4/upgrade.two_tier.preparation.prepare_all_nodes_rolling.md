@@ -1,4 +1,3 @@
-| 11.2. Before You Begin the Upgrade |
 | [Prev](upgrade.two_tier_configuration_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.snapshot_cassandra_rolling) |
 
 ## 11.2. Before You Begin the Upgrade

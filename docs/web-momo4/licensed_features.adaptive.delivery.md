@@ -1,4 +1,3 @@
-| 4.2. Adaptive Delivery |
 | [Prev](licensed_features)  | Chapter 4. Licensed Features |  [Next](licensed_features.supercharger) |
 
 ## 4.2. Adaptive Delivery

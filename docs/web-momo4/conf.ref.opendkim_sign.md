@@ -1,4 +1,3 @@
-| opendkim_sign |
 | [Prev](config.open_tracking_scheme)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.outbound_throttle_connections) |
 
 <a name="conf.ref.opendkim_sign"></a>

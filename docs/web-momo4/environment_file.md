@@ -1,4 +1,3 @@
-| Chapter 31. Configuring the Environment File |
 | [Prev](operations.riak.backups)  | Part III. Configuring Momentum |  [Next](p.logs) |
 
 ## Chapter 31. Configuring the Environment File

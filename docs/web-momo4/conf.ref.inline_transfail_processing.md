@@ -1,4 +1,3 @@
-| inline_transfail_processing |
 | [Prev](conf.ref.initial_hash_buckets)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.keep_message_dicts_in_memory) |
 
 <a name="conf.ref.inline_transfail_processing"></a>

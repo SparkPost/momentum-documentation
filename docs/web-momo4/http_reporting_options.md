@@ -1,4 +1,3 @@
-| Chapter 54. Reporting Options |
 | [Prev](p.analytics)  | Part VIII. Reporting and Engagement Tracking |  [Next](web-ui) |
 
 ## Chapter 54. Reporting Options

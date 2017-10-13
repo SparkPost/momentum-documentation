@@ -1,4 +1,3 @@
-| msys.asyncOk |
 | [Prev](lua.ref.msgpart_text_replace)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.audit.connections) |
 
 <a name="lua.ref.msys.asyncOk"></a>

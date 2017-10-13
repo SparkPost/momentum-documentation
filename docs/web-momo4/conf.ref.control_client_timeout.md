@@ -1,4 +1,3 @@
-| control_client_timeout |
 | [Prev](conf.ref.context)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.crypto_engine) |
 
 <a name="conf.ref.control_client_timeout"></a>

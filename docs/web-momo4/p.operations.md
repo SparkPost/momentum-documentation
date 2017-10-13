@@ -1,4 +1,3 @@
-| Part V. Using the System Console |
 | [Prev](log_formats.connection.stages)  |   |  [Next](conf.starting) |
 
 ## Part V. Using the System Console

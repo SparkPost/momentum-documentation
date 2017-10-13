@@ -1,4 +1,3 @@
-| Appendix B. MIB Files |
 | [Prev](message_responses)  | Part XI. Appendix |  [Next](snmp-mib.pergroup) |
 
 ## MIB Files

@@ -1,4 +1,3 @@
-| lu_pull |
 | [Prev](executable.jlogctl)  | Chapter 74. Executable Commands Reference |  [Next](executable.validate_config) |
 
 <a name="executable.lu_pull"></a>

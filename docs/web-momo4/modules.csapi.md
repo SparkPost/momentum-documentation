@@ -1,4 +1,3 @@
-| 71.23. csapi – Symantec CSAPI Antivirus Support |
 | [Prev](modules.conntrol)  | Chapter 71. Modules Reference |  [Next](modules.custom_bounce_logger) |
 
 ## 71.23. csapi – Symantec CSAPI Antivirus Support

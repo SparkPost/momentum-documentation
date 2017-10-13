@@ -1,4 +1,3 @@
-| vctx:add_recipient |
 | [Prev](lua.ref.thread.mutex)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.vctx_disconnect) |
 
 <a name="lua.ref.vctx_add_recipient"></a>

@@ -1,4 +1,3 @@
-| hostname |
 | [Prev](conf.ref.host)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.host_failure_retry) |
 
 <a name="conf.ref.hostname"></a>

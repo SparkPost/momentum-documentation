@@ -1,4 +1,3 @@
-| 6.15. Riak Provisioning |
 | [Prev](byb.basic_packages)  | Chapter 6. Before You Begin |  [Next](byb.vertica_partition) |
 
 ## 6.15. Riak Provisioning

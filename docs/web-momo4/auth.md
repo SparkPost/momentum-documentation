@@ -1,4 +1,3 @@
-| Chapter 21. Enforcing REST API/UI User Authentication |
 | [Prev](conf.ref.msg_gen.conf)  | Part III. Configuring Momentum |  [Next](using_domainkeys) |
 
 ## Chapter 21. Enforcing REST API/UI User Authentication

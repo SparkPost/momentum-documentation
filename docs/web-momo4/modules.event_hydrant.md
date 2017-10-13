@@ -1,4 +1,3 @@
-| 71.33. event_hydrant – Message Tracking |
 | [Prev](modules.engage_tracker)  | Chapter 71. Modules Reference |  [Next](modules.exim_logger) |
 
 ## 71.33. event_hydrant – Message Tracking

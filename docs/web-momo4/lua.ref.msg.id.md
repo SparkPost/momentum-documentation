@@ -1,4 +1,3 @@
-| msg.id |
 | [Prev](lua.ref.msg.conn_id)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_address_header) |
 
 <a name="lua.ref.msg.id"></a>

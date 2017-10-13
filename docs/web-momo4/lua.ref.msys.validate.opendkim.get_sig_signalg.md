@@ -1,4 +1,3 @@
-| msys.validate.opendkim.get_sig_signalg |
 | [Prev](lua.ref.msys.validate.opendkim.get_sig_selector)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.validate.opendkim.sign) |
 
 <a name="lua.ref.msys.validate.opendkim.get_sig_signalg"></a>

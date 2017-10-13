@@ -1,4 +1,3 @@
-| binding_group |
 | [Prev](conf.ref.binding_auto_replumb_interval)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.blackhole) |
 
 <a name="conf.ref.binding_group"></a>

@@ -1,4 +1,3 @@
-| 6.5. Disable SELinux |
 | [Prev](byb.load_balancing)  | Chapter 6. Before You Begin |  [Next](byb.ntp) |
 
 ## 6.5. Disable SELinux

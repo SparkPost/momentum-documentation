@@ -1,4 +1,3 @@
-| 37.3. Using Module-Specific Console Commands |
 | [Prev](operations.console-commands)  | Chapter 37. Using the System Console (**ec_console**) |  [Next](modules.options.console) |
 
 ## 37.3. Using Module-Specific Console Commands

@@ -1,4 +1,3 @@
-| max_resident_messages |
 | [Prev](conf.ref.max_resident_active_queue)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_resident_transfails) |
 
 <a name="conf.ref.max_resident_messages"></a>

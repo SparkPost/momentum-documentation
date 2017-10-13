@@ -1,4 +1,3 @@
-| Glossary |
 | [Prev](libedit.extended)  |   |  [Next](copyrights) |
 
 ## Glossary

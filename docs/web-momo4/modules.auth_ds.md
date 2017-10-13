@@ -1,4 +1,3 @@
-| 71.8. auth_ds – Datasource based SMTP Authentication |
 | [Prev](modules.as_logger)  | Chapter 71. Modules Reference |  [Next](modules.auth_radius) |
 
 ## 71.8. auth_ds – Datasource based SMTP Authentication

@@ -1,4 +1,3 @@
-| 19.6. Inbound SSL |
 | [Prev](inbound_smtp)  | Chapter 19. Configuring Inbound Mail Service Using SMTP |  [Next](inbound_tls) |
 
 ## 19.6. Inbound SSL

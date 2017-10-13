@@ -1,4 +1,3 @@
-| msg_gen_data_spool |
 | [Prev](hooks)  | Chapter 69. Hook Points and C Functions Reference |  [Next](hooks.config_rsrc_setup) |
 
 <a name="hooks.msg_gen_data_spool"></a>

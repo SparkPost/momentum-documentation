@@ -1,4 +1,3 @@
-| 71.35. fbl - Feedback Loop |
 | [Prev](modules.exim_logger)  | Chapter 71. Modules Reference |  [Next](modules.host_fingerprint) |
 
 ## 71.35. fbl - Feedback Loop

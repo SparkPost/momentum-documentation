@@ -1,4 +1,3 @@
-| use_mmap |
 | [Prev](conf.ref.use_ipv6)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.use_sendfile) |
 
 <a name="conf.ref.use_mmap"></a>

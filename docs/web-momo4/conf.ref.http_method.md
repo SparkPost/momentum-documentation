@@ -1,4 +1,3 @@
-| http_method |
 | [Prev](conf.ref.http_host)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.http_uri) |
 
 <a name="conf.ref.http_method"></a>

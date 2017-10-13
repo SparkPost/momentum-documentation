@@ -1,4 +1,3 @@
-| response_transcode_pattern |
 | [Prev](conf.ref.resolv_conf)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.response_transcode_replace) |
 
 <a name="conf.ref.response_transcode_pattern"></a>

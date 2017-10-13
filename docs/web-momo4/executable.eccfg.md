@@ -1,4 +1,3 @@
-| eccfg |
 | [Prev](executable.ec_show)  | Chapter 74. Executable Commands Reference |  [Next](executable.eccmgr) |
 
 <a name="executable.eccfg"></a>

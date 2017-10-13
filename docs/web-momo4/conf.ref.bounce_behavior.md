@@ -1,4 +1,3 @@
-| bounce_behavior |
 | [Prev](conf.ref.body_timeout)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.bounce_domains) |
 
 <a name="conf.ref.bounce_behavior"></a>

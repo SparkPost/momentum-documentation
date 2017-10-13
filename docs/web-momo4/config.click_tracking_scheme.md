@@ -1,4 +1,3 @@
-| click_tracking_scheme |
 | [Prev](config.click_tracking_enabled)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.cluster_max_outbound_connections) |
 
 <a name="config.click_tracking_scheme"></a>

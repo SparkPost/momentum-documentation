@@ -1,4 +1,3 @@
-| growbuf_size |
 | [Prev](conf.ref.generate_delay_dsn)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.host) |
 
 <a name="conf.ref.growbuf_size"></a>

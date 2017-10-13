@@ -1,4 +1,3 @@
-| 13.2. Removing a Platform Node |
 | [Prev](add_remove_platform_nodes)  | Chapter 13. Adding and Removing Platform Nodes |  [Next](add_remove_analytics_nodes) |
 
 ## 13.2. Removing a Platform Node

@@ -1,4 +1,3 @@
-| Chapter 10. Upgrade - Single Node |
 | [Prev](install.start_remaining_services)  | Part II. Installing Momentum |  [Next](upgrade.single_node.vertica_updates) |
 
 ## Chapter 10. Upgrade - Single Node

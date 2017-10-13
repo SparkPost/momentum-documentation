@@ -1,4 +1,3 @@
-| 71.62. seedlist – Seedlist Integration |
 | [Prev](modules.securecreds)  | Chapter 71. Modules Reference |  [Next](modules.sendmail_logger) |
 
 ## 71.62. seedlist – Seedlist Integration

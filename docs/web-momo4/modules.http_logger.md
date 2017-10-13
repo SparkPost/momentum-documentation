@@ -1,4 +1,3 @@
-| 71.37. http_logger – HTTP Requests and Responses |
 | [Prev](modules.host_fingerprint)  | Chapter 71. Modules Reference |  [Next](modules.httpsrv) |
 
 ## 71.37. http_logger – HTTP Requests and Responses

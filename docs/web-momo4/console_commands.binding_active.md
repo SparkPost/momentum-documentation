@@ -1,4 +1,3 @@
-| binding active |
 | [Prev](console_commands.authz_roles_list)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.binding_delayed) |
 
 <a name="console_commands.binding_active"></a>

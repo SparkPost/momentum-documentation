@@ -1,4 +1,3 @@
-| message_expiration |
 | [Prev](conf.ref.memory_hwm)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.migrate_connections_between_sibling_domains) |
 
 <a name="conf.ref.message_expiration"></a>

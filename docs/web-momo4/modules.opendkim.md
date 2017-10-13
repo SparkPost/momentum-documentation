@@ -1,4 +1,3 @@
-| 71.50. opendkim – Open Source DKIM |
 | [Prev](modules.mxip)  | Chapter 71. Modules Reference |  [Next](modules.outbound_audit) |
 
 ## 71.50. opendkim – Open Source DKIM

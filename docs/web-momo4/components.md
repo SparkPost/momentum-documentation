@@ -1,4 +1,3 @@
-| Chapter 1. Components |
 | [Prev](p.intro)  | Part I. Introduction to Momentum |  [Next](loam) |
 
 ## Chapter 1. Components

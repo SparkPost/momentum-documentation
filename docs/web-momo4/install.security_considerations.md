@@ -1,4 +1,3 @@
-| 12.6. Security Considerations |
 | [Prev](install.vertica.license)  | Chapter 12. Post-Installation |  [Next](add_remove_platform_nodes) |
 
 ## 12.6. Security Considerations

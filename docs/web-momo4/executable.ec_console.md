@@ -1,4 +1,3 @@
-| ec_console |
 | [Prev](executable.ec_adtool)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_ctl) |
 
 <a name="executable.ec_console"></a>

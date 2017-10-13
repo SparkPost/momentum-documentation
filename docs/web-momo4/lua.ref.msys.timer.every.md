@@ -1,4 +1,3 @@
-| msys.timer.every |
 | [Prev](lua.ref.msys.timer.at)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.validate.dk.get_responsible_domain) |
 
 <a name="lua.ref.msys.timer.every"></a>

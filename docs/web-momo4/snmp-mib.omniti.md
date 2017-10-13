@@ -1,4 +1,3 @@
-| B.3. The `OMNITI-SNMP-MIB.txt` file |
 | [Prev](snmp-mib.pergroup)  | Appendix B. MIB Files |  [Next](smtp-response-codes) |
 
 ## B.3. The `OMNITI-SNMP-MIB.txt` file

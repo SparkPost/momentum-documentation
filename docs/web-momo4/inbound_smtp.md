@@ -1,4 +1,3 @@
-| 19.5. ESMTP_Listener Authentication |
 | [Prev](esmtp_listener.extensions)  | Chapter 19. Configuring Inbound Mail Service Using SMTP |  [Next](inbound_ssl) |
 
 ## 19.5. ESMTP_Listener Authentication

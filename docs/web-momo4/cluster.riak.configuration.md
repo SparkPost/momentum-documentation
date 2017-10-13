@@ -1,4 +1,3 @@
-| 16.7. Configuring Riak in a Cluster |
 | [Prev](cluster.config.failover)  | Chapter 16. Cluster-specific Configuration |  [Next](control_listener) |
 
 ## 16.7. Configuring Riak in a Cluster

@@ -1,4 +1,3 @@
-| tls_certificate |
 | [Prev](config.tls_ca)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_ciphers) |
 
 <a name="config.tls_certificate"></a>

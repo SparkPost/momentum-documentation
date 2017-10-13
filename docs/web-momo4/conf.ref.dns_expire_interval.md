@@ -1,4 +1,3 @@
-| dns_expire_interval |
 | [Prev](conf.ref.dns_cache_purge_interval)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.dns_failures_to_purge) |
 
 <a name="conf.ref.dns_expire_interval"></a>

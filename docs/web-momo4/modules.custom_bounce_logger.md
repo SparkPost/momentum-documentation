@@ -1,4 +1,3 @@
-| 71.24. custom_bounce_logger – Custom Bounce Logging |
 | [Prev](modules.csapi)  | Chapter 71. Modules Reference |  [Next](modules.custom_logger) |
 
 ## 71.24. custom_bounce_logger – Custom Bounce Logging

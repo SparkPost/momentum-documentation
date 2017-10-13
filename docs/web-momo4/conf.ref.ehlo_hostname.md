@@ -1,4 +1,3 @@
-| ehlo_hostname |
 | [Prev](conf.ref.ecstream_timeout)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.ehlo_timeout) |
 
 <a name="conf.ref.ehlo_hostname"></a>

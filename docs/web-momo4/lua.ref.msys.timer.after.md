@@ -1,4 +1,3 @@
-| msys.timer.after |
 | [Prev](lua.ref.msys.threadpool.stat)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.timer.at) |
 
 <a name="lua.ref.msys.timer.after"></a>

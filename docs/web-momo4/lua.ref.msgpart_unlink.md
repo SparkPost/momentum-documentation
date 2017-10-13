@@ -1,4 +1,3 @@
-| msgpart:unlink |
 | [Prev](lua.ref.msg_context_set)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.core.io_wrapper_open) |
 
 <a name="lua.ref.msgpart_unlink"></a>

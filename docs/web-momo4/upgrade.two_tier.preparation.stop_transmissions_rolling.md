@@ -1,4 +1,3 @@
-| 11.7. Restore Transmissions to the First Platform Node and Stop Transmissions to all other Platform Nodes |
 | [Prev](upgrade.two_tier.preparation.ecelerity_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.upgrade_ecelerity_rolling) |
 
 ## 11.7. Restore Transmissions to the First Platform Node and Stop Transmissions to all other Platform Nodes

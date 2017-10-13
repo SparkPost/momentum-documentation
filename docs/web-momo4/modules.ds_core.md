@@ -1,4 +1,3 @@
-| 71.29. ds_core - Datasource Query Core |
 | [Prev](modules.domainkeys)  | Chapter 71. Modules Reference |  [Next](modules.ec_logger) |
 
 ## 71.29. ds_core - Datasource Query Core

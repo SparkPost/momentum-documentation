@@ -1,4 +1,3 @@
-| bounce_pattern |
 | [Prev](conf.ref.bounce_domains)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.bounce_suppress_list) |
 
 <a name="conf.ref.bounce_pattern"></a>

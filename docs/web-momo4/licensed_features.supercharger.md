@@ -1,4 +1,3 @@
-| 4.3. Supercharger |
 | [Prev](licensed_features.adaptive.delivery)  | Chapter 4. Licensed Features |  [Next](p.installing) |
 
 ## 4.3. Supercharger

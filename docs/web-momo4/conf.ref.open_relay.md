@@ -1,4 +1,3 @@
-| open_relay |
 | [Prev](conf.ref.only_use_best_mx_for_relay_domains)  | Chapter 72. Configuration Options Reference |  [Next](config.open_tracking_enabled) |
 
 <a name="conf.ref.open_relay"></a>

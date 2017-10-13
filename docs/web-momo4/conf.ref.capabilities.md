@@ -1,4 +1,3 @@
-| capabilities |
 | [Prev](conf.ref.bounces_inline_original)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.chroot) |
 
 <a name="conf.ref.capabilities"></a>

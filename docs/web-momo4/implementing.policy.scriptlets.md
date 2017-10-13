@@ -1,4 +1,3 @@
-| 62.2. Policy Scriptlets |
 | [Prev](policy)  | Chapter 62. Implementing Policy with Momentum |  [Next](policy.context.variables) |
 
 ## 62.2. Policy Scriptlets

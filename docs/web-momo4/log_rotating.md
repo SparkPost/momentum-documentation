@@ -1,4 +1,3 @@
-| Chapter 34. Rotating Logs **ec_rotate** |
 | [Prev](log_monitoring)  | Part IV. Logging |  [Next](log_formats) |
 
 ## Chapter 34. Rotating Logs ec_rotate

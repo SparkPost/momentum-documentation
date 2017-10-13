@@ -1,4 +1,3 @@
-| Part VII. Message Generation (HTTP) |
 | [Prev](smtp_reporting_options)  |   |  [Next](create_apikey) |
 
 ## Part VII. Message Generation (HTTP)

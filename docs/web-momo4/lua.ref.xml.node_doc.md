@@ -1,4 +1,3 @@
-| node:doc |
 | [Prev](lua.ref.xml.node_contents)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.node_name) |
 
 <a name="lua.ref.xml.node_doc"></a>

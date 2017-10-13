@@ -1,4 +1,3 @@
-| Chapter 68. Executable Command Summary |
 | [Prev](console_commands)  | Part X. Reference |  [Next](hooks) |
 
 ## Chapter 68. Executable Command Summary

@@ -1,4 +1,3 @@
-| 38.2. Console Commands for the Cluster Manager |
 | [Prev](cluster.config.operations)  | Chapter 38. Using the Cluster Manager (**eccmgr**) |  [Next](cluster.cidr_server) |
 
 ## 38.2. Console Commands for the Cluster Manager

@@ -1,4 +1,3 @@
-| default_charset |
 | [Prev](conf.ref.default_binding)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.delay_dsn_max_retry_interval) |
 
 <a name="conf.ref.default_charset"></a>

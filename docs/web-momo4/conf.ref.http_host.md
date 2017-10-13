@@ -1,4 +1,3 @@
-| http_host |
 | [Prev](conf.ref.http_basic_auth)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.http_method) |
 
 <a name="conf.ref.http_host"></a>

@@ -1,4 +1,3 @@
-| 71.40. ilf_logger – Incremental License Fee Logging |
 | [Prev](modules.icu)  | Chapter 71. Modules Reference |  [Next](modules.inbound_audit) |
 
 ## 71.40. ilf_logger – Incremental License Fee Logging

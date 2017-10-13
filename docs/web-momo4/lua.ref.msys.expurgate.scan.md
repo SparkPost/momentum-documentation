@@ -1,4 +1,3 @@
-| msys.expurgate.scan |
 | [Prev](lua.ref.msys.dumper.Dumper)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.gauge_cache.dec) |
 
 <a name="lua.ref.msys.expurgate.scan"></a>

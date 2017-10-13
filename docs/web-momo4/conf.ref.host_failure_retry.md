@@ -1,4 +1,3 @@
-| host_failure_retry |
 | [Prev](conf.ref.hostname)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.http_basic_auth) |
 
 <a name="conf.ref.host_failure_retry"></a>

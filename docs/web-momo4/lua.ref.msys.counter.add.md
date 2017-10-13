@@ -1,4 +1,3 @@
-| msys.counter.add |
 | [Prev](lua.ref.msys.commtouch.diagnose)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.counter.inc) |
 
 <a name="lua.ref.msys.counter.add"></a>

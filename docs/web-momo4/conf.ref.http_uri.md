@@ -1,4 +1,3 @@
-| http_uri |
 | [Prev](conf.ref.http_method)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.http_version) |
 
 <a name="conf.ref.http_uri"></a>

@@ -1,4 +1,3 @@
-| max_resident_transfails |
 | [Prev](conf.ref.max_resident_messages)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_retries) |
 
 <a name="conf.ref.max_resident_transfails"></a>

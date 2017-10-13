@@ -1,4 +1,3 @@
-| transfail_drain_rate |
 | [Prev](config.tracking_link_expiry)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.transform_8bitmime_content) |
 
 <a name="conf.ref.transfail_drain_rate"></a>

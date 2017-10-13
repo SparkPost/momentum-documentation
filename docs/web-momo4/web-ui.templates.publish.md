@@ -1,4 +1,3 @@
-| 48.5. Publishing Your Template |
 | [Prev](web-ui.update.template)  | Chapter 48. Managing Your Templates in the UI |  [Next](web-ui.templates.delete) |
 
 ## 48.5. Publishing Your Template

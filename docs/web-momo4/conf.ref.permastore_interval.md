@@ -1,4 +1,3 @@
-| permastore_interval |
 | [Prev](conf.ref.pcre_cache_ttl)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pidfile) |
 
 <a name="conf.ref.permastore_interval"></a>

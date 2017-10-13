@@ -1,4 +1,3 @@
-| validate_config |
 | [Prev](executable.lu_pull)  | Chapter 74. Executable Commands Reference |  [Next](p.appendix) |
 
 <a name="executable.validate_config"></a>

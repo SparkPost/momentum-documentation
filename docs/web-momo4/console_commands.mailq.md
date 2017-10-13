@@ -1,4 +1,3 @@
-| mailq |
 | [Prev](console_commands.help)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.memory) |
 
 <a name="console_commands.mailq"></a>

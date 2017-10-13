@@ -1,4 +1,3 @@
-| 71.41. inbound_audit – Inbound traffic analytics |
 | [Prev](modules.ilf_logger)  | Chapter 71. Modules Reference |  [Next](modules.ipv6_lookup) |
 
 ## 71.41. inbound_audit – Inbound traffic analytics

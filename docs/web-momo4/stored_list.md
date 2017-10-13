@@ -1,4 +1,3 @@
-| Chapter 50. Creating Stored Recipient Lists |
 | [Prev](using_template)  | Part VII. Message Generation (HTTP) |  [Next](using_list) |
 
 ## Chapter 50. Creating Stored Recipient Lists

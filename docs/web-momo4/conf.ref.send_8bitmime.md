@@ -1,4 +1,3 @@
-| send_8bitmime |
 | [Prev](conf.ref.security)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.server_max_file_descriptors) |
 
 <a name="conf.ref.send_8bitmime"></a>

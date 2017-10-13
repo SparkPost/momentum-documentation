@@ -1,4 +1,3 @@
-| Chapter 5. Hardware Considerations |
 | [Prev](p.installing)  | Part II. Installing Momentum |  [Next](hardware.config_options) |
 
 ## Chapter 5. Hardware Considerations

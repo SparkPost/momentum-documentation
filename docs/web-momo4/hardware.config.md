@@ -1,4 +1,3 @@
-| 5.5. Hardware Deployment Configuration |
 | [Prev](hardware.environmental)  | Chapter 5. Hardware Considerations |  [Next](production.config) |
 
 ## 5.5. Hardware Deployment Configuration

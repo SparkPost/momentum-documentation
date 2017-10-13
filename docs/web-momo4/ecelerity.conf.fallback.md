@@ -1,4 +1,3 @@
-| 15.3. Configuration Scopes and Fallback |
 | [Prev](conf.options)  | Chapter 15. Configuration Overview |  [Next](listeners) |
 
 ## 15.3. Configuration Scopes and Fallback

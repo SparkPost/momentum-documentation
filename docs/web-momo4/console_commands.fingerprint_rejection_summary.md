@@ -1,4 +1,3 @@
-| fingerprint rejection summary |
 | [Prev](console_commands.fingerprint_cache_summary)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.flush_domain) |
 
 <a name="console_commands.fingerprint_rejection_summary"></a>

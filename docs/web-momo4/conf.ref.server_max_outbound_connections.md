@@ -1,4 +1,3 @@
-| server_max_outbound_connections |
 | [Prev](conf.ref.server_max_file_descriptors)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.server_reserve_outbound_connections) |
 
 <a name="conf.ref.server_max_outbound_connections"></a>

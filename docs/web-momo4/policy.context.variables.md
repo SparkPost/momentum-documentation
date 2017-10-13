@@ -1,4 +1,3 @@
-| Chapter 63. Validation Context Variables |
 | [Prev](implementing.policy.scriptlets)  | Part IX. Writing Policy |  [Next](policy.context-mess) |
 
 ## Chapter 63. Validation Context Variables

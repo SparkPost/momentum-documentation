@@ -1,4 +1,3 @@
-| ec_adtool |
 | [Prev](executable.credmgr)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_console) |
 
 <a name="executable.ec_adtool"></a>

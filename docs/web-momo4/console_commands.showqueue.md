@@ -1,4 +1,3 @@
-| showqueue |
 | [Prev](console_commands.show_outbound)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.shutdown) |
 
 <a name="console_commands.showqueue"></a>

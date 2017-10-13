@@ -1,4 +1,3 @@
-| Part X. Reference |
 | [Prev](policy.context-mess)  |   |  [Next](lua.summary_table) |
 
 ## Part X. Reference

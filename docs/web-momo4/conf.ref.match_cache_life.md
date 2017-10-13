@@ -1,4 +1,3 @@
-| match_cache_life |
 | [Prev](conf.ref.masterdb_file)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.match_cache_size) |
 
 <a name="conf.ref.match_cache_life"></a>

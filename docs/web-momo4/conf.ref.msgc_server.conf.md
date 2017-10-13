@@ -1,4 +1,3 @@
-| 16.4. `msgc_server.conf` File |
 | [Prev](conf.ref.ecelerity_cluster.conf)  | Chapter 16. Cluster-specific Configuration |  [Next](cluster.listeners) |
 
 ## 16.4. `msgc_server.conf` File

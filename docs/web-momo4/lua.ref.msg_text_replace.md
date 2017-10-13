@@ -1,4 +1,3 @@
-| msg:text_replace |
 | [Prev](lua.ref.msg_text_match)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_addFirstChild) |
 
 <a name="lua.ref.msg_text_replace"></a>

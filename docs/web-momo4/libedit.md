@@ -1,4 +1,3 @@
-| Appendix D. Key Binding Reference for ec_console |
 | [Prev](smtp-response-codes)  | Part XI. Appendix |  [Next](libedit.extended) |
 
 ## Key Binding Reference for ec_console

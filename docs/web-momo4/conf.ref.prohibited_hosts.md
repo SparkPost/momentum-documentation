@@ -1,4 +1,3 @@
-| prohibited_hosts |
 | [Prev](conf.ref.pidfile)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rcptto_timeout) |
 
 <a name="conf.ref.prohibited_hosts"></a>

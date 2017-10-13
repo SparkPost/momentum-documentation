@@ -1,4 +1,3 @@
-| Chapter 60. Managing Your Webhooks in the UI |
 | [Prev](reporting_webhooks)  | Part VIII. Reporting and Engagement Tracking |  [Next](web-ui.webhooks.create) |
 
 ## Chapter 60. Managing Your Webhooks in the UI

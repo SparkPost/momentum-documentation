@@ -1,4 +1,3 @@
-| msys.core.io_wrapper_open |
 | [Prev](lua.ref.msgpart_unlink)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.cast) |
 
 <a name="lua.ref.msys.core.io_wrapper_open"></a>

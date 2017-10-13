@@ -1,4 +1,3 @@
-| 5.2. Configuration Options |
 | [Prev](hardware.requirements)  | Chapter 5. Hardware Considerations |  [Next](hardware.scaling) |
 
 ## 5.2. Configuration Options

@@ -1,4 +1,3 @@
-| reserve_maintenance_interval |
 | [Prev](conf.ref.require_ehlo)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.resolv_conf) |
 
 <a name="conf.ref.reserve_maintenance_interval"></a>

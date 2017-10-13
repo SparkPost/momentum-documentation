@@ -1,4 +1,3 @@
-| Chapter 61. Tracking Engagement for HTTP |
 | [Prev](web-ui.webhooks.delete)  | Part VIII. Reporting and Engagement Tracking |  [Next](p.policy) |
 
 ## Chapter 61. Tracking Engagement for HTTP

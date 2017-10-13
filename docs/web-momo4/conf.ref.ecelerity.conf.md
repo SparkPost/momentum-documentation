@@ -1,4 +1,3 @@
-| 15.6. `ecelerity.conf` File |
 | [Prev](module_config)  | Chapter 15. Configuration Overview |  [Next](cluster) |
 
 ## 15.6. `ecelerity.conf` File

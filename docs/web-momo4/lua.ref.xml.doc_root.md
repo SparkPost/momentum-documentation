@@ -1,4 +1,3 @@
-| doc:root |
 | [Prev](lua.ref.vctx_tarpit)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.doc_tostring) |
 
 <a name="lua.ref.xml.doc_root"></a>

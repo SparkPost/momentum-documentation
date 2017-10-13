@@ -1,4 +1,3 @@
-| 71.28. domainkeys – Yahoo! DomainKeys |
 | [Prev](modules.dnsbuf)  | Chapter 71. Modules Reference |  [Next](modules.ds_core) |
 
 ## 71.28. domainkeys – Yahoo! DomainKeys

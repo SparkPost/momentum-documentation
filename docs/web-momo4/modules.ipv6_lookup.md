@@ -1,4 +1,3 @@
-| 71.42. ipv6_lookup – Multi-address-family MX Records |
 | [Prev](modules.inbound_audit)  | Chapter 71. Modules Reference |  [Next](modules.jlog) |
 
 ## 71.42. ipv6_lookup – Multi-address-family MX Records

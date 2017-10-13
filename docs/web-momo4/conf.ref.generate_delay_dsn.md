@@ -1,4 +1,3 @@
-| generate_delay_dsn |
 | [Prev](conf.ref.generate_bounces_for_multi_recipient_policy_rejections)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.growbuf_size) |
 
 <a name="conf.ref.generate_delay_dsn"></a>

@@ -1,4 +1,3 @@
-| msys.audit.inbound_session_count |
 | [Prev](lua.ref.msys.audit.connections)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.audit.receptions) |
 
 <a name="lua.ref.msys.audit.inbound_session_count"></a>

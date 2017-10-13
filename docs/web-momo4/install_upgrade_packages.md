@@ -1,4 +1,3 @@
-| Chapter 8. Install / Upgrade the Packages |
 | [Prev](download_bundle)  | Part II. Installing Momentum |  [Next](new_installation) |
 
 ## Chapter 8. Install / Upgrade the Packages

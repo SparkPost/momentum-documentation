@@ -1,4 +1,3 @@
-| client:set_header |
 | [Prev](lua.ref.client_parse_headers)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.client_set_timeout) |
 
 <a name="lua.ref.client_set_header"></a>

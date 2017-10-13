@@ -1,4 +1,3 @@
-| Chapter 32. Logging Overview |
 | [Prev](p.logs)  | Part IV. Logging |  [Next](logging.configuration) |
 
 ## Chapter 32. Logging Overview

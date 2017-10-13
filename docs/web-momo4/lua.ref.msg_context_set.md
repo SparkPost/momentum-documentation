@@ -1,4 +1,3 @@
-| msg:context_set |
 | [Prev](lua.ref.msg_context_get)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_unlink) |
 
 <a name="lua.ref.msg_context_set"></a>

@@ -1,4 +1,3 @@
-| siv_throttle_cache_size |
 | [Prev](conf.ref.signing_stats)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.skip_hosts) |
 
 <a name="conf.ref.siv_throttle_cache_size"></a>

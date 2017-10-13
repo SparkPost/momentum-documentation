@@ -1,4 +1,3 @@
-| c:close |
 | [Prev](lua.ref.client_set_timeout)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.curl.c_perform) |
 
 <a name="lua.ref.curl.c_close"></a>

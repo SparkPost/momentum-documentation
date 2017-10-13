@@ -1,4 +1,3 @@
-| dns_cache |
 | [Prev](console_commands.dig)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.domain) |
 
 <a name="console_commands.dns_cache"></a>

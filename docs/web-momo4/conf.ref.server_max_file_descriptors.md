@@ -1,4 +1,3 @@
-| server_max_file_descriptors |
 | [Prev](conf.ref.send_8bitmime)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.server_max_outbound_connections) |
 
 <a name="conf.ref.server_max_file_descriptors"></a>

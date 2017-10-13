@@ -1,4 +1,3 @@
-| 71.18. cloudmark – Cloudmark Authority® Content Scanning |
 | [Prev](modules.clamav)  | Chapter 71. Modules Reference |  [Next](modules.cluster) |
 
 ## 71.18. cloudmark – Cloudmark Authority® Content Scanning

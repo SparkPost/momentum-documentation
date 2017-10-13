@@ -1,4 +1,3 @@
-| msys.db.execute |
 | [Prev](lua.function.details)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.ac_esmtp_capability_add) |
 
 <a name="lua.ref.msys.db.execute"></a>

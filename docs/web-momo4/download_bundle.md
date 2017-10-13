@@ -1,4 +1,3 @@
-| Chapter 7. Download the Software Bundle and Prepare |
 | [Prev](byb.analytics_reqs)  | Part II. Installing Momentum |  [Next](install_upgrade_packages) |
 
 ## Chapter 7. Download the Software Bundle and Prepare

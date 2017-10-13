@@ -1,4 +1,3 @@
-| adaptive_backstore_riak |
 | [Prev](conf.ref.adaptive_backstore_leveldb)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.adaptive_enabled) |
 
 <a name="conf.ref.adaptive_backstore_riak"></a>

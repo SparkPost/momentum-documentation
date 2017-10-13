@@ -1,4 +1,3 @@
-| msys.cidr.query |
 | [Prev](lua.ref.msys.cidr.define)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.cidr.reload) |
 
 <a name="lua.ref.msys.cidr.query"></a>

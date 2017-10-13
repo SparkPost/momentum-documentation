@@ -1,4 +1,3 @@
-| Appendix E. Copyright Notices |
 | [Prev](glossary)  |   |  [Next](copyright.3rdparty-disclaimer) |
 
 ## Copyright Notices

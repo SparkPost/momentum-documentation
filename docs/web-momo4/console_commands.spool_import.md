@@ -1,4 +1,3 @@
-| spool import |
 | [Prev](console_commands.sp_async)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.spool_import_poll) |
 
 <a name="console_commands.spool_import"></a>

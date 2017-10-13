@@ -1,4 +1,3 @@
-| 11.8. Upgrade Ecelerity on the Remaining Platform Nodes |
 | [Prev](upgrade.two_tier.preparation.stop_transmissions_rolling)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.restore_tranmissions_rolling) |
 
 ## 11.8. Upgrade Ecelerity on the Remaining Platform Nodes

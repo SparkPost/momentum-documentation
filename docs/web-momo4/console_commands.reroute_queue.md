@@ -1,4 +1,3 @@
-| reroute queue |
 | [Prev](console_commands.reopen_logs)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.show_inbound) |
 
 <a name="console_commands.reroute_queue"></a>

@@ -1,4 +1,3 @@
-| 6.14. Basic Required Packages |
 | [Prev](byb.config_SSH_and_SSHD)  | Chapter 6. Before You Begin |  [Next](byb.riak_provisioning) |
 
 ## 6.14. Basic Required Packages

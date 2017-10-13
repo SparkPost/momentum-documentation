@@ -1,4 +1,3 @@
-| Chapter 29. PostgreSQL |
 | [Prev](cluster.config.replication)  | Part III. Configuring Momentum |  [Next](postgresql.server) |
 
 ## Chapter 29. PostgreSQL

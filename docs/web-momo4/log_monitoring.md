@@ -1,4 +1,3 @@
-| Chapter 33. Log Monitoring |
 | [Prev](logging.configuration)  | Part IV. Logging |  [Next](log_rotating) |
 
 ## Chapter 33. Log Monitoring

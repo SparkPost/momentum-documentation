@@ -1,4 +1,3 @@
-| 71.19. cluster – Cluster |
 | [Prev](modules.cloudmark)  | Chapter 71. Modules Reference |  [Next](modules.commtouch) |
 
 ## 71.19. cluster – Cluster

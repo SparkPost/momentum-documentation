@@ -1,4 +1,3 @@
-| msys.validate.opendkim.get_sig |
 | [Prev](lua.ref.msys.validate.opendkim.get_num_sigs)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.validate.opendkim.get_sig_canons) |
 
 <a name="lua.ref.msys.validate.opendkim.get_sig"></a>

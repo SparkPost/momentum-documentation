@@ -1,4 +1,3 @@
-| msys.validate.opendkim.verify |
 | [Prev](lua.ref.msys.validate.opendkim.sign)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.thread.mutex) |
 
 <a name="lua.ref.msys.validate.opendkim.verify"></a>

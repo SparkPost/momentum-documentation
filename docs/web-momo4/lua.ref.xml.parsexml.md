@@ -1,4 +1,3 @@
-| xml.parsexml |
 | [Prev](lua.ref.xml.node_unlink)  | Chapter 70. Lua Functions Reference |  [Next](modules) |
 
 <a name="lua.ref.xml.parsexml"></a>

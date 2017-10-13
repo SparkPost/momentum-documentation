@@ -1,4 +1,3 @@
-| msys.runInPool |
 | [Prev](lua.ref.msys.registerModule)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.sleep) |
 
 <a name="lua.ref.msys.runinpool"></a>

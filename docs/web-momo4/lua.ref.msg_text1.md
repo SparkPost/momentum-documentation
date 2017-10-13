@@ -1,4 +1,3 @@
-| msg:text |
 | [Prev](lua.ref.msg_text)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_text_match) |
 
 <a name="lua.ref.msg_text1"></a>

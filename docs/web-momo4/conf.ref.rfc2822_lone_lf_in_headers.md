@@ -1,4 +1,3 @@
-| rfc2822_lone_lf_in_headers |
 | [Prev](conf.ref.rfc2822_lone_lf_in_body)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rfc2822_max_line_length) |
 
 <a name="conf.ref.rfc2822_lone_lf_in_headers"></a>

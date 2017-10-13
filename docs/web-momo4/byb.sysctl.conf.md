@@ -1,4 +1,3 @@
-| 6.7. Adjusting `/etc/sysctl.conf` |
 | [Prev](byb.ntp)  | Chapter 6. Before You Begin |  [Next](byb.set_hostnames) |
 
 ## 6.7. Adjusting `/etc/sysctl.conf`

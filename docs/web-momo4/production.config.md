@@ -1,4 +1,3 @@
-| 5.6. Production Environment Configurations |
 | [Prev](hardware.config)  | Chapter 5. Hardware Considerations |  [Next](addl.config.notes) |
 
 ## 5.6. Production Environment Configurations

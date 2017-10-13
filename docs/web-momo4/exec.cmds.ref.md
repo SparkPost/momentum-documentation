@@ -1,4 +1,3 @@
-| Chapter 74. Executable Commands Reference |
 | [Prev](console_commands.write_config)  | Part X. Reference |  [Next](executable.ad_summary) |
 
 ## Chapter 74. Executable Commands Reference

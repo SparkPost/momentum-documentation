@@ -1,4 +1,3 @@
-| session:response_status_set_std |
 | [Prev](lua.ref.session_request_url_get)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.json.decode) |
 
 <a name="lua.ref.session_response_status_set_std"></a>

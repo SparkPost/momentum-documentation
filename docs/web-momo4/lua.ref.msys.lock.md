@@ -1,4 +1,3 @@
-| msys.lock |
 | [Prev](lua.ref.msys.idn_utf8)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.parseRFC2822Addresses) |
 
 <a name="lua.ref.msys.lock"></a>

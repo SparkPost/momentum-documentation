@@ -1,4 +1,3 @@
-| fail domain |
 | [Prev](console_commands.domain_all)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.fail_domain_quiet) |
 
 <a name="console_commands.fail_domain"></a>

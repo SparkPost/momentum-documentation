@@ -1,4 +1,3 @@
-| msys.registerControl |
 | [Prev](lua.ref.msys.registerAuth)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.registerModule) |
 
 <a name="lua.ref.msys.registerControl"></a>

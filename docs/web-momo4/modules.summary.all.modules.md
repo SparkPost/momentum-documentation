@@ -1,4 +1,3 @@
-| Chapter 65. Modules Summary |
 | [Prev](lua.summary_table)  | Part X. Reference |  [Next](config.options.summary) |
 
 ## Chapter 65. Modules Summary

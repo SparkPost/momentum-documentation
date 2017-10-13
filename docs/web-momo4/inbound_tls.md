@@ -1,4 +1,3 @@
-| 19.7. Inbound TLS |
 | [Prev](inbound_ssl)  | Chapter 19. Configuring Inbound Mail Service Using SMTP |  [Next](http_listener) |
 
 ## 19.7. Inbound TLS

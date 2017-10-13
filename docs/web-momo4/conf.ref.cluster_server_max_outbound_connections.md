@@ -1,4 +1,3 @@
-| cluster_server_max_outbound_connections |
 | [Prev](conf.ref.cluster_scope_max_outbound_connections)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.connect_timeout) |
 
 <a name="conf.ref.cluster_server_max_outbound_connections"></a>

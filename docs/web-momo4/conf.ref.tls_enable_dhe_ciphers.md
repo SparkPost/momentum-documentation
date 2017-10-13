@@ -1,4 +1,3 @@
-| tls_enable_dhe_ciphers |
 | [Prev](conf.ref.tls_dhparams_file)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_engine) |
 
 <a name="conf.ref.tls_enable_dhe_ciphers"></a>

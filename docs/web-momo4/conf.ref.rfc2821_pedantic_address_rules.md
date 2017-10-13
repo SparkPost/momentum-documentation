@@ -1,4 +1,3 @@
-| rfc2821_pedantic_address_rules |
 | [Prev](conf.ref.rfc2821_allow_whitespace_in_envelope)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rfc2822_date_header) |
 
 <a name="conf.ref.rfc2821_pedantic_address_rules"></a>

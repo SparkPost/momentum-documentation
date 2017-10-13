@@ -1,4 +1,3 @@
-| 71.30. EC_logger – Momentum-Style Logging |
 | [Prev](modules.ds_core)  | Chapter 71. Modules Reference |  [Next](modules.eleven) |
 
 ## 71.30. EC_logger – Momentum-Style Logging

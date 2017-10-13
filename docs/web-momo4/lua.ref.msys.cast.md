@@ -1,4 +1,3 @@
-| msys.cast |
 | [Prev](lua.ref.msys.core.io_wrapper_open)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.config) |
 
 <a name="lua.ref.msys.cast"></a>

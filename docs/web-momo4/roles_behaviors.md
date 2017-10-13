@@ -1,4 +1,3 @@
-| Chapter 3. Roles and Behaviors |
 | [Prev](loam)  | Part I. Introduction to Momentum |  [Next](licensed_features) |
 
 ## Chapter 3. Roles and Behaviors

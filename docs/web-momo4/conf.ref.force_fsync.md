@@ -1,4 +1,3 @@
-| force_fsync |
 | [Prev](conf.ref.expensive_batch_assessment)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.fully_resolve_before_smtp) |
 
 <a name="conf.ref.force_fsync"></a>

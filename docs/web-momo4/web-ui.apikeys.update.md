@@ -1,4 +1,3 @@
-| 44.3. Updating an API Key |
 | [Prev](web-ui.apikeys.create)  | Chapter 44. Managing Your API Keys |  [Next](web-ui.apikeys.delete) |
 
 ## 44.3. Updating an API Key

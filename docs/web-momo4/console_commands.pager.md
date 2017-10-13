@@ -1,4 +1,3 @@
-| \pager |
 | [Prev](console_commands.module)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.paniclog) |
 
 <a name="console_commands.pager"></a>

@@ -1,4 +1,3 @@
-| msg:makeContainer |
 | [Prev](lua.ref.msg_makeBoundary)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_makePart) |
 
 <a name="lua.ref.msg_makeContainer"></a>

@@ -1,4 +1,3 @@
-| crypto_engine |
 | [Prev](conf.ref.control_client_timeout)  | Chapter 72. Configuration Options Reference |  [Next](config.crypto_lock_method) |
 
 <a name="conf.ref.crypto_engine"></a>

@@ -1,4 +1,3 @@
-| exclude_vctx_mess |
 | [Prev](conf.ref.exclude_vctx_conn)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.expensive_batch_assessment) |
 
 <a name="conf.ref.exclude_vctx_mess"></a>

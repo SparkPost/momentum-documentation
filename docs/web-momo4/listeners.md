@@ -1,4 +1,3 @@
-| 15.4. Listeners |
 | [Prev](ecelerity.conf.fallback)  | Chapter 15. Configuration Overview |  [Next](module_config) |
 
 ## 15.4. Listeners

@@ -1,4 +1,3 @@
-| Chapter 43. Creating an API Key |
 | [Prev](p.http_rest)  | Part VII. Message Generation (HTTP) |  [Next](web-ui.apikeys) |
 
 ## Chapter 43. Creating an API Key

@@ -1,4 +1,3 @@
-| 71.52. outbound_smtp_auth |
 | [Prev](modules.outbound_audit)  | Chapter 71. Modules Reference |  [Next](modules.persistio) |
 
 ## 71.52. outbound_smtp_auth

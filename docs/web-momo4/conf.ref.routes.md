@@ -1,4 +1,3 @@
-| routes |
 | [Prev](conf.ref.rfc2822_trace_headers)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rset_timeout) |
 
 <a name="conf.ref.routes"></a>

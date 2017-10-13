@@ -1,4 +1,3 @@
-| 71.31. eleven – Eleven eXpurgate Content Scanning |
 | [Prev](modules.ec_logger)  | Chapter 71. Modules Reference |  [Next](modules.engage_tracker) |
 
 ## 71.31. eleven – Eleven eXpurgate Content Scanning

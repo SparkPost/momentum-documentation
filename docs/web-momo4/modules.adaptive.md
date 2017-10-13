@@ -1,4 +1,3 @@
-| 71.3. adaptive – Adaptive Delivery |
 | [Prev](modules.ac_auth)  | Chapter 71. Modules Reference |  [Next](modules.alerting) |
 
 ## 71.3. adaptive – Adaptive Delivery

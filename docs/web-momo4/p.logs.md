@@ -1,4 +1,3 @@
-| Part IV. Logging |
 | [Prev](environment_file)  |   |  [Next](logging.overview) |
 
 ## Part IV. Logging

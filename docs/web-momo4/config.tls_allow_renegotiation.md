@@ -1,4 +1,3 @@
-| tls_allow_renegotiation |
 | [Prev](config.ref.tls)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_ca) |
 
 <a name="config.tls_allow_renegotiation"></a>

@@ -1,4 +1,3 @@
-| msys.base64.encode |
 | [Prev](lua.ref.msys.base64.decode)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.bounce.classify) |
 
 <a name="lua.ref.msys.base64.encode"></a>

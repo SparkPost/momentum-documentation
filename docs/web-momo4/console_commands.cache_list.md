@@ -1,4 +1,3 @@
-| cache list |
 | [Prev](console_commands.binding_summary)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.cache_stat) |
 
 <a name="console_commands.cache_list"></a>

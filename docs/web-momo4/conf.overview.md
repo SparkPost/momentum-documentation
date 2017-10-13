@@ -1,4 +1,3 @@
-| Chapter 15. Configuration Overview |
 | [Prev](p.configuration)  | Part III. Configuring Momentum |  [Next](conf.options) |
 
 ## Chapter 15. Configuration Overview

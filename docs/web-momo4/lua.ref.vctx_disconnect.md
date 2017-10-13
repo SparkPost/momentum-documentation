@@ -1,4 +1,3 @@
-| vctx:disconnect |
 | [Prev](lua.ref.vctx_add_recipient)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.vctx_get) |
 
 <a name="lua.ref.vctx_disconnect"></a>

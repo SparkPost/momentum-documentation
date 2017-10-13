@@ -1,4 +1,3 @@
-| body_timeout |
 | [Prev](conf.ref.blackhole)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.bounce_behavior) |
 
 <a name="conf.ref.body_timeout"></a>

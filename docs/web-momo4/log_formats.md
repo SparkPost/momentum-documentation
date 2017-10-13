@@ -1,4 +1,3 @@
-| Chapter 35. Log Formats |
 | [Prev](log_rotating)  | Part IV. Logging |  [Next](adaptive.log.format) |
 
 ## Chapter 35. Log Formats

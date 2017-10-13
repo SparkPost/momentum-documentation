@@ -1,4 +1,3 @@
-| Chapter 17. Configuring Momentum's System Console |
 | [Prev](cluster.riak.configuration)  | Part III. Configuring Momentum |  [Next](control_auth) |
 
 ## Chapter 17. Configuring Momentum's System Console

@@ -1,4 +1,3 @@
-| write config |
 | [Prev](console_commands.version)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](exec.cmds.ref) |
 
 <a name="console_commands.write_config"></a>

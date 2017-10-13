@@ -1,4 +1,3 @@
-| msys.cidr.define |
 | [Prev](lua.ref.msys.brightmail.scan)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.cidr.query) |
 
 <a name="lua.ref.msys.cidr.define"></a>

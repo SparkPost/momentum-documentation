@@ -1,4 +1,3 @@
-| 35.8. `paniclog` |
 | [Prev](log_formats.mainlog)  | Chapter 35. Log Formats |  [Next](log_formats.rejectlog) |
 
 ## 35.8. `paniclog`

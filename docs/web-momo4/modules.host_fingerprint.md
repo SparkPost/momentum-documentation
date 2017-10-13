@@ -1,4 +1,3 @@
-| 71.36. fingerprint – Host Fingerprinting |
 | [Prev](modules.fbl)  | Chapter 71. Modules Reference |  [Next](modules.http_logger) |
 
 ## 71.36. fingerprint – Host Fingerprinting

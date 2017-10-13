@@ -1,4 +1,3 @@
-| 6.18. Verifying Analytics Node Requirements |
 | [Prev](byb.disable_postfix)  | Chapter 6. Before You Begin |  [Next](download_bundle) |
 
 ## 6.18. Verifying Analytics Node Requirements

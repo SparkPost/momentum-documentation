@@ -1,4 +1,3 @@
-| count |
 | [Prev](console_commands.config)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.counter) |
 
 <a name="console_commands.count"></a>

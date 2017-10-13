@@ -1,4 +1,3 @@
-| 35.2. `adaptive` Log |
 | [Prev](log_formats)  | Chapter 35. Log Formats |  [Next](log_formats.bouncelog) |
 
 ## 35.2. `adaptive` Log

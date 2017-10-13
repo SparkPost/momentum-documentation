@@ -1,4 +1,3 @@
-| config_rsrc_setup |
 | [Prev](hooks.msg_gen_data_spool)  | Chapter 69. Hook Points and C Functions Reference |  [Next](apis.ec_config_rsrc_get) |
 
 <a name="hooks.config_rsrc_setup"></a>

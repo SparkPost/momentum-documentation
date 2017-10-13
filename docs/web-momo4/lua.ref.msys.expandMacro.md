@@ -1,4 +1,3 @@
-| msys.expandMacro |
 | [Prev](lua.ref.msys.dnslookup)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.getClassMetaTable) |
 
 <a name="lua.ref.msys.expandMacro"></a>

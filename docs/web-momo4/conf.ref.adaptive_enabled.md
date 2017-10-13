@@ -1,4 +1,3 @@
-| adaptive_enabled |
 | [Prev](conf.ref.adaptive_backstore_riak)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.adaptive_scope) |
 
 <a name="conf.ref.adaptive_enabled"></a>

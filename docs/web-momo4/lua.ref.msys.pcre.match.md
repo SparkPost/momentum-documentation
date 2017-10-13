@@ -1,4 +1,3 @@
-| msys.pcre.match |
 | [Prev](lua.ref.msys.gcm.gcm_get_result_error_code)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.pcre.replace) |
 
 <a name="lua.ref.msys.pcre.match"></a>

@@ -1,4 +1,3 @@
-| 25.6. Outbound XCLIENT support |
 | [Prev](tls_option)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](outbound_mail.relay_hosts) |
 
 ## 25.6. Outbound XCLIENT support

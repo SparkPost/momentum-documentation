@@ -1,4 +1,3 @@
-| expensive_batch_assessment |
 | [Prev](conf.ref.exclude_vctx_mess)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.force_fsync) |
 
 <a name="conf.ref.expensive_batch_assessment"></a>

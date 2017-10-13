@@ -1,4 +1,3 @@
-| gateway |
 | [Prev](conf.ref.fully_resolve_before_smtp)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.generate_bounces) |
 
 <a name="conf.ref.gateway"></a>

@@ -1,4 +1,3 @@
-| Preface |
 | [Prev](index)  |   |  [Next](p.intro) |
 
 ## Preface

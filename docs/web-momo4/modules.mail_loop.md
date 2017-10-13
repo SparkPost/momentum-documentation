@@ -1,4 +1,3 @@
-| 71.45. mail_loop – Mail Loop Detection |
 | [Prev](modules.live.bounce.updates)  | Chapter 71. Modules Reference |  [Next](modules.maildir) |
 
 ## 71.45. mail_loop – Mail Loop Detection

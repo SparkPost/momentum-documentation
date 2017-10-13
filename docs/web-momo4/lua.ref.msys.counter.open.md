@@ -1,4 +1,3 @@
-| msys.counter.open |
 | [Prev](lua.ref.msys.counter.inc)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.counter.read) |
 
 <a name="lua.ref.msys.counter.open"></a>

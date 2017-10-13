@@ -1,4 +1,3 @@
-| Chapter 37. Using the System Console (**ec_console**) |
 | [Prev](conf.starting)  | Part V. Using the System Console |  [Next](operations.console-commands) |
 
 ## Chapter 37. Using the System Console (ec_console)

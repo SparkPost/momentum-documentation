@@ -1,4 +1,3 @@
-| Chapter 30. Riak |
 | [Prev](postgresql.migrating)  | Part III. Configuring Momentum |  [Next](riak.service) |
 
 ## Chapter 30. Riak

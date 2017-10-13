@@ -1,4 +1,3 @@
-| open_tracking_enabled |
 | [Prev](conf.ref.open_relay)  | Chapter 72. Configuration Options Reference |  [Next](config.open_tracking_scheme) |
 
 <a name="config.open_tracking_enabled"></a>

@@ -1,4 +1,3 @@
-| 19.2. Inbound Email Relay or Gateway |
 | [Prev](esmtp_listener)  | Chapter 19. Configuring Inbound Mail Service Using SMTP |  [Next](esmtp_listener.reconfig_message) |
 
 ## 19.2. Inbound Email Relay or Gateway

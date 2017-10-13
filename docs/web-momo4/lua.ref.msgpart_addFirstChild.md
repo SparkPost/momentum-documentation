@@ -1,4 +1,3 @@
-| msgpart:addFirstChild |
 | [Prev](lua.ref.msg_text_replace)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_addLastChild) |
 
 <a name="lua.ref.msgpart_addFirstChild"></a>

@@ -1,4 +1,3 @@
-| 71.69. static-routes - Static Routes |
 | [Prev](modules.spf)  | Chapter 71. Modules Reference |  [Next](modules.suppress_spool) |
 
 ## 71.69. static-routes - Static Routes

@@ -1,4 +1,3 @@
-| ec_rotate |
 | [Prev](executable.ec_md5passwd)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_sendmail) |
 
 <a name="executable.ec_rotate"></a>

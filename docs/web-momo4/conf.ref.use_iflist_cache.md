@@ -1,4 +1,3 @@
-| use_iflist_cache |
 | [Prev](conf.ref.unsafe_spool)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.use_ipv6) |
 
 <a name="conf.ref.use_iflist_cache"></a>

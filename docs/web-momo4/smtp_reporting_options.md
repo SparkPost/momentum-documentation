@@ -1,4 +1,3 @@
-| Chapter 42. Reporting Options |
 | [Prev](engagement_tracking_smtp.escaping)  | Part VI. SMTP Injection |  [Next](p.http_rest) |
 
 ## Chapter 42. Reporting Options

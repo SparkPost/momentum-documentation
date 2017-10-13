@@ -1,4 +1,3 @@
-| generate_bounces_for_multi_recipient_policy_rejections |
 | [Prev](conf.ref.generate_bounces)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.generate_delay_dsn) |
 
 <a name="conf.ref.generate_bounces_for_multi_recipient_policy_rejections"></a>

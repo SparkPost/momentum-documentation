@@ -1,4 +1,3 @@
-| msys.qp.decode |
 | [Prev](lua.ref.msys.os.statvfs_subscribe)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.qp.encode) |
 
 <a name="lua.ref.msys.qp.decode"></a>

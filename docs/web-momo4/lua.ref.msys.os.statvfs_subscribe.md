@@ -1,4 +1,3 @@
-| msys.os.statvfs_subscribe |
 | [Prev](lua.ref.msys.os.statvfs_read)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.qp.decode) |
 
 <a name="lua.ref.msys.os.statvfs_subscribe"></a>

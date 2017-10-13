@@ -1,4 +1,3 @@
-| msg:raw_match |
 | [Prev](lua.ref.msg_raw)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_raw_replace) |
 
 <a name="lua.ref.msg_raw_match"></a>

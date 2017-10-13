@@ -1,4 +1,3 @@
-| 30.3. Riak Ports |
 | [Prev](riak.service)  | Chapter 30. Riak |  [Next](operations.riak.backups) |
 
 ## 30.3. Riak Ports

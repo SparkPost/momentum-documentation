@@ -1,4 +1,3 @@
-| msys.idn.to_idn |
 | [Prev](lua.ref.msys.httpsrv.register)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.idn_utf8) |
 
 <a name="lua.ref.msys.idn"></a>

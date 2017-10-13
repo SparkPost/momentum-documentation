@@ -1,4 +1,3 @@
-| lmtp_port |
 | [Prev](conf.ref.license)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.local_changes_file) |
 
 <a name="conf.ref.lmtp_port"></a>

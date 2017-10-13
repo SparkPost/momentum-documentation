@@ -1,4 +1,3 @@
-| 60.3. Testing Your Webhook |
 | [Prev](web-ui.webhooks.create)  | Chapter 60. Managing Your Webhooks in the UI |  [Next](web-ui.webhooks.update) |
 
 ## 60.3. Testing Your Webhook

@@ -1,4 +1,3 @@
-| 60.2. Creating a Webhook |
 | [Prev](web-ui.webhooks)  | Chapter 60. Managing Your Webhooks in the UI |  [Next](web-ui.webhooks.test) |
 
 ## 60.2. Creating a Webhook

@@ -1,4 +1,3 @@
-| rfc2822_lone_lf_in_body |
 | [Prev](conf.ref.rfc2822_date_header)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rfc2822_lone_lf_in_headers) |
 
 <a name="conf.ref.rfc2822_lone_lf_in_body"></a>

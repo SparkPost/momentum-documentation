@@ -1,4 +1,3 @@
-| max_retry_interval |
 | [Prev](conf.ref.max_retries)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_timed_events_per_iter) |
 
 <a name="conf.ref.max_retry_interval"></a>

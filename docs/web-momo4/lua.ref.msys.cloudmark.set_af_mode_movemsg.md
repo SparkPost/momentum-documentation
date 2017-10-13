@@ -1,4 +1,3 @@
-| msys.cloudmark.set_af_mode_movemsg |
 | [Prev](lua.ref.msys.cloudmark.set_af_mode_keep)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.cloudmark.set_af_msi_address) |
 
 <a name="lua.ref.msys.cloudmark.set_af_mode_movemsg"></a>

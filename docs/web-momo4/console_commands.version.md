@@ -1,4 +1,3 @@
-| version |
 | [Prev](console_commands.unlink_stats)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.write_config) |
 
 <a name="console_commands.version"></a>

@@ -1,4 +1,3 @@
-| 6.2. Operating System |
 | [Prev](before_you_begin)  | Chapter 6. Before You Begin |  [Next](byb.redundancy) |
 
 ## 6.2. Operating System

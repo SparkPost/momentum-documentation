@@ -1,4 +1,3 @@
-| msys.gauge_cache.dec |
 | [Prev](lua.ref.msys.expurgate.scan)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.gauge_cache.define) |
 
 <a name="lua.ref.msys.gauge_cache.dec"></a>

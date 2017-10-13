@@ -1,4 +1,3 @@
-| ehlo_timeout |
 | [Prev](conf.ref.ehlo_hostname)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.enable_fbl_header_insertion) |
 
 <a name="conf.ref.ehlo_timeout"></a>

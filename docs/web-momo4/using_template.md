@@ -1,4 +1,3 @@
-| Chapter 49. Using Stored Templates |
 | [Prev](web-ui.templates.delete)  | Part VII. Message Generation (HTTP) |  [Next](stored_list) |
 
 ## Chapter 49. Using Stored Templates

@@ -1,4 +1,3 @@
-| Part IX. Writing Policy |
 | [Prev](engagement_tracking_http)  |   |  [Next](policy) |
 
 ## Part IX. Writing Policy
