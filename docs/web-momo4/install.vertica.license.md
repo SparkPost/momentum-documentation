@@ -1,6 +1,3 @@
-| 12.5. Upgrading the Vertica License |
-| [Prev](install.post-install.vertica_mgmt_console.php)  | Chapter 12. Post-Installation |  [Next](install.security_considerations.php) |
-
 ## 12.5. Upgrading the Vertica License
 
 Momentum 4 is shipped with a perpetual 0.1 TB license for Vertica. If you were issued a Vertica license for a different volume level, you must upgrade the license after installation.

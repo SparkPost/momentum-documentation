@@ -1,6 +1,3 @@
-| Chapter 55. Getting Started with the Web-based User Interface |
-| [Prev](http_reporting_options.php)  | Part VIII. Reporting and Engagement Tracking |  [Next](reporting_ui.php) |
-
 ## Chapter 55. Getting Started with the Web-based User Interface
 
 **Table of Contents**

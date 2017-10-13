@@ -1,6 +1,3 @@
-| Chapter 62. Implementing Policy with Momentum |
-| [Prev](p.policy.php)  | Part IX. Writing Policy |  [Next](implementing.policy.scriptlets.php) |
-
 ## Chapter 62. Implementing Policy with Momentum
 
 **Table of Contents**

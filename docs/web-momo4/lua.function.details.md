@@ -1,6 +1,3 @@
-| Chapter 70. Lua Functions Reference |
-| [Prev](apis.ec_httpsrv_request_peer_address.php)  | Part X. Reference |  [Next](lua.ref.msys.db.execute.php) |
-
 ## Chapter 70. Lua Functions Reference
 
 **Table of Contents**

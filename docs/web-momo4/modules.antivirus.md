@@ -1,6 +1,3 @@
-| 71.6. antivirus – Antivirus |
-| [Prev](modules.alias.php)  | Chapter 71. Modules Reference |  [Next](modules.as_logger.php) |
-
 ## 71.6. antivirus – Antivirus
 
 <a class="indexterm" name="idp19698880"></a>

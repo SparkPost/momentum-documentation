@@ -1,6 +1,3 @@
-| msg:get_delivery_method |
-| [Prev](lua.ref.msg_forward.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_get_message_size.php) |
-
 <a name="lua.ref.msg_get_delivery_method"></a>
 ## Name
 

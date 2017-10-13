@@ -1,6 +1,3 @@
-| send_8bitmime |
-| [Prev](conf.ref.security.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.server_max_file_descriptors.php) |
-
 <a name="conf.ref.send_8bitmime"></a>
 ## Name
 

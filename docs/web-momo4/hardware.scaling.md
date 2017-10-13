@@ -1,6 +1,3 @@
-| 5.3. Hardware Scaling Approach |
-| [Prev](hardware.config_options.php)  | Chapter 5. Hardware Considerations |  [Next](hardware.environmental.php) |
-
 ## 5.3. Hardware Scaling Approach
 
 Although you can deploy hardware capable of processing over five million messages per hour, it is not cost effective to do so if that volume level is not required. This section will provide guidance on deploying the appropriate level of hardware resources to support different volume levels.

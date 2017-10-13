@@ -1,6 +1,3 @@
-| 11.17. Complete the Software Set Up |
-| [Prev](upgrade.two_tier.configuration.start_services_rolling.php)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](post_installation.php) |
-
 ## 11.17. Complete the Software Set Up
 
 1.  Complete the Vertica setup on the **first Analytics node** .

@@ -1,6 +1,3 @@
-| rfc2822_date_header |
-| [Prev](conf.ref.rfc2821_pedantic_address_rules.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rfc2822_lone_lf_in_body.php) |
-
 <a name="conf.ref.rfc2822_date_header"></a>
 ## Name
 

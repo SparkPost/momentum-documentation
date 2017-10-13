@@ -1,6 +1,3 @@
-| resolv_conf |
-| [Prev](conf.ref.reserve_maintenance_interval.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.response_transcode_pattern.php) |
-
 <a name="conf.ref.resolv_conf"></a>
 ## Name
 

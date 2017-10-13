@@ -1,6 +1,3 @@
-| vctx:tarpit |
-| [Prev](lua.ref.vctx_set_code.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.doc_root.php) |
-
 <a name="lua.ref.vctx_tarpit"></a>
 ## Name
 

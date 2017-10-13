@@ -1,6 +1,3 @@
-| 57.4. Evaluating Your Campaign Performance |
-| [Prev](web-ui.reports.adaptive.delivery.php)  | Chapter 57. Reports and Engagement Tracking in the UI |  [Next](reporting_metrics.php) |
-
 ## 57.4. Evaluating Your Campaign Performance
 
 Knowing how many of your messages were opened and what links within the messages were selected are critical pieces in evaluating your campaign's success. The UI provides this engagement data in one specialized report. Use this Engagement report to view details about the performance of your messages and links.

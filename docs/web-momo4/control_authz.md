@@ -1,6 +1,3 @@
-| 17.4. Control_Listener Authorization |
-| [Prev](control_acct.php)  | Chapter 17. Configuring Momentum's System Console |  [Next](ecstream_listener.php) |
-
 ## 17.4. Control_Listener Authorization
 
 The authorization subsystem allows you to restrict the ability to run console commands based on the role of the user. The role membership of the user is determined based on the authenticated username. Pluggable authorization modules provide the means to map the username to a number of roles (or groups) that can then be matched against the rules defined in the Authorization stanza. The Authorization stanza is only in effect in the scope where the `enable_authorization` is set to `true`. For more information about the Authorization stanza, see [authorization](conf.ref.authorization.php "authorization").

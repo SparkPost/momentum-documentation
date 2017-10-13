@@ -1,6 +1,3 @@
-| Chapter 8. Install / Upgrade the Packages |
-| [Prev](download_bundle.php)  | Part II. Installing Momentum |  [Next](new_installation.php) |
-
 ## Chapter 8. Install / Upgrade the Packages
 
 ### Warning

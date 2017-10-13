@@ -1,6 +1,3 @@
-| alias_schemes |
-| [Prev](conf.ref.address_metrics_lifetime.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.allow_ip_literal.php) |
-
 <a name="conf.ref.alias_schemes"></a>
 ## Name
 

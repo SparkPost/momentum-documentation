@@ -1,6 +1,3 @@
-| 71.4. alerting – Send Alerting Emails |
-| [Prev](modules.adaptive.php)  | Chapter 71. Modules Reference |  [Next](modules.alias.php) |
-
 ## 71.4. alerting – Send Alerting Emails
 
 <a class="indexterm" name="idp19664624"></a>

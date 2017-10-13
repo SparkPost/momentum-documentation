@@ -1,6 +1,3 @@
-| summary |
-| [Prev](console_commands.spool_in.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.summary_reset.php) |
-
 <a name="console_commands.summary"></a>
 ## Name
 

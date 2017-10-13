@@ -1,6 +1,3 @@
-| msg.conn_id |
-| [Prev](lua.ref.msg.batch_id.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg.id.php) |
-
 <a name="lua.ref.msg.conn_id"></a>
 ## Name
 

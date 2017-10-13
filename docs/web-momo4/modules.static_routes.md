@@ -1,6 +1,3 @@
-| 71.69. static-routes - Static Routes |
-| [Prev](modules.spf.php)  | Chapter 71. Modules Reference |  [Next](modules.suppress_spool.php) |
-
 ## 71.69. static-routes - Static Routes
 
 <a class="indexterm" name="idp23182208"></a>

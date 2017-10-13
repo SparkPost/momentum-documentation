@@ -1,6 +1,3 @@
-| 10.4. Configuration Changes |
-| [Prev](upgrade.single_node.configuration.flyway.php)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.single_node.configuration.software_upgrade.php) |
-
 ## 10.4. Configuration Changes
 
 Update the following files by copying the root -> application -> vertica stanza to root -> vertica:

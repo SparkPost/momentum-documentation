@@ -1,6 +1,3 @@
-| 57.3. Adaptive Delivery Report |
-| [Prev](web-ui.reports.viewing.reports.php)  | Chapter 57. Reports and Engagement Tracking in the UI |  [Next](web-ui.reports.evaluating.campaign.performance.php) |
-
 ## 57.3. Adaptive Delivery Report
 
 Adaptive Delivery® auto-tunes your outbound email delivery parameters and traffic shaping in real-time to avoid blocks, to safeguard your reputation, and to optimize delivery. Adaptive delivery events occur when an adaptive rule is triggered or as a result of automatic performance tuning. For details about Momentum's Adaptive Delivery® feature, see [Adaptive Delivery User Guide](https://support.messagesystems.com/docs/web-ad/index.php). The Adaptive Delivery report in the UI enables you to view details about adaptive delivery events when they occur and to relate these events to deliverability metrics that may be impacted by them.

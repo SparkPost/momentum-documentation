@@ -1,6 +1,3 @@
-| 71.54. pipe_io – Pipe IO Wrapper |
-| [Prev](modules.persistio.php)  | Chapter 71. Modules Reference |  [Next](modules.pipe_transport.php) |
-
 ## 71.54. pipe_io – Pipe IO Wrapper
 
 <a class="indexterm" name="idp22563168"></a>

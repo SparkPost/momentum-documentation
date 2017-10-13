@@ -1,6 +1,3 @@
-| Chapter 67. Console Commands Summary |
-| [Prev](config.options.summary.php)  | Part X. Reference |  [Next](exe.php) |
-
 ## Chapter 67. Console Commands Summary
 
 This table lists all console commands alphabetically giving a brief description. Click the command name to see detailed information. A module name appears in the `Module` column for commands that are module-specific. For module-specific commands to work, you must have the module loaded.

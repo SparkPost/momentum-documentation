@@ -1,6 +1,3 @@
-| c:close |
-| [Prev](lua.ref.client_set_timeout.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.curl.c_perform.php) |
-
 <a name="lua.ref.curl.c_close"></a>
 ## Name
 

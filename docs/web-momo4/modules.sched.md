@@ -1,6 +1,3 @@
-| 71.59. sched – The Schedule Module |
-| [Prev](modules.response_transcode.php)  | Chapter 71. Modules Reference |  [Next](modules.scriptlet.php) |
-
 ## 71.59. sched – The Schedule Module
 
 <a class="indexterm" name="idp22796112"></a>

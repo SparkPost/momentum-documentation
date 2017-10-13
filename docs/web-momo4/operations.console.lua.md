@@ -1,6 +1,3 @@
-| 37.5. Creating Custom Console Commands |
-| [Prev](modules.options.console.php)  | Chapter 37. Using the System Console (**ec_console**) |  [Next](cluster.config.operations.php) |
-
 ## 37.5. Creating Custom Console Commands
 
 In addition to the built-in console commands, you can create your own commands using the Lua function [msys.registerControl](lua.ref.msys.registerControl.php "msys.registerControl"). If, for example, you have domains that are heavily throttled and discard messages that are over the limit, you can create a console command to push emails for these domains into the delayed queue:

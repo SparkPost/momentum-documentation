@@ -1,6 +1,3 @@
-| client:get_status |
-| [Prev](lua.ref.client_get_headers.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.sess_request_add_header.php) |
-
 <a name="lua.ref.client_get_status"></a>
 ## Name
 

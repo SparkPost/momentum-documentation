@@ -1,6 +1,3 @@
-| 35.6. `importlog` |
-| [Prev](log_formats.httplog.php)  | Chapter 35. Log Formats |  [Next](log_formats.mainlog.php) |
-
 ## 35.6. `importlog`
 
 The `importlog` records the outcome of a [spool import](console_commands.spool_import.php "spool import") operation. It is configured in the [ec_logger](modules.ec_logger.php "71.30. EC_logger – Momentum-Style Logging").

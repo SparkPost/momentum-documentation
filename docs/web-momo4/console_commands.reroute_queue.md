@@ -1,6 +1,3 @@
-| reroute queue |
-| [Prev](console_commands.reopen_logs.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.show_inbound.php) |
-
 <a name="console_commands.reroute_queue"></a>
 ## Name
 

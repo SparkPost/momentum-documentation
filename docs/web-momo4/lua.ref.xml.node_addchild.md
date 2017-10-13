@@ -1,6 +1,3 @@
-| node:addchild |
-| [Prev](lua.ref.xml.doc_xpath.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.node_attribute.php) |
-
 <a name="lua.ref.xml.node_addchild"></a>
 ## Name
 

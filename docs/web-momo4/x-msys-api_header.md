@@ -1,6 +1,3 @@
-| 41.2. Using the X-MSYS-API Header for Engagement Tracking |
-| [Prev](engagement_tracking_smtp.php)  | Chapter 41. Tracking Engagement for SMTP |  [Next](engagement_tracking_smtp.policy.php) |
-
 ## 41.2. Using the X-MSYS-API Header for Engagement Tracking
 
 The X-MSYS-API header can be used to override the configuration option to enable or disable engagement tracking for a specific message. Also, you can specify engagement tracking data in the header fields. For details about engagement tracking for SMTP injections, see [Chapter 41, *Tracking Engagement for SMTP*](engagement_tracking_smtp.php "Chapter 41. Tracking Engagement for SMTP") .

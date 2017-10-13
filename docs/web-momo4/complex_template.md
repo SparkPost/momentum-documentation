@@ -1,6 +1,3 @@
-| Chapter 53. Using Complex Templates |
-| [Prev](sending_cc_bcc.php)  | Part VII. Message Generation (HTTP) |  [Next](p.analytics.php) |
-
 ## Chapter 53. Using Complex Templates
 
 **Introduction**

@@ -1,6 +1,3 @@
-| 16.6. Configuring Momentum for High Availability and Failover |
-| [Prev](cluster.listeners.php)  | Chapter 16. Cluster-specific Configuration |  [Next](cluster.riak.configuration.php) |
-
 ## 16.6. Configuring Momentum for High Availability and Failover
 
 Momentum's architecture supports fault-tolerant configurations. This means that you can operate in an environment that is readily configured to support failing over automatically.

@@ -1,6 +1,3 @@
-| max_timed_events_per_iter |
-| [Prev](conf.ref.max_retry_interval.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.mdn_failures_notify.php) |
-
 <a name="conf.ref.max_timed_events_per_iter"></a>
 ## Name
 

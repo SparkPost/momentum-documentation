@@ -1,6 +1,3 @@
-| max_resident_transfails |
-| [Prev](conf.ref.max_resident_messages.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_retries.php) |
-
 <a name="conf.ref.max_resident_transfails"></a>
 ## Name
 

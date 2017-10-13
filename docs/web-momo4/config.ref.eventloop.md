@@ -1,6 +1,3 @@
-| eventloop |
-| [Prev](config.ref.event_loop.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.events_per_iter.php) |
-
 <a name="config.ref.eventloop"></a>
 ## Name
 

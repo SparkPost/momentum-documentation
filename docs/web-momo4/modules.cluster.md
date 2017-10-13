@@ -1,6 +1,3 @@
-| 71.19. cluster – Cluster |
-| [Prev](modules.cloudmark.php)  | Chapter 71. Modules Reference |  [Next](modules.commtouch.php) |
-
 ## 71.19. cluster – Cluster
 
 The cluster module is used to specify cluster behavior.

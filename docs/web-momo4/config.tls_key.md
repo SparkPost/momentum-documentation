@@ -1,6 +1,3 @@
-| tls_key |
-| [Prev](config.tls_ifavailable_fallback.php)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_protocols.php) |
-
 <a name="config.tls_key"></a>
 ## Name
 

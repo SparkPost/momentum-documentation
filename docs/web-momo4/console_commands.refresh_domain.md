@@ -1,6 +1,3 @@
-| refresh domain |
-| [Prev](console_commands.rebind.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.reopen_logs.php) |
-
 <a name="console_commands.refresh_domain"></a>
 ## Name
 

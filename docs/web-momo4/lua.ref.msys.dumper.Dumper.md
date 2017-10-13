@@ -1,6 +1,3 @@
-| msys.dumper.Dumper |
-| [Prev](lua.ref.msys.delivery.ob_get_current_message.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.expurgate.scan.php) |
-
 <a name="lua.ref.msys.dumper.Dumper"></a>
 ## Name
 

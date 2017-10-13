@@ -1,6 +1,3 @@
-| domain |
-| [Prev](console_commands.dns_cache.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.domain_all.php) |
-
 <a name="console_commands.domain"></a>
 ## Name
 

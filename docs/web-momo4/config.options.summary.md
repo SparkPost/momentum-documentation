@@ -1,6 +1,3 @@
-| Chapter 66. Configuration Options Summary |
-| [Prev](modules.summary.all.modules.php)  | Part X. Reference |  [Next](console_commands.php) |
-
 ## Chapter 66. Configuration Options Summary
 
 This chapter lists all configuration options visible in the following scopes; global, domain, host, binding, binding_group, security, pathway, pathway_group, listener, listen, peer, threadpool, debug_flags, and cluster, as well as in the listener-specific scope. Module-specific options are documented in the module documentation and options specific to Mobile Momentum are documented in the Mobile Momentum documents. Options are sorted alphabetically by name. If an option functions as a scope, this is indicated by `(scope)`.

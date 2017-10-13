@@ -1,6 +1,3 @@
-| msys.http.client.new |
-| [Prev](lua.ref.msys.httpclnt.http_status_classifier.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.client_parse_headers.php) |
-
 <a name="lua.ref.msys.http.client.new"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| prohibited_hosts |
-| [Prev](conf.ref.pidfile.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rcptto_timeout.php) |
-
 <a name="conf.ref.prohibited_hosts"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| Chapter 17. Configuring Momentum's System Console |
-| [Prev](cluster.riak.configuration.php)  | Part III. Configuring Momentum |  [Next](control_auth.php) |
-
 ## Chapter 17. Configuring Momentum's System Console
 
 **Table of Contents**

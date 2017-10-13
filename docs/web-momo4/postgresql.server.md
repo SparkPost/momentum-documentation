@@ -1,6 +1,3 @@
-| 29.2. Running the PostgreSQL Server |
-| [Prev](postgresql.php)  | Chapter 29. PostgreSQL |  [Next](postgresql.client.php) |
-
 ## 29.2. Running the PostgreSQL Server
 
 <a class="indexterm" name="idp3925776"></a>

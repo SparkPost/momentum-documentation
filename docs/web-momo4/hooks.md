@@ -1,6 +1,3 @@
-| Chapter 69. Hook Points and C Functions Reference |
-| [Prev](exe.php)  | Part X. Reference |  [Next](hooks.msg_gen_data_spool.php) |
-
 ## Chapter 69. Hook Points and C Functions Reference
 
 **Table of Contents**

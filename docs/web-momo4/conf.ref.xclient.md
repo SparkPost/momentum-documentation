@@ -1,6 +1,3 @@
-| xclient |
-| [Prev](conf.ref.user.php)  | Chapter 72. Configuration Options Reference |  [Next](console.cmds.ref.php) |
-
 <a name="conf.ref.xclient"></a>
 ## Name
 

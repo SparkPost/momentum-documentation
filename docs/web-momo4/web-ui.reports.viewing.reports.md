@@ -1,6 +1,3 @@
-| 57.2. Viewing Your Reports |
-| [Prev](web-ui.reports.php)  | Chapter 57. Reports and Engagement Tracking in the UI |  [Next](web-ui.reports.adaptive.delivery.php) |
-
 ## 57.2. Viewing Your Reports
 
 After you have selected your metrics and filters, view your reports by going to the corresponding sections as described in [Figure 57.1, “Navigating Reports”](web-ui.reports.php#figure_navigation_menu "Figure 57.1. Navigating Reports"). The UI generates all the reports using the filters that you selected in the Summary section with the exception of the Engagement and Adaptive Delivery section. The Engagement section only supports the time period and campaign filters, domain, campaign, and template filters. The Adaptive Delivery section only supports the time period, binding, and domain filters.

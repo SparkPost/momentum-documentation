@@ -1,6 +1,3 @@
-| msys.audit.connections |
-| [Prev](lua.ref.msys.asyncOk.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.audit.inbound_session_count.php) |
-
 <a name="lua.ref.msys.audit.connections"></a>
 ## Name
 

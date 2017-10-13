@@ -1,6 +1,3 @@
-| 11.13. Configuration Changes |
-| [Prev](upgrade.two_tier.preparation.rpms_rolling.php)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.configuration.software_upgrade_rolling.php) |
-
 ## 11.13. Configuration Changes
 
 Move the Vertica stanza to the root level in the configuration files on all nodes as detailed below.

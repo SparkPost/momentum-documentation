@@ -1,6 +1,3 @@
-| tls_verify |
-| [Prev](config.tls_verified_peer_is_authorized.php)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_verify_mode.php) |
-
 <a name="config.tls_verify"></a>
 ## Name
 

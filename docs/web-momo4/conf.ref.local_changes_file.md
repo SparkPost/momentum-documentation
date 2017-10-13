@@ -1,6 +1,3 @@
-| local_changes_file |
-| [Prev](conf.ref.lmtp_port.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.local_changes_only.php) |
-
 <a name="conf.ref.local_changes_file"></a>
 ## Name
 

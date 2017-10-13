@@ -1,6 +1,3 @@
-| msg:is_mcmt |
-| [Prev](lua.ref.msg_inject.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_mailfrom.php) |
-
 <a name="lua.ref.msg_is_mcmt"></a>
 ## Name
 

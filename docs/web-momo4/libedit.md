@@ -1,6 +1,3 @@
-| Appendix D. Key Binding Reference for ec_console |
-| [Prev](smtp-response-codes.php)  | Part XI. Appendix |  [Next](libedit.extended.php) |
-
 ## Key Binding Reference for ec_console
 
 **Table of Contents**

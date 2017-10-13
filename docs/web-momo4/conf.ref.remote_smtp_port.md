@@ -1,6 +1,3 @@
-| remote_smtp_port |
-| [Prev](conf.ref.relay_hosts.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.require_ehlo.php) |
-
 <a name="conf.ref.remote_smtp_port"></a>
 ## Name
 

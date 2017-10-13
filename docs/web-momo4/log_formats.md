@@ -1,6 +1,3 @@
-| Chapter 35. Log Formats |
-| [Prev](log_rotating.php)  | Part IV. Logging |  [Next](adaptive.log.format.php) |
-
 ## Chapter 35. Log Formats
 
 **Table of Contents**

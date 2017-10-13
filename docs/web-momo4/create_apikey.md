@@ -1,6 +1,3 @@
-| Chapter 43. Creating an API Key |
-| [Prev](p.http_rest.php)  | Part VII. Message Generation (HTTP) |  [Next](web-ui.apikeys.php) |
-
 ## Chapter 43. Creating an API Key
 
 **Configuration Change. ** As of version 4.1, API authentication is enabled by default. For instructions to disable it, see [Chapter 21, *Enforcing REST API/UI User Authentication*](auth.php "Chapter 21. Enforcing REST API/UI User Authentication") . When disabled, an apikey and `Authorization` header is no longer required.

@@ -1,6 +1,3 @@
-| Chapter 7. Download the Software Bundle and Prepare |
-| [Prev](byb.analytics_reqs.php)  | Part II. Installing Momentum |  [Next](install_upgrade_packages.php) |
-
 ## Chapter 7. Download the Software Bundle and Prepare
 
 Whether you intend to perform a **new install**         or an **upgrade** you need to download the software bundle **on all nodes** .

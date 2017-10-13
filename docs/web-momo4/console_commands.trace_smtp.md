@@ -1,6 +1,3 @@
-| trace smtp |
-| [Prev](console_commands.tls.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.unlink_stats.php) |
-
 <a name="console_commands.trace_smtp"></a>
 ## Name
 

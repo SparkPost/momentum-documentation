@@ -1,6 +1,3 @@
-| 23.2. DKIM Validation |
-| [Prev](using_dkim.php)  | Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures |  [Next](multi_event_loops.php) |
-
 ## 23.2. DKIM Validation
 
 When DKIM is enabled as decribed in [Section 23.1, “DKIM Signing”](using_dkim.php#using_dkim.signing "23.1. DKIM Signing"), DKIM signature verification is performed on all inbound messages received via SMTP. Unlike DKIM signing, verification of DKIM messages is driven only through Lua policy. Links to the appropriate Lua functions are listed at [Section 71.50.2, “Lua Functions”](modules.opendkim.php#modules.opendkim.lua.functions "71.50.2. Lua Functions").

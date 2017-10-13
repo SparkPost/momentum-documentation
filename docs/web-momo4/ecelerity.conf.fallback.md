@@ -1,6 +1,3 @@
-| 15.3. Configuration Scopes and Fallback |
-| [Prev](conf.options.php)  | Chapter 15. Configuration Overview |  [Next](listeners.php) |
-
 ## 15.3. Configuration Scopes and Fallback
 
 Momentum has a flexible configuration system that allows many options to be set to different values for different hosts, domains, bindings, and binding groups:

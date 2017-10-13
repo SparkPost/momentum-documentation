@@ -1,6 +1,3 @@
-| cluster_outbound_throttle_connections |
-| [Prev](conf.ref.cluster_max_outbound_connections.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.cluster_outbound_throttle_messages.php) |
-
 <a name="conf.ref.cluster_outbound_throttle_connections"></a>
 ## Name
 

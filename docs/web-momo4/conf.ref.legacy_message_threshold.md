@@ -1,6 +1,3 @@
-| legacy_message_threshold |
-| [Prev](conf.ref.large_message_threshold.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.license.php) |
-
 <a name="conf.ref.legacy_message_threshold"></a>
 ## Name
 

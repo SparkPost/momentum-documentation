@@ -1,6 +1,3 @@
-| 35.10. Bounce Classification Codes |
-| [Prev](log_formats.rejectlog.php)  | Chapter 35. Log Formats |  [Next](log_formats.connection.stages.php) |
-
 ## 35.10. Bounce Classification Codes
 
 The following is a list of bounce classification codes and their meanings.

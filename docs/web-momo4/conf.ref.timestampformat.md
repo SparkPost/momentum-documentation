@@ -1,6 +1,3 @@
-| timestampformat |
-| [Prev](conf.ref.threadpool.php)  | Chapter 72. Configuration Options Reference |  [Next](config.ref.tls.php) |
-
 <a name="conf.ref.timestampformat"></a>
 ## Name
 

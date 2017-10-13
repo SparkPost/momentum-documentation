@@ -1,6 +1,3 @@
-| memory_goal |
-| [Prev](conf.ref.mdn_failures_notify.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.memory_hwm.php) |
-
 <a name="conf.ref.memory_goal"></a>
 ## Name
 

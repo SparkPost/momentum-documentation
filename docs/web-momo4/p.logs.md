@@ -1,6 +1,3 @@
-| Part IV. Logging |
-| [Prev](environment_file.php)  |   |  [Next](logging.overview.php) |
-
 ## Part IV. Logging
 
 **Table of Contents**

@@ -1,6 +1,3 @@
-| max_resident_active_queue |
-| [Prev](config.max_request_size.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_resident_messages.php) |
-
 <a name="conf.ref.max_resident_active_queue"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 6.14. Basic Required Packages |
-| [Prev](byb.config_SSH_and_SSHD.php)  | Chapter 6. Before You Begin |  [Next](byb.riak_provisioning.php) |
-
 ## 6.14. Basic Required Packages
 
 Momentum 4 requires some basic dependencies to install Vertica. Run **yum groupinstall base**                   when setting up a new environment.

@@ -1,6 +1,3 @@
-| Chapter 41. Tracking Engagement for SMTP |
-| [Prev](smtp_injection.php)  | Part VI. SMTP Injection |  [Next](x-msys-api_header.php) |
-
 ## Chapter 41. Tracking Engagement for SMTP
 
 **Table of Contents**

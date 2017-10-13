@@ -1,6 +1,3 @@
-| 71.25. custom_logger – User-defined Logging |
-| [Prev](modules.custom_bounce_logger.php)  | Chapter 71. Modules Reference |  [Next](modules.delay_dsn.php) |
-
 ## 71.25. custom_logger – User-defined Logging
 
 <a class="indexterm" name="idp20960112"></a>

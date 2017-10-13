@@ -1,6 +1,3 @@
-| allow_ip_literal |
-| [Prev](conf.ref.alias_schemes.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.allow_null_envelope_sender.php) |
-
 <a name="conf.ref.allow_ip_literal"></a>
 ## Name
 

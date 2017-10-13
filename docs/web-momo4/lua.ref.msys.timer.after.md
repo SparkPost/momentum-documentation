@@ -1,6 +1,3 @@
-| msys.timer.after |
-| [Prev](lua.ref.msys.threadpool.stat.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.timer.at.php) |
-
 <a name="lua.ref.msys.timer.after"></a>
 ## Name
 

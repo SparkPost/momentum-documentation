@@ -1,6 +1,3 @@
-| jlogctl |
-| [Prev](executable.jlog_sanity_check.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.lu_pull.php) |
-
 <a name="executable.jlogctl"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| tls_dhparams_file |
-| [Prev](config.tls_client_ca.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.tls_enable_dhe_ciphers.php) |
-
 <a name="conf.ref.tls_dhparams_file"></a>
 ## Name
 

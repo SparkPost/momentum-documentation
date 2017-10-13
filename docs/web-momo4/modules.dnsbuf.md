@@ -1,6 +1,3 @@
-| 71.27. dnsbuf – Dynamically Set the DNS UDP Buffer Size |
-| [Prev](modules.delay_dsn.php)  | Chapter 71. Modules Reference |  [Next](modules.domainkeys.php) |
-
 ## 71.27. dnsbuf – Dynamically Set the DNS UDP Buffer Size
 
 <a class="indexterm" name="idp21233792"></a>

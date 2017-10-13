@@ -1,6 +1,3 @@
-| 16.5. Cluster-specific Listeners |
-| [Prev](conf.ref.msgc_server.conf.php)  | Chapter 16. Cluster-specific Configuration |  [Next](cluster.config.failover.php) |
-
 ## 16.5. Cluster-specific Listeners
 
 This section describes the listeners that are used in a cluster configuration.

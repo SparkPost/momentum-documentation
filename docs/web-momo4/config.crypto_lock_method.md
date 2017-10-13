@@ -1,6 +1,3 @@
-| crypto_lock_method |
-| [Prev](conf.ref.crypto_engine.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.debug_flags.php) |
-
 <a name="config.crypto_lock_method"></a>
 ## Name
 

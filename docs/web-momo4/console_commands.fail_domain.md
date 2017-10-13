@@ -1,6 +1,3 @@
-| fail domain |
-| [Prev](console_commands.domain_all.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.fail_domain_quiet.php) |
-
 <a name="console_commands.fail_domain"></a>
 ## Name
 

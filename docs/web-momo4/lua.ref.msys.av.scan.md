@@ -1,6 +1,3 @@
-| msys.av.scan |
-| [Prev](lua.ref.msys.av.engines.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.av.scan_part.php) |
-
 <a name="lua.ref.msys.av.scan"></a>
 ## Name
 

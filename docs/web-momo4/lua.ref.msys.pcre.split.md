@@ -1,6 +1,3 @@
-| msys.pcre.split |
-| [Prev](lua.ref.msys.pcre.replace.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.os.statvfs_read.php) |
-
 <a name="lua.ref.msys.pcre.split"></a>
 ## Name
 

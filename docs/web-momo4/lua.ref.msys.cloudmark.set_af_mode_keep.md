@@ -1,6 +1,3 @@
-| msys.cloudmark.set_af_mode_keep |
-| [Prev](lua.ref.msys.cloudmark.set_af_mode_discard.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.cloudmark.set_af_mode_movemsg.php) |
-
 <a name="lua.ref.msys.cloudmark.set_af_mode_keep"></a>
 ## Name
 

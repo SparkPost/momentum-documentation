@@ -1,6 +1,3 @@
-| 71.20. commtouch_ctasd – Commtouch Spam Protection |
-| [Prev](modules.cluster.php)  | Chapter 71. Modules Reference |  [Next](modules.compress_spool.php) |
-
 ## 71.20. commtouch_ctasd – Commtouch Spam Protection
 
 <a class="indexterm" name="idp20662576"></a>

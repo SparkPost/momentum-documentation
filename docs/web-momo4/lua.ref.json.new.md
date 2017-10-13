@@ -1,6 +1,3 @@
-| json.new |
-| [Prev](lua.ref.json.encode.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.json.strerror.php) |
-
 <a name="lua.ref.json.new"></a>
 ## Name
 

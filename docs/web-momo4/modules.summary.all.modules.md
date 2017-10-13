@@ -1,6 +1,3 @@
-| Chapter 65. Modules Summary |
-| [Prev](lua.summary_table.php)  | Part X. Reference |  [Next](config.options.summary.php) |
-
 ## Chapter 65. Modules Summary
 
 All modules are listed alphabetically with a brief description. Singleton modules are also identified. The `Version` column indicates when the module was introduced into the system. Note: all modules listed as 4.0 modules were actually introduced in prior versions of Momentum. The `Auto` column indicates whether a module is loaded automatically as required. The `Type` column indicates the MTA type of a given option. Options of type `na` do not directly apply to either a sending or receiving MTA. The `Cluster` column indicates whether a module is cluster-specific. The `Valid` column indicates whether a module is a validation module.

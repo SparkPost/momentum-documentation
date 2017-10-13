@@ -1,6 +1,3 @@
-| 71.5. alias – Alias Expansion |
-| [Prev](modules.alerting.php)  | Chapter 71. Modules Reference |  [Next](modules.antivirus.php) |
-
 ## 71.5. alias – Alias Expansion
 
 <a class="indexterm" name="idp19680880"></a>

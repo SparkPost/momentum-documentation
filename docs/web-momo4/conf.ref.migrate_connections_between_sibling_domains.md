@@ -1,6 +1,3 @@
-| migrate_connections_between_sibling_domains |
-| [Prev](conf.ref.message_expiration.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.mime_parse_large_messages_during_reception.php) |
-
 <a name="conf.ref.migrate_connections_between_sibling_domains"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| lu_pull |
-| [Prev](executable.jlogctl.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.validate_config.php) |
-
 <a name="executable.lu_pull"></a>
 ## Name
 

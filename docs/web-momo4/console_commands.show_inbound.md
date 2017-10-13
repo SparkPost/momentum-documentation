@@ -1,6 +1,3 @@
-| show inbound |
-| [Prev](console_commands.reroute_queue.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.show_outbound.php) |
-
 <a name="console_commands.show_inbound"></a>
 ## Name
 

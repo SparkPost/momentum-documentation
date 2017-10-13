@@ -1,6 +1,3 @@
-| msys.audit.receptions |
-| [Prev](lua.ref.msys.audit.inbound_session_count.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.audit.rejections.php) |
-
 <a name="lua.ref.msys.audit.receptions"></a>
 ## Name
 

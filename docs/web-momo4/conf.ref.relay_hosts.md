@@ -1,6 +1,3 @@
-| relay_hosts |
-| [Prev](conf.ref.relay_domains.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.remote_smtp_port.php) |
-
 <a name="conf.ref.relay_hosts"></a>
 ## Name
 

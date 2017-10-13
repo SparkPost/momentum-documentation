@@ -1,6 +1,3 @@
-| async_bounce_rendering |
-| [Prev](conf.ref.allow_trailing_whitespace_in_commands.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.authorization.php) |
-
 <a name="conf.ref.async_bounce_rendering"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| tls_allow_renegotiation |
-| [Prev](config.ref.tls.php)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_ca.php) |
-
 <a name="config.tls_allow_renegotiation"></a>
 ## Name
 

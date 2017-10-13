@@ -1,6 +1,3 @@
-| skip_hosts |
-| [Prev](conf.ref.siv_throttle_cache_size.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.snmp.php) |
-
 <a name="conf.ref.skip_hosts"></a>
 ## Name
 

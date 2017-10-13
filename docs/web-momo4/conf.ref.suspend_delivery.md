@@ -1,6 +1,3 @@
-| suspend_delivery |
-| [Prev](conf.ref.supplemental_groups.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.tcp_buffer_size.php) |
-
 <a name="conf.ref.suspend_delivery"></a>
 ## Name
 

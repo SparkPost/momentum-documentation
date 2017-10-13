@@ -1,6 +1,3 @@
-| client:get_headers |
-| [Prev](lua.ref.client_get_body.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.client_get_status.php) |
-
 <a name="lua.ref.client_get_headers"></a>
 ## Name
 

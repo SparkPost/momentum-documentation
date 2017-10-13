@@ -1,6 +1,3 @@
-| ec_httpsrv_register_auth |
-| [Prev](apis.ec_config_rsrc_get.php)  | Chapter 69. Hook Points and C Functions Reference |  [Next](apis.ec_httpsrv_request_local_address.php) |
-
 <a name="apis.ec_httpsrv_register_auth"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 48.3. Previewing and Testing Your Template |
-| [Prev](web-ui.templates.create.php)  | Chapter 48. Managing Your Templates in the UI |  [Next](web-ui.update.template.php) |
-
 ## 48.3. Previewing and Testing Your Template
 
 You can preview and test your template by specifying test data in the New Template form. Test data must be in the form of a JSON object of key/value pairs of recipient-specific data. Click Edit, select the Test Data tab, and type your test data using the online editor. Note that the test data is not saved.

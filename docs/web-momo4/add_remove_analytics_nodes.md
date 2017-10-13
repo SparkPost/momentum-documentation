@@ -1,6 +1,3 @@
-| Chapter 14. Adding and Removing Analytics Nodes |
-| [Prev](node_remove.php)  | Part II. Installing Momentum |  [Next](node_remove_analytics.php) |
-
 ## Chapter 14. Adding and Removing Analytics Nodes
 
 **Table of Contents**

@@ -1,6 +1,3 @@
-| supplemental_groups |
-| [Prev](config.starttls_injection_policy.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.suspend_delivery.php) |
-
 <a name="conf.ref.supplemental_groups"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| doc:tostring |
-| [Prev](lua.ref.xml.doc_root.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.doc_xpath.php) |
-
 <a name="lua.ref.xml.doc_tostring"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| msys.cloudmark.analyze |
-| [Prev](lua.ref.ac_inbound_session_count.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.cloudmark.add_af_data.php) |
-
 <a name="lua.ref.msys.cloudmark.analyze"></a>
 ## Name
 

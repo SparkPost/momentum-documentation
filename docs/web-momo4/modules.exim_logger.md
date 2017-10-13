@@ -1,6 +1,3 @@
-| 71.34. exim_logger – Exim Logging |
-| [Prev](modules.event_hydrant.php)  | Chapter 71. Modules Reference |  [Next](modules.fbl.php) |
-
 ## 71.34. exim_logger – Exim Logging
 
 <a class="indexterm" name="idp21813264"></a>

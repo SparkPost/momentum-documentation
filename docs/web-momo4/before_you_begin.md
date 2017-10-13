@@ -1,6 +1,3 @@
-| Chapter 6. Before You Begin |
-| [Prev](addl.config.notes.php)  | Part II. Installing Momentum |  [Next](byb.os.php) |
-
 ## Chapter 6. Before You Begin
 
 **Table of Contents**

@@ -1,6 +1,3 @@
-| c:setopt |
-| [Prev](lua.ref.curl.c_perform.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.curl.escape.php) |
-
 <a name="lua.ref.curl.c_setopt"></a>
 ## Name
 

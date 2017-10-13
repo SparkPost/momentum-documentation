@@ -1,6 +1,3 @@
-| 62.2. Policy Scriptlets |
-| [Prev](policy.php)  | Chapter 62. Implementing Policy with Momentum |  [Next](policy.context.variables.php) |
-
 ## 62.2. Policy Scriptlets
 
 Lua scripts provide you with the capability to express the logic behind your policy. Aside from being very convenient (policy scripts can be reloaded on the fly, allowing real-time adjustment of policy without interrupting service), the Momentum implementation has extremely low overhead and tightly integrates with the event-based architecture, being able to suspend processing until asynchronous operations (such as DNS resolution, or database queries) complete. Note that variables used in a policy script are scoped locally and only persist in the particular policy script in which it is defined. Use the [validation context](policy.php#policy.validation "62.1. Validation and the Validation Context") to persist data over different policy phases and policy scripts.

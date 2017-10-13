@@ -1,6 +1,3 @@
-| version |
-| [Prev](console_commands.unlink_stats.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.write_config.php) |
-
 <a name="console_commands.version"></a>
 ## Name
 

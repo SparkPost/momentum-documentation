@@ -1,6 +1,3 @@
-| msys.validate.opendkim.get_sig_hdrsigned |
-| [Prev](lua.ref.msys.validate.opendkim.get_sig_flags.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.validate.opendkim.get_sig_identity.php) |
-
 <a name="lua.ref.msys.validate.opendkim.get_sig_hdrsigned"></a>
 ## Name
 

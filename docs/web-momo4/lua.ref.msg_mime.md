@@ -1,6 +1,3 @@
-| msg:mime |
-| [Prev](lua.ref.msg_makePart.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_raw.php) |
-
 <a name="lua.ref.msg_mime"></a>
 ## Name
 

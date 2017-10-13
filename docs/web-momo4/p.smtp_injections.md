@@ -1,6 +1,3 @@
-| Part VI. SMTP Injection |
-| [Prev](cluster.cidr_server.php)  |   |  [Next](smtp_injection.php) |
-
 ## Part VI. SMTP Injection
 
 **Table of Contents**

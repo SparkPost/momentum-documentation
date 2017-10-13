@@ -1,6 +1,3 @@
-| msys.validate.opendkim.get_sig_signalg |
-| [Prev](lua.ref.msys.validate.opendkim.get_sig_selector.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.validate.opendkim.sign.php) |
-
 <a name="lua.ref.msys.validate.opendkim.get_sig_signalg"></a>
 ## Name
 

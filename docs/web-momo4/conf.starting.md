@@ -1,6 +1,3 @@
-| Chapter 36. Starting Momentum (**ecelerity**) |
-| [Prev](p.operations.php)  | Part V. Using the System Console |  [Next](operations.php) |
-
 ## Chapter 36. Starting Momentum (ecelerity)
 
 **Table of Contents**

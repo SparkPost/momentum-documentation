@@ -1,6 +1,3 @@
-| msys.bounce.classify |
-| [Prev](lua.ref.msys.base64.encode.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.bounce.classify_smtp_response.php) |
-
 <a name="lua.ref.msys.bounce.classify"></a>
 ## Name
 

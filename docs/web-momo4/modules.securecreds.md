@@ -1,6 +1,3 @@
-| 71.61. securecreds – Password Encryption/Credential Retrieval |
-| [Prev](modules.scriptlet.php)  | Chapter 71. Modules Reference |  [Next](modules.seedlist.php) |
-
 ## 71.61. securecreds – Password Encryption/Credential Retrieval
 
 <a class="indexterm" name="idp22875728"></a>

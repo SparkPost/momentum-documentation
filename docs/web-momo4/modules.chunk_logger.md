@@ -1,6 +1,3 @@
-| 71.15. chunk_logger Module |
-| [Prev](modules.brightmail.php)  | Chapter 71. Modules Reference |  [Next](modules.cidrdb.php) |
-
 ## 71.15. chunk_logger Module
 
 <a class="indexterm" name="idp20229008"></a>

@@ -1,6 +1,3 @@
-| 19.4. SMTP Extensions |
-| [Prev](esmtp_listener.reconfig_message.php)  | Chapter 19. Configuring Inbound Mail Service Using SMTP |  [Next](inbound_smtp.php) |
-
 ## 19.4. SMTP Extensions
 
 ### 19.4.1. XCLIENT Extension for SMTP

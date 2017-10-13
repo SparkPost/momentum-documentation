@@ -1,6 +1,3 @@
-| 10.3. Prepare and Run Flyway |
-| [Prev](upgrade.single_node.vertica_updates.php)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.single_node.configuration.config_all__nodes.php) |
-
 ## 10.3. Prepare and Run Flyway
 
 Configure the tables for running the Flyway data migration tool.

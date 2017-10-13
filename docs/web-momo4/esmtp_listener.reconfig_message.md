@@ -1,6 +1,3 @@
-| 19.3. `Reconfig_Message` Option |
-| [Prev](esmtp_listener.relay_domains.php)  | Chapter 19. Configuring Inbound Mail Service Using SMTP |  [Next](esmtp_listener.extensions.php) |
-
 ## 19.3. `Reconfig_Message` Option
 
 <a class="indexterm" name="idp2417920"></a>

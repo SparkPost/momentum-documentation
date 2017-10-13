@@ -1,6 +1,3 @@
-| msys.db.execute |
-| [Prev](lua.function.details.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.ac_esmtp_capability_add.php) |
-
 <a name="lua.ref.msys.db.execute"></a>
 ## Name
 

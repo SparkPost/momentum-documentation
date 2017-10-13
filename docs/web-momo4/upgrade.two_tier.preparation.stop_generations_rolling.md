@@ -1,6 +1,3 @@
-| 11.5. Stop Transmissions to the First Platform Node |
-| [Prev](upgrade.two_tier.preparation.upgrade_cassandra_rolling.php)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.ecelerity_rolling.php) |
-
 ## 11.5. Stop Transmissions to the First Platform Node
 
 Be sure that the first Platform node will no longer have transmission requests routed to it.

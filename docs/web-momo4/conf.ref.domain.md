@@ -1,6 +1,3 @@
-| domain |
-| [Prev](conf.ref.domain_for_unqualified_sender_address.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.domainkeys.php) |
-
 <a name="conf.ref.domain"></a>
 ## Name
 

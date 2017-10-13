@@ -1,6 +1,3 @@
-| 30.2. Running the Riak Service |
-| [Prev](riak.php)  | Chapter 30. Riak |  [Next](operations.riak.ports.php) |
-
 ## 30.2. Running the Riak Service
 
 Riak is configured to start automatically when the system boots. The service can be controlled by the script located at `/etc/init.d/msys-riak`. This initialization script has the usual stop, start, and restart options. The following additional options are also available:

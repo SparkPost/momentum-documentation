@@ -1,6 +1,3 @@
-| msgpart:content_type |
-| [Prev](lua.ref.msgpart_body_replace.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_header.php) |
-
 <a name="lua.ref.msgpart_content_type"></a>
 ## Name
 

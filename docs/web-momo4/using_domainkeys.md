@@ -1,6 +1,3 @@
-| Chapter 22. Using Yahoo! DomainKeys |
-| [Prev](auth.php)  | Part III. Configuring Momentum |  [Next](using_domainkeys.validation.php) |
-
 ## Chapter 22. Using Yahoo! DomainKeys
 
 **Table of Contents**

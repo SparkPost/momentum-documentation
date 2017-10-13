@@ -1,6 +1,3 @@
-| click_tracking_enabled |
-| [Prev](conf.ref.clear_mail_queue_maintainers.php)  | Chapter 72. Configuration Options Reference |  [Next](config.click_tracking_scheme.php) |
-
 <a name="config.click_tracking_enabled"></a>
 ## Name
 

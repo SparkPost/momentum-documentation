@@ -1,6 +1,3 @@
-| bind_address |
-| [Prev](conf.ref.authorization.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.binding.php) |
-
 <a name="conf.ref.bind_address"></a>
 ## Name
 

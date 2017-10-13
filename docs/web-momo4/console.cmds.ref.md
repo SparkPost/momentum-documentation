@@ -1,6 +1,3 @@
-| Chapter 73. Non-Module-Specific Console Commands |
-| [Prev](conf.ref.xclient.php)  | Part X. Reference |  [Next](console_commands.active.php) |
-
 ## Chapter 73. Non-Module-Specific Console Commands
 
 **Table of Contents**

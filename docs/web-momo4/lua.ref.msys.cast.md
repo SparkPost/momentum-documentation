@@ -1,6 +1,3 @@
-| msys.cast |
-| [Prev](lua.ref.msys.core.io_wrapper_open.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.config.php) |
-
 <a name="lua.ref.msys.cast"></a>
 ## Name
 

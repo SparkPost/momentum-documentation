@@ -1,6 +1,3 @@
-| malloc2mmap_threshold |
-| [Prev](config.ref.maintainer_pool.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.masterdb_file.php) |
-
 <a name="conf.ref.malloc2mmap_threshold"></a>
 ## Name
 

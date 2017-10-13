@@ -1,6 +1,3 @@
-| bounce_behavior |
-| [Prev](conf.ref.body_timeout.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.bounce_domains.php) |
-
 <a name="conf.ref.bounce_behavior"></a>
 ## Name
 

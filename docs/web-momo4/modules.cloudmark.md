@@ -1,6 +1,3 @@
-| 71.18. cloudmark – Cloudmark Authority® Content Scanning |
-| [Prev](modules.clamav.php)  | Chapter 71. Modules Reference |  [Next](modules.cluster.php) |
-
 ## 71.18. cloudmark – Cloudmark Authority® Content Scanning
 
 <a class="indexterm" name="idp20342944"></a>

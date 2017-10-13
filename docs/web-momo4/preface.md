@@ -1,6 +1,3 @@
-| Preface |
-| [Prev](index.php)  |   |  [Next](p.intro.php) |
-
 ## Preface
 
 **Table of Contents**

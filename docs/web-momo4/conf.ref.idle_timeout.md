@@ -1,6 +1,3 @@
-| idle_timeout |
-| [Prev](conf.ref.http_version.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.inbound_throttle_messages.php) |
-
 <a name="conf.ref.idle_timeout"></a>
 ## Name
 

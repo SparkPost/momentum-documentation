@@ -1,6 +1,3 @@
-| disable_nagle_algorithm |
-| [Prev](conf.ref.delivery_response_timeout.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.disk_queue_drain_rate.php) |
-
 <a name="conf.ref.disable_nagle_algorithm"></a>
 ## Name
 

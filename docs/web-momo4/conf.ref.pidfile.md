@@ -1,6 +1,3 @@
-| pidfile |
-| [Prev](conf.ref.permastore_interval.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.prohibited_hosts.php) |
-
 <a name="conf.ref.pidfile"></a>
 ## Name
 

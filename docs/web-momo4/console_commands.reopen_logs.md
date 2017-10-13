@@ -1,6 +1,3 @@
-| reopen logs |
-| [Prev](console_commands.refresh_domain.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.reroute_queue.php) |
-
 <a name="console_commands.reopen_logs"></a>
 ## Name
 

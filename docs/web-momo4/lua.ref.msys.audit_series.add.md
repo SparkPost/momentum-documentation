@@ -1,6 +1,3 @@
-| msys.audit_series.add |
-| [Prev](lua.ref.msys.audit.rejections.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.audit_series.count.php) |
-
 <a name="lua.ref.msys.audit_series.add"></a>
 ## Name
 

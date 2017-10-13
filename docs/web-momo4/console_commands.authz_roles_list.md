@@ -1,6 +1,3 @@
-| authz roles list |
-| [Prev](console_commands.authz_id.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.binding_active.php) |
-
 <a name="console_commands.authz_roles_list"></a>
 ## Name
 

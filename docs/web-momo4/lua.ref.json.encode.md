@@ -1,6 +1,3 @@
-| json.encode |
-| [Prev](lua.ref.json.decode.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.json.new.php) |
-
 <a name="lua.ref.json.encode"></a>
 ## Name
 

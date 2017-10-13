@@ -1,6 +1,3 @@
-| Part XI. Appendix |
-| [Prev](executable.validate_config.php)  |   |  [Next](message_responses.php) |
-
 ## Part XI. Appendix
 
 **Table of Contents**

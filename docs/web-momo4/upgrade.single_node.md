@@ -1,6 +1,3 @@
-| Chapter 10. Upgrade - Single Node |
-| [Prev](install.start_remaining_services.php)  | Part II. Installing Momentum |  [Next](upgrade.single_node.vertica_updates.php) |
-
 ## Chapter 10. Upgrade - Single Node
 
 **Table of Contents**

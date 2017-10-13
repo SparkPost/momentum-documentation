@@ -1,6 +1,3 @@
-| 30.4. Backups |
-| [Prev](operations.riak.ports.php)  | Chapter 30. Riak |  [Next](environment_file.php) |
-
 ## 30.4. Backups
 
 Riak data is distributed across the nodes in the cluster. Provided that you have enough nodes remaining online, the need to restore from a backup should be quite a rare event.

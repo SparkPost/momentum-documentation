@@ -1,6 +1,3 @@
-| Chapter 51. Using Stored Recipient Lists |
-| [Prev](stored_list.php)  | Part VII. Message Generation (HTTP) |  [Next](sending_cc_bcc.php) |
-
 ## Chapter 51. Using Stored Recipient Lists
 
 **Configuration Change. ** Version 4.1 and later support stored recipient lists.

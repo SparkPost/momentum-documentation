@@ -1,6 +1,3 @@
-| 11.15. Update the Web UI Configuration |
-| [Prev](upgrade.two_tier.configuration.software_upgrade_rolling.php)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.configuration.start_services_rolling.php) |
-
 ## 11.15. Update the Web UI Configuration
 
 We recommend you make these changes on one Analytics node and then use the scp command to copy them to the other Analytics nodes.

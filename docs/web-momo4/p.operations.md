@@ -1,6 +1,3 @@
-| Part V. Using the System Console |
-| [Prev](log_formats.connection.stages.php)  |   |  [Next](conf.starting.php) |
-
 ## Part V. Using the System Console
 
 **Table of Contents**

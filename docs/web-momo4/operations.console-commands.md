@@ -1,6 +1,3 @@
-| 37.2. Console Commands |
-| [Prev](operations.php)  | Chapter 37. Using the System Console (**ec_console**) |  [Next](module_specific_console_commands.using.php) |
-
 ## 37.2. Console Commands
 
 Most console commands are available for use regardless of the modules loaded. However, there are also module-specific console commands. For a list of available console commands, type **`help`** in the console or refer to [Chapter 67, *Console Commands Summary*](console_commands.php "Chapter 67. Console Commands Summary") .

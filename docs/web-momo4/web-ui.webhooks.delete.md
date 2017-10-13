@@ -1,6 +1,3 @@
-| 60.5. Deleting a Webhook |
-| [Prev](web-ui.webhooks.update.php)  | Chapter 60. Managing Your Webhooks in the UI |  [Next](engagement_tracking_http.php) |
-
 ## 60.5. Deleting a Webhook
 
 From the Webhooks tab, you can delete a webhook. Click the icon in the upper-right corner of the webhook you want to delete. In the list, click Delete Webhook, as shown in [Figure 60.9, “Delete Webhook”](web-ui.webhooks.delete.php#figure_delete_webhook "Figure 60.9. Delete Webhook").

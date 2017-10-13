@@ -1,6 +1,3 @@
-| E.2. Disclaimers for Redistributed Third-Party Software |
-| [Prev](copyrights.php)  | Appendix E. Copyright Notices |   |
-
 ## E.2. Disclaimers for Redistributed Third-Party Software
 
 ### E.2.1. Nginx Disclaimer

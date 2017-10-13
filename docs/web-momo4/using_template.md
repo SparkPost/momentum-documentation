@@ -1,6 +1,3 @@
-| Chapter 49. Using Stored Templates |
-| [Prev](web-ui.templates.delete.php)  | Part VII. Message Generation (HTTP) |  [Next](stored_list.php) |
-
 ## Chapter 49. Using Stored Templates
 
 **Introduction**

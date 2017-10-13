@@ -1,6 +1,3 @@
-| Chapter 18. Configuring Inbound Mail Service Using ECStream |
-| [Prev](control_authz.php)  | Part III. Configuring Momentum |  [Next](esmtp_listener.php) |
-
 ## Chapter 18. Configuring Inbound Mail Service Using ECStream
 
 **Table of Contents**

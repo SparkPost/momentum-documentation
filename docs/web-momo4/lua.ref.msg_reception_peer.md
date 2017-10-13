@@ -1,6 +1,3 @@
-| msg:reception_peer |
-| [Prev](lua.ref.msg_listener_addr.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_context_delete.php) |
-
 <a name="lua.ref.msg_reception_peer"></a>
 ## Name
 

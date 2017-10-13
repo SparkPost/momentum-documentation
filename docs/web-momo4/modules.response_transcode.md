@@ -1,6 +1,3 @@
-| 71.58. response_transcode – Module |
-| [Prev](modules.reception_timing.php)  | Chapter 71. Modules Reference |  [Next](modules.sched.php) |
-
 ## 71.58. response_transcode – Module
 
 <a class="indexterm" name="idp22776224"></a>

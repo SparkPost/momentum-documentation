@@ -1,6 +1,3 @@
-| 71.71. syslog_io – The syslog_io Module |
-| [Prev](modules.suppress_spool.php)  | Chapter 71. Modules Reference |  [Next](tls_macros.php) |
-
 ## 71.71. syslog_io – The syslog_io Module
 
 <a class="indexterm" name="idp23211904"></a>

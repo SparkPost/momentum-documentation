@@ -1,6 +1,3 @@
-| ec_adtool |
-| [Prev](executable.credmgr.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_console.php) |
-
 <a name="executable.ec_adtool"></a>
 ## Name
 

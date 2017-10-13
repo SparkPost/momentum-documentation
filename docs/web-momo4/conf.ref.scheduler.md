@@ -1,6 +1,3 @@
-| scheduler |
-| [Prev](conf.ref.scope_max_outbound_connections.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.security.php) |
-
 <a name="conf.ref.scheduler"></a>
 ## Name
 

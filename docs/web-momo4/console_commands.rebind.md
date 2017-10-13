@@ -1,6 +1,3 @@
-| rebind |
-| [Prev](console_commands.pid.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.refresh_domain.php) |
-
 <a name="console_commands.rebind"></a>
 ## Name
 

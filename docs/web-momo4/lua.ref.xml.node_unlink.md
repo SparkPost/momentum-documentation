@@ -1,6 +1,3 @@
-| node:unlink |
-| [Prev](lua.ref.xml.node_tostring.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.parsexml.php) |
-
 <a name="lua.ref.xml.node_unlink"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| Chapter 5. Hardware Considerations |
-| [Prev](p.installing.php)  | Part II. Installing Momentum |  [Next](hardware.config_options.php) |
-
 ## Chapter 5. Hardware Considerations
 
 **Table of Contents**

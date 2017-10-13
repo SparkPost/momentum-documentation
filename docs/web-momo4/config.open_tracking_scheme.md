@@ -1,6 +1,3 @@
-| open_tracking_scheme |
-| [Prev](config.open_tracking_enabled.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.opendkim_sign.php) |
-
 <a name="config.open_tracking_scheme"></a>
 ## Name
 

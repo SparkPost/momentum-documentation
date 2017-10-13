@@ -1,6 +1,3 @@
-| 6.17. Disable Postfix and QPIDD |
-| [Prev](byb.vertica_partition.php)  | Chapter 6. Before You Begin |  [Next](byb.analytics_reqs.php) |
-
 ## 6.17. Disable Postfix and QPIDD
 
 Disable the Postfix software, which would interfere with Ecelerity's SMTP functionality. Disable qpidd, which can interfere with RabbitMQ. Ignore any errors that appear here.

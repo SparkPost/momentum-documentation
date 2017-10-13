@@ -1,6 +1,3 @@
-| xml.parsexml |
-| [Prev](lua.ref.xml.node_unlink.php)  | Chapter 70. Lua Functions Reference |  [Next](modules.php) |
-
 <a name="lua.ref.xml.parsexml"></a>
 ## Name
 

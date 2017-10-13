@@ -1,6 +1,3 @@
-| adaptive_backstore_leveldb |
-| [Prev](config.options.ref.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.adaptive_backstore_riak.php) |
-
 <a name="conf.ref.adaptive_backstore_leveldb"></a>
 ## Name
 

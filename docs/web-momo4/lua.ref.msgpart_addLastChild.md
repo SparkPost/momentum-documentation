@@ -1,6 +1,3 @@
-| msgpart:addLastChild |
-| [Prev](lua.ref.msgpart_addFirstChild.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_address_header.php) |
-
 <a name="lua.ref.msgpart_addLastChild"></a>
 ## Name
 

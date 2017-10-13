@@ -1,6 +1,3 @@
-| outbound_throttle_messages |
-| [Prev](conf.ref.outbound_throttle_connections.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pathway.php) |
-
 <a name="conf.ref.outbound_throttle_messages"></a>
 ## Name
 

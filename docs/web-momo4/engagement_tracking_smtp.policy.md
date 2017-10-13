@@ -1,6 +1,3 @@
-| 41.3. Using Policy for Engagement Tracking |
-| [Prev](x-msys-api_header.php)  | Chapter 41. Tracking Engagement for SMTP |  [Next](engagement_tracking_smtp.escaping.php) |
-
 ## 41.3. Using Policy for Engagement Tracking
 
 To enable or disable engagement tracking for a specific message, you can use policy to override the X-MSYS-API header and configuration option. In addition, engagement data specified in the policy's context variables will take precedence over the corresponding X-MSYS-API header fields. For details about engagement tracking for SMTP injections, see [Chapter 41, *Tracking Engagement for SMTP*](engagement_tracking_smtp.php "Chapter 41. Tracking Engagement for SMTP") .

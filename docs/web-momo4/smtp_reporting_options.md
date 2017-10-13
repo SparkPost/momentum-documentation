@@ -1,6 +1,3 @@
-| Chapter 42. Reporting Options |
-| [Prev](engagement_tracking_smtp.escaping.php)  | Part VI. SMTP Injection |  [Next](p.http_rest.php) |
-
 ## Chapter 42. Reporting Options
 
 For every message injected, Momentum reports data tracking its full disposition status. You can view this reporting data using the following:

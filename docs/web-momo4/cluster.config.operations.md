@@ -1,6 +1,3 @@
-| Chapter 38. Using the Cluster Manager (**eccmgr**) |
-| [Prev](operations.console.lua.php)  | Part V. Using the System Console |  [Next](cluster.config.operations.eccmgr.console.php) |
-
 ## Chapter 38. Using the Cluster Manager (eccmgr)
 
 **Table of Contents**

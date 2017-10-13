@@ -1,6 +1,3 @@
-| 11.6. Upgrade Ecelerity and the Cassandra Schema on the First Platform Node |
-| [Prev](upgrade.two_tier.preparation.stop_generations_rolling.php)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.stop_transmissions_rolling.php) |
-
 ## 11.6. Upgrade Ecelerity and the Cassandra Schema on the First Platform Node
 
 1.  The following steps connect Ecelerity and Cassandra. These steps should be done only on the **first Platform node** . Be sure you perform these steps in the order shown below.

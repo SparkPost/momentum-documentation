@@ -1,6 +1,3 @@
-| msys.qp.encode |
-| [Prev](lua.ref.msys.qp.decode.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.rfc3464.compute_delivery_status.php) |
-
 <a name="lua.ref.msys.qp.encode"></a>
 ## Name
 

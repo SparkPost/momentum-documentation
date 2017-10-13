@@ -1,6 +1,3 @@
-| jlog_sanity_check |
-| [Prev](executable.jlog_change_endian.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.jlogctl.php) |
-
 <a name="executable.jlog_sanity_check"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 71.43. jlog – jlog-Formatted Logging |
-| [Prev](modules.ipv6_lookup.php)  | Chapter 71. Modules Reference |  [Next](modules.live.bounce.updates.php) |
-
 ## 71.43. jlog – jlog-Formatted Logging
 
 <a class="indexterm" name="idp22053952"></a>

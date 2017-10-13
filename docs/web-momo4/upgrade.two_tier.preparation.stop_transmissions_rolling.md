@@ -1,6 +1,3 @@
-| 11.7. Restore Transmissions to the First Platform Node and Stop Transmissions to all other Platform Nodes |
-| [Prev](upgrade.two_tier.preparation.ecelerity_rolling.php)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.upgrade_ecelerity_rolling.php) |
-
 ## 11.7. Restore Transmissions to the First Platform Node and Stop Transmissions to all other Platform Nodes
 
 1.  On **all Analytics nodes** , edit `/opt/msys/3rdParty/nginx/conf.d/momo_upstream.conf` and restore the line identifying the first Platform node. For a combined cluster upgrade, perform this action on **all nodes in the cluster** .

@@ -1,6 +1,3 @@
-| tls_verified_peer_is_authorized |
-| [Prev](config.tls_protocols.php)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_verify.php) |
-
 <a name="config.tls_verified_peer_is_authorized"></a>
 ## Name
 

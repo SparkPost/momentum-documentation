@@ -1,6 +1,3 @@
-| 71.13. bounce_logger – Momentum-Style Bounce Logging |
-| [Prev](modules.bounce_classifier_override.php)  | Chapter 71. Modules Reference |  [Next](modules.brightmail.php) |
-
 ## 71.13. bounce_logger – Momentum-Style Bounce Logging
 
 <a class="indexterm" name="idp20140576"></a>

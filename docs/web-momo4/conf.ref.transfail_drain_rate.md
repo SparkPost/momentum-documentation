@@ -1,6 +1,3 @@
-| transfail_drain_rate |
-| [Prev](config.tracking_link_expiry.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.transform_8bitmime_content.php) |
-
 <a name="conf.ref.transfail_drain_rate"></a>
 ## Name
 

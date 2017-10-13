@@ -1,6 +1,3 @@
-| security |
-| [Prev](conf.ref.scheduler.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.send_8bitmime.php) |
-
 <a name="conf.ref.security"></a>
 ## Name
 

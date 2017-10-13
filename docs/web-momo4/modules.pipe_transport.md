@@ -1,6 +1,3 @@
-| 71.55. pipe_transport – Module |
-| [Prev](modules.pipeio.php)  | Chapter 71. Modules Reference |  [Next](modules.postfix_logger.php) |
-
 ## 71.55. pipe_transport – Module
 
 <a class="indexterm" name="idp22619968"></a>

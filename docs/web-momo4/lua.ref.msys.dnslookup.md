@@ -1,6 +1,3 @@
-| msys.dnsLookup |
-| [Prev](lua.ref.msys.config.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.expandMacro.php) |
-
 <a name="lua.ref.msys.dnslookup"></a>
 ## Name
 

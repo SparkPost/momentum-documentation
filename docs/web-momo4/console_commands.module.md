@@ -1,6 +1,3 @@
-| module |
-| [Prev](console_commands.message_retry.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.pager.php) |
-
 <a name="console_commands.module"></a>
 ## Name
 

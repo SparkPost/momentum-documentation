@@ -1,6 +1,3 @@
-| 71.66. smtp_rcptto_proxy - SMTP Recipient-To Proxy |
-| [Prev](modules.smtp_cbv.php)  | Chapter 71. Modules Reference |  [Next](modules.smtpapi.php) |
-
 ## 71.66. smtp_rcptto_proxy - SMTP Recipient-To Proxy
 
 <a class="indexterm" name="idp23012352"></a>

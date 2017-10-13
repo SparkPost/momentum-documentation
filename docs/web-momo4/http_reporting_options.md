@@ -1,6 +1,3 @@
-| Chapter 54. Reporting Options |
-| [Prev](p.analytics.php)  | Part VIII. Reporting and Engagement Tracking |  [Next](web-ui.php) |
-
 ## Chapter 54. Reporting Options
 
 For every message injected, Momentum reports data tracking its full disposition status. You can view this reporting data using the following:

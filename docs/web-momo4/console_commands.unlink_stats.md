@@ -1,6 +1,3 @@
-| unlink stats |
-| [Prev](console_commands.trace_smtp.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.version.php) |
-
 <a name="console_commands.unlink_stats"></a>
 ## Name
 

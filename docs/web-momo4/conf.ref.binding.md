@@ -1,6 +1,3 @@
-| binding |
-| [Prev](conf.ref.bind_address.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.binding_auto_replumb.php) |
-
 <a name="conf.ref.binding"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| http_host |
-| [Prev](conf.ref.http_basic_auth.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.http_method.php) |
-
 <a name="conf.ref.http_host"></a>
 ## Name
 

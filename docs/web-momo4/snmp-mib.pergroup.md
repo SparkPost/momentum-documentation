@@ -1,6 +1,3 @@
-| B.2. Per-group (binding) Metrics, 1.3.6.1.4.1.19552.1.3 |
-| [Prev](snmp-mib.php)  | Appendix B. MIB Files |  [Next](snmp-mib.omniti.php) |
-
 ## B.2. Per-group (binding) Metrics, 1.3.6.1.4.1.19552.1.3
 
 These act as a supplement to the MTA-MIB defined group statistics, so that the stat watcher can record active/delayed queues. `G+1` is the MTAGroupIndexID (see RFC 2789 MTA MIB and [Section B.1.1, “Determining the ID for an MTAGroupIndexID”](snmp-mib.php#snmp-mib-MTAGroupIndexID "B.1.1. Determining the ID for an MTAGroupIndexID")). The metrics are as follows:

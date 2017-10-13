@@ -1,6 +1,3 @@
-| dns_fallback_to_tcp |
-| [Prev](conf.ref.dns_failures_to_purge.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.domain_for_unqualified_recipient_addresses.php) |
-
 <a name="conf.ref.dns_fallback_to_tcp"></a>
 ## Name
 

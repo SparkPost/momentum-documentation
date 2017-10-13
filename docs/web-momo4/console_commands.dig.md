@@ -1,6 +1,3 @@
-| dig |
-| [Prev](console_commands.delayed.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.dns_cache.php) |
-
 <a name="console_commands.dig"></a>
 ## Name
 

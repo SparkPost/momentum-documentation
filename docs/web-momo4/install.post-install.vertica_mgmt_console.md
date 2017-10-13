@@ -1,6 +1,3 @@
-| 12.4. Download and Install the Vertica Management Console |
-| [Prev](install.post-install.rotate.php)  | Chapter 12. Post-Installation |  [Next](install.vertica.license.php) |
-
 ## 12.4. Download and Install the Vertica Management Console
 
 Install the Vertica Management Console on any Vertica node.

@@ -1,6 +1,3 @@
-| crypto_engine |
-| [Prev](conf.ref.control_client_timeout.php)  | Chapter 72. Configuration Options Reference |  [Next](config.crypto_lock_method.php) |
-
 <a name="conf.ref.crypto_engine"></a>
 ## Name
 

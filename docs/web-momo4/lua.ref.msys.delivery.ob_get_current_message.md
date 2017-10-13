@@ -1,6 +1,3 @@
-| msys.delivery.ob_get_current_message |
-| [Prev](lua.ref.msys.db.query.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.dumper.Dumper.php) |
-
 <a name="lua.ref.msys.delivery.ob_get_current_message"></a>
 ## Name
 

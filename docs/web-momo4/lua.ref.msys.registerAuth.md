@@ -1,6 +1,3 @@
-| msys.registerAuth |
-| [Prev](lua.ref.msys.readfile.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.registerControl.php) |
-
 <a name="lua.ref.msys.registerAuth"></a>
 ## Name
 

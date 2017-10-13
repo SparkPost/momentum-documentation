@@ -1,6 +1,3 @@
-| Momentum 4 Reference Manual |
-
-**List of Examples**
 
 <dl>
 

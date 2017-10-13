@@ -1,6 +1,3 @@
-| vctx:recipient_list |
-| [Prev](lua.ref.vctx_get.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.vctx_remove_recipient.php) |
-
 <a name="lua.ref.vctx_recipient_list"></a>
 ## Name
 

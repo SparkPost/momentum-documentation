@@ -1,6 +1,3 @@
-| 35.8. `paniclog` |
-| [Prev](log_formats.mainlog.php)  | Chapter 35. Log Formats |  [Next](log_formats.rejectlog.php) |
-
 ## 35.8. `paniclog`
 
 The `paniclog` is a debugging log in which system events are logged depending on the level of Debug_Flags set in your configuration. It is configured in the [ec_logger](modules.ec_logger.php "71.30. EC_logger – Momentum-Style Logging").

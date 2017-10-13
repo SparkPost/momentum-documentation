@@ -1,6 +1,3 @@
-| 6.5. Disable SELinux |
-| [Prev](byb.load_balancing.php)  | Chapter 6. Before You Begin |  [Next](byb.ntp.php) |
-
 ## 6.5. Disable SELinux
 
 Red Hat uses the Security-Enhanced Linux (SELinux) security policies. Running Momentum 4 with SELinux enabled is not supported. To disable SELinux, edit `/etc/selinux/config` and set `SELINUX=disabled` then run **`setenforce 0`**   .

@@ -1,6 +1,3 @@
-| active |
-| [Prev](console.cmds.ref.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.authz_id.php) |
-
 <a name="console_commands.active"></a>
 ## Name
 

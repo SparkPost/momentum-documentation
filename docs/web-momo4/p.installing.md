@@ -1,6 +1,3 @@
-| Part II. Installing Momentum |
-| [Prev](licensed_features.supercharger.php)  |   |  [Next](hardware.requirements.php) |
-
 ## Part II. Installing Momentum
 
 **Table of Contents**

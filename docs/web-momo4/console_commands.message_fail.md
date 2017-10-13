@@ -1,6 +1,3 @@
-| message fail |
-| [Prev](console_commands.message_details.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.message_fail_quiet.php) |
-
 <a name="console_commands.message_fail"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| ec_console |
-| [Prev](executable.ec_adtool.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_ctl.php) |
-
 <a name="executable.ec_console"></a>
 ## Name
 

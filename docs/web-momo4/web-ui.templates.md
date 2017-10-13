@@ -1,6 +1,3 @@
-| Chapter 48. Managing Your Templates in the UI |
-| [Prev](stored_template.php)  | Part VII. Message Generation (HTTP) |  [Next](web-ui.templates.create.php) |
-
 ## Chapter 48. Managing Your Templates in the UI
 
 **Table of Contents**

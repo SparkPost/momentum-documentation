@@ -1,6 +1,3 @@
-| msys.commtouch.diagnose |
-| [Prev](lua.ref.msys.cidr.reload.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.counter.add.php) |
-
 <a name="lua.ref.msys.commtouch.diagnose"></a>
 ## Name
 

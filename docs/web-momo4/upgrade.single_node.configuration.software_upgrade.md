@@ -1,6 +1,3 @@
-| 10.5. Software Upgrade |
-| [Prev](upgrade.single_node.configuration.config_all__nodes.php)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.single_node.configuration.webui.php) |
-
 ## 10.5. Software Upgrade
 
 ### Note

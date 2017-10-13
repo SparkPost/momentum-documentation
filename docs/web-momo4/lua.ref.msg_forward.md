@@ -1,6 +1,3 @@
-| msg:forward |
-| [Prev](lua.ref.msg_discard.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_get_delivery_method.php) |
-
 <a name="lua.ref.msg_forward"></a>
 ## Name
 

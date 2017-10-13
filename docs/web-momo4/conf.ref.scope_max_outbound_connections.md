@@ -1,6 +1,3 @@
-| scope_max_outbound_connections |
-| [Prev](conf.ref.rset_timeout.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.scheduler.php) |
-
 <a name="conf.ref.scope_max_outbound_connections"></a>
 ## Name
 

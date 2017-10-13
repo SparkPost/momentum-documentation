@@ -1,6 +1,3 @@
-| Chapter 12. Post-Installation |
-| [Prev](upgrade.two_tier.complete_setup_rolling.php)  | Part II. Installing Momentum |  [Next](install.post-install.config.php) |
-
 ## Chapter 12. Post-Installation
 
 **Table of Contents**

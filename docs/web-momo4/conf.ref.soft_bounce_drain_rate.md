@@ -1,6 +1,3 @@
-| soft_bounce_drain_rate |
-| [Prev](conf.ref.snmp.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.spool_mode.php) |
-
 <a name="conf.ref.soft_bounce_drain_rate"></a>
 ## Name
 

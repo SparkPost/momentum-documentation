@@ -1,6 +1,3 @@
-| curl.unescape |
-| [Prev](lua.ref.curl.new.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.core.dns_get_domain.php) |
-
 <a name="lua.ref.curl.unescape"></a>
 ## Name
 

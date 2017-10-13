@@ -1,6 +1,3 @@
-| exclude_vctx_conn |
-| [Prev](conf.ref.events_per_iter.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.exclude_vctx_mess.php) |
-
 <a name="conf.ref.exclude_vctx_conn"></a>
 ## Name
 

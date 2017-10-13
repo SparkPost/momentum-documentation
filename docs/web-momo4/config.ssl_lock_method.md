@@ -1,6 +1,3 @@
-| ssl_lock_method |
-| [Prev](conf.ref.spoolbase.php)  | Chapter 72. Configuration Options Reference |  [Next](config.starttls_injection_policy.php) |
-
 <a name="config.ssl_lock_method"></a>
 ## Name
 

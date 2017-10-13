@@ -1,6 +1,3 @@
-| disk_queue_drain_rate |
-| [Prev](conf.ref.disable_nagle_algorithm.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.dns_cache_purge_interval.php) |
-
 <a name="conf.ref.disk_queue_drain_rate"></a>
 ## Name
 

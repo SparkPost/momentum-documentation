@@ -1,6 +1,3 @@
-| initial_hash_buckets |
-| [Prev](conf.ref.inbound_throttle_messages.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.inline_transfail_processing.php) |
-
 <a name="conf.ref.initial_hash_buckets"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 22.2. DomainKeys Validation |
-| [Prev](using_domainkeys.php)  | Chapter 22. Using Yahoo! DomainKeys |  [Next](using_dkim.php) |
-
 ## 22.2. DomainKeys Validation
 
 To perform validation on all inbound messages received via SMTP, load the dk_validate module in your configuration. For details, see [Section 71.28, “domainkeys – Yahoo! DomainKeys”](modules.domainkeys.php "71.28. domainkeys – Yahoo! DomainKeys").

@@ -1,6 +1,3 @@
-| 71.49. mxip - IP Addresses In MX Records |
-| [Prev](modules.msg_gen.php)  | Chapter 71. Modules Reference |  [Next](modules.opendkim.php) |
-
 ## 71.49. mxip - IP Addresses In MX Records
 
 <a class="indexterm" name="idp22302992"></a>

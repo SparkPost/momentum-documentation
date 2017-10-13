@@ -1,6 +1,3 @@
-| 71.26. delay_dsn – Delay DSN Generation |
-| [Prev](modules.custom_logger.php)  | Chapter 71. Modules Reference |  [Next](modules.dnsbuf.php) |
-
 ## 71.26. delay_dsn – Delay DSN Generation
 
 <a class="indexterm" name="idp21212928"></a>

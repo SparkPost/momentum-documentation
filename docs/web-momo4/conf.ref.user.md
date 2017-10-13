@@ -1,6 +1,3 @@
-| user |
-| [Prev](conf.ref.use_sendfile.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.xclient.php) |
-
 <a name="conf.ref.user"></a>
 ## Name
 

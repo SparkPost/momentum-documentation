@@ -1,6 +1,3 @@
-| doc:xpath |
-| [Prev](lua.ref.xml.doc_tostring.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.node_addchild.php) |
-
 <a name="lua.ref.xml.doc_xpath"></a>
 ## Name
 

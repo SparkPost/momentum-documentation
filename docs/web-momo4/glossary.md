@@ -1,6 +1,3 @@
-| Glossary |
-| [Prev](libedit.extended.php)  |   |  [Next](copyrights.php) |
-
 ## Glossary
 
 <dl>

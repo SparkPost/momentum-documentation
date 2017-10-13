@@ -1,6 +1,3 @@
-| msys.httpsrv.register |
-| [Prev](lua.ref.msys.getClassMetaTable.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.idn.php) |
-
 <a name="lua.ref.msys.httpsrv.register"></a>
 ## Name
 

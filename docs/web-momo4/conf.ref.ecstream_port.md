@@ -1,6 +1,3 @@
-| ecstream_port |
-| [Prev](conf.ref.drop_body_after_trans_fail.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.ecstream_timeout.php) |
-
 <a name="conf.ref.ecstream_port"></a>
 ## Name
 

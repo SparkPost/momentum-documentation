@@ -1,6 +1,3 @@
-| max_retries |
-| [Prev](conf.ref.max_resident_transfails.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_retry_interval.php) |
-
 <a name="conf.ref.max_retries"></a>
 ## Name
 

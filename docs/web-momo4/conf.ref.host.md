@@ -1,6 +1,3 @@
-| host |
-| [Prev](conf.ref.growbuf_size.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.hostname.php) |
-
 <a name="conf.ref.host"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| Chapter 3. Roles and Behaviors |
-| [Prev](loam.php)  | Part I. Introduction to Momentum |  [Next](licensed_features.php) |
-
 ## Chapter 3. Roles and Behaviors
 
 Certain roles and behaviors are set up during installation. An overview of each is provided below:

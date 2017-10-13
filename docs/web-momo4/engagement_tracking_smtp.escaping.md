@@ -1,6 +1,3 @@
-| 41.4. Escaping {{ and }} in SMTP Message Body |
-| [Prev](engagement_tracking_smtp.policy.php)  | Chapter 41. Tracking Engagement for SMTP |  [Next](smtp_reporting_options.php) |
-
 ## 41.4. Escaping {{ and }} in SMTP Message Body
 
 Since Momentum inserts open-tracked and click-tracked URLs using its substitution engine, any existing `{{` or `}}` that exist in the SMTP message must be escaped. Before injection, `{{` must be replaced with `{{opening_double_curly()}}` and `}}` must be replaced with `{{closing_double_curly()}}`.

@@ -1,6 +1,3 @@
-| 19.5. ESMTP_Listener Authentication |
-| [Prev](esmtp_listener.extensions.php)  | Chapter 19. Configuring Inbound Mail Service Using SMTP |  [Next](inbound_ssl.php) |
-
 ## 19.5. ESMTP_Listener Authentication
 
 Momentum can be configured to perform authentication on SMTP connections. It provides out-of-the-box support for authenticating remote users against a flat-file using CRAM-MD5, DIGEST-MD5, and LOGIN authentication extensions to SMTP. Additional authentication back-ends can be plugged into Momentum in the form of authentication modules; Momentum ships with authentication modules for a number of standard datasources, and third-party vendors may provide others. For more details on datasource based authentication modules, see [Section 71.8, “auth_ds – Datasource based SMTP Authentication”](modules.auth_ds.php "71.8. auth_ds – Datasource based SMTP Authentication").

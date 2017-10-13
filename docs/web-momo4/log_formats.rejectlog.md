@@ -1,6 +1,3 @@
-| 35.9. `rejectlog` |
-| [Prev](log_formats.paniclog.php)  | Chapter 35. Log Formats |  [Next](bounce_logger.classification.codes.php) |
-
 ## 35.9. `rejectlog`
 
 The `rejectlog` stores records of inbound messages that are rejected by Momentum, either due to policy or protocol deviations. It lists the full context for all rejected messages, as well as a summary of why the message was rejected, and it is configured in the [ec_logger](modules.ec_logger.php "71.30. EC_logger – Momentum-Style Logging").

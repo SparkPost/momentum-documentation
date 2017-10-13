@@ -1,6 +1,3 @@
-| mailq |
-| [Prev](console_commands.help.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.memory.php) |
-
 <a name="console_commands.mailq"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| signing_stats reset |
-| [Prev](console_commands.signing_stats.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.sp_async.php) |
-
 <a name="console_commands.signing_stats_reset"></a>
 ## Name
 

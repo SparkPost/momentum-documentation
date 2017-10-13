@@ -1,6 +1,3 @@
-| Chapter 25. Configuring Outbound Mail Delivery |
-| [Prev](multi_event_loops.php)  | Part III. Configuring Momentum |  [Next](outbound_mail.prohibited.hosts.php) |
-
 ## Chapter 25. Configuring Outbound Mail Delivery
 
 **Table of Contents**

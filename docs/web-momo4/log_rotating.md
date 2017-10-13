@@ -1,6 +1,3 @@
-| Chapter 34. Rotating Logs **ec_rotate** |
-| [Prev](log_monitoring.php)  | Part IV. Logging |  [Next](log_formats.php) |
-
 ## Chapter 34. Rotating Logs ec_rotate
 
 **Table of Contents**

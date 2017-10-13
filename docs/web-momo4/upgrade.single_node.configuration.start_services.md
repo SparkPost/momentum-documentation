@@ -1,6 +1,3 @@
-| 10.7. Start Services |
-| [Prev](upgrade.single_node.configuration.webui.php)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.single_node.complete_setup.php) |
-
 ## 10.7. Start Services
 
 1.  Start the following services.

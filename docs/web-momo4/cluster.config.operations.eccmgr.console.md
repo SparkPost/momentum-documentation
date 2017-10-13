@@ -1,6 +1,3 @@
-| 38.2. Console Commands for the Cluster Manager |
-| [Prev](cluster.config.operations.php)  | Chapter 38. Using the Cluster Manager (**eccmgr**) |  [Next](cluster.cidr_server.php) |
-
 ## 38.2. Console Commands for the Cluster Manager
 
 The following console commands can be issued from within the **eccmgr** service. These commands are mainly concerned with broadcasting or unicasting commands to other cluster nodes.

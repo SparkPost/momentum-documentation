@@ -1,6 +1,3 @@
-| message retry |
-| [Prev](console_commands.message_fail_quiet.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.module.php) |
-
 <a name="console_commands.message_retry"></a>
 ## Name
 

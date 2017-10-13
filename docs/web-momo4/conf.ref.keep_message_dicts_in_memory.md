@@ -1,6 +1,3 @@
-| keep_message_dicts_in_memory |
-| [Prev](conf.ref.inline_transfail_processing.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.large_message_threshold.php) |
-
 <a name="conf.ref.keep_message_dicts_in_memory"></a>
 ## Name
 

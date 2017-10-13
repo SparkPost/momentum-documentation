@@ -1,6 +1,3 @@
-| tls_engine |
-| [Prev](conf.ref.tls_enable_dhe_ciphers.php)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_ifavailable_fallback.php) |
-
 <a name="config.tls_engine"></a>
 ## Name
 

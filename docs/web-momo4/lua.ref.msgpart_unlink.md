@@ -1,6 +1,3 @@
-| msgpart:unlink |
-| [Prev](lua.ref.msg_context_set.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.core.io_wrapper_open.php) |
-
 <a name="lua.ref.msgpart_unlink"></a>
 ## Name
 

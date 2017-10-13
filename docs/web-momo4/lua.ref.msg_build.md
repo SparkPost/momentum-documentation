@@ -1,6 +1,3 @@
-| msg:build |
-| [Prev](lua.ref.msg_body_replace.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_discard.php) |
-
 <a name="lua.ref.msg_build"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| msys.validate.opendkim.get_sig_identity |
-| [Prev](lua.ref.msys.validate.opendkim.get_sig_hdrsigned.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.validate.opendkim.get_sig_keysize.php) |
-
 <a name="lua.ref.msys.validate.opendkim.get_sig_identity"></a>
 ## Name
 

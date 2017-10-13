@@ -1,6 +1,3 @@
-| 4.2. Adaptive Delivery |
-| [Prev](licensed_features.php)  | Chapter 4. Licensed Features |  [Next](licensed_features.supercharger.php) |
-
 ## 4.2. Adaptive Delivery
 
 Adaptive Delivery (AD) provides the ability to dynamically tune parameters to help manage your outbound mail traffic in a way that is more in line with the best practices in use by receivers. To use the adaptive module, you must have AD enabled in your license.

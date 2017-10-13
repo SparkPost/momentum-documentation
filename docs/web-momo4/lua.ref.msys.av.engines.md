@@ -1,6 +1,3 @@
-| msys.av.engines |
-| [Prev](lua.ref.msys.audit_series.remove_item.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.av.scan.php) |
-
 <a name="lua.ref.msys.av.engines"></a>
 ## Name
 

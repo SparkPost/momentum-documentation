@@ -1,6 +1,3 @@
-| msys.rfc3464.create_mdn |
-| [Prev](lua.ref.msys.rfc3464.compute_delivery_status_string.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.rfc3464.extract_delivery_status.php) |
-
 <a name="lua.ref.msys.rfc3464.create_mdn"></a>
 ## Name
 

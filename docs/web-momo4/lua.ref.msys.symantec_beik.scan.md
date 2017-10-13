@@ -1,6 +1,3 @@
-| msys.symantec_beik.scan |
-| [Prev](lua.ref.msys.rfc3464.send_mdn.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.threadpool.count.php) |
-
 <a name="lua.ref.msys.symantec_beik.scan"></a>
 ## Name
 

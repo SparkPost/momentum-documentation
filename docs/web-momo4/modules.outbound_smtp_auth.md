@@ -1,6 +1,3 @@
-| 71.52. outbound_smtp_auth |
-| [Prev](modules.outbound_audit.php)  | Chapter 71. Modules Reference |  [Next](modules.persistio.php) |
-
 ## 71.52. outbound_smtp_auth
 
 <a class="indexterm" name="idp22512848"></a>

@@ -1,6 +1,3 @@
-| hostname |
-| [Prev](conf.ref.host.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.host_failure_retry.php) |
-
 <a name="conf.ref.hostname"></a>
 ## Name
 

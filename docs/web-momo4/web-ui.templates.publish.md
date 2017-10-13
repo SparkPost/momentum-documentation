@@ -1,6 +1,3 @@
-| 48.5. Publishing Your Template |
-| [Prev](web-ui.update.template.php)  | Chapter 48. Managing Your Templates in the UI |  [Next](web-ui.templates.delete.php) |
-
 ## 48.5. Publishing Your Template
 
 Publishing a template makes the published version the default for transmissions that use the template. You can continue to use a template's draft version, if any, by specifying its use in the transmission API request.

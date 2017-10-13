@@ -1,6 +1,3 @@
-| 17.2. Control_Listener Authentication |
-| [Prev](control_listener.php)  | Chapter 17. Configuring Momentum's System Console |  [Next](control_acct.php) |
-
 ## 17.2. Control_Listener Authentication
 
 Momentum can be configured to perform authentication on Control connections by using the authentication modules.

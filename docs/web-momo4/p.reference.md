@@ -1,6 +1,3 @@
-| Part X. Reference |
-| [Prev](policy.context-mess.php)  |   |  [Next](lua.summary_table.php) |
-
 ## Part X. Reference
 
 **Table of Contents**

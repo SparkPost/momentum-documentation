@@ -1,6 +1,3 @@
-| msg:context_exists_and_get |
-| [Prev](lua.ref.msg_context_exists.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_context_get.php) |
-
 <a name="lua.ref.msg_context_exists_and_get"></a>
 ## Name
 

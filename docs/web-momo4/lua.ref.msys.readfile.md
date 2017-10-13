@@ -1,6 +1,3 @@
-| msys.readfile |
-| [Prev](lua.ref.msys.parseRFC2822Addresses.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.registerAuth.php) |
-
 <a name="lua.ref.msys.readfile"></a>
 ## Name
 

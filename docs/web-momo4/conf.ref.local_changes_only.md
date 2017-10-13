@@ -1,6 +1,3 @@
-| local_changes_only |
-| [Prev](conf.ref.local_changes_file.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.mail_queue_check_vm_interval.php) |
-
 <a name="conf.ref.local_changes_only"></a>
 ## Name
 

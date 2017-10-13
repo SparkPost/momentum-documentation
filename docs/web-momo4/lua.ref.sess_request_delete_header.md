@@ -1,6 +1,3 @@
-| sess:request_delete_header |
-| [Prev](lua.ref.sess_request_add_header.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.sess_request_finalize.php) |
-
 <a name="lua.ref.sess_request_delete_header"></a>
 ## Name
 

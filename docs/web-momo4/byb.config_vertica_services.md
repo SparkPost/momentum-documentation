@@ -1,6 +1,3 @@
-| 6.12. Configuring Locale |
-| [Prev](byb.redefine_ephemeral_ports.php)  | Chapter 6. Before You Begin |  [Next](byb.config_SSH_and_SSHD.php) |
-
 ## 6.12. Configuring Locale
 
 Ensure that your locale is a UTF-8 setting by invoking the locale command. There are two environment variables that identify non-default locale settings: `LANG` and `LC_ALL`. We recommend that you set `LANG` to `en_US.UTF-8`.

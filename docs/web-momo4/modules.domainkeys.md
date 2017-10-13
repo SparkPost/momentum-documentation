@@ -1,6 +1,3 @@
-| 71.28. domainkeys – Yahoo! DomainKeys |
-| [Prev](modules.dnsbuf.php)  | Chapter 71. Modules Reference |  [Next](modules.ds_core.php) |
-
 ## 71.28. domainkeys – Yahoo! DomainKeys
 
 <a class="indexterm" name="idp21294224"></a>

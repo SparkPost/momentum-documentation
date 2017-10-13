@@ -1,6 +1,3 @@
-| max_deliveries_per_connection |
-| [Prev](conf.ref.match_cache_size.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_dns_ttl.php) |
-
 <a name="conf.ref.max_deliveries_per_connection"></a>
 ## Name
 

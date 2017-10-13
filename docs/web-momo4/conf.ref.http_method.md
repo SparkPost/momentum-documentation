@@ -1,6 +1,3 @@
-| http_method |
-| [Prev](conf.ref.http_host.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.http_uri.php) |
-
 <a name="conf.ref.http_method"></a>
 ## Name
 

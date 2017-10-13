@@ -1,6 +1,3 @@
-| Chapter 21. Enforcing REST API/UI User Authentication |
-| [Prev](conf.ref.msg_gen.conf.php)  | Part III. Configuring Momentum |  [Next](using_domainkeys.php) |
-
 ## Chapter 21. Enforcing REST API/UI User Authentication
 
 **Configuration Change. ** As of version 4.1, user authentication is enforced on the web-based UI and all REST API by default.

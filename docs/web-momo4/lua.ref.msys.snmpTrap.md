@@ -1,6 +1,3 @@
-| msys.snmpTrap |
-| [Prev](lua.ref.msys.sleep.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.type.php) |
-
 <a name="lua.ref.msys.snmpTrap"></a>
 ## Name
 

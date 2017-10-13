@@ -1,6 +1,3 @@
-| 71.39. icu – ICU |
-| [Prev](modules.httpsrv.php)  | Chapter 71. Modules Reference |  [Next](modules.ilf_logger.php) |
-
 ## 71.39. icu – ICU
 
 <a class="indexterm" name="idp21931840"></a>

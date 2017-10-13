@@ -1,6 +1,3 @@
-| 27.2. `duravip_follow` and the #mmove Binding |
-| [Prev](cluster.config.duravip.php)  | Chapter 27. DuraVIP™: IP Fail over |  [Next](cluster.config.arp_all_hosts.php) |
-
 ## 27.2. `duravip_follow` and the #mmove Binding
 
 The #mmove binding is the cluster message movement binding in the default binding group. This is a virtual binding for moving messages between nodes.

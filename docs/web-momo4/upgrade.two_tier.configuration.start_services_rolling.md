@@ -1,6 +1,3 @@
-| 11.16. Start Services |
-| [Prev](upgrade.two_tier.configuration.webui_rolling.php)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.complete_setup_rolling.php) |
-
 ## 11.16. Start Services
 
 1.  Start the following services on **all nodes** .

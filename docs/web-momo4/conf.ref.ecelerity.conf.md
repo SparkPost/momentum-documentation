@@ -1,6 +1,3 @@
-| 15.6. `ecelerity.conf` File |
-| [Prev](module_config.php)  | Chapter 15. Configuration Overview |  [Next](cluster.php) |
-
 ## 15.6. `ecelerity.conf` File
 
 The `ecelerity.conf` file is the master configuration file for the Momentum application server. It contains general configuration for Momentum, along with other configuration files included from within `ecelerity.conf`.

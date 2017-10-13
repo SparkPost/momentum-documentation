@@ -1,6 +1,3 @@
-| 71.21. compress_spool – Dynamic Spool Compression |
-| [Prev](modules.commtouch.php)  | Chapter 71. Modules Reference |  [Next](modules.conntrol.php) |
-
 ## 71.21. compress_spool – Dynamic Spool Compression
 
 <a class="indexterm" name="idp20713200"></a>

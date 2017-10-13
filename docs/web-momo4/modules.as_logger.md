@@ -1,6 +1,3 @@
-| 71.7. as_logger – Audit Series Logger |
-| [Prev](modules.antivirus.php)  | Chapter 71. Modules Reference |  [Next](modules.auth_ds.php) |
-
 ## 71.7. as_logger – Audit Series Logger
 
 <a class="indexterm" name="idp19786864"></a>

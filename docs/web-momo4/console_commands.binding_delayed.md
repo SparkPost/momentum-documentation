@@ -1,6 +1,3 @@
-| binding delayed |
-| [Prev](console_commands.binding_active.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.binding_fail_domain.php) |
-
 <a name="console_commands.binding_delayed"></a>
 ## Name
 

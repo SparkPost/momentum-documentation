@@ -1,6 +1,3 @@
-| 32.2. Logging Configuration |
-| [Prev](logging.overview.php)  | Chapter 32. Logging Overview |  [Next](log_monitoring.php) |
-
 ## 32.2. Logging Configuration
 
 You control Momentum's logging behaviour by configuring the selected logging modules in one of Momentum's configuration files:

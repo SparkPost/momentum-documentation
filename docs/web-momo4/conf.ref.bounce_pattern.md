@@ -1,6 +1,3 @@
-| bounce_pattern |
-| [Prev](conf.ref.bounce_domains.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.bounce_suppress_list.php) |
-
 <a name="conf.ref.bounce_pattern"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 71.29. ds_core - Datasource Query Core |
-| [Prev](modules.domainkeys.php)  | Chapter 71. Modules Reference |  [Next](modules.ec_logger.php) |
-
 ## 71.29. ds_core - Datasource Query Core
 
 <a class="indexterm" name="idp21375504"></a>

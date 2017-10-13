@@ -1,6 +1,3 @@
-| 5.6. Production Environment Configurations |
-| [Prev](hardware.config.php)  | Chapter 5. Hardware Considerations |  [Next](addl.config.notes.php) |
-
 ## 5.6. Production Environment Configurations
 
 This section provides hardware specifications for different target volume levels. All systems are rated for use with CPU utilization at 50% in order to accommodate traffic spikes. All volumes are specified with the assumption of an average message size of 100 kB.

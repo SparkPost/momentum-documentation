@@ -1,6 +1,3 @@
-| 10.2. Vertica Updates |
-| [Prev](upgrade.single_node.php)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.single_node.configuration.flyway.php) |
-
 ## 10.2. Vertica Updates
 
 It is best to perform these steps at a time of low volume. Some services will need to be temporarily stopped, and queues could back up if there is too much activity. Also, pay special attention to the verification steps; some will take longer to complete, and they will need to be verified before moving on.

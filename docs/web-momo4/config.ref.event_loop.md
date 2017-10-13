@@ -1,6 +1,3 @@
-| event_loop |
-| [Prev](conf.ref.enable_fbl_header_insertion.php)  | Chapter 72. Configuration Options Reference |  [Next](config.ref.eventloop.php) |
-
 <a name="config.ref.event_loop"></a>
 ## Name
 

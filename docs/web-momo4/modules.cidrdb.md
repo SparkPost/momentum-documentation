@@ -1,6 +1,3 @@
-| 71.16. cidrdb – CIDRDB |
-| [Prev](modules.chunk_logger.php)  | Chapter 71. Modules Reference |  [Next](modules.clamav.php) |
-
 ## 71.16. cidrdb – CIDRDB
 
 <a class="indexterm" name="idp20262944"></a>

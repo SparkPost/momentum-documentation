@@ -1,6 +1,3 @@
-| Appendix A. Message Responses |
-| [Prev](p.appendix.php)  | Part XI. Appendix |  [Next](snmp-mib.php) |
-
 ## Message Responses
 
 **Table of Contents**

@@ -1,6 +1,3 @@
-| tls_ca |
-| [Prev](config.tls_allow_renegotiation.php)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_certificate.php) |
-
 <a name="config.tls_ca"></a>
 ## Name
 

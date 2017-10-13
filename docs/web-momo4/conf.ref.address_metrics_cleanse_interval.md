@@ -1,6 +1,3 @@
-| address_metrics_cleanse_interval |
-| [Prev](conf.ref.adaptive_scope.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.address_metrics_lifetime.php) |
-
 <a name="conf.ref.address_metrics_cleanse_interval"></a>
 ## Name
 

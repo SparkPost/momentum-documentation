@@ -1,6 +1,3 @@
-| summary reset |
-| [Prev](console_commands.summary.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.sysinfo.php) |
-
 <a name="console_commands.summary_reset"></a>
 ## Name
 

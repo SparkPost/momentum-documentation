@@ -1,6 +1,3 @@
-| msgpart:header |
-| [Prev](lua.ref.msgpart_header2.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_insertAfter.php) |
-
 <a name="lua.ref.msgpart_header3"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 44.4. Deleting an API Key |
-| [Prev](web-ui.apikeys.update.php)  | Chapter 44. Managing Your API Keys |  [Next](message_gen.php) |
-
 ## 44.4. Deleting an API Key
 
 From the Settings section, you can delete an API key. Click the icon to the right of the API key that you want to delete. In the list, click Delete, as shown in [Figure 44.6, “Delete API Key”](web-ui.apikeys.delete.php#figure_delete_apikey "Figure 44.6. Delete API Key").

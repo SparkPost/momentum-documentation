@@ -1,6 +1,3 @@
-| 6.7. Adjusting `/etc/sysctl.conf` |
-| [Prev](byb.ntp.php)  | Chapter 6. Before You Begin |  [Next](byb.set_hostnames.php) |
-
 ## 6.7. Adjusting `/etc/sysctl.conf`
 
 Momentum 4 uses a large number of connections and is able to establish them quickly. This can overwhelm the operating system if special parameters are not used. These issues can be addressed by configuring the following lines in `/etc/sysctl.conf`:

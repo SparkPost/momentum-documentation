@@ -1,6 +1,3 @@
-| msys.unlock |
-| [Prev](lua.ref.msys.type.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.session_request_url_get.php) |
-
 <a name="lua.ref.msys.unlock"></a>
 ## Name
 

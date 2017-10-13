@@ -1,6 +1,3 @@
-| msys.counter.unlink |
-| [Prev](lua.ref.msys.counter.reset.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.db.fetch_row.php) |
-
 <a name="lua.ref.msys.counter.unlink"></a>
 ## Name
 

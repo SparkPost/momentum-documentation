@@ -1,6 +1,3 @@
-| json.decode |
-| [Prev](lua.ref.session_response_status_set_std.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.json.encode.php) |
-
 <a name="lua.ref.json.decode"></a>
 ## Name
 

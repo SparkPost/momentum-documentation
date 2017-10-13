@@ -1,6 +1,3 @@
-| unlink_on_spool_in_failure |
-| [Prev](conf.ref.umem_reap_interval.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.unsafe_spool.php) |
-
 <a name="conf.ref.unlink_on_spool_in_failure"></a>
 ## Name
 

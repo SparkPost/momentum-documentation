@@ -1,6 +1,3 @@
-| msg:discard |
-| [Prev](lua.ref.msg_build.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_forward.php) |
-
 <a name="lua.ref.msg_discard"></a>
 ## Name
 

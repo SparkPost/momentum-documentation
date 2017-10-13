@@ -1,6 +1,3 @@
-| 6.8. Setting Hostnames |
-| [Prev](byb.sysctl.conf.php)  | Chapter 6. Before You Begin |  [Next](byb.jre.php) |
-
 ## 6.8. Setting Hostnames
 
 <a class="indexterm" name="idp417632"></a>

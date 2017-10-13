@@ -1,6 +1,3 @@
-| 6.16. Separate Vertica Partition |
-| [Prev](byb.riak_provisioning.php)  | Chapter 6. Before You Begin |  [Next](byb.disable_postfix.php) |
-
 ## 6.16. Separate Vertica Partition
 
 In many cases, Message Systems recommends creating a separate partition `/var/db/vertica` for Vertica's data and workspace (sometimes on dedicated drives). Before installing Vertica, we will create a new user (`vertica_dba`) and new group (`verticadba`):

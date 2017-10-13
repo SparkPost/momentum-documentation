@@ -1,6 +1,3 @@
-| 6.11. Redefining Ephemeral Ports |
-| [Prev](byb.root_and_vertica_dba.php)  | Chapter 6. Before You Begin |  [Next](byb.config_vertica_services.php) |
-
 ## 6.11. Redefining Ephemeral Ports
 
 The lower limits of the port range as currently defined on Centos are too low as Vertica listens on 5433 and Riak listens on 8099. Redefine the Ephemeral Ports lower limit to a safer value, for example:

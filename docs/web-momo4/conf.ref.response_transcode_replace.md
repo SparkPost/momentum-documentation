@@ -1,6 +1,3 @@
-| response_transcode_replace |
-| [Prev](conf.ref.response_transcode_pattern.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.retry_interval.php) |
-
 <a name="conf.ref.response_transcode_replace"></a>
 ## Name
 

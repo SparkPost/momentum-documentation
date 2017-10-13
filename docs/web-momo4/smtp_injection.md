@@ -1,6 +1,3 @@
-| Chapter 40. Adjusting your Client Mail Application |
-| [Prev](p.smtp_injections.php)  | Part VI. SMTP Injection |  [Next](engagement_tracking_smtp.php) |
-
 ## Chapter 40. Adjusting your Client Mail Application
 
 **Introduction**

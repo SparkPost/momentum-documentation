@@ -1,6 +1,3 @@
-| sp_async |
-| [Prev](console_commands.signing_stats_reset.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.spool_import.php) |
-
 <a name="console_commands.sp_async"></a>
 ## Name
 

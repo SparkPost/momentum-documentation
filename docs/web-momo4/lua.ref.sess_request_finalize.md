@@ -1,6 +1,3 @@
-| sess:request_finalize |
-| [Prev](lua.ref.sess_request_delete_header.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.sess_request_set_body.php) |
-
 <a name="lua.ref.sess_request_finalize"></a>
 ## Name
 

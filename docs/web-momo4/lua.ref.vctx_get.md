@@ -1,6 +1,3 @@
-| vctx:get |
-| [Prev](lua.ref.vctx_disconnect.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.vctx_recipient_list.php) |
-
 <a name="lua.ref.vctx_get"></a>
 ## Name
 

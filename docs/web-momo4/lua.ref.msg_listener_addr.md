@@ -1,6 +1,3 @@
-| msg:listener_addr |
-| [Prev](lua.ref.header.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_reception_peer.php) |
-
 <a name="lua.ref.msg_listener_addr"></a>
 ## Name
 

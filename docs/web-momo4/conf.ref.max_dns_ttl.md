@@ -1,6 +1,3 @@
-| max_dns_ttl |
-| [Prev](conf.ref.max_deliveries_per_connection.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.max_outbound_connections.php) |
-
 <a name="conf.ref.max_dns_ttl"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| address_metrics_lifetime |
-| [Prev](conf.ref.address_metrics_cleanse_interval.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.alias_schemes.php) |
-
 <a name="conf.ref.address_metrics_lifetime"></a>
 ## Name
 

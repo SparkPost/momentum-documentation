@@ -1,6 +1,3 @@
-| delayed |
-| [Prev](console_commands.counter.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.dig.php) |
-
 <a name="console_commands.delayed"></a>
 ## Name
 

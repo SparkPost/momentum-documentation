@@ -1,6 +1,3 @@
-| msys.audit_series.remove_item |
-| [Prev](lua.ref.msys.audit_series.define.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.av.engines.php) |
-
 <a name="lua.ref.msys.audit_series.remove_item"></a>
 ## Name
 

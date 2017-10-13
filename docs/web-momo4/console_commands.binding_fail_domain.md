@@ -1,6 +1,3 @@
-| binding fail domain |
-| [Prev](console_commands.binding_delayed.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.binding_fail_domain_quiet.php) |
-
 <a name="console_commands.binding_fail_domain"></a>
 ## Name
 

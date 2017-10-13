@@ -1,6 +1,3 @@
-| shutdown |
-| [Prev](console_commands.showqueue.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.signing_stats.php) |
-
 <a name="console_commands.shutdown"></a>
 ## Name
 

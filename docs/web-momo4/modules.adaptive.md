@@ -1,6 +1,3 @@
-| 71.3. adaptive – Adaptive Delivery |
-| [Prev](modules.ac_auth.php)  | Chapter 71. Modules Reference |  [Next](modules.alerting.php) |
-
 ## 71.3. adaptive – Adaptive Delivery
 
 <a class="indexterm" name="idp13975168"></a>

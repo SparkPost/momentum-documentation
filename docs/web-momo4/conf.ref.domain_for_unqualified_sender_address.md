@@ -1,6 +1,3 @@
-| domain_for_unqualified_sender_address |
-| [Prev](conf.ref.domain_for_unqualified_recipient_addresses.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.domain.php) |
-
 <a name="conf.ref.domain_for_unqualified_sender_address"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 71.45. mail_loop – Mail Loop Detection |
-| [Prev](modules.live.bounce.updates.php)  | Chapter 71. Modules Reference |  [Next](modules.maildir.php) |
-
 ## 71.45. mail_loop – Mail Loop Detection
 
 <a class="indexterm" name="idp22115552"></a>

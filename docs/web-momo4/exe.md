@@ -1,6 +1,3 @@
-| Chapter 68. Executable Command Summary |
-| [Prev](console_commands.php)  | Part X. Reference |  [Next](hooks.php) |
-
 ## Chapter 68. Executable Command Summary
 
 This table lists all executable commands alphabetically giving a brief description. Click the command name to see detailed information.

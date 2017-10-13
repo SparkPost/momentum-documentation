@@ -1,6 +1,3 @@
-| trace_smtp_mode |
-| [Prev](config.tls_verify_mode.php)  | Chapter 72. Configuration Options Reference |  [Next](config.tracking_domain.php) |
-
 <a name="conf.ref.trace_smtp_mode"></a>
 ## Name
 

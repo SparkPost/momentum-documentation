@@ -1,6 +1,3 @@
-| msys.type |
-| [Prev](lua.ref.msys.snmpTrap.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.unlock.php) |
-
 <a name="lua.ref.msys.type"></a>
 ## Name
 

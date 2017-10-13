@@ -1,6 +1,3 @@
-| server_reserve_outbound_connections |
-| [Prev](conf.ref.server_max_outbound_connections.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.signing_stats.php) |
-
 <a name="conf.ref.server_reserve_outbound_connections"></a>
 ## Name
 

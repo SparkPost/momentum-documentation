@@ -1,6 +1,3 @@
-| 35.7. `mainlog` |
-| [Prev](log_formats.importlog.php)  | Chapter 35. Log Formats |  [Next](log_formats.paniclog.php) |
-
 ## 35.7. `mainlog`
 
 The `mainlog` logs reception, delivery, transient failure, permanent failure, and heartbeat events. It is configured in the [ec_logger](modules.ec_logger.php "71.30. EC_logger – Momentum-Style Logging").

@@ -1,6 +1,3 @@
-| Chapter 24. Configuring Multiple Event Loops |
-| [Prev](using_dkim.validation.php)  | Part III. Configuring Momentum |  [Next](outbound_mail.php) |
-
 ## Chapter 24. Configuring Multiple Event Loops
 
 To fully utilize the capacity of multi-core CPU architectures, you can configure Momentum for multiple event loops. This configuration enables Momentum to scale so that the overall performance is not limited by a single event-scheduler thread. Instead, a pool of event scheduler instances is created, running in separate threads. Tasks that are performed in the event scheduler thread will now be farmed out to this pool of scheduler instances. These tasks include message reception, message delivery, mail queue maintenance, DNS lookup, and event operations performed by the various modules.

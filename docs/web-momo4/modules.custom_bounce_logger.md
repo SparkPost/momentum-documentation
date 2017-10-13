@@ -1,6 +1,3 @@
-| 71.24. custom_bounce_logger – Custom Bounce Logging |
-| [Prev](modules.csapi.php)  | Chapter 71. Modules Reference |  [Next](modules.custom_logger.php) |
-
 ## 71.24. custom_bounce_logger – Custom Bounce Logging
 
 <a class="indexterm" name="idp20942912"></a>

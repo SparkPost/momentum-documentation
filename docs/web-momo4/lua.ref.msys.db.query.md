@@ -1,6 +1,3 @@
-| msys.db.query |
-| [Prev](lua.ref.msys.db.fetch_row.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.delivery.ob_get_current_message.php) |
-
 <a name="lua.ref.msys.db.query"></a>
 ## Name
 

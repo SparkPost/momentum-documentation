@@ -1,6 +1,3 @@
-| threads |
-| [Prev](console_commands.sysinfo.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.tls.php) |
-
 <a name="console_commands.threads"></a>
 ## Name
 

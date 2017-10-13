@@ -1,6 +1,3 @@
-| 35.4. `fbllog` |
-| [Prev](log_formats.bouncelog.php)  | Chapter 35. Log Formats |  [Next](log_formats.httplog.php) |
-
 ## 35.4. `fbllog`
 
 When a user selects "Mark as Spam", the ISP generates a notification email and sends it to one of the recipients defined by the `Addresses` option in the [fbl](modules.fbl.php "71.35. fbl - Feedback Loop") module. When Momentum receives the message, it extracts the X-MSFBL header, decodes it, and then logs it.

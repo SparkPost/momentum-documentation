@@ -1,6 +1,3 @@
-| default_binding |
-| [Prev](conf.ref.debug_flags.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.default_charset.php) |
-
 <a name="conf.ref.default_binding"></a>
 ## Name
 

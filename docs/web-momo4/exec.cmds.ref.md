@@ -1,6 +1,3 @@
-| Chapter 74. Executable Commands Reference |
-| [Prev](console_commands.write_config.php)  | Part X. Reference |  [Next](executable.ad_summary.php) |
-
 ## Chapter 74. Executable Commands Reference
 
 **Table of Contents**

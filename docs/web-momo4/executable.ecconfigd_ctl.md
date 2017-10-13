@@ -1,6 +1,3 @@
-| ecconfigd_ctl |
-| [Prev](executable.ecconfigd.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.ecelerity.php) |
-
 <a name="executable.ecconfigd_ctl"></a>
 ## Name
 

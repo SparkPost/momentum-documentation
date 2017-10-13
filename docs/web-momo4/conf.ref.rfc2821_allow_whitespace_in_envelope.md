@@ -1,6 +1,3 @@
-| rfc2821_allow_whitespace_in_envelope |
-| [Prev](conf.ref.retry_interval.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rfc2821_pedantic_address_rules.php) |
-
 <a name="conf.ref.rfc2821_allow_whitespace_in_envelope"></a>
 ## Name
 

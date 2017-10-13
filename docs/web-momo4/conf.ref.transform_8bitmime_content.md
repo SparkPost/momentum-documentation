@@ -1,6 +1,3 @@
-| transform_8bitmime_content |
-| [Prev](conf.ref.transfail_drain_rate.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.umem_reap_interval.php) |
-
 <a name="conf.ref.transform_8bitmime_content"></a>
 ## Name
 

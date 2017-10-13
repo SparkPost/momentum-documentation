@@ -1,6 +1,3 @@
-| Chapter 31. Configuring the Environment File |
-| [Prev](operations.riak.backups.php)  | Part III. Configuring Momentum |  [Next](p.logs.php) |
-
 ## Chapter 31. Configuring the Environment File
 
 Environment variables should be set or adjusted on startup. If Momentum is started up using the [ec_ctl](executable.ec_ctl.php "ec_ctl") script, any environment variables included in the `environment` file will be set.

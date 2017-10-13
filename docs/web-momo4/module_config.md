@@ -1,6 +1,3 @@
-| 15.5. Modules |
-| [Prev](listeners.php)  | Chapter 15. Configuration Overview |  [Next](conf.ref.ecelerity.conf.php) |
-
 ## 15.5. Modules
 
 Momentum's module API is at the core of how it is extended. When a module is loaded, it is named based on the *`module_name`* specified in the configuration. Some modules can have multiple instances loaded with different configurations (e.g. to log different sets of information into different log files), while other modules are singletons and can only be loaded once.

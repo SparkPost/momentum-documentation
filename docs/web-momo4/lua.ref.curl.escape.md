@@ -1,6 +1,3 @@
-| curl.escape |
-| [Prev](lua.ref.curl.c_setopt.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.curl.new.php) |
-
 <a name="lua.ref.curl.escape"></a>
 ## Name
 

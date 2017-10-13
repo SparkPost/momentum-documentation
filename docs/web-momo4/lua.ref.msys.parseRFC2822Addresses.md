@@ -1,6 +1,3 @@
-| msys.parseRFC2822Addresses |
-| [Prev](lua.ref.msys.lock.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.readfile.php) |
-
 <a name="lua.ref.msys.parseRFC2822Addresses"></a>
 ## Name
 

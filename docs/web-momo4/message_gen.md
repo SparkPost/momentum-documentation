@@ -1,6 +1,3 @@
-| Chapter 45. Generating a Transmission |
-| [Prev](web-ui.apikeys.delete.php)  | Part VII. Message Generation (HTTP) |  [Next](substitution_data.php) |
-
 ## Chapter 45. Generating a Transmission
 
 **Introduction**

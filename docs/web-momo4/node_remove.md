@@ -1,6 +1,3 @@
-| 13.2. Removing a Platform Node |
-| [Prev](add_remove_platform_nodes.php)  | Chapter 13. Adding and Removing Platform Nodes |  [Next](add_remove_analytics_nodes.php) |
-
 ## 13.2. Removing a Platform Node
 
 This section describes how to remove a functional Platform node, which involves removing the node from the Cassandra and Momentum clusters and making some manual configuration changes on the remaining Platform nodes and on the existing Analytics nodes.

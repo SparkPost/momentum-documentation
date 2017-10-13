@@ -1,6 +1,3 @@
-| pcre_cache_ttl |
-| [Prev](conf.ref.pcre_cache_size.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.permastore_interval.php) |
-
 <a name="conf.ref.pcre_cache_ttl"></a>
 ## Name
 

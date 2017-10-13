@@ -1,6 +1,3 @@
-| mx_failures_fallback_to_a |
-| [Prev](conf.ref.min_dns_ttl.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.mx_failures_to_delay.php) |
-
 <a name="conf.ref.mx_failures_fallback_to_a"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 71.11. bind_address_secondary – Dual-stack IPv4/IPv6 Support |
-| [Prev](modules.beik.php)  | Chapter 71. Modules Reference |  [Next](modules.bounce_classifier_override.php) |
-
 ## 71.11. bind_address_secondary – Dual-stack IPv4/IPv6 Support
 
 <a class="indexterm" name="idp20047296"></a>

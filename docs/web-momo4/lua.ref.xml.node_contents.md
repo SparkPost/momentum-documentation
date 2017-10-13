@@ -1,6 +1,3 @@
-| node:contents |
-| [Prev](lua.ref.xml.node_children.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.xml.node_doc.php) |
-
 <a name="lua.ref.xml.node_contents"></a>
 ## Name
 

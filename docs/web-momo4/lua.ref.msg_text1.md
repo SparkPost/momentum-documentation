@@ -1,6 +1,3 @@
-| msg:text |
-| [Prev](lua.ref.msg_text.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_text_match.php) |
-
 <a name="lua.ref.msg_text1"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| Chapter 52. Sending Emails as CC and BCC |
-| [Prev](using_list.php)  | Part VII. Message Generation (HTTP) |  [Next](complex_template.php) |
-
 ## Chapter 52. Sending Emails as CC and BCC
 
 **Configuration Change. ** Sending emails as BCC is supported as of version 4.1-HF4.

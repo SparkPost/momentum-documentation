@@ -1,6 +1,3 @@
-| msg:context_set |
-| [Prev](lua.ref.msg_context_get.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_unlink.php) |
-
 <a name="lua.ref.msg_context_set"></a>
 ## Name
 

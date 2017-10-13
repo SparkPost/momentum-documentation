@@ -1,6 +1,3 @@
-| msys.audit_series.define |
-| [Prev](lua.ref.msys.audit_series.count.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.audit_series.remove_item.php) |
-
 <a name="lua.ref.msys.audit_series.define"></a>
 ## Name
 

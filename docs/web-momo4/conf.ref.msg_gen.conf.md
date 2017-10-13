@@ -1,6 +1,3 @@
-| 20.2. `msg_gen.conf` File |
-| [Prev](http_listener.php)  | Chapter 20. Configuring Inbound Mail Service Using HTTP |  [Next](auth.php) |
-
 ## 20.2. `msg_gen.conf` File
 
 The `msg_gen.conf` file contains the configuration relevant to message generation. This file is included from within `ecelerity.conf`.

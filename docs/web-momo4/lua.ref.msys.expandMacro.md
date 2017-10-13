@@ -1,6 +1,3 @@
-| msys.expandMacro |
-| [Prev](lua.ref.msys.dnslookup.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.getClassMetaTable.php) |
-
 <a name="lua.ref.msys.expandMacro"></a>
 ## Name
 

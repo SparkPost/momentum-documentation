@@ -1,6 +1,3 @@
-| context |
-| [Prev](conf.ref.connection_allocation_aggressiveness.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.control_client_timeout.php) |
-
 <a name="conf.ref.context"></a>
 ## Name
 

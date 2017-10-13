@@ -1,6 +1,3 @@
-| 14.2. Removing an Analytics Node |
-| [Prev](add_remove_analytics_nodes.php)  | Chapter 14. Adding and Removing Analytics Nodes |  [Next](p.configuration.php) |
-
 ## 14.2. Removing an Analytics Node
 
 To remove an Analytics node (Vertica+Application) from a cluster, follow the documentation provided by HP on removing a Vertica node, removing all NGINX upstream references, and removing references in API configurations.

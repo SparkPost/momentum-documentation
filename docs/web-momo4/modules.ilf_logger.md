@@ -1,6 +1,3 @@
-| 71.40. ilf_logger – Incremental License Fee Logging |
-| [Prev](modules.icu.php)  | Chapter 71. Modules Reference |  [Next](modules.inbound_audit.php) |
-
 ## 71.40. ilf_logger – Incremental License Fee Logging
 
 The Incremental License Fee (ilf) logger module is designed for users who have usage-based licenses. It provides an easy way to comply with the usage reporting requirements contained in the agreement with Message Systems. Usage files are written to `/var/log/ecelerity/ilf`. Bundle these files and sent them to Message Systems as appropriate.

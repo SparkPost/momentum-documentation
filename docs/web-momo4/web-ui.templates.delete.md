@@ -1,6 +1,3 @@
-| 48.6. Deleting a Template |
-| [Prev](web-ui.templates.publish.php)  | Chapter 48. Managing Your Templates in the UI |  [Next](using_template.php) |
-
 ## 48.6. Deleting a Template
 
 From the Templates tab, you can select a template to delete. Select the template you wish to delete by clicking its label. The detailed view of the template is displayed.

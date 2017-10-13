@@ -1,6 +1,3 @@
-| session:request_url_get |
-| [Prev](lua.ref.msys.unlock.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.session_response_status_set_std.php) |
-
 <a name="lua.ref.session_request_url_get"></a>
 ## Name
 

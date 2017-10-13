@@ -1,6 +1,3 @@
-| Chapter 15. Configuration Overview |
-| [Prev](p.configuration.php)  | Part III. Configuring Momentum |  [Next](conf.options.php) |
-
 ## Chapter 15. Configuration Overview
 
 **Table of Contents**

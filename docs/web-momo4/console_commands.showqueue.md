@@ -1,6 +1,3 @@
-| showqueue |
-| [Prev](console_commands.show_outbound.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.shutdown.php) |
-
 <a name="console_commands.showqueue"></a>
 ## Name
 

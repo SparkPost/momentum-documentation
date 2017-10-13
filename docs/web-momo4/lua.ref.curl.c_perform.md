@@ -1,6 +1,3 @@
-| c:perform |
-| [Prev](lua.ref.curl.c_close.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.curl.c_setopt.php) |
-
 <a name="lua.ref.curl.c_perform"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| msys.validate.dk.get_responsible_domain |
-| [Prev](lua.ref.msys.timer.every.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.validate.dk.sign.php) |
-
 <a name="lua.ref.msys.validate.dk.get_responsible_domain"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 27.4. DuraVIP™ Configuration Conflicts and Ambiguities |
-| [Prev](cluster.config.arp_all_hosts.php)  | Chapter 27. DuraVIP™: IP Fail over |  [Next](cluster.config.replication.php) |
-
 ## 27.4. DuraVIP™ Configuration Conflicts and Ambiguities
 
 The DuraVIP™ subsystem attempts to make the most intelligent and **safe** decision regardless of the situation encountered.

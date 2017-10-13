@@ -1,6 +1,3 @@
-| msys.validate.opendkim.get_sig_domain |
-| [Prev](lua.ref.msys.validate.opendkim.get_sig_canons.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.validate.opendkim.get_sig_errorstr.php) |
-
 <a name="lua.ref.msys.validate.opendkim.get_sig_domain"></a>
 ## Name
 

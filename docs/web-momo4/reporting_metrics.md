@@ -1,6 +1,3 @@
-| Chapter 58. Using the Metrics API for Reporting |
-| [Prev](web-ui.reports.evaluating.campaign.performance.php)  | Part VIII. Reporting and Engagement Tracking |  [Next](reporting_webhooks.php) |
-
 ## Chapter 58. Using the Metrics API for Reporting
 
 **Introduction**

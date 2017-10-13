@@ -1,6 +1,3 @@
-| Appendix B. MIB Files |
-| [Prev](message_responses.php)  | Part XI. Appendix |  [Next](snmp-mib.pergroup.php) |
-
 ## MIB Files
 
 **Table of Contents**

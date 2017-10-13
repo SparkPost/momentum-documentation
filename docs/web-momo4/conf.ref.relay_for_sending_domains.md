@@ -1,6 +1,3 @@
-| relay_for_sending_domains |
-| [Prev](conf.ref.rcptto_timeout.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.relay_domains.php) |
-
 <a name="conf.ref.relay_for_sending_domains"></a>
 ## Name
 

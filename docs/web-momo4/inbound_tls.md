@@ -1,6 +1,3 @@
-| 19.7. Inbound TLS |
-| [Prev](inbound_ssl.php)  | Chapter 19. Configuring Inbound Mail Service Using SMTP |  [Next](http_listener.php) |
-
 ## 19.7. Inbound TLS
 
 Transport Layer Security (TLS) can be easily configured on an SMTP listener using the following configuration snippet:

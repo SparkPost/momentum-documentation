@@ -1,6 +1,3 @@
-| 4.3. Supercharger |
-| [Prev](licensed_features.adaptive.delivery.php)  | Chapter 4. Licensed Features |  [Next](p.installing.php) |
-
 ## 4.3. Supercharger
 
 Configuring Momentum for multiple cores requires an additional Supercharger license, which specifies a maximum number of event loops.

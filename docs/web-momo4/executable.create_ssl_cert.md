@@ -1,6 +1,3 @@
-| create_ssl_cert |
-| [Prev](executable.ad_summary.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.credmgr.php) |
-
 <a name="executable.create_ssl_cert"></a>
 ## Name
 

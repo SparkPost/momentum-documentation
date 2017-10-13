@@ -1,6 +1,3 @@
-| Momentum 4 Reference Manual |
-|   |   |  [Next](preface.php) |
-
 ## Momentum 4 Reference Manual
 
 ### Message Systems, Inc.

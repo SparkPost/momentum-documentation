@@ -1,6 +1,3 @@
-| 25.2. Prohibited_Hosts |
-| [Prev](outbound_mail.php)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](outbound_mail.multivip.interfaces.php) |
-
 ## 25.2. Prohibited_Hosts
 
 Some providers use DNS tricks to deter systems they feel are abusing their resources. One technique is to return a loopback or other local address to you when you query their MX records.

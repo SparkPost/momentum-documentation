@@ -1,6 +1,3 @@
-| 19.6. Inbound SSL |
-| [Prev](inbound_smtp.php)  | Chapter 19. Configuring Inbound Mail Service Using SMTP |  [Next](inbound_tls.php) |
-
 ## 19.6. Inbound SSL
 
 Secure Sockets Layer (SSL) can be configured on an SMTP listener using the following configuration snippet:

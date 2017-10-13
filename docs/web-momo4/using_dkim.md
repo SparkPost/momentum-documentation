@@ -1,6 +1,3 @@
-| Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures |
-| [Prev](using_domainkeys.validation.php)  | Part III. Configuring Momentum |  [Next](using_dkim.validation.php) |
-
 ## Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures
 
 **Table of Contents**

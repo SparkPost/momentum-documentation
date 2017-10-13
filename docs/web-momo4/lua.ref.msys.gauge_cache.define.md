@@ -1,6 +1,3 @@
-| msys.gauge_cache.define |
-| [Prev](lua.ref.msys.gauge_cache.dec.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.gauge_cache.get.php) |
-
 <a name="lua.ref.msys.gauge_cache.define"></a>
 ## Name
 

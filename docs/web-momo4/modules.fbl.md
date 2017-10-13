@@ -1,6 +1,3 @@
-| 71.35. fbl - Feedback Loop |
-| [Prev](modules.exim_logger.php)  | Chapter 71. Modules Reference |  [Next](modules.host_fingerprint.php) |
-
 ## 71.35. fbl - Feedback Loop
 
 <a class="indexterm" name="idp21825680"></a>

@@ -1,6 +1,3 @@
-| msg:mailfrom |
-| [Prev](lua.ref.msg_is_mcmt.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_makeBoundary.php) |
-
 <a name="lua.ref.msg_mailfrom"></a>
 ## Name
 

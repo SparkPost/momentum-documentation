@@ -1,6 +1,3 @@
-| msys.counter.read |
-| [Prev](lua.ref.msys.counter.open.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.counter.reset.php) |
-
 <a name="lua.ref.msys.counter.read"></a>
 ## Name
 

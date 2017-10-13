@@ -1,6 +1,3 @@
-| msys.config |
-| [Prev](lua.ref.msys.cast.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.dnslookup.php) |
-
 <a name="lua.ref.msys.config"></a>
 ## Name
 

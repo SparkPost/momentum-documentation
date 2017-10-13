@@ -1,6 +1,3 @@
-| Part VIII. Reporting and Engagement Tracking |
-| [Prev](complex_template.php)  |   |  [Next](http_reporting_options.php) |
-
 ## Part VIII. Reporting and Engagement Tracking
 
 **Table of Contents**

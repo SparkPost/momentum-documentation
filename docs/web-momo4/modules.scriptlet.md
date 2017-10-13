@@ -1,6 +1,3 @@
-| 71.60. scriptlet - Lua Policy Scripts |
-| [Prev](modules.sched.php)  | Chapter 71. Modules Reference |  [Next](modules.securecreds.php) |
-
 ## 71.60. scriptlet - Lua Policy Scripts
 
 <a class="indexterm" name="idp22828096"></a>

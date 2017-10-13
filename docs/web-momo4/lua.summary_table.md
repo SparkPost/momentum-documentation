@@ -1,6 +1,3 @@
-| Chapter 64. Lua Functions Summary |
-| [Prev](p.reference.php)  | Part X. Reference |  [Next](modules.summary.all.modules.php) |
-
 ## Chapter 64. Lua Functions Summary
 
 This section contains tables of Lua functions. Click the function name for details.

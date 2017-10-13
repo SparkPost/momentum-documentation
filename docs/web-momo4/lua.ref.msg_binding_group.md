@@ -1,6 +1,3 @@
-| msg:binding_group |
-| [Prev](lua.ref.msg_binding.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_body.php) |
-
 <a name="lua.ref.msg_binding_group"></a>
 ## Name
 

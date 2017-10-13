@@ -1,6 +1,3 @@
-| Chapter 1. Components |
-| [Prev](p.intro.php)  | Part I. Introduction to Momentum |  [Next](loam.php) |
-
 ## Chapter 1. Components
 
 The principle components that make up Momentum 4 are Platform nodes and Analytics nodes.

@@ -1,6 +1,3 @@
-| ecelerity |
-| [Prev](executable.ecconfigd_ctl.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.jlog_change_endian.php) |
-
 <a name="executable.ecelerity"></a>
 ## Name
 

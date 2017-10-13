@@ -1,6 +1,3 @@
-| paniclog |
-| [Prev](console_commands.pager.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.pid.php) |
-
 <a name="console_commands.paniclog"></a>
 ## Name
 

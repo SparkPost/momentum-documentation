@@ -1,6 +1,3 @@
-| msys.rfc3464.send_mdn |
-| [Prev](lua.ref.msys.rfc3464.extract_delivery_status.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.symantec_beik.scan.php) |
-
 <a name="lua.ref.msys.rfc3464.send_mdn"></a>
 ## Name
 

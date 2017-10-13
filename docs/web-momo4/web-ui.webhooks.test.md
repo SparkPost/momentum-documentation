@@ -1,6 +1,3 @@
-| 60.3. Testing Your Webhook |
-| [Prev](web-ui.webhooks.create.php)  | Chapter 60. Managing Your Webhooks in the UI |  [Next](web-ui.webhooks.update.php) |
-
 ## 60.3. Testing Your Webhook
 
 In addition to the validation performed when you create your webhook, you can test your webhook by posting an example message event batch to the target URL. The test sends an HTTP request to the client endpoint in the same way that the batch transmitter will. This test will validate that the target responds with an "OK" (i.e. HTTP 200) and return a detailed information response.

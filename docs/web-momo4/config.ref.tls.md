@@ -1,6 +1,3 @@
-| tls |
-| [Prev](conf.ref.timestampformat.php)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_allow_renegotiation.php) |
-
 <a name="config.ref.tls"></a>
 ## Name
 

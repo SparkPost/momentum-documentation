@@ -1,6 +1,3 @@
-| fingerprint cache summary |
-| [Prev](console_commands.fail_domain_quiet.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.fingerprint_rejection_summary.php) |
-
 <a name="console_commands.fingerprint_cache_summary"></a>
 ## Name
 

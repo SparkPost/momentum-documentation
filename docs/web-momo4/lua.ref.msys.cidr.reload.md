@@ -1,6 +1,3 @@
-| msys.cidr.reload |
-| [Prev](lua.ref.msys.cidr.query.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.commtouch.diagnose.php) |
-
 <a name="lua.ref.msys.cidr.reload"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 63.2. Message Context Variables |
-| [Prev](policy.context.variables.php)  | Chapter 63. Validation Context Variables |  [Next](p.reference.php) |
-
 ## 63.2. Message Context Variables
 
 Message context variables yield information about the current message. These variables are predefined, either in a global context or within a module. The following tables list the global and module-specific variables.

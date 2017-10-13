@@ -1,6 +1,3 @@
-| open_tracking_enabled |
-| [Prev](conf.ref.open_relay.php)  | Chapter 72. Configuration Options Reference |  [Next](config.open_tracking_scheme.php) |
-
 <a name="config.open_tracking_enabled"></a>
 ## Name
 

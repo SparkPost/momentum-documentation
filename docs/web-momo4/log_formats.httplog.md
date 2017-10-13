@@ -1,6 +1,3 @@
-| 35.5. `httplog` |
-| [Prev](log_formats.fbllog.php)  | Chapter 35. Log Formats |  [Next](log_formats.importlog.php) |
-
 ## 35.5. `httplog`
 
 The `httplog` logs HTTP requests and responses. It is configured in the [http_logger](modules.http_logger.php "71.37. http_logger – HTTP Requests and Responses") module.

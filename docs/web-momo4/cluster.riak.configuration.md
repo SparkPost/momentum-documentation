@@ -1,6 +1,3 @@
-| 16.7. Configuring Riak in a Cluster |
-| [Prev](cluster.config.failover.php)  | Chapter 16. Cluster-specific Configuration |  [Next](control_listener.php) |
-
 ## 16.7. Configuring Riak in a Cluster
 
 In a cluster configuration, by default, [Riak](riak.php "Chapter 30. Riak") is installed on every node. Each node requires a unique name to participate in the cluster. During installation, the installer automatically assigns names, which are stored in the `/opt/msys/3rdParty/riak/etc/vm.args` configuration file and specified with the "-name" parameter switch.

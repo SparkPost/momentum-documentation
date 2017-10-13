@@ -1,6 +1,3 @@
-| 25.5. Outbound TLS |
-| [Prev](outbound_mail.traffic.shaping.php)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](outbound_mail.outbound.xclient.php) |
-
 ## 25.5. Outbound TLS
 
 A recent initiative among the large ISPs and receiving domains is to use Transport Layer Security protocol (TLS) by default for mail traffic. TLS is a standard for providing cryptographic protection of communication sessions between two systems. It is derived from the earlier standard, Secure Sockets Layer (SSL) and is the replacement for SSL. – They are not the same.

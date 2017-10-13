@@ -1,6 +1,3 @@
-| Part IX. Writing Policy |
-| [Prev](engagement_tracking_http.php)  |   |  [Next](policy.php) |
-
 ## Part IX. Writing Policy
 
 **Table of Contents**

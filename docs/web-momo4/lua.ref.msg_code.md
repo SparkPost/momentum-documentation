@@ -1,6 +1,3 @@
-| msg:code |
-| [Prev](lua.ref.msys.core.string_new.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_get_envelope2.php) |
-
 <a name="lua.ref.msg_code"></a>
 ## Name
 

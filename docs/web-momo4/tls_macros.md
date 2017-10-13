@@ -1,6 +1,3 @@
-| 71.72. tls_macros – TLS-related Logging |
-| [Prev](modules.syslog_io.php)  | Chapter 71. Modules Reference |  [Next](modules.url_ripper.php) |
-
 ## 71.72. tls_macros – TLS-related Logging
 
 The tls_macros module provides several macros supporting custom logging of TLS-related data.

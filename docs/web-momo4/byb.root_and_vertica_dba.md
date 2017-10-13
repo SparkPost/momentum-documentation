@@ -1,6 +1,3 @@
-| 6.10. Creating `root` and `vertica_dba` Accounts |
-| [Prev](byb.jre.php)  | Chapter 6. Before You Begin |  [Next](byb.redefine_ephemeral_ports.php) |
-
 ## 6.10. Creating `root` and `vertica_dba` Accounts
 
 `root` and `vertica_dba` accounts must have their own RSA or Digital Signature Algorithm (DSA) keysets.

@@ -1,6 +1,3 @@
-| Chapter 2. Life of A Message |
-| [Prev](components.php)  | Part I. Introduction to Momentum |  [Next](roles_behaviors.php) |
-
 ## Chapter 2. Life of A Message
 
 ## Inject SMTP Messages or Transmissions

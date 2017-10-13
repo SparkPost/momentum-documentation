@@ -1,6 +1,3 @@
-| 5.4. Environmental Considerations |
-| [Prev](hardware.scaling.php)  | Chapter 5. Hardware Considerations |  [Next](hardware.config.php) |
-
 ## 5.4. Environmental Considerations
 
 Momentum can send very high volumes of traffic; however, it can be constrained by external systems in the deployment environment, such as network throughput. You should consider the impact of Momentum traffic volumes on your environment.

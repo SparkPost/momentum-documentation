@@ -1,6 +1,3 @@
-| msg:routing_domain |
-| [Prev](lua.ref.msg_rcptto.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_text.php) |
-
 <a name="lua.ref.msg_routing_domain"></a>
 ## Name
 

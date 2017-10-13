@@ -1,6 +1,3 @@
-| signing_stats |
-| [Prev](console_commands.shutdown.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.signing_stats_reset.php) |
-
 <a name="console_commands.signing_stats"></a>
 ## Name
 

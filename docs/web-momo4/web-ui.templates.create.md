@@ -1,6 +1,3 @@
-| 48.2. Creating a Template |
-| [Prev](web-ui.templates.php)  | Chapter 48. Managing Your Templates in the UI |  [Next](web-ui.templates.preview.php) |
-
 ## 48.2. Creating a Template
 
 In the New Template form, you can specify your template details, enter your template content, preview and test your template using test data, and update your template. Templates can be saved as drafts or set to published.

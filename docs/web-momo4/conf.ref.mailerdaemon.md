@@ -1,6 +1,3 @@
-| mailerdaemon |
-| [Prev](conf.ref.mail_queue_check_vm_interval.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.mailfrom_timeout.php) |
-
 <a name="conf.ref.mailerdaemon"></a>
 ## Name
 

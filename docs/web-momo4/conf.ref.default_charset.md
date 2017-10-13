@@ -1,6 +1,3 @@
-| default_charset |
-| [Prev](conf.ref.default_binding.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.delay_dsn_max_retry_interval.php) |
-
 <a name="conf.ref.default_charset"></a>
 ## Name
 

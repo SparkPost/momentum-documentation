@@ -1,6 +1,3 @@
-| gateway |
-| [Prev](conf.ref.fully_resolve_before_smtp.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.generate_bounces.php) |
-
 <a name="conf.ref.gateway"></a>
 ## Name
 

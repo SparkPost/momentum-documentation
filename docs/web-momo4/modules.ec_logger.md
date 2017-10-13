@@ -1,6 +1,3 @@
-| 71.30. EC_logger – Momentum-Style Logging |
-| [Prev](modules.ds_core.php)  | Chapter 71. Modules Reference |  [Next](modules.eleven.php) |
-
 ## 71.30. EC_logger – Momentum-Style Logging
 
 <a class="indexterm" name="idp21571376"></a>

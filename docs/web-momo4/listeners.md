@@ -1,6 +1,3 @@
-| 15.4. Listeners |
-| [Prev](ecelerity.conf.fallback.php)  | Chapter 15. Configuration Overview |  [Next](module_config.php) |
-
 ## 15.4. Listeners
 
 Momentum is built around a powerful event-based scheduling engine. A key part of that engine is responding to events that occur on inbound sockets, known as *listeners*. These *listeners* are configured in Momentum's configuration files. The following is an example of a basic listener syntax:

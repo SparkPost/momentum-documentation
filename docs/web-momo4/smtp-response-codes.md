@@ -1,6 +1,3 @@
-| Appendix C. SMTP Response Codes |
-| [Prev](snmp-mib.omniti.php)  | Part XI. Appendix |  [Next](libedit.php) |
-
 ## SMTP Response Codes
 
 The SMTP response codes and their meanings are shown in the following table.

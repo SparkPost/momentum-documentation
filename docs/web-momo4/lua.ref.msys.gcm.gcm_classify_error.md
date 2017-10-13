@@ -1,6 +1,3 @@
-| msys.gcm.gcm_classify_error |
-| [Prev](lua.ref.msys.gauge_cache.remove_item.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.gcm.gcm_get_result_error_code.php) |
-
 <a name="lua.ref.msys.gcm.gcm_classify_error"></a>
 ## Name
 

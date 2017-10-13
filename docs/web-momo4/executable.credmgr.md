@@ -1,6 +1,3 @@
-| credmgr |
-| [Prev](executable.create_ssl_cert.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_adtool.php) |
-
 <a name="executable.credmgr"></a>
 ## Name
 

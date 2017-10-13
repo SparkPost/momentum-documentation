@@ -1,6 +1,3 @@
-| http_version |
-| [Prev](conf.ref.http_uri.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.idle_timeout.php) |
-
 <a name="conf.ref.http_version"></a>
 ## Name
 

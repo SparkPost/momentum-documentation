@@ -1,6 +1,3 @@
-| 71.50. opendkim – Open Source DKIM |
-| [Prev](modules.mxip.php)  | Chapter 71. Modules Reference |  [Next](modules.outbound_audit.php) |
-
 ## 71.50. opendkim – Open Source DKIM
 
 The opendkim module adds OpenDKIM capabilities to Momentum. It implements the DKIM standard and provides for signing email messages on a global, per domain, per binding, or per binding-per domain basis. You can choose to sign messages through module configuration settings or do so at runtime using Lua functions. Validation of DKIM messages with the opendkim module is driven only through Lua policy.

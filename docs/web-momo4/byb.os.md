@@ -1,6 +1,3 @@
-| 6.2. Operating System |
-| [Prev](before_you_begin.php)  | Chapter 6. Before You Begin |  [Next](byb.redundancy.php) |
-
 ## 6.2. Operating System
 
 Momentum 4 supports the latest version of the following operating systems:

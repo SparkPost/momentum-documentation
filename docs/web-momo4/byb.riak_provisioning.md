@@ -1,6 +1,3 @@
-| 6.15. Riak Provisioning |
-| [Prev](byb.basic_packages.php)  | Chapter 6. Before You Begin |  [Next](byb.vertica_partition.php) |
-
 ## 6.15. Riak Provisioning
 
 Riak can be deployed as a single node or in a cluster of nodes. More nodes allow for improved redundancy and load distribution. It is recommended that there be a minimum of three nodes in a clustered configuration.

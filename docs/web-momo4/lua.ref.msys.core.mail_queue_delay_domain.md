@@ -1,6 +1,3 @@
-| msys.core.mail_queue_delay_domain |
-| [Prev](lua.ref.msys.core.get_now_ts.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.core.string_new.php) |
-
 <a name="lua.ref.msys.core.mail_queue_delay_domain"></a>
 ## Name
 

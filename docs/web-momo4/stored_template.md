@@ -1,6 +1,3 @@
-| Chapter 47. Creating Stored Templates |
-| [Prev](substitution_data.php)  | Part VII. Message Generation (HTTP) |  [Next](web-ui.templates.php) |
-
 ## Chapter 47. Creating Stored Templates
 
 **Introduction**

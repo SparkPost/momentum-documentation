@@ -1,6 +1,3 @@
-| ec_dkim_ctl |
-| [Prev](executable.ec_ctl.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_dump_config.php) |
-
 <a name="executable.ec_dkim_ctl"></a>
 ## Name
 

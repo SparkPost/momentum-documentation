@@ -1,6 +1,3 @@
-| 71.65. smtp_cbv – SMTP Callback Verification |
-| [Prev](modules.smtp_auth_proxy.php)  | Chapter 71. Modules Reference |  [Next](modules.smtp_rcptto_proxy.php) |
-
 ## 71.65. smtp_cbv – SMTP Callback Verification
 
 <a class="indexterm" name="idp22983232"></a>

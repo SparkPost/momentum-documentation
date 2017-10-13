@@ -1,6 +1,3 @@
-| connect_timeout_to_delay |
-| [Prev](conf.ref.connect_timeout.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.connection_allocation_aggressiveness.php) |
-
 <a name="conf.ref.connect_timeout_to_delay"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 11.11. Prepare and Run Flyway |
-| [Prev](upgrade.two_tier.preparation.upgrade_vertica_rolling.php)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.rpms_rolling.php) |
-
 ## 11.11. Prepare and Run Flyway
 
 Configure the tables for running the Flyway data migration tool on the **first Analytics node** .

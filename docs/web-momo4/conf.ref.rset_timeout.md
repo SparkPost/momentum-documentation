@@ -1,6 +1,3 @@
-| rset_timeout |
-| [Prev](conf.ref.routes.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.scope_max_outbound_connections.php) |
-
 <a name="conf.ref.rset_timeout"></a>
 ## Name
 

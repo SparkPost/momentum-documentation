@@ -1,6 +1,3 @@
-| 71.70. suppress_spool – Deferred Message Spooling |
-| [Prev](modules.static_routes.php)  | Chapter 71. Modules Reference |  [Next](modules.syslog_io.php) |
-
 ## 71.70. suppress_spool – Deferred Message Spooling
 
 <a class="indexterm" name="idp23194976"></a>

@@ -1,6 +1,3 @@
-| 60.4. Updating Your Webhook |
-| [Prev](web-ui.webhooks.test.php)  | Chapter 60. Managing Your Webhooks in the UI |  [Next](web-ui.webhooks.delete.php) |
-
 ## 60.4. Updating Your Webhook
 
 You can edit any configuration option of an existing webhook. From the Webhooks tab, click the icon in the upper-right corner of the webhook you want to update. In the list, click Edit Configuration, as shown in [Figure 60.7, “Update Webhook”](web-ui.webhooks.update.php#figure_update_webhook "Figure 60.7. Update Webhook").

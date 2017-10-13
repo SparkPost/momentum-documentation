@@ -1,6 +1,3 @@
-| 6.18. Verifying Analytics Node Requirements |
-| [Prev](byb.disable_postfix.php)  | Chapter 6. Before You Begin |  [Next](download_bundle.php) |
-
 ## 6.18. Verifying Analytics Node Requirements
 
 Analytics nodes have very specific requirements for the HP Vertica Analytic Database. Ensure that the node is suitable for Vertica prior to installation.

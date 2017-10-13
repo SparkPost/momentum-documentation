@@ -1,6 +1,3 @@
-| 71.63. sendmail_logger – Sendmail Logging |
-| [Prev](modules.seedlist.php)  | Chapter 71. Modules Reference |  [Next](modules.smtp_auth_proxy.php) |
-
 ## 71.63. sendmail_logger – Sendmail Logging
 
 <a class="indexterm" name="idp22957696"></a>

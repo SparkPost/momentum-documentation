@@ -1,6 +1,3 @@
-| Chapter 16. Cluster-specific Configuration |
-| [Prev](conf.ref.ecelerity.conf.php)  | Part III. Configuring Momentum |  [Next](conf.ref.eccluster.conf.php) |
-
 ## Chapter 16. Cluster-specific Configuration
 
 **Table of Contents**

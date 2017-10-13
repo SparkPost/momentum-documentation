@@ -1,6 +1,3 @@
-| memory_hwm |
-| [Prev](conf.ref.memory_goal.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.message_expiration.php) |
-
 <a name="conf.ref.memory_hwm"></a>
 ## Name
 

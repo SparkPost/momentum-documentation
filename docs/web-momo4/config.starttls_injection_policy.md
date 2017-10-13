@@ -1,6 +1,3 @@
-| starttls_injection_policy |
-| [Prev](config.ssl_lock_method.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.supplemental_groups.php) |
-
 <a name="config.starttls_injection_policy"></a>
 ## Name
 

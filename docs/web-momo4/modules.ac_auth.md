@@ -1,6 +1,3 @@
-| 71.2. ac_auth – Authentication Handler |
-| [Prev](modules.php)  | Chapter 71. Modules Reference |  [Next](modules.adaptive.php) |
-
 ## 71.2. ac_auth – Authentication Handler
 
 <a class="indexterm" name="idp13900864"></a>

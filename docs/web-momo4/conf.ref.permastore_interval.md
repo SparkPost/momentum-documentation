@@ -1,6 +1,3 @@
-| permastore_interval |
-| [Prev](conf.ref.pcre_cache_ttl.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pidfile.php) |
-
 <a name="conf.ref.permastore_interval"></a>
 ## Name
 

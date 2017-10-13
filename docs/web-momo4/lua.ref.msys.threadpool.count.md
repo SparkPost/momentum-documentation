@@ -1,6 +1,3 @@
-| msys.threadpool.count |
-| [Prev](lua.ref.msys.symantec_beik.scan.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.threadpool.find.php) |
-
 <a name="lua.ref.msys.threadpool.count"></a>
 ## Name
 

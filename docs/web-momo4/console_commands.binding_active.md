@@ -1,6 +1,3 @@
-| binding active |
-| [Prev](console_commands.authz_roles_list.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.binding_delayed.php) |
-
 <a name="console_commands.binding_active"></a>
 ## Name
 

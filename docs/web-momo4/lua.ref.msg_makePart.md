@@ -1,6 +1,3 @@
-| msg:makePart |
-| [Prev](lua.ref.msg_makeContainer.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_mime.php) |
-
 <a name="lua.ref.msg_makePart"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| Appendix E. Copyright Notices |
-| [Prev](glossary.php)  |   |  [Next](copyright.3rdparty-disclaimer.php) |
-
 ## Copyright Notices
 
 **Table of Contents**

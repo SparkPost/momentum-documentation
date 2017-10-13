@@ -1,6 +1,3 @@
-| http_basic_auth |
-| [Prev](conf.ref.host_failure_retry.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.http_host.php) |
-
 <a name="conf.ref.http_basic_auth"></a>
 ## Name
 

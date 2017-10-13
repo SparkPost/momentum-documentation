@@ -1,6 +1,3 @@
-| pcre_cache_size |
-| [Prev](conf.ref.pathway_group.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pcre_cache_ttl.php) |
-
 <a name="conf.ref.pcre_cache_size"></a>
 ## Name
 

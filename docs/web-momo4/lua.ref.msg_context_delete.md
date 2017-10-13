@@ -1,6 +1,3 @@
-| msg:context_delete |
-| [Prev](lua.ref.msg_reception_peer.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_context_exists.php) |
-
 <a name="lua.ref.msg_context_delete"></a>
 ## Name
 

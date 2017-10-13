@@ -1,6 +1,3 @@
-| Chapter 4. Licensed Features |
-| [Prev](roles_behaviors.php)  | Part I. Introduction to Momentum |  [Next](licensed_features.adaptive.delivery.php) |
-
 ## Chapter 4. Licensed Features
 
 **Table of Contents**

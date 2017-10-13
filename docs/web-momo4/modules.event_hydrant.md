@@ -1,6 +1,3 @@
-| 71.33. event_hydrant – Message Tracking |
-| [Prev](modules.engage_tracker.php)  | Chapter 71. Modules Reference |  [Next](modules.exim_logger.php) |
-
 ## 71.33. event_hydrant – Message Tracking
 
 <a class="indexterm" name="idp21748032"></a>

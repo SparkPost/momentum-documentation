@@ -1,6 +1,3 @@
-| ec_lic |
-| [Prev](executable.ec_dump_config.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_log_trace.php) |
-
 <a name="executable.ec_lic"></a>
 ## Name
 

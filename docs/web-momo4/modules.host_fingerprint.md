@@ -1,6 +1,3 @@
-| 71.36. fingerprint – Host Fingerprinting |
-| [Prev](modules.fbl.php)  | Chapter 71. Modules Reference |  [Next](modules.http_logger.php) |
-
 ## 71.36. fingerprint – Host Fingerprinting
 
 <a class="indexterm" name="idp21888848"></a>

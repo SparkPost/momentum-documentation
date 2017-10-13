@@ -1,6 +1,3 @@
-| 25.3. MultiVIP© Interfaces |
-| [Prev](outbound_mail.prohibited.hosts.php)  | Chapter 25. Configuring Outbound Mail Delivery |  [Next](outbound_mail.traffic.shaping.php) |
-
 ## 25.3. MultiVIP© Interfaces
 
 <a class="indexterm" name="idp3618464"></a>![](images/multivip.png)

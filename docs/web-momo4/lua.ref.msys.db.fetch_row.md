@@ -1,6 +1,3 @@
-| msys.db.fetch_row |
-| [Prev](lua.ref.msys.counter.unlink.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.db.query.php) |
-
 <a name="lua.ref.msys.db.fetch_row"></a>
 ## Name
 

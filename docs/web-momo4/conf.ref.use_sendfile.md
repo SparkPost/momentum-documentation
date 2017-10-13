@@ -1,6 +1,3 @@
-| use_sendfile |
-| [Prev](conf.ref.use_mmap.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.user.php) |
-
 <a name="conf.ref.use_sendfile"></a>
 ## Name
 

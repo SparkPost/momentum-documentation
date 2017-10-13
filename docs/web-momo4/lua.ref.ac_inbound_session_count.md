@@ -1,6 +1,3 @@
-| ac:inbound_session_count |
-| [Prev](lua.ref.ac_esmtp_capability_remove.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.cloudmark.analyze.php) |
-
 <a name="lua.ref.ac_inbound_session_count"></a>
 ## Name
 

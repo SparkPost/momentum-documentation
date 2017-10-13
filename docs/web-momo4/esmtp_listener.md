@@ -1,6 +1,3 @@
-| Chapter 19. Configuring Inbound Mail Service Using SMTP |
-| [Prev](ecstream_listener.php)  | Part III. Configuring Momentum |  [Next](esmtp_listener.relay_domains.php) |
-
 ## Chapter 19. Configuring Inbound Mail Service Using SMTP
 
 **Table of Contents**

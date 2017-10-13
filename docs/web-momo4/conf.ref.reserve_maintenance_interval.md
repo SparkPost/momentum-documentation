@@ -1,6 +1,3 @@
-| reserve_maintenance_interval |
-| [Prev](conf.ref.require_ehlo.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.resolv_conf.php) |
-
 <a name="conf.ref.reserve_maintenance_interval"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 71.67. smtpapi – SMTP Engagement Tracking |
-| [Prev](modules.smtp_rcptto_proxy.php)  | Chapter 71. Modules Reference |  [Next](modules.spf.php) |
-
 ## 71.67. smtpapi – SMTP Engagement Tracking
 
 **Configuration Change. ** Engagement tracking for SMTP injections is available as of version 4.1-HF4.

@@ -1,6 +1,3 @@
-| 44.3. Updating an API Key |
-| [Prev](web-ui.apikeys.create.php)  | Chapter 44. Managing Your API Keys |  [Next](web-ui.apikeys.delete.php) |
-
 ## 44.3. Updating an API Key
 
 You can edit the label and grants of an existing API key. From the Settings section, click the icon to the right of the API key that you want to update. In the list, click Edit, as shown in [Figure 44.4, “Update API Key”](web-ui.apikeys.update.php#figure_update_apikey "Figure 44.4. Update API Key").

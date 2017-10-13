@@ -1,6 +1,3 @@
-| 30.3. Riak Ports |
-| [Prev](riak.service.php)  | Chapter 30. Riak |  [Next](operations.riak.backups.php) |
-
 ## 30.3. Riak Ports
 
 Riak uses the following ports:

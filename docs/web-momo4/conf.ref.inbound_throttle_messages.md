@@ -1,6 +1,3 @@
-| inbound_throttle_messages |
-| [Prev](conf.ref.idle_timeout.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.initial_hash_buckets.php) |
-
 <a name="conf.ref.inbound_throttle_messages"></a>
 ## Name
 

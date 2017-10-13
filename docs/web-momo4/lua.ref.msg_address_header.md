@@ -1,6 +1,3 @@
-| msg:address_header |
-| [Prev](lua.ref.msg.id.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_binding.php) |
-
 <a name="lua.ref.msg_address_header"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 71.68. spf Modules – spf_macros, spf_v1, and senderid (SPF v2) |
-| [Prev](modules.smtpapi.php)  | Chapter 71. Modules Reference |  [Next](modules.static_routes.php) |
-
 ## 71.68. spf Modules – spf_macros, spf_v1, and senderid (SPF v2)
 
 <a class="indexterm" name="idp23084592"></a><a class="indexterm" name="idp23086384"></a>

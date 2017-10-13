@@ -1,6 +1,3 @@
-| delayed_binding_domain_fuzz |
-| [Prev](conf.ref.delay_dsn_retry_interval.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.delayed_queue_scan_interval.php) |
-
 <a name="conf.ref.delayed_binding_domain_fuzz"></a>
 ## Name
 

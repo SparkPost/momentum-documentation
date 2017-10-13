@@ -1,6 +1,3 @@
-| events_per_iter |
-| [Prev](config.ref.eventloop.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.exclude_vctx_conn.php) |
-
 <a name="conf.ref.events_per_iter"></a>
 ## Name
 

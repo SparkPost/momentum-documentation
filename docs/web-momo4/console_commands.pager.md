@@ -1,6 +1,3 @@
-| \pager |
-| [Prev](console_commands.module.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.paniclog.php) |
-
 <a name="console_commands.pager"></a>
 ## Name
 

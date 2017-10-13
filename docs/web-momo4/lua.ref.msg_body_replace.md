@@ -1,6 +1,3 @@
-| msg:body_replace |
-| [Prev](lua.ref.msg_body_match.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_build.php) |
-
 <a name="lua.ref.msg_body_replace"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| Chapter 72. Configuration Options Reference |
-| [Prev](modules.url_ripper.php)  | Part X. Reference |  [Next](conf.ref.adaptive_backstore_leveldb.php) |
-
 ## Chapter 72. Configuration Options Reference
 
 **Table of Contents**

@@ -1,6 +1,3 @@
-| Part I. Introduction to Momentum |
-| [Prev](preface.php)  |   |  [Next](components.php) |
-
 ## Part I. Introduction to Momentum
 
 **Table of Contents**

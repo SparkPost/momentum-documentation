@@ -1,6 +1,3 @@
-| ec_show |
-| [Prev](executable.ec_sendmail.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.eccfg.php) |
-
 <a name="executable.ec_show"></a>
 ## Name
 

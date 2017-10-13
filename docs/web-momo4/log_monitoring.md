@@ -1,6 +1,3 @@
-| Chapter 33. Log Monitoring |
-| [Prev](logging.configuration.php)  | Part IV. Logging |  [Next](log_rotating.php) |
-
 ## Chapter 33. Log Monitoring
 
 This chapter lists and describes the logs associated with Momentum 4.

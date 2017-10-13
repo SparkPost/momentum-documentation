@@ -1,6 +1,3 @@
-| write config |
-| [Prev](console_commands.version.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](exec.cmds.ref.php) |
-
 <a name="console_commands.write_config"></a>
 ## Name
 

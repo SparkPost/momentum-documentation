@@ -1,6 +1,3 @@
-| tracking_domain |
-| [Prev](conf.ref.trace_smtp_mode.php)  | Chapter 72. Configuration Options Reference |  [Next](config.tracking_link_expiry.php) |
-
 <a name="config.tracking_domain"></a>
 ## Name
 

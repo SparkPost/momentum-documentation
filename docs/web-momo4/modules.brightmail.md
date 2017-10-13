@@ -1,6 +1,3 @@
-| 71.14. brightmail – Symantec Brightmail™ Content Scanning Support |
-| [Prev](modules.bounce_logger.php)  | Chapter 71. Modules Reference |  [Next](modules.chunk_logger.php) |
-
 ## 71.14. brightmail – Symantec Brightmail™ Content Scanning Support
 
 <a class="indexterm" name="idp20183088"></a>

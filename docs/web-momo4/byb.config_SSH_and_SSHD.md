@@ -1,6 +1,3 @@
-| 6.13. Configuring SSH and SSHD |
-| [Prev](byb.config_vertica_services.php)  | Chapter 6. Before You Begin |  [Next](byb.basic_packages.php) |
-
 ## 6.13. Configuring SSH and SSHD
 
 Ensure that the SSHD `PermitRootLogin` setting in the `/etc/ssh/sshd_config` file is either set to `yes` or `without-password`. The default setting is `yes`.

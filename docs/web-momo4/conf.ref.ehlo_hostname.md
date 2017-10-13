@@ -1,6 +1,3 @@
-| ehlo_hostname |
-| [Prev](conf.ref.ecstream_timeout.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.ehlo_timeout.php) |
-
 <a name="conf.ref.ehlo_hostname"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| license |
-| [Prev](conf.ref.legacy_message_threshold.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.lmtp_port.php) |
-
 <a name="conf.ref.license"></a>
 ## Name
 

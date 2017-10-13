@@ -1,6 +1,3 @@
-| Chapter 9. New Installation - All Configurations |
-| [Prev](install_upgrade_packages.php)  | Part II. Installing Momentum |  [Next](install.configure_cassandra.php) |
-
 ## Chapter 9. New Installation - All Configurations
 
 **Table of Contents**

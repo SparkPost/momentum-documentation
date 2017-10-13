@@ -1,6 +1,3 @@
-| sess:request_add_header |
-| [Prev](lua.ref.client_get_status.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.sess_request_delete_header.php) |
-
 <a name="lua.ref.sess_request_add_header"></a>
 ## Name
 

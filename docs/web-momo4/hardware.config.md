@@ -1,6 +1,3 @@
-| 5.5. Hardware Deployment Configuration |
-| [Prev](hardware.environmental.php)  | Chapter 5. Hardware Considerations |  [Next](production.config.php) |
-
 ## 5.5. Hardware Deployment Configuration
 
 The Single Node Lab system is designed to support multiple functions in your environment, including development, testing staging, and other non-production roles. The system deploys to a single server supporting all Momentum functionality. The Single Node Lab System should not be used for performance testing, nor is it recommended for production use due to its lack of redundancy.

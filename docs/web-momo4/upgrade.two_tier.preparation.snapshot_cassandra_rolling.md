@@ -1,6 +1,3 @@
-| 11.3. Perform a Cassandra Snapshot |
-| [Prev](upgrade.two_tier.preparation.prepare_all_nodes_rolling.php)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.upgrade_cassandra_rolling.php) |
-
 ## 11.3. Perform a Cassandra Snapshot
 
 1.  Prepare the database on each node for a snapshot. Perform the following steps on the **first Platform node** , then repeat on the remaining Platform nodes.

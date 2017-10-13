@@ -1,6 +1,3 @@
-| 29.4. Dumping and Restoring the Database |
-| [Prev](postgresql.client.php)  | Chapter 29. PostgreSQL |  [Next](riak.php) |
-
 ## 29.4. Dumping and Restoring the Database
 
 In some circumstances, you may need to change the machine that hosts Momentum and migrate your data to new hardware. When moving to a host with the same operating system, architecture, and bit size, you can simply archive the `/var/db/msyspg` directory and then restore it. Otherwise, you can use PostgreSQL tools to dump and restore the database.

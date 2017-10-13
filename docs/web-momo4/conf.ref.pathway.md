@@ -1,6 +1,3 @@
-| pathway |
-| [Prev](conf.ref.outbound_throttle_messages.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.pathway_group.php) |
-
 <a name="conf.ref.pathway"></a>
 ## Name
 

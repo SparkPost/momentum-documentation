@@ -1,6 +1,3 @@
-| counter |
-| [Prev](console_commands.count.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.delayed.php) |
-
 <a name="console_commands.counter"></a>
 ## Name
 

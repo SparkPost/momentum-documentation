@@ -1,6 +1,3 @@
-| Chapter 44. Managing Your API Keys |
-| [Prev](create_apikey.php)  | Part VII. Message Generation (HTTP) |  [Next](web-ui.apikeys.create.php) |
-
 ## Chapter 44. Managing Your API Keys
 
 **Table of Contents**

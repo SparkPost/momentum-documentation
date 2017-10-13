@@ -1,6 +1,3 @@
-| tls |
-| [Prev](console_commands.threads.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.trace_smtp.php) |
-
 <a name="console_commands.tls"></a>
 ## Name
 

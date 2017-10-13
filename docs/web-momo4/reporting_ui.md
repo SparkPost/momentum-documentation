@@ -1,6 +1,3 @@
-| Chapter 56. Using the UI for Reporting |
-| [Prev](web-ui.php)  | Part VIII. Reporting and Engagement Tracking |  [Next](web-ui.reports.php) |
-
 ## Chapter 56. Using the UI for Reporting
 
 **Introduction**

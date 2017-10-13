@@ -1,6 +1,3 @@
-| require_ehlo |
-| [Prev](conf.ref.remote_smtp_port.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.reserve_maintenance_interval.php) |
-
 <a name="conf.ref.require_ehlo"></a>
 ## Name
 

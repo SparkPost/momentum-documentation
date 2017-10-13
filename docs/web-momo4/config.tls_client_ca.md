@@ -1,6 +1,3 @@
-| tls_client_ca |
-| [Prev](config.tls_ciphers.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.tls_dhparams_file.php) |
-
 <a name="config.tls_client_ca"></a>
 ## Name
 

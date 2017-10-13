@@ -1,6 +1,3 @@
-| outbound_throttle_connections |
-| [Prev](conf.ref.opendkim_sign.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.outbound_throttle_messages.php) |
-
 <a name="conf.ref.outbound_throttle_connections"></a>
 ## Name
 

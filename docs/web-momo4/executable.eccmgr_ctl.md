@@ -1,6 +1,3 @@
-| eccmgr_ctl |
-| [Prev](executable.eccmgr.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.ecconfigd.php) |
-
 <a name="executable.eccmgr_ctl"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| Chapter 32. Logging Overview |
-| [Prev](p.logs.php)  | Part IV. Logging |  [Next](logging.configuration.php) |
-
 ## Chapter 32. Logging Overview
 
 **Table of Contents**

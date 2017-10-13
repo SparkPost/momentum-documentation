@@ -1,6 +1,3 @@
-| 29.3. Using the PostgreSQL Client Program |
-| [Prev](postgresql.server.php)  | Chapter 29. PostgreSQL |  [Next](postgresql.migrating.php) |
-
 ## 29.3. Using the PostgreSQL Client Program
 
 <a class="indexterm" name="idp3961632"></a>

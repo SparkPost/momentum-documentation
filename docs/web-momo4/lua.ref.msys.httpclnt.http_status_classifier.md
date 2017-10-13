@@ -1,6 +1,3 @@
-| msys.httpclnt.http_status_classifier |
-| [Prev](lua.ref.sess_request_set_body.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msys.http.client.new.php) |
-
 <a name="lua.ref.msys.httpclnt.http_status_classifier"></a>
 ## Name
 

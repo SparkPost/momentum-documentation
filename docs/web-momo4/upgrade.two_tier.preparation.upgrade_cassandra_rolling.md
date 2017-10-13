@@ -1,6 +1,3 @@
-| 11.4. Upgrade Cassandra on the Platform Nodes |
-| [Prev](upgrade.two_tier.preparation.snapshot_cassandra_rolling.php)  | Chapter 11. Rolling Upgrade - Two-Tier Configuration and Combined Node |  [Next](upgrade.two_tier.preparation.stop_generations_rolling.php) |
-
 ## 11.4. Upgrade Cassandra on the Platform Nodes
 
 To allow for continuous functioning of the Cassandra cluster, only one Cassandra server instance should be stopped for upgrade at any one time. Run the following command to check the Cassandra cluster status:

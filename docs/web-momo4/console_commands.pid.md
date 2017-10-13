@@ -1,6 +1,3 @@
-| pid |
-| [Prev](console_commands.paniclog.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.rebind.php) |
-
 <a name="console_commands.pid"></a>
 ## Name
 

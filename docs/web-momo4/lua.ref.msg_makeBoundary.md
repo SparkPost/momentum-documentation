@@ -1,6 +1,3 @@
-| msg:makeBoundary |
-| [Prev](lua.ref.msg_mailfrom.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_makeContainer.php) |
-
 <a name="lua.ref.msg_makeBoundary"></a>
 ## Name
 

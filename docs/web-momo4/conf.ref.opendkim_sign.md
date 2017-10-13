@@ -1,6 +1,3 @@
-| opendkim_sign |
-| [Prev](config.open_tracking_scheme.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.outbound_throttle_connections.php) |
-
 <a name="conf.ref.opendkim_sign"></a>
 ## Name
 

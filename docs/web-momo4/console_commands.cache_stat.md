@@ -1,6 +1,3 @@
-| cache stat |
-| [Prev](console_commands.cache_list.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.cache_stats.php) |
-
 <a name="console_commands.cache_stat"></a>
 ## Name
 

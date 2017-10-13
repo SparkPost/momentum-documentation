@@ -1,6 +1,3 @@
-| 26.3. Complex Centralized Logging Deployments |
-| [Prev](cluster.config.logging.centalized.logging.php)  | Chapter 26. Log Aggregation |  [Next](cluster.config.logging.redundancy.php) |
-
 ## 26.3. Complex Centralized Logging Deployments
 
 More complex deployments may arrange for the logs for a given subcluster to be aggregated on a custer manager local to that subcluster. Consider an environment with "east" and "west" subclusters, where the intention is for logs from the "east" subcluster to be journalled on a cluster manager node physically located in the east, and similarly, logs from "west" logged to a cluster manager in the west. The east subcluster has nodes "east1" and "east2", and the west subcluster has nodes "west1" and "west2".

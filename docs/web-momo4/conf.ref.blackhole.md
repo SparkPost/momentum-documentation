@@ -1,6 +1,3 @@
-| blackhole |
-| [Prev](conf.ref.binding_group.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.body_timeout.php) |
-
 <a name="conf.ref.blackhole"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| ec_config_rsrc_get |
-| [Prev](hooks.config_rsrc_setup.php)  | Chapter 69. Hook Points and C Functions Reference |  [Next](apis.ec_httpsrv_register_auth.php) |
-
 <a name="apis.ec_config_rsrc_get"></a>
 ## Name
 

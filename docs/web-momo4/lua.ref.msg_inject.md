@@ -1,6 +1,3 @@
-| msg:inject |
-| [Prev](lua.ref.msg_get_message_size.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_is_mcmt.php) |
-
 <a name="lua.ref.msg_inject"></a>
 ## Name
 

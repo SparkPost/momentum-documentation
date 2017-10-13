@@ -1,6 +1,3 @@
-| mdn_failures_notify |
-| [Prev](conf.ref.max_timed_events_per_iter.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.memory_goal.php) |
-
 <a name="conf.ref.mdn_failures_notify"></a>
 ## Name
 

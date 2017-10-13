@@ -1,6 +1,3 @@
-| allow_trailing_whitespace_in_commands |
-| [Prev](conf.ref.allow_null_envelope_sender.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.async_bounce_rendering.php) |
-
 <a name="conf.ref.allow_trailing_whitespace_in_commands"></a>
 ## Name
 

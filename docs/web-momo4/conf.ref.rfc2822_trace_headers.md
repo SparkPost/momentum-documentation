@@ -1,6 +1,3 @@
-| rfc2822_trace_headers |
-| [Prev](conf.ref.rfc2822_missing_headers.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.routes.php) |
-
 <a name="conf.ref.rfc2822_trace_headers"></a>
 ## Name
 

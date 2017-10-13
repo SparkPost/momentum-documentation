@@ -1,6 +1,3 @@
-| 10.8. Complete the Software Set Up |
-| [Prev](upgrade.single_node.configuration.start_services.php)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.single_node.configuration.next_steps.php) |
-
 ## 10.8. Complete the Software Set Up
 
 1.  Complete the Vertica setup.

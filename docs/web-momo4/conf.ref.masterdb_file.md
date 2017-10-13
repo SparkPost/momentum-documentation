@@ -1,6 +1,3 @@
-| masterdb_file |
-| [Prev](conf.ref.malloc2mmap_threshold.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.match_cache_life.php) |
-
 <a name="conf.ref.masterdb_file"></a>
 ## Name
 

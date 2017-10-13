@@ -1,6 +1,3 @@
-| Chapter 37. Using the System Console (**ec_console**) |
-| [Prev](conf.starting.php)  | Part V. Using the System Console |  [Next](operations.console-commands.php) |
-
 ## Chapter 37. Using the System Console (ec_console)
 
 **Table of Contents**

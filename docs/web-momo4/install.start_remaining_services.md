@@ -1,6 +1,3 @@
-| 9.4. Start Remaining Services |
-| [Prev](install.analytics_nodes.php)  | Chapter 9. New Installation - All Configurations |  [Next](upgrade.single_node.php) |
-
 ## 9.4. Start Remaining Services
 
 ### 9.4.1. Analytics Nodes

@@ -1,6 +1,3 @@
-| tls_certificate |
-| [Prev](config.tls_ca.php)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_ciphers.php) |
-
 <a name="config.tls_certificate"></a>
 ## Name
 

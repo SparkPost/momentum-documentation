@@ -1,6 +1,3 @@
-| msgpart:text_match |
-| [Prev](lua.ref.msgpart_text.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_text_replace.php) |
-
 <a name="lua.ref.msgpart_text_match"></a>
 ## Name
 

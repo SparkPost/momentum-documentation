@@ -1,6 +1,3 @@
-| allow_null_envelope_sender |
-| [Prev](conf.ref.allow_ip_literal.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.allow_trailing_whitespace_in_commands.php) |
-
 <a name="conf.ref.allow_null_envelope_sender"></a>
 ## Name
 

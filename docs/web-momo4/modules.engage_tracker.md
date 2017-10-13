@@ -1,6 +1,3 @@
-| 71.32. engagement_tracker – HTTP Engagement Tracking |
-| [Prev](modules.eleven.php)  | Chapter 71. Modules Reference |  [Next](modules.event_hydrant.php) |
-
 ## 71.32. engagement_tracker – HTTP Engagement Tracking
 
 **Configuration Change. ** For version 4.1 and earlier, metadata is included in open tracking only. As of version 4.1-HF4, metadata can also be included in click tracking based on the `click_tracking_include_metadata` option.

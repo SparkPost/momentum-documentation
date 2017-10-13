@@ -1,6 +1,3 @@
-| 12.6. Security Considerations |
-| [Prev](install.vertica.license.php)  | Chapter 12. Post-Installation |  [Next](add_remove_platform_nodes.php) |
-
 ## 12.6. Security Considerations
 
 This section will document security issues and fixes for those issues.

@@ -1,6 +1,3 @@
-| 71.53. persist_io – Persistent IO Wrapper |
-| [Prev](modules.outbound_smtp_auth.php)  | Chapter 71. Modules Reference |  [Next](modules.pipeio.php) |
-
 ## 71.53. persist_io – Persistent IO Wrapper
 
 <a class="indexterm" name="idp22544784"></a>

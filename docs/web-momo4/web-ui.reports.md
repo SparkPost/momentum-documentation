@@ -1,6 +1,3 @@
-| Chapter 57. Reports and Engagement Tracking in the UI |
-| [Prev](reporting_ui.php)  | Part VIII. Reporting and Engagement Tracking |  [Next](web-ui.reports.viewing.reports.php) |
-
 ## Chapter 57. Reports and Engagement Tracking in the UI
 
 **Table of Contents**

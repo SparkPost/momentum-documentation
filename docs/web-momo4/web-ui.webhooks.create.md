@@ -1,6 +1,3 @@
-| 60.2. Creating a Webhook |
-| [Prev](web-ui.webhooks.php)  | Chapter 60. Managing Your Webhooks in the UI |  [Next](web-ui.webhooks.test.php) |
-
 ## 60.2. Creating a Webhook
 
 In the Webhooks tab, click the New Webhook icon in the upper-right corner to open the Create New Webhook form, as shown in [Figure 60.2, “Create New Webhook”](web-ui.webhooks.create.php#figure_create_webhook "Figure 60.2. Create New Webhook").

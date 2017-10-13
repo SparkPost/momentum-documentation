@@ -1,6 +1,3 @@
-| SNMP |
-| [Prev](conf.ref.skip_hosts.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.soft_bounce_drain_rate.php) |
-
 <a name="conf.ref.snmp"></a>
 ## Name
 

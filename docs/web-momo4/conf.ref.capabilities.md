@@ -1,6 +1,3 @@
-| capabilities |
-| [Prev](conf.ref.bounces_inline_original.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.chroot.php) |
-
 <a name="conf.ref.capabilities"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 71.38. httpsrv – HTTP Server |
-| [Prev](modules.http_logger.php)  | Chapter 71. Modules Reference |  [Next](modules.icu.php) |
-
 ## 71.38. httpsrv – HTTP Server
 
 The httpsrv module is the HTTP server infrastructure module. It, along with the [HTTP_Listener](http_listener.php "Chapter 20. Configuring Inbound Mail Service Using HTTP"), enables you to use the REST API.

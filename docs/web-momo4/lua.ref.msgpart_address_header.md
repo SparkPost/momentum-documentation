@@ -1,6 +1,3 @@
-| msgpart:address_header |
-| [Prev](lua.ref.msgpart_addLastChild.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_body_match.php) |
-
 <a name="lua.ref.msgpart_address_header"></a>
 ## Name
 

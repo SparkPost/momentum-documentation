@@ -1,6 +1,3 @@
-| eccfg |
-| [Prev](executable.ec_show.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.eccmgr.php) |
-
 <a name="executable.eccfg"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| domainkeys |
-| [Prev](conf.ref.domain.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.drop_body_after_trans_fail.php) |
-
 <a name="conf.ref.domainkeys"></a>
 ## Name
 

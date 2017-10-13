@@ -1,6 +1,3 @@
-| 16.2. `eccluster.conf` File |
-| [Prev](cluster.php)  | Chapter 16. Cluster-specific Configuration |  [Next](conf.ref.ecelerity_cluster.conf.php) |
-
 ## 16.2. `eccluster.conf` File
 
 The `eccluster.conf` file configures the behavior of the Momentum Cluster Manager [eccmgr](executable.eccmgr.php "eccmgr"). Note that it does not configure the behavior of cluster nodes. This file is found in the `/opt/msys/ecelerity/etc/conf/default/` directory.

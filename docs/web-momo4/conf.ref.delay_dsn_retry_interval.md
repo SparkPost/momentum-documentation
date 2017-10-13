@@ -1,6 +1,3 @@
-| delay_dsn_retry_interval |
-| [Prev](conf.ref.delay_dsn_max_retry_interval.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.delayed_binding_domain_fuzz.php) |
-
 <a name="conf.ref.delay_dsn_retry_interval"></a>
 ## Name
 

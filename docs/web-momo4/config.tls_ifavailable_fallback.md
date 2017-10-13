@@ -1,6 +1,3 @@
-| tls_ifavailable_fallback |
-| [Prev](config.tls_engine.php)  | Chapter 72. Configuration Options Reference |  [Next](config.tls_key.php) |
-
 <a name="config.tls_ifavailable_fallback"></a>
 ## Name
 

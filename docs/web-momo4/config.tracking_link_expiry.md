@@ -1,6 +1,3 @@
-| tracking_link_expiry |
-| [Prev](config.tracking_domain.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.transfail_drain_rate.php) |
-
 <a name="config.tracking_link_expiry"></a>
 ## Name
 

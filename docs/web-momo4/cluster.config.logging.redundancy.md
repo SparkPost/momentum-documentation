@@ -1,6 +1,3 @@
-| 26.4. Redundant Logs |
-| [Prev](cluster.config.logging.complex.php)  | Chapter 26. Log Aggregation |  [Next](cluster.config.logging.decommissioning.php) |
-
 ## 26.4. Redundant Logs
 
 If redundant logs are required, do one of the following:

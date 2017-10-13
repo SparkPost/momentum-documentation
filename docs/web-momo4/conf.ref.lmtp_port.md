@@ -1,6 +1,3 @@
-| lmtp_port |
-| [Prev](conf.ref.license.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.local_changes_file.php) |
-
 <a name="conf.ref.lmtp_port"></a>
 ## Name
 

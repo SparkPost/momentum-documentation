@@ -1,6 +1,3 @@
-| 71.12. bounce_classifier_override – Override/Augment Bounce Classifications |
-| [Prev](modules.bind_address_secondary.php)  | Chapter 71. Modules Reference |  [Next](modules.bounce_logger.php) |
-
 ## 71.12. bounce_classifier_override – Override/Augment Bounce Classifications
 
 <a class="indexterm" name="idp20060016"></a>

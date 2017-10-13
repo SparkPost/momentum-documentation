@@ -1,6 +1,3 @@
-| 5.7. Additional Configuration Notes |
-| [Prev](production.config.php)  | Chapter 5. Hardware Considerations |  [Next](before_you_begin.php) |
-
 ## 5.7. Additional Configuration Notes
 
 ### File System

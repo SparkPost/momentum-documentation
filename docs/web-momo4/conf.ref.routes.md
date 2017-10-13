@@ -1,6 +1,3 @@
-| routes |
-| [Prev](conf.ref.rfc2822_trace_headers.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.rset_timeout.php) |
-
 <a name="conf.ref.routes"></a>
 ## Name
 

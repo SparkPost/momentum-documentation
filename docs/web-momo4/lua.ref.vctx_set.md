@@ -1,6 +1,3 @@
-| vctx:set |
-| [Prev](lua.ref.vctx_remove_recipient.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.vctx_set_code.php) |
-
 <a name="lua.ref.vctx_set"></a>
 ## Name
 

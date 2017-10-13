@@ -1,6 +1,3 @@
-| D.2. Extended Commands |
-| [Prev](libedit.php)  | Appendix D. Key Binding Reference for ec_console |  [Next](glossary.php) |
-
 ## D.2. Extended Commands
 
 The following extended commands may appear in your `.editrc` or may be entered directly into the console by entering extended command mode ( **Esc** **X** by default), and then typing in the extended command and pressing **Enter**.

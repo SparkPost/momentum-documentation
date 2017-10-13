@@ -1,6 +1,3 @@
-| delivery_method |
-| [Prev](conf.ref.delayed_queue_scan_interval.php)  | Chapter 72. Configuration Options Reference |  [Next](config.ref.delivery_pool.php) |
-
 <a name="conf.ref.delivery_method"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| growbuf_size |
-| [Prev](conf.ref.generate_delay_dsn.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.host.php) |
-
 <a name="conf.ref.growbuf_size"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| threadpool |
-| [Prev](conf.ref.tcp_buffer_size.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.timestampformat.php) |
-
 <a name="conf.ref.threadpool"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| Chapter 39. CIDR Server |
-| [Prev](cluster.config.operations.eccmgr.console.php)  | Part V. Using the System Console |  [Next](p.smtp_injections.php) |
-
 ## Chapter 39. CIDR Server
 
 **Table of Contents**

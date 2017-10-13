@@ -1,6 +1,3 @@
-| message_expiration |
-| [Prev](conf.ref.memory_hwm.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.migrate_connections_between_sibling_domains.php) |
-
 <a name="conf.ref.message_expiration"></a>
 ## Name
 

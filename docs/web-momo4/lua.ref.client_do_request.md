@@ -1,6 +1,3 @@
-| client:do_request |
-| [Prev](lua.ref.msys.apn.apn_status_classifier.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.client_get_body.php) |
-
 <a name="lua.ref.client_do_request"></a>
 ## Name
 

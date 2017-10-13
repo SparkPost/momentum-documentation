@@ -1,6 +1,3 @@
-| 16.3. `ecelerity-cluster.conf` File |
-| [Prev](conf.ref.eccluster.conf.php)  | Chapter 16. Cluster-specific Configuration |  [Next](conf.ref.msgc_server.conf.php) |
-
 ## 16.3. `ecelerity-cluster.conf` File
 
 The `ecelerity-cluster.conf` file is a cluster-specific configuration file that configures cluster behavior. This file is typically used to specify options common to all nodes, e.g. the cluster topology. It is included from within `ecelerity.conf`.

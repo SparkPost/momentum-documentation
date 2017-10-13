@@ -1,6 +1,3 @@
-| 15.2. Configuration Options |
-| [Prev](conf.overview.php)  | Chapter 15. Configuration Overview |  [Next](ecelerity.conf.fallback.php) |
-
 ## 15.2. Configuration Options
 
 Momentum provides a rich set of configuration options. Some options are simple configuration options, while other configuration options are more complex, such as defining data structures.

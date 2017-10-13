@@ -1,6 +1,3 @@
-| fully_resolve_before_smtp |
-| [Prev](conf.ref.force_fsync.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.gateway.php) |
-
 <a name="conf.ref.fully_resolve_before_smtp"></a>
 ## Name
 

@@ -1,6 +1,3 @@
-| 35.2. `adaptive` Log |
-| [Prev](log_formats.php)  | Chapter 35. Log Formats |  [Next](log_formats.bouncelog.php) |
-
 ## 35.2. `adaptive` Log
 
 The `adaptive` log is configured in the [adaptive](modules.adaptive.php "71.3. adaptive – Adaptive Delivery") module. The adaptive log entry is an `@` delimited string, such as the following:

@@ -1,6 +1,3 @@
-| ec_ctl |
-| [Prev](executable.ec_console.php)  | Chapter 74. Executable Commands Reference |  [Next](executable.ec_dkim_ctl.php) |
-
 <a name="executable.ec_ctl"></a>
 ## Name
 

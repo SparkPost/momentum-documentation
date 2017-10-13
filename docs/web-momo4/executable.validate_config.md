@@ -1,6 +1,3 @@
-| validate_config |
-| [Prev](executable.lu_pull.php)  | Chapter 74. Executable Commands Reference |  [Next](p.appendix.php) |
-
 <a name="executable.validate_config"></a>
 ## Name
 

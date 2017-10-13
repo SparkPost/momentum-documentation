@@ -1,6 +1,3 @@
-| spool import_poll |
-| [Prev](console_commands.spool_import.php)  | Chapter 73. Non-Module-Specific Console Commands |  [Next](console_commands.spool_in.php) |
-
 <a name="console_commands.spool_import_poll"></a>
 ## Name
 

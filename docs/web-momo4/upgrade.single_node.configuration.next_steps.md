@@ -1,6 +1,3 @@
-| 10.9. Next Steps |
-| [Prev](upgrade.single_node.complete_setup.php)  | Chapter 10. Upgrade - Single Node |  [Next](upgrade.two_tier_configuration_rolling.php) |
-
 ## 10.9. Next Steps
 
 1.  Continue to [Chapter 12, *Post-Installation*](post_installation.php "Chapter 12. Post-Installation") for additional actions you may need to perform in order to complete your installation.

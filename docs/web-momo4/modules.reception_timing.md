@@ -1,6 +1,3 @@
-| 71.57. reception_timing - Reception Timing Modules |
-| [Prev](modules.postfix_logger.php)  | Chapter 71. Modules Reference |  [Next](modules.response_transcode.php) |
-
 ## 71.57. reception_timing - Reception Timing Modules
 
 <a class="indexterm" name="idp22662400"></a>

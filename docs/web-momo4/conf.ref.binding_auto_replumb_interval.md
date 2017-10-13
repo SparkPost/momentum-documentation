@@ -1,6 +1,3 @@
-| binding_auto_replumb_interval |
-| [Prev](conf.ref.binding_auto_replumb.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.binding_group.php) |
-
 <a name="conf.ref.binding_auto_replumb_interval"></a>
 ## Name
 

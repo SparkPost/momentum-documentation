@@ -1,6 +1,3 @@
-| msgpart:raw_match |
-| [Prev](lua.ref.msgpart_insertBefore.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msgpart_raw_replace.php) |
-
 <a name="lua.ref.msgpart_raw_match"></a>
 ## Name
 

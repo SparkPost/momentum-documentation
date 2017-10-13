@@ -1,6 +1,3 @@
-| ec_httpsrv_request_peer_address |
-| [Prev](apis.ec_httpsrv_request_local_address.php)  | Chapter 69. Hook Points and C Functions Reference |  [Next](lua.function.details.php) |
-
 <a name="apis.ec_httpsrv_request_peer_address"></a>
 ## Name
 

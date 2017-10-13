@@ -1,6 +1,3 @@
-| 35.11. Connection Stages |
-| [Prev](bounce_logger.classification.codes.php)  | Chapter 35. Log Formats |  [Next](p.operations.php) |
-
 ## 35.11. Connection Stages
 
 The following is a list of the codes for the stages and their meanings.

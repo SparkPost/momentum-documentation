@@ -1,6 +1,3 @@
-| 71.73. url_ripper – URL Extraction |
-| [Prev](tls_macros.php)  | Chapter 71. Modules Reference |  [Next](config.options.ref.php) |
-
 ## 71.73. url_ripper – URL Extraction
 
 <a class="indexterm" name="idp23292880"></a>

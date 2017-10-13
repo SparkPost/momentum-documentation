@@ -1,6 +1,3 @@
-| 26.2. Centralized Logging Example |
-| [Prev](log_aggregation.php)  | Chapter 26. Log Aggregation |  [Next](cluster.config.logging.complex.php) |
-
 ## 26.2. Centralized Logging Example
 
 This section provides an example of log aggregation when a custom_logger and an fbl module are defined.

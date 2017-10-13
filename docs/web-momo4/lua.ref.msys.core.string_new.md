@@ -1,6 +1,3 @@
-| msys.core.string_new |
-| [Prev](lua.ref.msys.core.mail_queue_delay_domain.php)  | Chapter 70. Lua Functions Reference |  [Next](lua.ref.msg_code.php) |
-
 <a name="lua.ref.msys.core.string_new"></a>
 ## Name
 

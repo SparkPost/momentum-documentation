@@ -1,6 +1,3 @@
-| authorization |
-| [Prev](conf.ref.async_bounce_rendering.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.bind_address.php) |
-
 <a name="conf.ref.authorization"></a>
 ## Name
 

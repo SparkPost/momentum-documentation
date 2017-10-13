@@ -1,6 +1,3 @@
-| body_timeout |
-| [Prev](conf.ref.blackhole.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.bounce_behavior.php) |
-
 <a name="conf.ref.body_timeout"></a>
 ## Name
 

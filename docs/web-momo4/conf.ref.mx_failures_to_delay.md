@@ -1,6 +1,3 @@
-| mx_failures_to_delay |
-| [Prev](conf.ref.mx_failures_fallback_to_a.php)  | Chapter 72. Configuration Options Reference |  [Next](conf.ref.never_attempt_expired_messages.php) |
-
 <a name="conf.ref.mx_failures_to_delay"></a>
 ## Name
 
