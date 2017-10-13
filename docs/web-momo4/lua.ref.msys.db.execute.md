@@ -87,10 +87,3 @@ The data cache used in the preceding example must be defined in your configurati
 ## See Also
 
 [msys.db.query](lua.ref.msys.db.query.php "msys.db.query"), [msys.db.fetch_row](lua.ref.msys.db.fetch_row.php "msys.db.fetch_row"), [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets")
-
-| [Prev](lua.function.details.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.ac_esmtp_capability_add.php) |
-| Chapter 70. Lua Functions Reference  | [Table of Contents](index.php) |  ac:esmtp_capability_add |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

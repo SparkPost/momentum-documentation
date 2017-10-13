@@ -18,10 +18,3 @@ The default value is 3 attempts.
 ## Scope
 
 drop_body_after_trans_fail is valid in the binding, binding_group, domain, and global scopes.
-
-| [Prev](conf.ref.domainkeys.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.ecstream_port.php) |
-| domainkeys  | [Table of Contents](index.php) |  ecstream_port |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

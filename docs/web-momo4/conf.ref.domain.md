@@ -71,10 +71,3 @@ For a complete list of options valid in the domain scope, refer to [Chapter 66,
 ## See Also
 
 [binding](conf.ref.binding.php "binding"), [host](conf.ref.host.php "host"), [match_cache_life](conf.ref.match_cache_life.php "match_cache_life"), [match_cache_size](conf.ref.match_cache_size.php "match_cache_size")
-
-| [Prev](conf.ref.domain_for_unqualified_sender_address.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.domainkeys.php) |
-| domain_for_unqualified_sender_address  | [Table of Contents](index.php) |  domainkeys |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

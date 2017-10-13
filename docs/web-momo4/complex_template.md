@@ -198,10 +198,3 @@ Follow these steps to view your engagement data:
     ![Engagement Report](images/engagement_weather.png)
 
 Congratulations! You have used your knowledge of the REST API to create and use a complex template. For additional information, see [Momentum REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
-
-| [Prev](sending_cc_bcc.php)  | [Up](p.http_rest.php) |  [Next](p.analytics.php) |
-| Chapter 52. Sending Emails as CC and BCC  | [Table of Contents](index.php) |  Part VIII. Reporting and Engagement Tracking |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

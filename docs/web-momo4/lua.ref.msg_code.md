@@ -44,10 +44,3 @@ During reception, you will likely want to set the code by using [vctx:set_code](
 ## See Also
 
 [vctx:set_code](lua.ref.vctx_set_code.php "vctx:set_code")
-
-| [Prev](lua.ref.msys.core.string_new.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msg_get_envelope2.php) |
-| msys.core.string_new  | [Table of Contents](index.php) |  msg:get_envelope2 |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

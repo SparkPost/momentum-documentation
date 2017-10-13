@@ -28,10 +28,3 @@ The corresponding context variable is `smtpapi_click_tracking`, and the correspo
 ## Scope
 
 `click_tracking_enabled` is valid in the esmtp_listener, listen, pathway, pathway_group, and peer scope.
-
-| [Prev](conf.ref.clear_mail_queue_maintainers.php)  | [Up](config.options.ref.php) |  [Next](config.click_tracking_scheme.php) |
-| clear_mail_queue_maintainers  | [Table of Contents](index.php) |  click_tracking_scheme |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

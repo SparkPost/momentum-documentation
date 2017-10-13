@@ -119,10 +119,3 @@ ESMTP_Listener {
 ```
 
 However, you still need to configure an account log logging module in order to record the accounting information. Set the `acctlog` option in an [ec_logger](modules.ec_logger.php "71.30. EC_logger – Momentum-Style Logging") module in your configuration. When log authentication is enabled, a line will be written to the `acctlog` file for every authorization event. Each command and its authorization status will be logged to the `acctlog`. If a command is allowed, the role that matched will be included in the log entry. For `acctlog` format, see [Section 35.1, “`acctlog`”](log_formats.php#log_formats.acctlog "35.1. acctlog").
-
-| [Prev](esmtp_listener.extensions.php)  | [Up](esmtp_listener.php) |  [Next](inbound_ssl.php) |
-| 19.4. SMTP Extensions  | [Table of Contents](index.php) |  19.6. Inbound SSL |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

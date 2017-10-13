@@ -39,10 +39,3 @@ transform_8bitmime_content is valid in the global, binding_group, binding, and d
 ## See Also
 
 [send_8bitmime](conf.ref.send_8bitmime.php "send_8bitmime")
-
-| [Prev](conf.ref.transfail_drain_rate.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.umem_reap_interval.php) |
-| transfail_drain_rate  | [Table of Contents](index.php) |  umem_reap_interval |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

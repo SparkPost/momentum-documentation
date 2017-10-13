@@ -33,10 +33,3 @@ Please consult with support before reconfiguring Momentum as described here. The
 ## See Also
 
 [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery")
-
-| [Prev](config.options.ref.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.adaptive_backstore_riak.php) |
-| Chapter 72. Configuration Options Reference  | [Table of Contents](index.php) |  adaptive_backstore_riak |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -18,10 +18,3 @@ The default value is `false`.
 ## Scope
 
 `tls_verified_peer_is_authorized` is valid in the http_listener, listen, pathway, and peer scopes.
-
-| [Prev](config.tls_protocols.php)  | [Up](config.options.ref.php) |  [Next](config.tls_verify.php) |
-| tls_protocols  | [Table of Contents](index.php) |  tls_verify |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

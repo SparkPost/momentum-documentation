@@ -50,10 +50,3 @@ For a detailed description of configuring Momentum for push notifications, see [
 ## Scope
 
 `idle_timeout` is valid in the binding, binding_group, domain, and global scopes.
-
-| [Prev](conf.ref.http_version.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.inbound_throttle_messages.php) |
-| http_version  | [Table of Contents](index.php) |  inbound_throttle_messages |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

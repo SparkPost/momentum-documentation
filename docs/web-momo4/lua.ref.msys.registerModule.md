@@ -86,10 +86,3 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 ## See Also
 
 [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets"), [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet.php "71.60. scriptlet - Lua Policy Scripts")
-
-| [Prev](lua.ref.msys.registerControl.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.runinpool.php) |
-| msys.registerControl  | [Table of Contents](index.php) |  msys.runInPool |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

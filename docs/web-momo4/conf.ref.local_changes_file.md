@@ -23,10 +23,3 @@ local_changes_file is valid in the global scope.
 ## See Also
 
 [local_changes_only](conf.ref.local_changes_only.php "local_changes_only")
-
-| [Prev](conf.ref.lmtp_port.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.local_changes_only.php) |
-| lmtp_port  | [Table of Contents](index.php) |  local_changes_only |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

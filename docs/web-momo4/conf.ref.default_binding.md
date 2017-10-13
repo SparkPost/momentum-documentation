@@ -31,10 +31,3 @@ If you are using MultiVIP© interfaces, you may want to use one of the following
 ## See Also
 
 [suspend_delivery](conf.ref.suspend_delivery.php "suspend_delivery"), [binding](conf.ref.binding.php "binding"), and [the section called “`default` Binding”](conf.ref.binding.php#conf.ref.binding.default "default Binding")
-
-| [Prev](conf.ref.debug_flags.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.default_charset.php) |
-| debug_flags  | [Table of Contents](index.php) |  default_charset |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

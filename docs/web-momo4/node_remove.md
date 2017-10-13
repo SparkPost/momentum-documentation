@@ -277,10 +277,3 @@ Move the spool files to a functional Platform node. For more information, see [s
 2.  Double-check the Cassandra cluster status.
 
     `service msys-cassandra status`
-
-| [Prev](add_remove_platform_nodes.php)  | [Up](add_remove_platform_nodes.php) |  [Next](add_remove_analytics_nodes.php) |
-| Chapter 13. Adding and Removing Platform Nodes  | [Table of Contents](index.php) |  Chapter 14. Adding and Removing Analytics Nodes |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

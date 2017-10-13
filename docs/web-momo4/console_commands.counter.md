@@ -88,10 +88,3 @@ You can also display and manipulate counters through the following Lua functions
 *   [msys.counter.reset](lua.ref.msys.counter.reset.php "msys.counter.reset")
 
 *   [msys.counter.unlink](lua.ref.msys.counter.unlink.php "msys.counter.unlink")
-
-| [Prev](console_commands.count.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.delayed.php) |
-| count  | [Table of Contents](index.php) |  delayed |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

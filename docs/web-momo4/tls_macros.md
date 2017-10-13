@@ -121,10 +121,3 @@ custom_logger custom_logger1 {
 ```
 {% endraw  %}
 For more information on the custom_logger, see [Section 71.25, “custom_logger – User-defined Logging”](modules.custom_logger.php "71.25. custom_logger – User-defined Logging").
-
-| [Prev](modules.syslog_io.php)  | [Up](modules.php) |  [Next](modules.url_ripper.php) |
-| 71.71. syslog_io – The syslog_io Module  | [Table of Contents](index.php) |  71.73. url_ripper – URL Extraction |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

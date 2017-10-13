@@ -38,10 +38,3 @@ The following are the configuration options related to inbound TLS:
 *   [tls_verify_mode](config.tls_verify_mode.php "tls_verify_mode")
 
 If client certificate verification fails, the SMTP session does not terminate. The TLS status is stored in predefined context validation variables, so it is possible to drive TLS policy from policy scripts. You can use this to reject messages when client verification failed. For more information regarding the TLS-related context variables, see [Section 63.1.1, “Global Predefined Connection Context Variables”](policy.context.variables.php#policy.predefined-context-conn-global "63.1.1. Global Predefined Connection Context Variables").
-
-| [Prev](inbound_ssl.php)  | [Up](esmtp_listener.php) |  [Next](http_listener.php) |
-| 19.6. Inbound SSL  | [Table of Contents](index.php) |  Chapter 20. Configuring Inbound Mail Service Using HTTP |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

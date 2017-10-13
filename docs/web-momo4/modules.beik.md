@@ -139,10 +139,3 @@ Use this command to reload the beik module. You do not need to manually invoke t
 </dd>
 
 </dl>
-
-| [Prev](modules.auth_radius.php)  | [Up](modules.php) |  [Next](modules.bind_address_secondary.php) |
-| 71.9. auth_radius – RADIUS based SMTP Authentication  | [Table of Contents](index.php) |  71.11. bind_address_secondary – Dual-stack IPv4/IPv6 Support |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

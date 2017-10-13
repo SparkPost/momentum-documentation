@@ -36,10 +36,3 @@ unresolvableproblems.com purged, 62415 messages failed.
 ## See Also
 
 [binding fail domain quiet](console_commands.binding_fail_domain_quiet.php "binding fail domain quiet")
-
-| [Prev](console_commands.binding_delayed.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.binding_fail_domain_quiet.php) |
-| binding delayed  | [Table of Contents](index.php) |  binding fail domain quiet |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

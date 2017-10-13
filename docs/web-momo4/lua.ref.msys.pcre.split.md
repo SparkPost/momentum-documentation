@@ -49,10 +49,3 @@ Enable this function with the statement `require('msys.pcre')`.
 ## See Also
 
 [msys.pcre.match](lua.ref.msys.pcre.match.php "msys.pcre.match"), [msys.pcre.replace](lua.ref.msys.pcre.replace.php "msys.pcre.replace")
-
-| [Prev](lua.ref.msys.pcre.replace.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.os.statvfs_read.php) |
-| msys.pcre.replace  | [Table of Contents](index.php) |  msys.os.statvfs_read |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

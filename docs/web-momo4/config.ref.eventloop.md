@@ -44,10 +44,3 @@ You cannot define an eventloop or change its `concurrency` at runtime as these c
 ## See Also
 
 [delivery_pool](config.ref.delivery_pool.php "delivery_pool"), [maintainer_pool](config.ref.maintainer_pool.php "maintainer_pool"), and [event_loop](config.ref.event_loop.php "event_loop")
-
-| [Prev](config.ref.event_loop.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.events_per_iter.php) |
-| event_loop  | [Table of Contents](index.php) |  events_per_iter |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

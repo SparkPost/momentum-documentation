@@ -145,10 +145,3 @@ binding "example" {
 ```
 
 If you want a listener to follow a binding, give the listener and the binding different IP addresses. Additionally, you should **not** use `duravip_preference` when using `duravip_follow`. If a listener has `enable_duravip` set to true, do not set a `duravip_preference` for this listener.
-
-| [Prev](cluster.config.logging.decommissioning.php)  | [Up](p.configuration.php) |  [Next](cluster.config.mmove.php) |
-| 26.5. Decommissioning a Log Aggregator  | [Table of Contents](index.php) |  27.2. `duravip_follow` and the #mmove Binding |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

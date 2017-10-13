@@ -22,10 +22,3 @@ The corresponding context variable is `smtpapi_click_tracking_scheme`. There is 
 ## Scope
 
 `click_tracking_scheme` is valid in the esmtp_listener, listen, pathway, pathway_group, and peer scope.
-
-| [Prev](config.click_tracking_enabled.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.cluster_max_outbound_connections.php) |
-| click_tracking_enabled  | [Table of Contents](index.php) |  cluster_max_outbound_connections |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

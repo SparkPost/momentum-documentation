@@ -30,10 +30,3 @@ The following is a description of the fields:
 | 5 | 200 | HTTP response status code |
 | 6 | 224 | Total number of bytes of the response |
 | 7 | 5.000 | Time taken from request to response in milliseconds |
-
-| [Prev](log_formats.mainlog.php)  | [Up](log_formats.php) |  [Next](log_formats.rejectlog.php) |
-| 35.7. `mainlog`  | [Table of Contents](index.php) |  35.9. `rejectlog` |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

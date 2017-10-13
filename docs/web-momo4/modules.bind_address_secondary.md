@@ -18,10 +18,3 @@ bind_address_secondary {}
 binding "whatever" {
   bind_address_secondary = *`whatever`*
 }
-
-| [Prev](modules.beik.php)  | [Up](modules.php) |  [Next](modules.bounce_classifier_override.php) |
-| 71.10. beik – Symantec Brightmail™ Engine Integration Kit  | [Table of Contents](index.php) |  71.12. bounce_classifier_override – Override/Augment Bounce Classifications |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

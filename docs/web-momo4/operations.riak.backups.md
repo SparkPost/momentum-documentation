@@ -9,10 +9,3 @@ For details about backing up Riak, consult the [Riak](http://http://docs.basho.c
 ### Note
 
 Note that some of the Message Systems use cases may result in a large volume of data being retained in Riak. Expect the backup files to be equally large.
-
-| [Prev](operations.riak.ports.php)  | [Up](riak.php) |  [Next](environment_file.php) |
-| 30.3. Riak Ports  | [Table of Contents](index.php) |  Chapter 31. Configuring the Environment File |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

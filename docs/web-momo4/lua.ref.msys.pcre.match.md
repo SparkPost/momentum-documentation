@@ -45,10 +45,3 @@ The return values are as follows:
 ## See Also
 
 [msys.pcre.split](lua.ref.msys.pcre.split.php "msys.pcre.split"), [msys.pcre.replace](lua.ref.msys.pcre.replace.php "msys.pcre.replace")
-
-| [Prev](lua.ref.msys.gcm.gcm_get_result_error_code.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.pcre.replace.php) |
-| msys.gcm.gcm_get_result_error_code  | [Table of Contents](index.php) |  msys.pcre.replace |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

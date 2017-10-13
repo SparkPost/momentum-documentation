@@ -87,10 +87,3 @@ The following are the columns in the table:
 *   Duration - Duration of the adaptive event
 
 You can filter the data further by Type to narrow the scope of your report. Click the filter icon in the Type column to select Throttle or Suspension from the drop-down list. Sort the table by any column to show different arrangements. For example, filter by Throttle for Type, and then sort in descending order by Trigger. The resulting table displays the reasons why messages were throttled in descending order of trigger code.
-
-| [Prev](web-ui.reports.viewing.reports.php)  | [Up](web-ui.reports.php) |  [Next](web-ui.reports.evaluating.campaign.performance.php) |
-| 57.2. Viewing Your Reports  | [Table of Contents](index.php) |  57.4. Evaluating Your Campaign Performance |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

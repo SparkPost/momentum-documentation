@@ -100,10 +100,3 @@ When used along with another option or options this option provides verbose outp
 ## See Also
 
 [Section 71.43, “jlog – jlog-Formatted Logging”](modules.jlog.php "71.43. jlog – jlog-Formatted Logging"), [Section 26.5, “Decommissioning a Log Aggregator”](cluster.config.logging.decommissioning.php "26.5. Decommissioning a Log Aggregator")
-
-| [Prev](executable.jlog_sanity_check.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.lu_pull.php) |
-| jlog_sanity_check  | [Table of Contents](index.php) |  lu_pull |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

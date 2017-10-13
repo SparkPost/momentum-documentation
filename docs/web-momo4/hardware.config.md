@@ -39,10 +39,3 @@ Note: This array should be dedicated to the spools.
 *   Analytics DB - /var/db/vertica
 
  |
-
-| [Prev](hardware.environmental.php)  | [Up](hardware.requirements.php) |  [Next](production.config.php) |
-| 5.4. Environmental Considerations  | [Table of Contents](index.php) |  5.6. Production Environment Configurations |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

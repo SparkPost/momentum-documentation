@@ -43,10 +43,3 @@ user and group are valid in the security scope.
 ## See Also
 
 [security](conf.ref.security.php "security"), [capabilities](conf.ref.capabilities.php "capabilities"), [chroot](conf.ref.chroot.php "chroot"), and [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups")
-
-| [Prev](conf.ref.use_sendfile.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.xclient.php) |
-| use_sendfile  | [Table of Contents](index.php) |  xclient |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

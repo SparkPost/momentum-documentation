@@ -124,10 +124,3 @@ This variable, if it exists, contains information pertaining to the error that o
 ### 71.14.3. Lua Functions
 
 This module makes the Lua function `msys.brightmail.scan` available. For a description of how this function is used, see [msys.brightmail.scan](lua.ref.msys.brightmail.scan.php "msys.brightmail.scan").
-
-| [Prev](modules.bounce_logger.php)  | [Up](modules.php) |  [Next](modules.chunk_logger.php) |
-| 71.13. bounce_logger – Momentum-Style Bounce Logging  | [Table of Contents](index.php) |  71.15. chunk_logger Module |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

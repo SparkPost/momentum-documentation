@@ -50,10 +50,3 @@ msys.registerModule("validate_set_binding", mod);
 ## See Also
 
 [msg:binding_group](lua.ref.msg_binding_group.php "msg:binding_group")
-
-| [Prev](lua.ref.msg_address_header.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msg_binding_group.php) |
-| msg:address_header  | [Table of Contents](index.php) |  msg:binding_group |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

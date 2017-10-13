@@ -50,10 +50,3 @@ Set the log file verbosity. The log level is a number from 0 to 7, where higher 
 ## See Also
 
 [ecconfigd_ctl](executable.ecconfigd_ctl.php "ecconfigd_ctl"), [eccfg](executable.eccfg.php "eccfg"), [Section 15.1.3, “Configuration Management (**ecconfigd**)”](conf.overview.php#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)"), [create_ssl_cert](executable.create_ssl_cert.php "create_ssl_cert")
-
-| [Prev](executable.eccmgr_ctl.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ecconfigd_ctl.php) |
-| eccmgr_ctl  | [Table of Contents](index.php) |  ecconfigd_ctl |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

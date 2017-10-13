@@ -24,10 +24,3 @@ These options are described below:
 *   `vm.max_map_count` – This kernel parameter controls mapped areas and needs to be increased.
 
 *   `net.core.wmem_max` – This kernel parameter raises the maximum operating system send buffer size for all types of connections.
-
-| [Prev](byb.ntp.php)  | [Up](before_you_begin.php) |  [Next](byb.set_hostnames.php) |
-| 6.6. Enable Network Time Protocol (NTP)  | [Table of Contents](index.php) |  6.8. Setting Hostnames |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

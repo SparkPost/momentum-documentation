@@ -88,10 +88,3 @@
     ```
 
 3.  You should now be able to login to the UI by placing the IP address of the first Analytics node into a browser's address bar.
-
-| [Prev](install.analytics_nodes.php)  | [Up](new_installation.php) |  [Next](upgrade.single_node.php) |
-| 9.3. Configure the Analytics Nodes  | [Table of Contents](index.php) |  Chapter 10. Upgrade - Single Node |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

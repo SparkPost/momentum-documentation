@@ -32,10 +32,3 @@ The default value is `no`.
 ## Scope
 
 `tls` is valid in the binding, binding_group, domain, and global scopes.
-
-| [Prev](conf.ref.timestampformat.php)  | [Up](config.options.ref.php) |  [Next](config.tls_allow_renegotiation.php) |
-| timestampformat  | [Table of Contents](index.php) |  tls_allow_renegotiation |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

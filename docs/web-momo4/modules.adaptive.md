@@ -1022,10 +1022,3 @@ Adjusting the format of this report by changing the parameters passed to the ad_
 Log retention is enabled by default and uses the existing ec_rotate log rotation process. ec_rotate consults `ec_rotate.conf` to determine what and where to look for logs to rotate. For more information, see [Section 34.1, “`ec_rotate.conf` File”](log_rotating.php#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File").
 
 For the format of the adaptive log, see [Section 35.2, “`adaptive` Log”](adaptive.log.format.php "35.2. adaptive Log").
-
-| [Prev](modules.ac_auth.php)  | [Up](modules.php) |  [Next](modules.alerting.php) |
-| 71.2. ac_auth – Authentication Handler  | [Table of Contents](index.php) |  71.4. alerting – Send Alerting Emails |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

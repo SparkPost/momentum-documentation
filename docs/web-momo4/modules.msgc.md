@@ -226,10 +226,3 @@ The loopback address is used because msgc_server is run on all managers and node
 </dd>
 
 </dl>
-
-| [Prev](modules.maildir.php)  | [Up](modules.php) |  [Next](modules.msg_gen.php) |
-| 71.46. maildir – Maildir Delivery Support  | [Table of Contents](index.php) |  71.48. msg_gen – Message Generation |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

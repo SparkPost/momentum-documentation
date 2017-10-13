@@ -274,10 +274,3 @@ This describes how you can configure Momentum to communicate with the Cloudmark 
     ### Note
 
     The latter case is only significant in the MOVEMSG ActiveFilter mode. If you are discarding messages then there is no action to take in the false positive case.
-
-| [Prev](modules.clamav.php)  | [Up](modules.php) |  [Next](modules.cluster.php) |
-| 71.17. clamav – ClamAV  | [Table of Contents](index.php) |  71.19. cluster – Cluster |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

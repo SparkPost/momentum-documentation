@@ -33,10 +33,3 @@ For RFC 1652 compliance you should set `Send_8BitMime` to `ifavailable` and `Tra
 ## See Also
 
 [transform_8bitmime_content](conf.ref.transform_8bitmime_content.php "transform_8bitmime_content")
-
-| [Prev](conf.ref.security.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.server_max_file_descriptors.php) |
-| security  | [Table of Contents](index.php) |  server_max_file_descriptors |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

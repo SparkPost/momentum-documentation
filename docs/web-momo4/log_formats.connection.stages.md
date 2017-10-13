@@ -33,10 +33,3 @@ The following is a list of the codes for the stages and their meanings.
 | 22 | in unknown state |
 
 Code `21` is the only message disposition notification (MDN). With the exception of `22`, which is unknown, all other stages occur during the SMTP transaction. In other words, they are in-band bounces.
-
-| [Prev](bounce_logger.classification.codes.php)  | [Up](log_formats.php) |  [Next](p.operations.php) |
-| 35.10. Bounce Classification Codes  | [Table of Contents](index.php) |  Part V. Using the System Console |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

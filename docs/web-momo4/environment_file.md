@@ -61,10 +61,3 @@ Environment variables can be set in the `/opt/msys/ecelerity/etc/environment` fi
 ### Note
 
 The `GIMLI_WATCHDOG_INTERVAL`, `GIMLI_WATCHDOG_START_INTERVAL`, and `GIMLI_WATCHDOG_STOP_INTERVAL` variables set the interval for restarting Momentum when it has been unresponsive. For more details execute **`man -M /opt/msys/gimli/man monitor`**                                .
-
-| [Prev](operations.riak.backups.php)  | [Up](p.configuration.php) |  [Next](p.logs.php) |
-| 30.4. Backups  | [Table of Contents](index.php) |  Part IV. Logging |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -20,10 +20,3 @@ sendmail_logger "sendmail_logger1" {
   paniclog = "/var/log/sendmail/paniclog"
 }
 ```
-
-| [Prev](modules.seedlist.php)  | [Up](modules.php) |  [Next](modules.smtp_auth_proxy.php) |
-| 71.62. seedlist – Seedlist Integration  | [Table of Contents](index.php) |  71.64. smtp_auth_proxy - SMTP Authentication Proxy |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -134,10 +134,3 @@ In summary, the value that a configuration option assumes, in order of decreasin
 *   Value specified within a global domain stanza
 
 *   Global setting
-
-| [Prev](conf.options.php)  | [Up](conf.overview.php) |  [Next](listeners.php) |
-| 15.2. Configuration Options  | [Table of Contents](index.php) |  15.4. Listeners |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

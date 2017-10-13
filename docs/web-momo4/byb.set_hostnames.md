@@ -33,10 +33,3 @@ The following solution is run using basic tools, but you may want to use advance
 
     `dig +short $HOSTNAME`
 5.  Either edit the `/etc/hosts` file on **all systems in the cluster**                        to match this convention or configure your Domain Name Server accordingly.
-
-| [Prev](byb.sysctl.conf.php)  | [Up](before_you_begin.php) |  [Next](byb.jre.php) |
-| 6.7. Adjusting `/etc/sysctl.conf`  | [Table of Contents](index.php) |  6.9. Java Runtime Environment (JRE) |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

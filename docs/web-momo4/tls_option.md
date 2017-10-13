@@ -66,10 +66,3 @@ binding "customer-1" {
 ### 25.5.2. Logging Macros
 
 A number of macros are available to enable logging of details about the TLS session used for a delivery attempt. To use these macros, you must load the tls_macros module. See [Section 71.72, “tls_macros – TLS-related Logging”](tls_macros.php "71.72. tls_macros – TLS-related Logging").
-
-| [Prev](outbound_mail.traffic.shaping.php)  | [Up](outbound_mail.php) |  [Next](outbound_mail.outbound.xclient.php) |
-| 25.4. Throttling and Traffic Shaping  | [Table of Contents](index.php) |  25.6. Outbound XCLIENT support |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

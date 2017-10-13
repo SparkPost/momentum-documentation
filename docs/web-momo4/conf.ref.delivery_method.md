@@ -60,10 +60,3 @@ For domain configuration when the `delivery_method` is `mm7` see [Domain Configu
 ## See Also
 
 [ecstream_port](conf.ref.ecstream_port.php "ecstream_port"), [lmtp_port](conf.ref.lmtp_port.php "lmtp_port"), [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/), [msg:get_delivery_method](lua.ref.msg_get_delivery_method.php "msg:get_delivery_method"), and [routes](conf.ref.routes.php "routes")
-
-| [Prev](conf.ref.delayed_queue_scan_interval.php)  | [Up](config.options.ref.php) |  [Next](config.ref.delivery_pool.php) |
-| delayed_queue_scan_interval  | [Table of Contents](index.php) |  delivery_pool |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

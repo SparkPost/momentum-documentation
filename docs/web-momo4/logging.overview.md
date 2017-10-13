@@ -47,10 +47,3 @@ Momentum can generate logs in two formats:
 *   text - entries vary based on the type of log. For the log formats, see [Chapter 35, *Log Formats*](log_formats.php "Chapter 35. Log Formats") .
 
 *   [jlog](modules.jlog.php "71.43. jlog – jlog-Formatted Logging") - binary, consumable logs, intended to be consumed by an application. These logs will continue to be saved until a consumer reads them.
-
-| [Prev](p.logs.php)  | [Up](p.logs.php) |  [Next](logging.configuration.php) |
-| Part IV. Logging  | [Table of Contents](index.php) |  32.2. Logging Configuration |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

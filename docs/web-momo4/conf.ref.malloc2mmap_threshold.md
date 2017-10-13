@@ -25,10 +25,3 @@ malloc2mmap_threshold is valid in the global scope.
 ## See Also
 
 [use_mmap](conf.ref.use_mmap.php "use_mmap")
-
-| [Prev](config.ref.maintainer_pool.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.masterdb_file.php) |
-| maintainer_pool  | [Table of Contents](index.php) |  masterdb_file |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

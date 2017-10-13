@@ -375,10 +375,3 @@ The following options are set to boolean, `true` or `false` only. (`0` and `1` a
 ### See Also
 
 [curl.new](lua.ref.curl.new.php "curl.new")
-
-| [Prev](lua.ref.curl.c_perform.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.curl.escape.php) |
-| c:perform  | [Table of Contents](index.php) |  curl.escape |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

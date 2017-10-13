@@ -27,10 +27,3 @@ server_reserve_outbound_connections is valid in the global scope.
 ## See Also
 
 [server_max_outbound_connections](conf.ref.server_max_outbound_connections.php "server_max_outbound_connections")
-
-| [Prev](conf.ref.server_max_outbound_connections.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.signing_stats.php) |
-| server_max_outbound_connections  | [Table of Contents](index.php) |  signing_stats |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

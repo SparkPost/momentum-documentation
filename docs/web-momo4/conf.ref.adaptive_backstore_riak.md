@@ -30,10 +30,3 @@ The options in this scope replace the `backing_store_connect_timeout` and the `b
 ## See Also
 
 [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery") and [adaptive_backstore_leveldb](conf.ref.adaptive_backstore_leveldb.php "adaptive_backstore_leveldb")
-
-| [Prev](conf.ref.adaptive_backstore_leveldb.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.adaptive_enabled.php) |
-| adaptive_backstore_leveldb  | [Table of Contents](index.php) |  adaptive_enabled |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

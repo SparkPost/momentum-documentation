@@ -76,10 +76,3 @@ This option configures the program that will be used.
 </dd>
 
 </dl>
-
-| [Prev](modules.pipeio.php)  | [Up](modules.php) |  [Next](modules.postfix_logger.php) |
-| 71.54. pipe_io – Pipe IO Wrapper  | [Table of Contents](index.php) |  71.56. postfix_logger – Postfix Logging |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

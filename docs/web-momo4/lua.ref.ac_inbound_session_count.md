@@ -54,10 +54,3 @@ The second argument returns the count for the specified service type. Service ty
 *   inbound_cidr
 
 Service type names are case sensitive. If no type is specified, the default is `SMTP`. If you wish to specify the second parameter only, call this function in the following way: `local count = ac:inbound_session_count(nil, "Control");`.
-
-| [Prev](lua.ref.ac_esmtp_capability_remove.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.cloudmark.analyze.php) |
-| ac:esmtp_capability_remove  | [Table of Contents](index.php) |  msys.cloudmark.analyze |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

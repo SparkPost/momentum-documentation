@@ -35,10 +35,3 @@ session to interrogate
 address in ec_sockaddr * format
 
 The remote peer IP address will be valid for the lifetime of the session.
-
-| [Prev](apis.ec_httpsrv_request_local_address.php)  | [Up](hooks.php) |  [Next](lua.function.details.php) |
-| ec_httpsrv_request_local_address  | [Table of Contents](index.php) |  Chapter 70. Lua Functions Reference |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

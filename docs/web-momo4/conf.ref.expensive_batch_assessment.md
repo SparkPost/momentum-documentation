@@ -18,10 +18,3 @@ The default value is `false`.
 ## Scope
 
 expensive_batch_assessment is valid in the global scope.
-
-| [Prev](conf.ref.exclude_vctx_mess.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.force_fsync.php) |
-| exclude_vctx_mess  | [Table of Contents](index.php) |  force_fsync |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

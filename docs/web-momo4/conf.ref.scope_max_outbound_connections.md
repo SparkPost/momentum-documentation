@@ -69,10 +69,3 @@ scope_max_outbound_connections is valid in the global, binding, binding_group, d
 ## See Also
 
 [max_outbound_connections](conf.ref.max_outbound_connections.php "max_outbound_connections"), [server_max_outbound_connections](conf.ref.server_max_outbound_connections.php "server_max_outbound_connections"), [server_reserve_outbound_connections](conf.ref.server_reserve_outbound_connections.php "server_reserve_outbound_connections")
-
-| [Prev](conf.ref.rset_timeout.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.scheduler.php) |
-| rset_timeout  | [Table of Contents](index.php) |  scheduler |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

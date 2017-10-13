@@ -28,10 +28,3 @@ skip_hosts is valid in the global scope.
 ## See Also
 
 [prohibited_hosts](conf.ref.prohibited_hosts.php "prohibited_hosts")
-
-| [Prev](conf.ref.siv_throttle_cache_size.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.snmp.php) |
-| siv_throttle_cache_size  | [Table of Contents](index.php) |  SNMP |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

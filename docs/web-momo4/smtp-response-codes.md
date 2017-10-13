@@ -29,10 +29,3 @@ The SMTP response codes and their meanings are shown in the following table.
 | 552 | Requested mail action aborted: exceeded storage allocation |
 | 553 | Requested action not taken: mailbox name not allowed |
 | 554 | Transaction failed |
-
-| [Prev](snmp-mib.omniti.php)  | [Up](p.appendix.php) |  [Next](libedit.php) |
-| B.3. The `OMNITI-SNMP-MIB.txt` file  | [Table of Contents](index.php) |  Appendix D. Key Binding Reference for ec_console |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

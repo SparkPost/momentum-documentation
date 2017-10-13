@@ -23,10 +23,3 @@ pcre_cache_ttl is valid in the global scope.
 ## See Also
 
 [pcre_cache_size](conf.ref.pcre_cache_size.php "pcre_cache_size")
-
-| [Prev](conf.ref.pcre_cache_size.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.permastore_interval.php) |
-| pcre_cache_size  | [Table of Contents](index.php) |  permastore_interval |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

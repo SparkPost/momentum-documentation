@@ -46,10 +46,3 @@ Cache flush request submitted.
 13:34:55 ecelerity(/tmp/2025)> tls rekey
 Rekey request submitted.
 ```
-
-| [Prev](console_commands.threads.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.trace_smtp.php) |
-| threads  | [Table of Contents](index.php) |  trace smtp |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

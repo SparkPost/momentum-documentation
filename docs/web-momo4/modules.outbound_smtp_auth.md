@@ -98,10 +98,3 @@ Domain "sparkpost.com" {
   Outbound_SMTP_AUTH_Key = "someotherstring"
 }
 ```
-
-| [Prev](modules.outbound_audit.php)  | [Up](modules.php) |  [Next](modules.persistio.php) |
-| 71.51. outbound_audit – Outbound traffic analytics  | [Table of Contents](index.php) |  71.53. persist_io – Persistent IO Wrapper |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -23,10 +23,3 @@ The default value is `100`.
 ## See Also
 
 [async_bounce_rendering](conf.ref.async_bounce_rendering.php "async_bounce_rendering")
-
-| [Prev](conf.ref.snmp.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.spool_mode.php) |
-| SNMP  | [Table of Contents](index.php) |  spool_mode |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

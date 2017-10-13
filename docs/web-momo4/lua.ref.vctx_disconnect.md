@@ -43,10 +43,3 @@ msys.registerModule("vctx_disconnect", mod);
 ```
 
 Because this function is in the `msys.core` namespace, an explicit `require('msys.core')` is not necessary.
-
-| [Prev](lua.ref.vctx_add_recipient.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.vctx_get.php) |
-| vctx:add_recipient  | [Table of Contents](index.php) |  vctx:get |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -232,10 +232,3 @@ cluster {
   }
 }
 ```
-
-| [Prev](cluster.duravip.conflict.php)  | [Up](p.configuration.php) |  [Next](postgresql.php) |
-| 27.4. DuraVIP™ Configuration Conflicts and Ambiguities  | [Table of Contents](index.php) |  Chapter 29. PostgreSQL |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

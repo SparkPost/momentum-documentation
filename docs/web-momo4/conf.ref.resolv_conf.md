@@ -65,10 +65,3 @@ Alias for `options attempts:2`
 ## Scope
 
 resolve_conf is valid in the global scope.
-
-| [Prev](conf.ref.reserve_maintenance_interval.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.response_transcode_pattern.php) |
-| reserve_maintenance_interval  | [Table of Contents](index.php) |  response_transcode_pattern |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

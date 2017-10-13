@@ -130,10 +130,3 @@ Panic log file to operate on. Default value is `/var/log/ecelerity/paniclog.ec.1
 ## See Also
 
 [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery")
-
-| [Prev](exec.cmds.ref.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.create_ssl_cert.php) |
-| Chapter 74. Executable Commands Reference  | [Table of Contents](index.php) |  create_ssl_cert |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

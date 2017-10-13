@@ -39,10 +39,3 @@ When `FAIL` is returned, check the referenced URL for a detailed description of 
 *   See [Transparent Hugepages](https://my.vertica.com/docs/7.0.x/HTML/index.htm#cshid=S0310)
 
 *   See [The NTP Server](https://my.vertica.com/docs/7.0.x/HTML/index.htm#cshid=S0030) and [Section 6.6, “Enable Network Time Protocol (NTP)”](byb.ntp.php "6.6. Enable Network Time Protocol (NTP)")
-
-| [Prev](byb.disable_postfix.php)  | [Up](before_you_begin.php) |  [Next](download_bundle.php) |
-| 6.17. Disable Postfix and QPIDD  | [Table of Contents](index.php) |  Chapter 7. Download the Software Bundle and Prepare |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

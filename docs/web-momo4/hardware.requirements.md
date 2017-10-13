@@ -45,10 +45,3 @@ Momentum is deployed as several distinct “roles”, each providing different f
 ### Note
 
 You do not need to install all roles. Also, some sub-roles can be deployed on separate nodes. Listing all possible permutations is not feasible. Please consult with a Momentum Product Manager for more information on highly distributed deployments.
-
-| [Prev](p.installing.php)  | [Up](p.installing.php) |  [Next](hardware.config_options.php) |
-| Part II. Installing Momentum  | [Table of Contents](index.php) |  5.2. Configuration Options |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

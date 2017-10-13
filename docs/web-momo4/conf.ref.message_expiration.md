@@ -21,10 +21,3 @@ The maximum amount of time in seconds a message will remain undelivered in the s
 ## See Also
 
 [never_attempt_expired_messages](conf.ref.never_attempt_expired_messages.php "never_attempt_expired_messages"), [retry_interval](conf.ref.retry_interval.php "retry_interval") and [max_retries](conf.ref.max_retries.php "max_retries")
-
-| [Prev](conf.ref.memory_hwm.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.migrate_connections_between_sibling_domains.php) |
-| memory_hwm  | [Table of Contents](index.php) |  migrate_connections_between_sibling_domains |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -54,10 +54,3 @@ Configure the tables for running the Flyway data migration tool.
     ### Warning
 
     This command may take a while to complete, but it must be finished before you can proceed.
-
-| [Prev](upgrade.single_node.vertica_updates.php)  | [Up](upgrade.single_node.php) |  [Next](upgrade.single_node.configuration.config_all__nodes.php) |
-| 10.2. Vertica Updates  | [Table of Contents](index.php) |  10.4. Configuration Changes |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

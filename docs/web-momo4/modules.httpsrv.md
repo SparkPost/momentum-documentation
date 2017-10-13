@@ -11,10 +11,3 @@ The httpsrv module must be loaded in the `msg_gen.conf` file, as follows:
 This module only supports the two options common to all modules, namely `enabled` and `debug_level`.
 
 For more information about the `debug_level` option, see [Section 15.5.2, “Module Debugging”](module_config.php#module_config.debugging "15.5.2. Module Debugging").
-
-| [Prev](modules.http_logger.php)  | [Up](modules.php) |  [Next](modules.icu.php) |
-| 71.37. http_logger – HTTP Requests and Responses  | [Table of Contents](index.php) |  71.39. icu – ICU |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

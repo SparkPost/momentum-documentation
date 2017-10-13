@@ -19,10 +19,3 @@ In the Delete API Key window, click Delete API Key to confirm your request, as s
 Deleting an API key revokes all future actions that requests with that API key will take. This is irreversible.
 
 If the API key is successfully deleted, a message will display upon return to the Settings section. Click the x to close the message.
-
-| [Prev](web-ui.apikeys.update.php)  | [Up](web-ui.apikeys.php) |  [Next](message_gen.php) |
-| 44.3. Updating an API Key  | [Table of Contents](index.php) |  Chapter 45. Generating a Transmission |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

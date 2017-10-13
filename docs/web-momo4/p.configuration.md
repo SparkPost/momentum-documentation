@@ -263,10 +263,3 @@
 <dt>[31\. Configuring the Environment File](environment_file.php)</dt>
 
 </dl>
-
-| [Prev](node_remove_analytics.php)  |   |  [Next](conf.overview.php) |
-| 14.2. Removing an Analytics Node  | [Table of Contents](index.php) |  Chapter 15. Configuration Overview |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

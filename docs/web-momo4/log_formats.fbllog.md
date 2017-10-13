@@ -26,10 +26,3 @@ The following is a description of the fields:
 | 7 | abuse | Feedback type |
 | 8 | yahoo.com | Domain to which the FBL message was sent |
 | 9 | true | User-defined string |
-
-| [Prev](log_formats.bouncelog.php)  | [Up](log_formats.php) |  [Next](log_formats.httplog.php) |
-| 35.3. `bouncelog`  | [Table of Contents](index.php) |  35.5. `httplog` |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

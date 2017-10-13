@@ -202,10 +202,3 @@ Use the `with-mobile` option to display the status of SMPP and MM7 message queue
 ## See Also
 
 [binding summary](console_commands.binding_summary.php "binding summary"), [summary reset](console_commands.summary_reset.php "summary reset")
-
-| [Prev](console_commands.spool_in.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.summary_reset.php) |
-| spool_in  | [Table of Contents](index.php) |  summary reset |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

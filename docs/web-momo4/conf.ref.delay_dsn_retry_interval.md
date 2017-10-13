@@ -27,10 +27,3 @@ The default value for this option is `3600`.
 ## See Also
 
 [generate_delay_dsn](conf.ref.generate_delay_dsn.php "generate_delay_dsn"), [delay_dsn_max_retry_interval](conf.ref.delay_dsn_max_retry_interval.php "delay_dsn_max_retry_interval")
-
-| [Prev](conf.ref.delay_dsn_max_retry_interval.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.delayed_binding_domain_fuzz.php) |
-| delay_dsn_max_retry_interval  | [Table of Contents](index.php) |  delayed_binding_domain_fuzz |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

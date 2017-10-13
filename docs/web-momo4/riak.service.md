@@ -11,10 +11,3 @@ Riak is configured to start automatically when the system boots. The service can
 *   `attach` – Attaches to the console of a Riak node running in the background, giving access to the Erlang shell and runtime messages.
 
 *   `console` – Start the Riak node in the foreground, giving access to the Erlang shell and runtime messages.
-
-| [Prev](riak.php)  | [Up](riak.php) |  [Next](operations.riak.ports.php) |
-| Chapter 30. Riak  | [Table of Contents](index.php) |  30.3. Riak Ports |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

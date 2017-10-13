@@ -28,10 +28,3 @@ You can configure the ec_logger module to log import events as described in [Sec
 ## See Also
 
 [spool import_poll](console_commands.spool_import_poll.php "spool import_poll")
-
-| [Prev](console_commands.sp_async.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.spool_import_poll.php) |
-| sp_async  | [Table of Contents](index.php) |  spool import_poll |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

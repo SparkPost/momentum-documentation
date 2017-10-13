@@ -191,10 +191,3 @@ Examples of usage follow:
 ## See Also
 
 [Section 71.61, “securecreds – Password Encryption/Credential Retrieval”](modules.securecreds.php "71.61. securecreds – Password Encryption/Credential Retrieval")
-
-| [Prev](executable.create_ssl_cert.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ec_adtool.php) |
-| create_ssl_cert  | [Table of Contents](index.php) |  ec_adtool |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

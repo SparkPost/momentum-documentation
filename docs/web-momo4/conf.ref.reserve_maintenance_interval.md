@@ -27,10 +27,3 @@ reserve_maintenance_interval is valid in the global scope.
 ## See Also
 
 [server_max_outbound_connections](conf.ref.server_max_outbound_connections.php "server_max_outbound_connections")
-
-| [Prev](conf.ref.require_ehlo.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.resolv_conf.php) |
-| require_ehlo  | [Table of Contents](index.php) |  resolv_conf |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

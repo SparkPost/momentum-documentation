@@ -191,10 +191,3 @@ To remove any filter, click the X located to the right of the filter, as shown i
 ### Note
 
 Navigating to the Engagement section removes all filters except time period and campaign, if selected. Navigating to the Engagement section removes the binding, binding group, and node filters, if selected.
-
-| [Prev](reporting_ui.php)  | [Up](p.analytics.php) |  [Next](web-ui.reports.viewing.reports.php) |
-| Chapter 56. Using the UI for Reporting  | [Table of Contents](index.php) |  57.2. Viewing Your Reports |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -18,10 +18,3 @@ The default value is `false`.
 ## Scope
 
 `dns_fallback_to_tcp` is valid in the global scope.
-
-| [Prev](conf.ref.dns_failures_to_purge.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.domain_for_unqualified_recipient_addresses.php) |
-| dns_failures_to_purge  | [Table of Contents](index.php) |  domain_for_unqualified_recipient_addresses |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

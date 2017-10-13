@@ -50,10 +50,3 @@ The default value for this option is `__hostname__`.
 ## Scope
 
 ehlo_hostname is valid in the binding, binding_group, domain and global scopes.
-
-| [Prev](conf.ref.ecstream_timeout.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.ehlo_timeout.php) |
-| ecstream_timeout  | [Table of Contents](index.php) |  ehlo_timeout |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

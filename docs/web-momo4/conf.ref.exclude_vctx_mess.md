@@ -29,10 +29,3 @@ Exclude_VCTX_Mess is valid in the global, binding, binding_group, and domain sco
 ## See Also
 
 [exclude_vctx_mess](conf.ref.exclude_vctx_mess.php "exclude_vctx_mess"), [keep_message_dicts_in_memory](conf.ref.keep_message_dicts_in_memory.php "keep_message_dicts_in_memory")
-
-| [Prev](conf.ref.exclude_vctx_conn.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.expensive_batch_assessment.php) |
-| exclude_vctx_conn  | [Table of Contents](index.php) |  expensive_batch_assessment |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

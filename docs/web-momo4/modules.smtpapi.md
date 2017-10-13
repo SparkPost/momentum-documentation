@@ -86,10 +86,3 @@ ESMTP_Listener {
         click_tracking_enabled = "true"
 }
 ```
-
-| [Prev](modules.smtp_rcptto_proxy.php)  | [Up](modules.php) |  [Next](modules.spf.php) |
-| 71.66. smtp_rcptto_proxy - SMTP Recipient-To Proxy  | [Table of Contents](index.php) |  71.68. spf Modules – spf_macros, spf_v1, and senderid (SPF v2) |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

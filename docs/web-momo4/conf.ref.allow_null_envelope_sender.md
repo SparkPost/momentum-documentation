@@ -21,10 +21,3 @@ allow_null_envelope_sender is valid in the global, listener, listen, peer, pathw
 ## See Also
 
 [allow_ip_literal](conf.ref.allow_ip_literal.php "allow_ip_literal")
-
-| [Prev](conf.ref.allow_ip_literal.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.allow_trailing_whitespace_in_commands.php) |
-| allow_ip_literal  | [Table of Contents](index.php) |  allow_trailing_whitespace_in_commands |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

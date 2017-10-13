@@ -51,10 +51,3 @@ cluster {
 ```
 
 If the `logfile` option in the `Logs` scope is configured as shown in [Section 16.2, “`eccluster.conf` File”](conf.ref.eccluster.conf.php "16.2. eccluster.conf File"), you will have access to the fbl logs of `node1` belonging to subcluster `mysubcluster` in the /var/log/eccluster/*`year/mon/day`*/fbllog/mycluster/node1 directory on the log aggregator.
-
-| [Prev](log_aggregation.php)  | [Up](log_aggregation.php) |  [Next](cluster.config.logging.complex.php) |
-| Chapter 26. Log Aggregation  | [Table of Contents](index.php) |  26.3. Complex Centralized Logging Deployments |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

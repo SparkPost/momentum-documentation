@@ -23,10 +23,3 @@ You can also use the [counter](console_commands.counter.php "counter") console c
 ## See Also
 
 [msys.counter.inc](lua.ref.msys.counter.inc.php "msys.counter.inc"), [msys.counter.add](lua.ref.msys.counter.add.php "msys.counter.add"), [msys.counter.open](lua.ref.msys.counter.open.php "msys.counter.open"), [msys.counter.reset](lua.ref.msys.counter.reset.php "msys.counter.reset")
-
-| [Prev](lua.ref.msys.counter.reset.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.db.fetch_row.php) |
-| msys.counter.reset  | [Table of Contents](index.php) |  msys.db.fetch_row |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

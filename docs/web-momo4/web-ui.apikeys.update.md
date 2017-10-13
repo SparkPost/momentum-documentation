@@ -17,10 +17,3 @@ Make your changes in the Edit API Key form, as shown in [Figure 44.5, “Edit A
 ![Edit API Key](images/edit_apikey.png)
 
 If the API key successfully updates, a message will display upon return to the Settings section. Click the x to close the message.
-
-| [Prev](web-ui.apikeys.create.php)  | [Up](web-ui.apikeys.php) |  [Next](web-ui.apikeys.delete.php) |
-| 44.2. Creating an API Key  | [Table of Contents](index.php) |  44.4. Deleting an API Key |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

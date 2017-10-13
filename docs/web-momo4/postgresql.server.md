@@ -21,10 +21,3 @@ where
 *   `stop` – Stop the PostgreSQL server
 
 *   `restart` – Restart the PostgreSQL server
-
-| [Prev](postgresql.php)  | [Up](postgresql.php) |  [Next](postgresql.client.php) |
-| Chapter 29. PostgreSQL  | [Table of Contents](index.php) |  29.3. Using the PostgreSQL Client Program |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

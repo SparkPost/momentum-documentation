@@ -134,10 +134,3 @@ scriptlet "scriptlet" {
 ```
 
 For detailed information about how Lua is implemented in Momentum, see [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet.php "71.60. scriptlet - Lua Policy Scripts") and [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets").
-
-| [Prev](listeners.php)  | [Up](conf.overview.php) |  [Next](conf.ref.ecelerity.conf.php) |
-| 15.4. Listeners  | [Table of Contents](index.php) |  15.6. `ecelerity.conf` File |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

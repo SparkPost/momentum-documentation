@@ -20,10 +20,3 @@ When called in the scheduler thread, this function suspends the current session 
 `msys.sleep(0.2)`
 
 Because this function is in the `msys` namespace, an explicit `require` is not necessary.
-
-| [Prev](lua.ref.msys.runinpool.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.snmpTrap.php) |
-| msys.runInPool  | [Table of Contents](index.php) |  msys.snmpTrap |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

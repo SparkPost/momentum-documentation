@@ -35,10 +35,3 @@ If you have some management code that needs to use the local server's "Mail" fun
 *   Execute the management code as normal.
 
 The mail will route to Momentum for delivery.
-
-| [Prev](p.smtp_injections.php)  | [Up](p.smtp_injections.php) |  [Next](engagement_tracking_smtp.php) |
-| Part VI. SMTP Injection  | [Table of Contents](index.php) |  Chapter 41. Tracking Engagement for SMTP |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

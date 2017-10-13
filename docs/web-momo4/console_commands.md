@@ -158,10 +158,3 @@ This table lists all console commands alphabetically giving a brief description.
 | [unlink stats](console_commands.unlink_stats.php "unlink stats") – Show statistics of removing messages from the disk | 4.0 |   | stats |
 | [version](console_commands.version.php "version") – Show version information of Momentum | 4.0 |   | misc |
 | [write config](console_commands.write_config.php "write config") – Display current running configuration | 4.0 |   | config |
-
-| [Prev](config.options.summary.php)  | [Up](p.reference.php) |  [Next](exe.php) |
-| Chapter 66. Configuration Options Summary  | [Table of Contents](index.php) |  Chapter 68. Executable Command Summary |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

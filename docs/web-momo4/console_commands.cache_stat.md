@@ -42,10 +42,3 @@ This command shows much more detail than the [cache stats](console_commands.cach
 ## See Also
 
 [cache list](console_commands.cache_list.php "cache list"), [cache stats](console_commands.cache_stats.php "cache stats"), [match_cache_life](conf.ref.match_cache_life.php "match_cache_life")
-
-| [Prev](console_commands.cache_list.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.cache_stats.php) |
-| cache list  | [Table of Contents](index.php) |  cache stats |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

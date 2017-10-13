@@ -20,10 +20,3 @@ Passive operating system fingerprinting runs as a daemon that Momentum communica
 ## See Also
 
 [fingerprint rejection summary](console_commands.fingerprint_rejection_summary.php "fingerprint rejection summary")
-
-| [Prev](console_commands.fail_domain_quiet.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.fingerprint_rejection_summary.php) |
-| fail domain quiet  | [Table of Contents](index.php) |  fingerprint rejection summary |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

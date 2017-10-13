@@ -38,10 +38,3 @@ Show the man page for the **ec_console** command.
 ## See Also
 
 [Chapter 67, *Console Commands Summary*](console_commands.php "Chapter 67. Console Commands Summary") , [Chapter 17, *Configuring Momentum's System Console*](control_listener.php "Chapter 17. Configuring Momentum's System Console") , [Chapter 37, *Using the System Console (**ec_console**)*](operations.php "Chapter 37. Using the System Console (ec_console)") 
-
-| [Prev](executable.ec_adtool.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ec_ctl.php) |
-| ec_adtool  | [Table of Contents](index.php) |  ec_ctl |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

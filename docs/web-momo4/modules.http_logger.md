@@ -33,10 +33,3 @@ For details about the format of `httplog.ec`, see [Section 35.5, “`httplog`�
 </dl>
 
 The default log file created by this logger is rotated by the utility script **ec_rotate**. For more information, see [ec_rotate](executable.ec_rotate.php "ec_rotate").
-
-| [Prev](modules.host_fingerprint.php)  | [Up](modules.php) |  [Next](modules.httpsrv.php) |
-| 71.36. fingerprint – Host Fingerprinting  | [Table of Contents](index.php) |  71.38. httpsrv – HTTP Server |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

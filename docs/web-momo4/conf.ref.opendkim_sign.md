@@ -23,10 +23,3 @@ Default value is `true`.
 ## See Also
 
 [`opendkim`](modules.opendkim.php "71.50. opendkim – Open Source DKIM")
-
-| [Prev](config.open_tracking_scheme.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.outbound_throttle_connections.php) |
-| open_tracking_scheme  | [Table of Contents](index.php) |  outbound_throttle_connections |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

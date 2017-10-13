@@ -24,10 +24,3 @@ custom_bounce_logger custom_bounce_logger1 {
 ### 71.24.2. See Also
 
 [Section 71.13, “bounce_logger – Momentum-Style Bounce Logging”](modules.bounce_logger.php "71.13. bounce_logger – Momentum-Style Bounce Logging")
-
-| [Prev](modules.csapi.php)  | [Up](modules.php) |  [Next](modules.custom_logger.php) |
-| 71.23. csapi – Symantec CSAPI Antivirus Support  | [Table of Contents](index.php) |  71.25. custom_logger – User-defined Logging |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

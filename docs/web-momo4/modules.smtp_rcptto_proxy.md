@@ -31,10 +31,3 @@ The `smtp_rcptto_proxy` module allows validation of a Lua recipient by doing an 
 ### Note
 
 No information is provided if the RCPT TO fails; the system just returns "fail."
-
-| [Prev](modules.smtp_cbv.php)  | [Up](modules.php) |  [Next](modules.smtpapi.php) |
-| 71.65. smtp_cbv – SMTP Callback Verification  | [Table of Contents](index.php) |  71.67. smtpapi – SMTP Engagement Tracking |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

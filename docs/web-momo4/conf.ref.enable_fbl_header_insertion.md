@@ -21,10 +21,3 @@ This option is valid in the global, binding, binding_group, and domain scopes.
 ## See Also
 
 [Section 71.35, “fbl - Feedback Loop”](modules.fbl.php "71.35. fbl - Feedback Loop")
-
-| [Prev](conf.ref.ehlo_timeout.php)  | [Up](config.options.ref.php) |  [Next](config.ref.event_loop.php) |
-| ehlo_timeout  | [Table of Contents](index.php) |  event_loop |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

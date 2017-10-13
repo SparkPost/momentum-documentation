@@ -266,10 +266,3 @@ The [as_logger](modules.as_logger.php "71.7. as_logger – Audit Series Logger"
 </dd>
 
 </dl>
-
-| [Prev](cluster.php)  | [Up](cluster.php) |  [Next](conf.ref.ecelerity_cluster.conf.php) |
-| Chapter 16. Cluster-specific Configuration  | [Table of Contents](index.php) |  16.3. `ecelerity-cluster.conf` File |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

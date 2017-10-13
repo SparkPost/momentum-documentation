@@ -63,10 +63,3 @@ To create an API key that meets your specific requirements, you must understand 
 | Modify Transmissions | GET, POST, PUT, DELETE requests on /api/v1/transmissions |
 | Send via SMTP | Allow this API Key to perform SMTP injection (Note that your configuration must support SMTP authorization.) |
 | Manage recipient lists | GET, POST, PUT, DELETE requests on /api/v1/recipient-lists |
-
-| [Prev](create_apikey.php)  | [Up](p.http_rest.php) |  [Next](web-ui.apikeys.create.php) |
-| Chapter 43. Creating an API Key  | [Table of Contents](index.php) |  44.2. Creating an API Key |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

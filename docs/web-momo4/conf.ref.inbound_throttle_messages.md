@@ -22,10 +22,3 @@ For a discussion of throttles and fallback see [the section called “Throttles 
 ## Scope
 
 inbound_throttle_messages is valid in the global, pathway_group, and pathway scopes.
-
-| [Prev](conf.ref.idle_timeout.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.initial_hash_buckets.php) |
-| idle_timeout  | [Table of Contents](index.php) |  initial_hash_buckets |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

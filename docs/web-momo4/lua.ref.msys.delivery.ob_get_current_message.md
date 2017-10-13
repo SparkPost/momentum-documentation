@@ -43,10 +43,3 @@ msys.registerModule("http_delivery", mod);
 ## See Also
 
 [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/)
-
-| [Prev](lua.ref.msys.db.query.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.dumper.Dumper.php) |
-| msys.db.query  | [Table of Contents](index.php) |  msys.dumper.Dumper |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

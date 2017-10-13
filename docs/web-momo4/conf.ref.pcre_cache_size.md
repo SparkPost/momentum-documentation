@@ -23,10 +23,3 @@ pcre_cache_size is valid in the global scope.
 ## See Also
 
 [pcre_cache_ttl](conf.ref.pcre_cache_ttl.php "pcre_cache_ttl")
-
-| [Prev](conf.ref.pathway_group.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.pcre_cache_ttl.php) |
-| pathway_group  | [Table of Contents](index.php) |  pcre_cache_ttl |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -25,10 +25,3 @@ bounce_domains is valid in the global, pathway_group and pathway scopes.
 ## See Also
 
 [bounce_pattern](conf.ref.bounce_pattern.php "bounce_pattern"), [bounce_behavior](conf.ref.bounce_behavior.php "bounce_behavior"), [bounce_suppress_list](conf.ref.bounce_suppress_list.php "bounce_suppress_list"), and [Section 71.13, “bounce_logger – Momentum-Style Bounce Logging”](modules.bounce_logger.php "71.13. bounce_logger – Momentum-Style Bounce Logging")
-
-| [Prev](conf.ref.bounce_behavior.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.bounce_pattern.php) |
-| bounce_behavior  | [Table of Contents](index.php) |  bounce_pattern |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -33,10 +33,3 @@ When engagement tracking is enabled, you can also specify engagement data for th
 ### Note
 
 If you want to exclude metadata from click tracking, change the configuration option in the engagement_tracker module. See [Section 71.32, “engagement_tracker – HTTP Engagement Tracking”](modules.engage_tracker.php "71.32. engagement_tracker – HTTP Engagement Tracking").
-
-| [Prev](smtp_injection.php)  | [Up](p.smtp_injections.php) |  [Next](x-msys-api_header.php) |
-| Chapter 40. Adjusting your Client Mail Application  | [Table of Contents](index.php) |  41.2. Using the X-MSYS-API Header for Engagement Tracking |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

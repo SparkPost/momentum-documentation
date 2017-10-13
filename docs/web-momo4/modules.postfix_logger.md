@@ -27,10 +27,3 @@ postfix_logger "postfix_logger1" {
 You must manually create the `postfix` directory and it must be writable by the user, `ecuser`. You must do this if you manually create the postfix module. You can change the ownership of the directory by issuing the shell command: **chown -R ecuser:ecuser /var/log/postfix** .
 
 You can toggle the logging of transient failures using the `log_transient_failures` option.
-
-| [Prev](modules.pipe_transport.php)  | [Up](modules.php) |  [Next](modules.reception_timing.php) |
-| 71.55. pipe_transport – Module  | [Table of Contents](index.php) |  71.57. reception_timing - Reception Timing Modules |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

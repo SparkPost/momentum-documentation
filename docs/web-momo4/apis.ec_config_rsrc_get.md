@@ -68,10 +68,3 @@ This hook can be called in any thread.
 ## See Also
 
 [config_rsrc_setup](hooks.config_rsrc_setup.php "config_rsrc_setup")
-
-| [Prev](hooks.config_rsrc_setup.php)  | [Up](hooks.php) |  [Next](apis.ec_httpsrv_register_auth.php) |
-| config_rsrc_setup  | [Table of Contents](index.php) |  ec_httpsrv_register_auth |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

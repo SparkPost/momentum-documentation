@@ -51,10 +51,3 @@ The follow constants are defined and can be used to determine the cause of failu
 ## See Also
 
 [json.new](lua.ref.json.new.php "json.new")
-
-| [Prev](lua.ref.json.new.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msg.batch_id.php) |
-| json.new  | [Table of Contents](index.php) |  msg.batch_id |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

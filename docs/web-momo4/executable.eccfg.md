@@ -384,10 +384,3 @@ Request that the cluster's nominal MASTER attempt to resolve the CONFLICT state.
 ## See Also
 
 [ecconfigd](executable.ecconfigd.php "ecconfigd"), [Section 15.1.3, “Configuration Management (**ecconfigd**)”](conf.overview.php#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)")
-
-| [Prev](executable.ec_show.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.eccmgr.php) |
-| ec_show  | [Table of Contents](index.php) |  eccmgr |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

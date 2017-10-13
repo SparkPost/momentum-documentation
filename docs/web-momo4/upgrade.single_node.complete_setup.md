@@ -122,10 +122,3 @@
         }
     }
     ```
-
-| [Prev](upgrade.single_node.configuration.start_services.php)  | [Up](upgrade.single_node.php) |  [Next](upgrade.single_node.configuration.next_steps.php) |
-| 10.7. Start Services  | [Table of Contents](index.php) |  10.9. Next Steps |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

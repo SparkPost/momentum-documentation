@@ -19,10 +19,3 @@ Components that support high availability and fault tolerance include the follow
 *   [cidr_server](cluster.cidr_server.php "Chapter 39. CIDR Server") and [as_logger](modules.as_logger.php "71.7. as_logger – Audit Series Logger")
 
     The **cidr_server** queries the data created by an as_logger module and displays the result in the cluster console. The **cidr_server** and as_logger can be configured to log data to a SAN. Locking semantics must be checked.
-
-| [Prev](cluster.listeners.php)  | [Up](cluster.php) |  [Next](cluster.riak.configuration.php) |
-| 16.5. Cluster-specific Listeners  | [Table of Contents](index.php) |  16.7. Configuring Riak in a Cluster |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

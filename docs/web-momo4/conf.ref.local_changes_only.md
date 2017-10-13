@@ -25,10 +25,3 @@ local_changes_only is valid in the global scope.
 ## See Also
 
 [local_changes_file](conf.ref.local_changes_file.php "local_changes_file")
-
-| [Prev](conf.ref.local_changes_file.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.mail_queue_check_vm_interval.php) |
-| local_changes_file  | [Table of Contents](index.php) |  mail_queue_check_vm_interval |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

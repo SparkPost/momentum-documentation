@@ -393,10 +393,3 @@ LiveUpdate will download the updates, unpack them, and move them into an "incomi
 LiveUpdate will log its progress to `/opt/Symantec/LiveUpdate/liveupdt.log`. Monitor this log to see if updates are being downloaded successfully. If no new logs are appearing in that file, there is some issue with `ec_avscan` that is preventing it from running LiveUpdate.
 
 LiveUpdate will download updates and unpack them under `/tmp`. Note that `/tmp` must have at least 3 GB of free space. Otherwise, LiveUpdate will fail and not be able to download and apply new updates. `/opt/Symantec/LiveUpdate/liveupdt.log` will contain an error when there is not enough disk space to download and unpack the updates.
-
-| [Prev](modules.conntrol.php)  | [Up](modules.php) |  [Next](modules.custom_bounce_logger.php) |
-| 71.22. conntrol – Fine-Grained Connection Control  | [Table of Contents](index.php) |  71.24. custom_bounce_logger – Custom Bounce Logging |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -31,10 +31,3 @@ c:perform();
 ### See Also
 
 See [c:setopt](lua.ref.curl.c_setopt.php "c:setopt") for an explanation of the parameters passed to `setopt`.
-
-| [Prev](lua.ref.curl.c_close.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.curl.c_setopt.php) |
-| c:close  | [Table of Contents](index.php) |  c:setopt |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

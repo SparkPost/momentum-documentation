@@ -201,10 +201,3 @@ The following is a description of the fields:
 | 4 | M | `M` indicating a heartbeat |
 
 Having three unused fields ensures that, like other logs, the fifth field is the log entry type. This makes parsing easier.
-
-| [Prev](log_formats.importlog.php)  | [Up](log_formats.php) |  [Next](log_formats.paniclog.php) |
-| 35.6. `importlog`  | [Table of Contents](index.php) |  35.8. `paniclog` |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

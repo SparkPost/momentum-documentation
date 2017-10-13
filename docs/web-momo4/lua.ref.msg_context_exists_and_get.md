@@ -44,10 +44,3 @@ Because this function is in the `msys.core` namespace, an explicit `require('msy
 ## See Also
 
 [msg:context_get](lua.ref.msg_context_get.php "msg:context_get")
-
-| [Prev](lua.ref.msg_context_exists.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msg_context_get.php) |
-| msg:context_exists  | [Table of Contents](index.php) |  msg:context_get |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

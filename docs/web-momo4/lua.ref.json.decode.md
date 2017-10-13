@@ -38,10 +38,3 @@ You can directly assign a primitive to the field of a JSON object. Lua tables, w
 ## See Also
 
 [json.encode](lua.ref.json.encode.php "json.encode")
-
-| [Prev](lua.ref.session_response_status_set_std.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.json.encode.php) |
-| session:response_status_set_std  | [Table of Contents](index.php) |  json.encode |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

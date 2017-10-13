@@ -65,10 +65,3 @@
 <dt>[61\. Tracking Engagement for HTTP](engagement_tracking_http.php)</dt>
 
 </dl>
-
-| [Prev](complex_template.php)  |   |  [Next](http_reporting_options.php) |
-| Chapter 53. Using Complex Templates  | [Table of Contents](index.php) |  Chapter 54. Reporting Options |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

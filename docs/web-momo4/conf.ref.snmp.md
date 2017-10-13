@@ -213,10 +213,3 @@ Changing the value of SNMP options at runtime requires restarting the ecelerity 
 ## Scope
 
 SNMP directives are valid in the global scope.
-
-| [Prev](conf.ref.skip_hosts.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.soft_bounce_drain_rate.php) |
-| skip_hosts  | [Table of Contents](index.php) |  soft_bounce_drain_rate |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

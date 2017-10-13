@@ -202,10 +202,3 @@ Subtract a value from a CIDR in a named series.
 </dd>
 
 </dl>
-
-| [Prev](modules.ilf_logger.php)  | [Up](modules.php) |  [Next](modules.ipv6_lookup.php) |
-| 71.40. ilf_logger – Incremental License Fee Logging  | [Table of Contents](index.php) |  71.42. ipv6_lookup – Multi-address-family MX Records |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

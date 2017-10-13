@@ -17,10 +17,3 @@ The first argument indicates the endianness of the system on which the jlog was 
 The second argument is the path to the jlog you want to check.
 
 This command should be run as `ecuser`.
-
-| [Prev](executable.jlog_change_endian.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.jlogctl.php) |
-| jlog_change_endian  | [Table of Contents](index.php) |  jlogctl |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

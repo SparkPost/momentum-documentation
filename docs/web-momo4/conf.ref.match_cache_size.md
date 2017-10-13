@@ -31,10 +31,3 @@ match_cache_size is valid in the global scope.
 ## See Also
 
 [match_cache_life](conf.ref.match_cache_life.php "match_cache_life") and [domain](conf.ref.domain.php "domain")
-
-| [Prev](conf.ref.match_cache_life.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.max_deliveries_per_connection.php) |
-| match_cache_life  | [Table of Contents](index.php) |  max_deliveries_per_connection |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

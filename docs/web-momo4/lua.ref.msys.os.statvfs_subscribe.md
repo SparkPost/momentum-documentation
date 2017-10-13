@@ -27,10 +27,3 @@ Enable this function with the statement `require('msys.os');`.
 ## See Also
 
 [msys.os.statvfs_read](lua.ref.msys.os.statvfs_read.php "msys.os.statvfs_read") and [ec_statvfs](https://support.messagesystems.com/docs/web-c-api/structs.ec_statvfs.php)
-
-| [Prev](lua.ref.msys.os.statvfs_read.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.qp.decode.php) |
-| msys.os.statvfs_read  | [Table of Contents](index.php) |  msys.qp.decode |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

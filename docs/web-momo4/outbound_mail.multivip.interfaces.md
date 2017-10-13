@@ -35,10 +35,3 @@ When you are removing a binding that is in use, do the following:
 3.  Examine the mail queue. If there is mail for the suspended binding, reassign it to another binding. If the queued messages are not reassigned to another binding, they will go to the `default` binding. For more information, see [showqueue](console_commands.showqueue.php "showqueue") and [reroute queue](console_commands.reroute_queue.php "reroute queue").
 
 4.  Once all reassigned messages are out of the queue, restart ecelerity to fully remove the binding from the configuration.
-
-| [Prev](outbound_mail.prohibited.hosts.php)  | [Up](outbound_mail.php) |  [Next](outbound_mail.traffic.shaping.php) |
-| 25.2. Prohibited_Hosts  | [Table of Contents](index.php) |  25.4. Throttling and Traffic Shaping |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

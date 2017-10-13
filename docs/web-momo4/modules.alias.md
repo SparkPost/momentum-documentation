@@ -35,10 +35,3 @@ Within the desired domain, the `Alias_Schemes` option is set to the Scheme name 
 ### 71.5.2. See Also
 
 [alias_schemes](conf.ref.alias_schemes.php "alias_schemes") and [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core.php "71.29. ds_core - Datasource Query Core").
-
-| [Prev](modules.alerting.php)  | [Up](modules.php) |  [Next](modules.antivirus.php) |
-| 71.4. alerting – Send Alerting Emails  | [Table of Contents](index.php) |  71.6. antivirus – Antivirus |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

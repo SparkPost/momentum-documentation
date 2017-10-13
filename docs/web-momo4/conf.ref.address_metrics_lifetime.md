@@ -23,10 +23,3 @@ address_metrics_lifetime is valid in the global scope.
 ## See Also
 
 [address_metrics_cleanse_interval](conf.ref.address_metrics_cleanse_interval.php "address_metrics_cleanse_interval")
-
-| [Prev](conf.ref.address_metrics_cleanse_interval.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.alias_schemes.php) |
-| address_metrics_cleanse_interval  | [Table of Contents](index.php) |  alias_schemes |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

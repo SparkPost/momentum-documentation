@@ -84,10 +84,3 @@ These functions return four values:
 *   The *engine scan code*           or `nil` if no engine scan code is available. If the scan result is msys.av.EC_AV_CLEAN, this code will be either `OK` or `Empty file`.
 
 For additional details about these functions, see [msys.av.scan](lua.ref.msys.av.scan.php "msys.av.scan") and [msys.av.scan_part](lua.ref.msys.av.scan_part.php "msys.av.scan_part").
-
-| [Prev](modules.cidrdb.php)  | [Up](modules.php) |  [Next](modules.cloudmark.php) |
-| 71.16. cidrdb – CIDRDB  | [Table of Contents](index.php) |  71.18. cloudmark – Cloudmark Authority® Content Scanning |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

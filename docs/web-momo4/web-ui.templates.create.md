@@ -73,10 +73,3 @@ An example of plain text content is shown in [Figure 48.5, “Text Content”](
 ![Text Content](images/text_content.png)
 
 Click Save Draft in the New Template form to save your template as a draft. If successfully, a message indicating that your template was saved will be displayed briefly.
-
-| [Prev](web-ui.templates.php)  | [Up](web-ui.templates.php) |  [Next](web-ui.templates.preview.php) |
-| Chapter 48. Managing Your Templates in the UI  | [Table of Contents](index.php) |  48.3. Previewing and Testing Your Template |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -23,10 +23,3 @@ never_retry is valid in the global, domain, binding, and binding_group scopes.
 ## See Also
 
 [retry_interval](conf.ref.retry_interval.php "retry_interval")
-
-| [Prev](conf.ref.never_attempt_expired_messages.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.only_use_best_mx_for_relay_domains.php) |
-| never_attempt_expired_messages  | [Table of Contents](index.php) |  only_use_best_mx_for_relay_domains |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

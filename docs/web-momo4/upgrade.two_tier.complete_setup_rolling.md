@@ -180,10 +180,3 @@
 ### Note
 
 Be sure to read the [Release Notes](https://support.messagesystems.com/start.php) for the version of Momentum that you are installing.
-
-| [Prev](upgrade.two_tier.configuration.start_services_rolling.php)  | [Up](upgrade.two_tier_configuration_rolling.php) |  [Next](post_installation.php) |
-| 11.16. Start Services  | [Table of Contents](index.php) |  Chapter 12. Post-Installation |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

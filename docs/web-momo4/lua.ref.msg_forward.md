@@ -31,10 +31,3 @@ Forward the current message to recipients other than the original recipients. A 
 *   `charset` the character encoding of text. It need not be specified if text contains only ASCII.
 
 Enable this function with the statement `require('msys.extended.message');`.
-
-| [Prev](lua.ref.msg_discard.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msg_get_delivery_method.php) |
-| msg:discard  | [Table of Contents](index.php) |  msg:get_delivery_method |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -160,10 +160,3 @@ Notes. If specified, the value of this tag is quoted-printable text used as a no
 </dd>
 
 </dl>
-
-| [Prev](using_domainkeys.validation.php)  | [Up](p.configuration.php) |  [Next](using_dkim.validation.php) |
-| 22.2. DomainKeys Validation  | [Table of Contents](index.php) |  23.2. DKIM Validation |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -95,10 +95,3 @@ max_outbound_connections is valid in the binding, binding_group, domain, global,
 ## See Also
 
 [host](conf.ref.host.php "host"), [Section 25.3, “MultiVIP© Interfaces”](outbound_mail.multivip.interfaces.php "25.3. MultiVIP© Interfaces"), [server_max_outbound_connections](conf.ref.server_max_outbound_connections.php "server_max_outbound_connections"), [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback"), [scope_max_outbound_connections](conf.ref.scope_max_outbound_connections.php "scope_max_outbound_connections")
-
-| [Prev](conf.ref.max_dns_ttl.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.max_recipients_per_batch.php) |
-| max_dns_ttl  | [Table of Contents](index.php) |  max_recipients_per_batch |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

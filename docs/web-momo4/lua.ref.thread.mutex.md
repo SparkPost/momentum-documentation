@@ -53,10 +53,3 @@ Enable this function with the statement `require('thread');`.
 ## See Also
 
 [msys.runInPool](lua.ref.msys.runinpool.php "msys.runInPool"), [msys.sleep](lua.ref.msys.sleep.php "msys.sleep"), [msys.lock](lua.ref.msys.lock.php "msys.lock"), [msys.unlock](lua.ref.msys.unlock.php "msys.unlock")
-
-| [Prev](lua.ref.msys.validate.opendkim.verify.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.vctx_add_recipient.php) |
-| msys.validate.opendkim.verify  | [Table of Contents](index.php) |  vctx:add_recipient |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -233,10 +233,3 @@ The following are the columns in the table:
 *   Delayed Rate - Number of messages delayed on the first delivery attempt due to the given reason divided by Accepted
 
 You can sort the data by any column to show different arrangements. For example, sorting by Delayed in descending order identifies the reason that caused the greatest number of delayed messages.
-
-| [Prev](web-ui.reports.php)  | [Up](web-ui.reports.php) |  [Next](web-ui.reports.adaptive.delivery.php) |
-| Chapter 57. Reports and Engagement Tracking in the UI  | [Table of Contents](index.php) |  57.3. Adaptive Delivery Report |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

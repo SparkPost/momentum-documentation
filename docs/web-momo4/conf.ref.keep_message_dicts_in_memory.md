@@ -35,10 +35,3 @@ keep_message_dicts_in_memory is valid in the global scope.
 ## See Also
 
 [exclude_vctx_conn](conf.ref.exclude_vctx_conn.php "exclude_vctx_conn"), [exclude_vctx_mess](conf.ref.exclude_vctx_mess.php "exclude_vctx_mess")
-
-| [Prev](conf.ref.inline_transfail_processing.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.large_message_threshold.php) |
-| inline_transfail_processing  | [Table of Contents](index.php) |  large_message_threshold |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

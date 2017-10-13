@@ -184,10 +184,3 @@ The `spam` series files appear in the directory defined by the `base_dir` parame
 ### Note
 
 There is no command to exit the `cidr` shell; use **Ctrl**+**D** .
-
-| [Prev](cluster.config.operations.eccmgr.console.php)  | [Up](p.operations.php) |  [Next](p.smtp_injections.php) |
-| 38.2. Console Commands for the Cluster Manager  | [Table of Contents](index.php) |  Part VI. SMTP Injection |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

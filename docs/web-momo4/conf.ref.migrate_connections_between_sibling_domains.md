@@ -20,10 +20,3 @@ The default value is `true`.
 ## Scope
 
 `migrate_connections_between_sibling_domains` is valid in the global scope.
-
-| [Prev](conf.ref.message_expiration.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.mime_parse_large_messages_during_reception.php) |
-| message_expiration  | [Table of Contents](index.php) |  mime_parse_large_messages_during_reception |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

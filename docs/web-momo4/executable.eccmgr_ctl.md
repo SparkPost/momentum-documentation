@@ -16,10 +16,3 @@ eccmgr_ctl — start, stop, or restart the Momentum Cluster Manager
 ## See Also
 
 [eccmgr](executable.eccmgr.php "eccmgr")
-
-| [Prev](executable.eccmgr.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ecconfigd.php) |
-| eccmgr  | [Table of Contents](index.php) |  ecconfigd |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -33,10 +33,3 @@ Portions of this procedure are adapted from the [HP Vertica License Renewals or 
 8.  When prompted, select View EULA to review the End-User License Agreement (EULA).
 
 9.  To officially accept the EULA and complete the license upgrade, exit the EULA and choose Accept EULA.
-
-| [Prev](install.post-install.vertica_mgmt_console.php)  | [Up](post_installation.php) |  [Next](install.security_considerations.php) |
-| 12.4. Download and Install the Vertica Management Console  | [Table of Contents](index.php) |  12.6. Security Considerations |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

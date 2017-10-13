@@ -64,10 +64,3 @@ msys.registerModule("validate_mailfrom", mod);
 ## See Also
 
 [msys.audit.inbound_session_count](lua.ref.msys.audit.inbound_session_count.php "msys.audit.inbound_session_count"), [msys.audit.rejections](lua.ref.msys.audit.rejections.php "msys.audit.rejections"), [msys.audit.receptions](lua.ref.msys.audit.receptions.php "msys.audit.receptions")
-
-| [Prev](lua.ref.msys.asyncOk.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.audit.inbound_session_count.php) |
-| msys.asyncOk  | [Table of Contents](index.php) |  msys.audit.inbound_session_count |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

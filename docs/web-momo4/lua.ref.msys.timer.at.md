@@ -38,10 +38,3 @@ Enable this function with the statements `require('msys.timer');` and `require("
 ## See Also
 
 [msys.timer.after](lua.ref.msys.timer.after.php "msys.timer.after"), [msys.timer.every](lua.ref.msys.timer.every.php "msys.timer.every")
-
-| [Prev](lua.ref.msys.timer.after.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.timer.every.php) |
-| msys.timer.after  | [Table of Contents](index.php) |  msys.timer.every |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

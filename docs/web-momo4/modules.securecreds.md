@@ -70,10 +70,3 @@ The location of the credentials key file. The default value is `/opt/msys/etc/cr
 ### Warning
 
 We strongly recommend you not change the default values. If you absolutely must change the location of these files, please create symlinks to the default locations. Also note that the credentials database and key are local to each node in a cluster.
-
-| [Prev](modules.scriptlet.php)  | [Up](modules.php) |  [Next](modules.seedlist.php) |
-| 71.60. scriptlet - Lua Policy Scripts  | [Table of Contents](index.php) |  71.62. seedlist – Seedlist Integration |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

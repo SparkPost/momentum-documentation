@@ -27,10 +27,3 @@ All domains purged.  62415 messages failed.
 ## See Also
 
 [binding fail domain](console_commands.binding_fail_domain.php "binding fail domain")
-
-| [Prev](console_commands.binding_fail_domain.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.binding_flush_domain.php) |
-| binding fail domain  | [Table of Contents](index.php) |  binding flush domain |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

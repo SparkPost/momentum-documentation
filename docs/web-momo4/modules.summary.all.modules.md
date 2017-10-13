@@ -95,10 +95,3 @@ All modules are listed alphabetically with a brief description. Singleton module
 | [Section 71.71, “syslog_io – The syslog_io Module”](modules.syslog_io.php "71.71. syslog_io – The syslog_io Module") (*singleton*) | 4.0 | Use the syslog wrapper to write entries to the log |  ✓ |   |   |   |
 | [Section 71.72, “tls_macros – TLS-related Logging”](tls_macros.php "71.72. tls_macros – TLS-related Logging") | 4.0 | Provide several macros supporting custom logging of TLS-related data |   |   |   |   |
 | [Section 71.73, “url_ripper – URL Extraction”](modules.url_ripper.php "71.73. url_ripper – URL Extraction") | 4.0 | A toolkit for DNS-based content correlation |   |   |  ✓ |   |
-
-| [Prev](lua.summary_table.php)  | [Up](p.reference.php) |  [Next](config.options.summary.php) |
-| Chapter 64. Lua Functions Summary  | [Table of Contents](index.php) |  Chapter 66. Configuration Options Summary |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

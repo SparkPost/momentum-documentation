@@ -18,10 +18,3 @@ This option has no default value; instead, it uses internally-specified DHE para
 ## Scope
 
 tls_dhparams_file is valid in the global scope.
-
-| [Prev](config.tls_client_ca.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.tls_enable_dhe_ciphers.php) |
-| tls_client_ca  | [Table of Contents](index.php) |  tls_enable_dhe_ciphers |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

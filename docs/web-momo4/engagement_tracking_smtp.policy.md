@@ -99,10 +99,3 @@ Set the expiration time for engagement tracking for the SMTP message
 ### Note
 
 The smtp auth module sets the connection context variable `mo_customer_id`. Lua policy may also set this context variable, and it will be honored by the smtpapi module. There is no X-MSYS-API header equivalent for `customer_id`.
-
-| [Prev](x-msys-api_header.php)  | [Up](engagement_tracking_smtp.php) |  [Next](engagement_tracking_smtp.escaping.php) |
-| 41.2. Using the X-MSYS-API Header for Engagement Tracking  | [Table of Contents](index.php) |  41.4. Escaping {{ and }} in SMTP Message Body |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

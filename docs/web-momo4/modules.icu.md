@@ -7,10 +7,3 @@ The International Component for Unicode (ICU) is a mature, portable set of C/C++
 ### 71.39.1. Configuration
 
 This module is loaded automatically as required and does not need to be explicitly included.
-
-| [Prev](modules.httpsrv.php)  | [Up](modules.php) |  [Next](modules.ilf_logger.php) |
-| 71.38. httpsrv – HTTP Server  | [Table of Contents](index.php) |  71.40. ilf_logger – Incremental License Fee Logging |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

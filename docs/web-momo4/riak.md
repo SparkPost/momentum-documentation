@@ -37,10 +37,3 @@ The following describes the default directories and configuration related to the
 *   `/var/log/riak` – Contains log files.
 
 For additional details about configuration, see [Section 16.7, “Configuring Riak in a Cluster”](cluster.riak.configuration.php "16.7. Configuring Riak in a Cluster").
-
-| [Prev](postgresql.migrating.php)  | [Up](p.configuration.php) |  [Next](riak.service.php) |
-| 29.4. Dumping and Restoring the Database  | [Table of Contents](index.php) |  30.2. Running the Riak Service |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -88,10 +88,3 @@ For a complete list of options valid in the binding scope, refer to [Chapter 66
 ## See Also
 
 [binding_group](conf.ref.binding_group.php "binding_group"), [domain](conf.ref.domain.php "domain"), [host](conf.ref.host.php "host")
-
-| [Prev](conf.ref.bind_address.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.binding_auto_replumb.php) |
-| bind_address  | [Table of Contents](index.php) |  binding_auto_replumb |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

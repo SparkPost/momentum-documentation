@@ -60,10 +60,3 @@ msys.registerModule("convert", mod);
 ## See Also
 
 [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/) and [msys.gcm.gcm_classify_error](lua.ref.msys.gcm.gcm_classify_error.php "msys.gcm.gcm_classify_error")
-
-| [Prev](lua.ref.msys.cloudmark.set_af_msi_address.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.client_do_request.php) |
-| msys.cloudmark.set_af_msi_address  | [Table of Contents](index.php) |  client:do_request |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

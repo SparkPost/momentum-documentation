@@ -27,10 +27,3 @@ Creates a new, unlinked, singleton (or leaf) message part. `mimetype` specifies 
 *   `msys.core.EC_MIME_TE_QUOTED_PRINTABLE`
 
 Enable this function with the statement `require('msys.extended.message');`.
-
-| [Prev](lua.ref.msg_makeContainer.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msg_mime.php) |
-| msg:makeContainer  | [Table of Contents](index.php) |  msg:mime |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

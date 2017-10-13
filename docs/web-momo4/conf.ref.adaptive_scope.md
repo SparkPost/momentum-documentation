@@ -49,10 +49,3 @@ adaptive_scope is valid in the binding, binding_group, domain, and global scopes
 ## See Also
 
 [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery"), [adaptive_enabled](conf.ref.adaptive_enabled.php "adaptive_enabled")
-
-| [Prev](conf.ref.adaptive_enabled.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.address_metrics_cleanse_interval.php) |
-| adaptive_enabled  | [Table of Contents](index.php) |  address_metrics_cleanse_interval |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -33,10 +33,3 @@ You can also pass a node object to this function, the return value of [node:chil
 ### See Also
 
 [doc:root](lua.ref.xml.doc_root.php "doc:root")
-
-| [Prev](lua.ref.xml.doc_xpath.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.xml.node_attribute.php) |
-| doc:xpath  | [Table of Contents](index.php) |  node:attribute |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

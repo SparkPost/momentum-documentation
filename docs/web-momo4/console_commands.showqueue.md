@@ -33,10 +33,3 @@ you can also list the messages in the queue for a particular domain on a particu
 [delayed/smtp-01] 10/00-21047-B5581944 Created: 1150387547
   From: <sender@example.com> To: <rcpt1@example.com>
 ```
-
-| [Prev](console_commands.show_outbound.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.shutdown.php) |
-| show outbound  | [Table of Contents](index.php) |  shutdown |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

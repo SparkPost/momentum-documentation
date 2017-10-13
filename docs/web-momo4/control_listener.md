@@ -41,10 +41,3 @@ Modules and their configuration options are discussed in the [Chapter 71, *Modu
 For general information regarding listeners, see [Section 15.4, “Listeners”](listeners.php "15.4. Listeners").
 
 The Control_Listener supports a number of extended properties including `ALWAYS-ALLOW`, `LOGIN` and `DIGEST-MD5`. For more information, see [Section 17.2, “Control_Listener Authentication”](control_auth.php "17.2. Control_Listener Authentication").
-
-| [Prev](cluster.riak.configuration.php)  | [Up](p.configuration.php) |  [Next](control_auth.php) |
-| 16.7. Configuring Riak in a Cluster  | [Table of Contents](index.php) |  17.2. Control_Listener Authentication |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

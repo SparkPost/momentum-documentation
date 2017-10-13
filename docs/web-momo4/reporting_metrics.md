@@ -49,10 +49,3 @@ Follow these steps to report data using the Metrics API:
     This response shows that there was one unique click for the link to www.messagesystems.com.
 
 Congratulations! You have successfully retrieved reporting data using the Metrics API. This tutorial demonstrated retrieving data for only one event type. The Metrics API supports many different reports. For detailed information about all the reporting options, see the Metrics API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
-
-| [Prev](web-ui.reports.evaluating.campaign.performance.php)  | [Up](p.analytics.php) |  [Next](reporting_webhooks.php) |
-| 57.4. Evaluating Your Campaign Performance  | [Table of Contents](index.php) |  Chapter 59. Using Webhooks for Event Data |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

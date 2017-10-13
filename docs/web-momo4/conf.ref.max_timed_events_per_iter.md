@@ -18,10 +18,3 @@ The default value is `1024`.
 ## Scope
 
 max_timed_events_per_iter is valid in the global scope.
-
-| [Prev](conf.ref.max_retry_interval.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.mdn_failures_notify.php) |
-| max_retry_interval  | [Table of Contents](index.php) |  mdn_failures_notify |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

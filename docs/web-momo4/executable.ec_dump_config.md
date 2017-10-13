@@ -55,10 +55,3 @@ Global configuration error.
 ## See Also
 
 [validate_config](executable.validate_config.php "validate_config")
-
-| [Prev](executable.ec_dkim_ctl.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ec_lic.php) |
-| ec_dkim_ctl  | [Table of Contents](index.php) |  ec_lic |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

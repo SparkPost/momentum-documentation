@@ -117,10 +117,3 @@ This module handles substitution in the templates. It has no configuration optio
 </dd>
 
 </dl>
-
-| [Prev](http_listener.php)  | [Up](http_listener.php) |  [Next](auth.php) |
-| Chapter 20. Configuring Inbound Mail Service Using HTTP  | [Table of Contents](index.php) |  Chapter 21. Enforcing REST API/UI User Authentication |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

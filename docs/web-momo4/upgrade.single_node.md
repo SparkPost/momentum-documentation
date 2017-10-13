@@ -316,10 +316,3 @@ Upgrade Cassandra from version 2.0.8 to 2.0.15.
     $CQLSH -k authentication -f $UPG/V2015.06.17_00.00.00__add_valid_ip_column.cql 2>&1 >> cassandra_schema.log
     $CQLSH -k authentication -f $UPG/V2015.06.22_00.00.00__add_last_login_column.cql 2>&1 >> cassandra_schema.log
     ```
-
-| [Prev](install.start_remaining_services.php)  | [Up](p.installing.php) |  [Next](upgrade.single_node.vertica_updates.php) |
-| 9.4. Start Remaining Services  | [Table of Contents](index.php) |  10.2. Vertica Updates |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

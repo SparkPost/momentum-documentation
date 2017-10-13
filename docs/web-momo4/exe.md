@@ -33,10 +33,3 @@ This table lists all executable commands alphabetically giving a brief descripti
 | [jlogctl](executable.jlogctl.php "jlogctl") – Analyze and maintain jlogs | logs |
 | [lu_pull](executable.lu_pull.php "lu_pull") – Update the Live Updates database | adaptive |
 | [validate_config](executable.validate_config.php "validate_config") – Check the validity of the configuration files | config |
-
-| [Prev](console_commands.php)  | [Up](p.reference.php) |  [Next](hooks.php) |
-| Chapter 67. Console Commands Summary  | [Table of Contents](index.php) |  Chapter 69. Hook Points and C Functions Reference |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

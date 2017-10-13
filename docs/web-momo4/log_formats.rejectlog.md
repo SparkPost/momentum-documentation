@@ -41,10 +41,3 @@ In addition to the record described in the previous section, a heartbeat is writ
 `1252064908: Marker 1`
 
 The `Marker 1` entry follows the Unix timestamp and is separated from it by a space.
-
-| [Prev](log_formats.paniclog.php)  | [Up](log_formats.php) |  [Next](bounce_logger.classification.codes.php) |
-| 35.8. `paniclog`  | [Table of Contents](index.php) |  35.10. Bounce Classification Codes |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

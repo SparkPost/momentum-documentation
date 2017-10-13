@@ -43,10 +43,3 @@ The above name value pairs are also set within the validation context with each 
 ### Warning
 
 Do not use `pcall` with this function.
-
-| [Prev](lua.ref.msys.cidr.reload.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.counter.add.php) |
-| msys.cidr.reload  | [Table of Contents](index.php) |  msys.counter.add |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

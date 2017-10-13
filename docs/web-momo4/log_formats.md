@@ -92,10 +92,3 @@ The following is a description of the fields:
 ### Note
 
 The `?` type indicator denotes an unknown `acctlog` type.
-
-| [Prev](log_rotating.php)  | [Up](p.logs.php) |  [Next](adaptive.log.format.php) |
-| Chapter 34. Rotating Logs **ec_rotate**  | [Table of Contents](index.php) |  35.2. `adaptive` Log |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

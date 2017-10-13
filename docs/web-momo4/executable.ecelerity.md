@@ -66,10 +66,3 @@ Use an alternate config file.
 ## See Also
 
 [ec_ctl](executable.ec_ctl.php "ec_ctl"), [Section 15.6, “`ecelerity.conf` File”](conf.ref.ecelerity.conf.php "15.6. ecelerity.conf File"), [Chapter 36, *Starting Momentum (**ecelerity**)*](conf.starting.php "Chapter 36. Starting Momentum (ecelerity)") 
-
-| [Prev](executable.ecconfigd_ctl.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.jlog_change_endian.php) |
-| ecconfigd_ctl  | [Table of Contents](index.php) |  jlog_change_endian |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

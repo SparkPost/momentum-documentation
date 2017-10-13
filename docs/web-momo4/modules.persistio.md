@@ -45,10 +45,3 @@ The path to the directory that holds the cached files. The default value is `/va
 </dd>
 
 </dl>
-
-| [Prev](modules.outbound_smtp_auth.php)  | [Up](modules.php) |  [Next](modules.pipeio.php) |
-| 71.52. outbound_smtp_auth  | [Table of Contents](index.php) |  71.54. pipe_io – Pipe IO Wrapper |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

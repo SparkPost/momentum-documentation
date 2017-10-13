@@ -353,10 +353,3 @@ Relay_Hosts = (
   10.0.0.2
   )
 ```
-
-| [Prev](console_commands.cache_stats.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.count.php) |
-| cache stats  | [Table of Contents](index.php) |  count |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

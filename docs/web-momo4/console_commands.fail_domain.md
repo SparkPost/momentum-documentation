@@ -25,10 +25,3 @@ Usually, the command is immediately proceded or followed by "blackholing" the do
 ## See Also
 
 [fail domain quiet](console_commands.fail_domain_quiet.php "fail domain quiet")
-
-| [Prev](console_commands.domain_all.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.fail_domain_quiet.php) |
-| domain all  | [Table of Contents](index.php) |  fail domain quiet |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -23,10 +23,3 @@ max_dns_ttl is valid in the global scope.
 ## See Also
 
 [min_dns_ttl](conf.ref.min_dns_ttl.php "min_dns_ttl")
-
-| [Prev](conf.ref.max_deliveries_per_connection.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.max_outbound_connections.php) |
-| max_deliveries_per_connection  | [Table of Contents](index.php) |  max_outbound_connections |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

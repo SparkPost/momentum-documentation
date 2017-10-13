@@ -275,10 +275,3 @@ The first two steps may take a while to complete, depending on how long the data
     service msys-app-webhooks-etl restart
     service msys-nginx reload
     ```
-
-| [Prev](node_remove.php)  | [Up](p.installing.php) |  [Next](node_remove_analytics.php) |
-| 13.2. Removing a Platform Node  | [Table of Contents](index.php) |  14.2. Removing an Analytics Node |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

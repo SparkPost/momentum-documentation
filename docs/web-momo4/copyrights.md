@@ -131,10 +131,3 @@ This product includes software developed by Michael A. Davis <mike@datanerds.net
 This product includes software developed by Nginx, Inc.
 
 This product includes software developed by RabbitMQ.
-
-| [Prev](glossary.php)  |   |  [Next](copyright.3rdparty-disclaimer.php) |
-| Glossary  | [Table of Contents](index.php) |  E.2. Disclaimers for Redistributed Third-Party Software |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

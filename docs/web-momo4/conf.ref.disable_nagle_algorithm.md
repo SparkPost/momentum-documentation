@@ -24,10 +24,3 @@ This is an advanced option. Thorough testing is recommended before deployment in
 `disable_nagle_algorithm` is valid in the eccluster_listener, ecstream_listener, esmtp_listener, global, http_listener and listen scopes.
 
 `disable_nagle_algorithm` is valid in the ecstream_listener, esmtp_listener, global and listen scopes.
-
-| [Prev](conf.ref.delivery_response_timeout.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.disk_queue_drain_rate.php) |
-| delivery_response_timeout  | [Table of Contents](index.php) |  disk_queue_drain_rate |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -20,10 +20,3 @@ This is an advanced option. Making Momentum too sensitive to transient network c
 ## Scope
 
 `mx_failures_to_delay` is valid in the domain and global scopes.
-
-| [Prev](conf.ref.mx_failures_fallback_to_a.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.never_attempt_expired_messages.php) |
-| mx_failures_fallback_to_a  | [Table of Contents](index.php) |  never_attempt_expired_messages |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

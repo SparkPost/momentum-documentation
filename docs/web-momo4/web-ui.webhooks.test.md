@@ -27,10 +27,3 @@ The test returns a detailed information response, as shown in [Figure 60.6, “
 ![Test Response](images/test_response.png)
 
 The Response shows the full content of the HTTP response sent by the client endpoint after receiving the test request. It includes a standard HTTP status. In the example response, the "OK" (`HTTP/1.1 200`) indicates that the example message event batch was successfully posted to the target URL. Any other response code indicates some type of error.
-
-| [Prev](web-ui.webhooks.create.php)  | [Up](web-ui.webhooks.php) |  [Next](web-ui.webhooks.update.php) |
-| 60.2. Creating a Webhook  | [Table of Contents](index.php) |  60.4. Updating Your Webhook |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

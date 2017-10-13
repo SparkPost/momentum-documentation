@@ -51,10 +51,3 @@ This hook will be called in any thread.
 **See Also**
 
 [ec_httpsrv_register_auth](apis.ec_httpsrv_register_auth.php "ec_httpsrv_register_auth"), [ec_httpsrv_register](https://support.messagesystems.com/docs/web-c-api/apis.ec_httpsrv_register.php), [ec_control_register_command3](https://support.messagesystems.com/docs/web-c-api/apis.ec_control_register_command3.php)
-
-| [Prev](hooks.msg_gen_data_spool.php)  | [Up](hooks.php) |  [Next](apis.ec_config_rsrc_get.php) |
-| msg_gen_data_spool  | [Table of Contents](index.php) |  ec_config_rsrc_get |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

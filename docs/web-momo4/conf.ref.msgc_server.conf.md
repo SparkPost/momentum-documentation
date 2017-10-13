@@ -41,10 +41,3 @@ The msgcserver_listener mediates between msgc_servers and between msgc_servers a
 </dd>
 
 </dl>
-
-| [Prev](conf.ref.ecelerity_cluster.conf.php)  | [Up](cluster.php) |  [Next](cluster.listeners.php) |
-| 16.3. `ecelerity-cluster.conf` File  | [Table of Contents](index.php) |  16.5. Cluster-specific Listeners |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

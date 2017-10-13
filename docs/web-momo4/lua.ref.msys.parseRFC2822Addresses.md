@@ -39,10 +39,3 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 ## See Also
 
 [msg:address_header](lua.ref.msg_address_header.php "msg:address_header")
-
-| [Prev](lua.ref.msys.lock.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.readfile.php) |
-| msys.lock  | [Table of Contents](index.php) |  msys.readfile |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

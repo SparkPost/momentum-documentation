@@ -98,10 +98,3 @@ The accepted convention is to require (in circumstances where a configuration pa
 ## See Also
 
 [gateway](conf.ref.gateway.php "gateway")
-
-| [Prev](conf.ref.rfc2822_trace_headers.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.rset_timeout.php) |
-| rfc2822_trace_headers  | [Table of Contents](index.php) |  rset_timeout |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

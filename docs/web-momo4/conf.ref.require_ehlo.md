@@ -22,10 +22,3 @@ The default value is `false`.
 ## Scope
 
 require_ehlo is valid in the global, listener, listen, and peer scopes.
-
-| [Prev](conf.ref.remote_smtp_port.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.reserve_maintenance_interval.php) |
-| remote_smtp_port  | [Table of Contents](index.php) |  reserve_maintenance_interval |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

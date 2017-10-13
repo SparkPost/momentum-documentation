@@ -51,10 +51,3 @@ You can export your template list to a CSV file. Click the Save as CSV button to
 Internet Explorer, version 9 does not support exporting data to a CSV file. If you need this function, upgrade Internet Explorer or use Firefox.
 
 To view the details of a template, click its label to open a detailed view.
-
-| [Prev](stored_template.php)  | [Up](p.http_rest.php) |  [Next](web-ui.templates.create.php) |
-| Chapter 47. Creating Stored Templates  | [Table of Contents](index.php) |  48.2. Creating a Template |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

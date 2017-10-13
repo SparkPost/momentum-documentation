@@ -162,10 +162,3 @@ The list is consulted by resolving A records for:
 Any A records found are checked against the configuration file, and the local message context is updated to reflect any matches.
 
 In the example above, if `forward` was set to `false`, the EHLO hostname (sender.example.com) would not be converted to an IP address and queried against DNSBL, and mail.example.com from the MAIL FROM and test.omniti.com from RCPT TO would only be looked up as domains. Also, there would be no lookup for 10.2.0.192.multi.surbl.org or 20.2.0.192.multi.surbl.org from the body, just superabuser.com.multi.surbl.org and covertabuser.co.uk.multi.surbl.org.
-
-| [Prev](tls_macros.php)  | [Up](modules.php) |  [Next](config.options.ref.php) |
-| 71.72. tls_macros – TLS-related Logging  | [Table of Contents](index.php) |  Chapter 72. Configuration Options Reference |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

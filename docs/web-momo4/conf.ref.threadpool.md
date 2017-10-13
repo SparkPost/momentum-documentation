@@ -108,10 +108,3 @@ ThreadPool is valid in the global scope.
 ## See Also
 
 [domain](conf.ref.domain.php "domain"), [host](conf.ref.host.php "host"), [threads](console_commands.threads.php "threads")
-
-| [Prev](conf.ref.tcp_buffer_size.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.timestampformat.php) |
-| tcp_buffer_size  | [Table of Contents](index.php) |  timestampformat |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

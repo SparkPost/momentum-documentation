@@ -26,10 +26,3 @@ The `CONFFILE` and the `CONTROL` variables also have a bearing on **ec_ctl**.
 ## See Also
 
 [ecelerity](executable.ecelerity.php "ecelerity"), [Chapter 31, *Configuring the Environment File*](environment_file.php "Chapter 31. Configuring the Environment File") , [Section 36.1, “Startup Scripts”](conf.starting.php#startup.scripts "36.1. Startup Scripts")
-
-| [Prev](executable.ec_console.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ec_dkim_ctl.php) |
-| ec_console  | [Table of Contents](index.php) |  ec_dkim_ctl |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

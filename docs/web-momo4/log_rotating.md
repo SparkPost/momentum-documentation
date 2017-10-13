@@ -117,10 +117,3 @@ Retention period in days
 </dd>
 
 </dl>
-
-| [Prev](log_monitoring.php)  | [Up](p.logs.php) |  [Next](log_formats.php) |
-| Chapter 33. Log Monitoring  | [Table of Contents](index.php) |  Chapter 35. Log Formats |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

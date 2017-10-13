@@ -58,10 +58,3 @@ The following is a description of the fields:
 | 4 | M1 | `M1` indicating a heartbeat |
 
 Having three unused fields ensures that, like other logs, the fifth field is the log entry type. This makes parsing easier.
-
-| [Prev](adaptive.log.format.php)  | [Up](log_formats.php) |  [Next](log_formats.fbllog.php) |
-| 35.2. `adaptive` Log  | [Table of Contents](index.php) |  35.4. `fbllog` |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

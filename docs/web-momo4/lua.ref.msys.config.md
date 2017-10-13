@@ -29,10 +29,3 @@ This function returns two values:
 *   The textual output from the command (what you would have seen had you typed it via ec_console)
 
 Because this function is in the `msys` namespace, an explicit `require` is not necessary.
-
-| [Prev](lua.ref.msys.cast.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.dnslookup.php) |
-| msys.cast  | [Table of Contents](index.php) |  msys.dnsLookup |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

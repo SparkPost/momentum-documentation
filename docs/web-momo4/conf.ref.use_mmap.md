@@ -29,10 +29,3 @@ use_mmap is valid in the global scope.
 ## See Also
 
 [malloc2mmap_threshold](conf.ref.malloc2mmap_threshold.php "malloc2mmap_threshold") and [use_sendfile](conf.ref.use_sendfile.php "use_sendfile")
-
-| [Prev](conf.ref.use_ipv6.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.use_sendfile.php) |
-| use_ipv6  | [Table of Contents](index.php) |  use_sendfile |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

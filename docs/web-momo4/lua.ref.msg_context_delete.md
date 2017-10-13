@@ -29,10 +29,3 @@ This function returns `1` if the key is deleted and `0` if the key does not exis
 ## See Also
 
 [msg:context_set](lua.ref.msg_context_set.php "msg:context_set")
-
-| [Prev](lua.ref.msg_reception_peer.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msg_context_exists.php) |
-| msg:reception_peer  | [Table of Contents](index.php) |  msg:context_exists |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

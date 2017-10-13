@@ -40,10 +40,3 @@ In Momentum, most mechanisms for assigning a message to a MultiVIP© binding use
 The group membership and election processes that drive the DuraVIP™ subsystem are a dynamic extension atop advanced research in the area of highly reliable IP services. The system provides a unified and consistent virtual membership on a per-IP address basis. What this means is that you can have different nodes in the cluster managing different, possibly overlapping, DuraVIP™ sets.
 
 While this is certainly possible, it can be hard to understand the expected behavior of the system in such complicated configurations. As such, it is highly recommended that the global set of bindings and listeners managed under DuraVIP™ are identical on each system.
-
-| [Prev](cluster.config.arp_all_hosts.php)  | [Up](cluster.config.duravip.php) |  [Next](cluster.config.replication.php) |
-| 27.3. Address Resolution Protocol (ARP) traffic  | [Table of Contents](index.php) |  Chapter 28. Data Replication |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

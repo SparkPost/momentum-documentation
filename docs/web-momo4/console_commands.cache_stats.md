@@ -26,10 +26,3 @@ For each cache, this command prints statistics including the number of elements 
 ## See Also
 
 [match_cache_life](conf.ref.match_cache_life.php "match_cache_life")
-
-| [Prev](console_commands.cache_stat.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.config.php) |
-| cache stat  | [Table of Contents](index.php) |  config |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

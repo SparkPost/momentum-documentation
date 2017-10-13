@@ -291,10 +291,3 @@ Follow the steps below to create the Vertica database on the first Analytics nod
 14.  Exit the Vertica database administrator user bash session.
 
     `exit`
-
-| [Prev](install.configure_cassandra.php)  | [Up](new_installation.php) |  [Next](install.start_remaining_services.php) |
-| 9.2. Configure the Cassandra Nodes  | [Table of Contents](index.php) |  9.4. Start Remaining Services |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

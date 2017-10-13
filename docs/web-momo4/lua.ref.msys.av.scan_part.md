@@ -110,10 +110,3 @@ require("msys.av");
 ## See Also
 
 [msys.av.scan](lua.ref.msys.av.scan.php "msys.av.scan")
-
-| [Prev](lua.ref.msys.av.scan.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.base64.decode.php) |
-| msys.av.scan  | [Table of Contents](index.php) |  msys.base64.decode |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

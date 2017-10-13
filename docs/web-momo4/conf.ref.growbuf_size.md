@@ -27,10 +27,3 @@ growbuf_size is valid in the global scope.
 ## See Also
 
 [large_message_threshold](conf.ref.large_message_threshold.php "large_message_threshold")
-
-| [Prev](conf.ref.generate_delay_dsn.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.host.php) |
-| generate_delay_dsn  | [Table of Contents](index.php) |  host |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

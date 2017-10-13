@@ -21,10 +21,3 @@ match_cache_life — set the maximum number of seconds that the match cache will
 ## See Also
 
 [match_cache_size](conf.ref.match_cache_size.php "match_cache_size"), [domain](conf.ref.domain.php "domain")
-
-| [Prev](conf.ref.masterdb_file.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.match_cache_size.php) |
-| masterdb_file  | [Table of Contents](index.php) |  match_cache_size |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

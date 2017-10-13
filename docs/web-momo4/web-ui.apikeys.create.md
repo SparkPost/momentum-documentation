@@ -23,10 +23,3 @@ If the API key is successfully created, a message will display upon return to th
 ### Note
 
 Be sure to copy and paste the API key when it is displayed. Following the creation of an API key, you can modify its grants and associated label, but the UI will no longer expose the original value. Please take care to record and safeguard your API keys at all times.
-
-| [Prev](web-ui.apikeys.php)  | [Up](web-ui.apikeys.php) |  [Next](web-ui.apikeys.update.php) |
-| Chapter 44. Managing Your API Keys  | [Table of Contents](index.php) |  44.3. Updating an API Key |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -40,10 +40,3 @@ For more information, see the [GNUTLS website](http://www.gnutls.org/security.ht
 To fix this vulnerability in OpenSSL, make sure you are running Momentum 4.1.0.2 or later and set the [tls_protocols](config.tls_protocols.php "tls_protocols") configuration option to disable SSLv3 in your `ecelerity.conf` file:
 
 `TLS_Protocols = "+ALL:-SSLv3"`
-
-| [Prev](install.vertica.license.php)  | [Up](post_installation.php) |  [Next](add_remove_platform_nodes.php) |
-| 12.5. Upgrading the Vertica License  | [Table of Contents](index.php) |  Chapter 13. Adding and Removing Platform Nodes |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

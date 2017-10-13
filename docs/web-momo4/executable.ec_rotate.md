@@ -138,10 +138,3 @@ The following is an example in which the logfiles are in `/var/log/email/` and 3
 /opt/msys/ecelerity/bin/ec_rotate -l /var/log/email/mainlog.ec \
   -l /var/log/email/paniclog.ec -r 3
 ```
-
-| [Prev](executable.ec_md5passwd.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ec_sendmail.php) |
-| ec_md5passwd  | [Table of Contents](index.php) |  ec_sendmail |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

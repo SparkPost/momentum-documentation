@@ -42,10 +42,3 @@ Because this function is in the `msys.core` namespace, an explicit `require('msy
 ## See Also
 
 [vctx:get](lua.ref.vctx_get.php "vctx:get")
-
-| [Prev](lua.ref.vctx_remove_recipient.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.vctx_set_code.php) |
-| vctx:remove_recipient  | [Table of Contents](index.php) |  vctx:set_code |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

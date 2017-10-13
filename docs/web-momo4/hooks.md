@@ -21,10 +21,3 @@
 This chapter includes hook point and C function reference material that is specific to Momentum 4.
 
 Hook points and C functions that are common to Momentum 4 and Momentum 3 are provided in the Momentum 3.x documentation. For hook points, see the [C API](https://support.messagesystems.com/docs/web-c-api/hooks.php). For C functions, see the [C API](https://support.messagesystems.com/docs/web-c-api/pt.apis.php).
-
-| [Prev](exe.php)  | [Up](p.reference.php) |  [Next](hooks.msg_gen_data_spool.php) |
-| Chapter 68. Executable Command Summary  | [Table of Contents](index.php) |  msg_gen_data_spool |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

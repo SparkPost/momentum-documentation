@@ -71,10 +71,3 @@ Set to `match`, if a self-connect was detected.
 </dd>
 
 </dl>
-
-| [Prev](modules.live.bounce.updates.php)  | [Up](modules.php) |  [Next](modules.maildir.php) |
-| 71.44. Live Bounce Updates – Live Bounce Updates Service  | [Table of Contents](index.php) |  71.46. maildir – Maildir Delivery Support |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

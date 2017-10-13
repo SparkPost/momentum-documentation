@@ -43,10 +43,3 @@ msys.registerModule("myMod", mod);
 ## See Also
 
 [msg:listener_addr](lua.ref.msg_listener_addr.php "msg:listener_addr")
-
-| [Prev](lua.ref.msg_listener_addr.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msg_context_delete.php) |
-| msg:listener_addr  | [Table of Contents](index.php) |  msg:context_delete |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

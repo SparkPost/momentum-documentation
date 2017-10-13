@@ -72,10 +72,3 @@ Changing the value of options in the `security` scope at runtime requires restar
 ## See Also
 
 [capabilities](conf.ref.capabilities.php "capabilities"), [chroot](conf.ref.chroot.php "chroot"), [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups"), [user](conf.ref.user.php "user"), and [Section 16.3, “`ecelerity-cluster.conf` File”](conf.ref.ecelerity_cluster.conf.php "16.3. ecelerity-cluster.conf File")
-
-| [Prev](conf.ref.scheduler.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.send_8bitmime.php) |
-| scheduler  | [Table of Contents](index.php) |  send_8bitmime |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

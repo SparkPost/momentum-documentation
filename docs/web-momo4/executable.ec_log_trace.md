@@ -402,10 +402,3 @@ Show all reject log entries where "rdnsbl" was set in the connection context. Th
 Show all reject log entries where "somehdr" begins with "failed" in the connection context.
 
 `shell> ec_log_trace --vctx-mess-regex='somehdr=^failed ' /var/log/ecelerity/rejectlog.ec*`
-
-| [Prev](executable.ec_lic.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ec_md5passwd.php) |
-| ec_lic  | [Table of Contents](index.php) |  ec_md5passwd |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

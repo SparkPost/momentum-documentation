@@ -50,10 +50,3 @@ How often to write to file. Default value is `60` seconds.
 </dd>
 
 </dl>
-
-| [Prev](modules.icu.php)  | [Up](modules.php) |  [Next](modules.inbound_audit.php) |
-| 71.39. icu – ICU  | [Table of Contents](index.php) |  71.41. inbound_audit – Inbound traffic analytics |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

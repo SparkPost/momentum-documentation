@@ -163,10 +163,3 @@ The precedence for engagement tracking options, from highest to lowest is as fol
 *   msg_gen level
 
 For example, if click_tracking is not specified at the transmission level, the value at the template level is used. If the template level is also not specified, the setting of the configuration option in the msg_gen module is used.
-
-| [Prev](modules.msgc.php)  | [Up](modules.php) |  [Next](modules.mxip.php) |
-| 71.47. msgc – Message Systems Group Communication  | [Table of Contents](index.php) |  71.49. mxip - IP Addresses In MX Records |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -24,10 +24,3 @@ If no `reason` is supplied, the reason defaults to `550 5.7.0 discarded by polic
 When a reason is passed to this function, it must begin with an SMTP code, for example, "550 My reason". If the reason isn't in this format, it is overwritten with the reason "550 5.7.1 [internal] discarded by policy".
 
 Enable this function with the statement `require('msys.extended.message');`.
-
-| [Prev](lua.ref.msg_build.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msg_forward.php) |
-| msg:build  | [Table of Contents](index.php) |  msg:forward |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

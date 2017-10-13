@@ -26,10 +26,3 @@ The default value is `reject`.
 ## Scope
 
 `starttls_injection_policy` is valid in the ESMTP_Listener, listen, pathway, pathway_group and peer scopes.
-
-| [Prev](config.ssl_lock_method.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.supplemental_groups.php) |
-| ssl_lock_method  | [Table of Contents](index.php) |  supplemental_groups |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

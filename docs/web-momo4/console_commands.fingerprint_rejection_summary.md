@@ -20,10 +20,3 @@ Passive operating system fingerprinting runs as a daemon that Momentum communica
 ## See Also
 
 [fingerprint cache summary](console_commands.fingerprint_cache_summary.php "fingerprint cache summary")
-
-| [Prev](console_commands.fingerprint_cache_summary.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.flush_domain.php) |
-| fingerprint cache summary  | [Table of Contents](index.php) |  flush domain |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

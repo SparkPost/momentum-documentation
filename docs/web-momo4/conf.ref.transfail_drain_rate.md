@@ -23,10 +23,3 @@ transfail_drain_rate is valid in the global scope.
 ## See Also
 
 [inline_transfail_processing](conf.ref.inline_transfail_processing.php "inline_transfail_processing") and [max_resident_transfails](conf.ref.max_resident_transfails.php "max_resident_transfails")
-
-| [Prev](config.tracking_link_expiry.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.transform_8bitmime_content.php) |
-| tracking_link_expiry  | [Table of Contents](index.php) |  transform_8bitmime_content |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

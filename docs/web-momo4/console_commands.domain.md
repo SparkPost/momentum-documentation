@@ -120,10 +120,3 @@ The total number of permanently failed delivery attempts to this domain since in
 The current number of established outbound SMTP sessions.
 
 Below the count is a list that details the system file descriptor and IP address that each SMTP session is using. The state reflects the current point in the SMTP transaction and the length of time since entering that state.
-
-| [Prev](console_commands.dns_cache.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.domain_all.php) |
-| dns_cache  | [Table of Contents](index.php) |  domain all |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

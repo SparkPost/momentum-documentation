@@ -58,10 +58,3 @@ The facilities and priorities are the standard syslog values. Not all facilities
 ### Warning
 
 Be careful using this wrapper for the mainlog or rejectlog as the volume is likely to swamp the system logger.
-
-| [Prev](modules.suppress_spool.php)  | [Up](modules.php) |  [Next](tls_macros.php) |
-| 71.70. suppress_spool – Deferred Message Spooling  | [Table of Contents](index.php) |  71.72. tls_macros – TLS-related Logging |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

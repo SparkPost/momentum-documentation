@@ -23,10 +23,3 @@ Because this function is in the `msys.core` namespace, an explicit `require('msy
 ## See Also
 
 [msys.core.dns_get_domain](lua.ref.msys.core.dns_get_domain.php "msys.core.dns_get_domain")
-
-| [Prev](lua.ref.msys.core.get_now_ts.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.core.string_new.php) |
-| msys.core.get_now_ts  | [Table of Contents](index.php) |  msys.core.string_new |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

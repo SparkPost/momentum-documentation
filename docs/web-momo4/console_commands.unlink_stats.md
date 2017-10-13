@@ -23,10 +23,3 @@ Attempts       :        6000      6000      6000
 Current Backlog:      0
 Batch Backlog  :      0
 ```
-
-| [Prev](console_commands.trace_smtp.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.version.php) |
-| trace smtp  | [Table of Contents](index.php) |  version |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -39,10 +39,3 @@ Enable this function with the statement `require('msys.audit');`.
 ## See Also
 
 [msys.audit.receptions](lua.ref.msys.audit.receptions.php "msys.audit.receptions"), [msys.audit.connections](lua.ref.msys.audit.connections.php "msys.audit.connections"), [Section 71.41, “inbound_audit – Inbound traffic analytics”](modules.inbound_audit.php "71.41. inbound_audit – Inbound traffic analytics")
-
-| [Prev](lua.ref.msys.audit.receptions.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.audit_series.add.php) |
-| msys.audit.receptions  | [Table of Contents](index.php) |  msys.audit_series.add |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -25,10 +25,3 @@ Changing the value of this options at runtime requires restarting the ecelerity 
 ## See Also
 
 [Chapter 27, *DuraVIP™: IP Fail over*](cluster.config.duravip.php "Chapter 27. DuraVIP™: IP Fail over") 
-
-| [Prev](conf.ref.unsafe_spool.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.use_ipv6.php) |
-| _unsafe_spool  | [Table of Contents](index.php) |  use_ipv6 |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

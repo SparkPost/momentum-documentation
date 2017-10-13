@@ -71,10 +71,3 @@ In this case the return value of the `msg:header` function is also a boolean.
 ## See Also
 
 [msg:body](lua.ref.msg_body.php "msg:body") and [msgpart:header](lua.ref.msgpart_header.php "msgpart:header").
-
-| [Prev](lua.ref.msg_get_envelope2.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msg_listener_addr.php) |
-| msg:get_envelope2  | [Table of Contents](index.php) |  msg:listener_addr |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -21,10 +21,3 @@ binding "customer-2" {
   }
 }
 ```
-
-| [Prev](outbound_mail.multivip.interfaces.php)  | [Up](outbound_mail.php) |  [Next](tls_option.php) |
-| 25.3. MultiVIP© Interfaces  | [Table of Contents](index.php) |  25.5. Outbound TLS |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

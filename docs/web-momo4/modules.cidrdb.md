@@ -62,10 +62,3 @@ To list configured CIDR databases in XML format use **`xml cidrdb list`**       
 </dd>
 
 </dl>
-
-| [Prev](modules.chunk_logger.php)  | [Up](modules.php) |  [Next](modules.clamav.php) |
-| 71.15. chunk_logger Module  | [Table of Contents](index.php) |  71.17. clamav – ClamAV |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

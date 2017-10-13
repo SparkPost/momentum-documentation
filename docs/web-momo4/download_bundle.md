@@ -22,10 +22,3 @@ Whether you intend to perform a **new install**         or an **upgrade** you ne
 4.  Confirm your valid Momentum `license` file is in the `/opt/msys/ecelerity/etc` folder on each MTA node. Your licenses should be pulled automatically once they have been issued.
 
     If your node does not have public internet access during installation, you will need to add your valid Momentum `license` files manually.
-
-| [Prev](byb.analytics_reqs.php)  | [Up](p.installing.php) |  [Next](install_upgrade_packages.php) |
-| 6.18. Verifying Analytics Node Requirements  | [Table of Contents](index.php) |  Chapter 8. Install / Upgrade the Packages |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

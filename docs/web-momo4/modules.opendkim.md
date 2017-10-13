@@ -293,10 +293,3 @@ The following OpenDKIM objects are passed in to or returned by these functions:
 *   `DKIM_STAT` – Return value or status
 
 For more information about these data types, see [OpenDKIM Library](http://www.opendkim.org/libopendkim/index.html).
-
-| [Prev](modules.mxip.php)  | [Up](modules.php) |  [Next](modules.outbound_audit.php) |
-| 71.49. mxip - IP Addresses In MX Records  | [Table of Contents](index.php) |  71.51. outbound_audit – Outbound traffic analytics |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -34,10 +34,3 @@ The default value is `openssl`.
 ## Scope
 
 `tls_engine` is valid in the global scope.
-
-| [Prev](conf.ref.tls_enable_dhe_ciphers.php)  | [Up](config.options.ref.php) |  [Next](config.tls_ifavailable_fallback.php) |
-| tls_enable_dhe_ciphers  | [Table of Contents](index.php) |  tls_ifavailable_fallback |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

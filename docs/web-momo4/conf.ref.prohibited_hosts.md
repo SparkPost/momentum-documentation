@@ -30,10 +30,3 @@ prohibited_hosts is valid in the global scope.
 ## See Also
 
 [skip_hosts](conf.ref.skip_hosts.php "skip_hosts")
-
-| [Prev](conf.ref.pidfile.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.rcptto_timeout.php) |
-| pidfile  | [Table of Contents](index.php) |  rcptto_timeout |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

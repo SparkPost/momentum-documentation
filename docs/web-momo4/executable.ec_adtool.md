@@ -115,10 +115,3 @@ Move parameters from a global to a local scope by reversing the positions of the
 ## See Also
 
 [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery"), [Chapter 30, *Riak*](riak.php "Chapter 30. Riak")
-
-| [Prev](executable.credmgr.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ec_console.php) |
-| credmgr  | [Table of Contents](index.php) |  ec_console |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

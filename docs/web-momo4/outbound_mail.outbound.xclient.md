@@ -19,10 +19,3 @@ binding "customer-1" {
   }
 }
 ```
-
-| [Prev](tls_option.php)  | [Up](outbound_mail.php) |  [Next](outbound_mail.relay_hosts.php) |
-| 25.5. Outbound TLS  | [Table of Contents](index.php) |  25.7. Outbound Email Relay |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

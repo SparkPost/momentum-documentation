@@ -332,10 +332,3 @@ The <sender> is strong-bad@email.example.com.
    %{ir}.%{v}._spf.%{d2}                               1.0.B.C.0.0.0.0.
    0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.B.D.0.1.0.0.2.ip6._spf.example.com
 ```
-
-| [Prev](modules.smtpapi.php)  | [Up](modules.php) |  [Next](modules.static_routes.php) |
-| 71.67. smtpapi – SMTP Engagement Tracking  | [Table of Contents](index.php) |  71.69. static-routes - Static Routes |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

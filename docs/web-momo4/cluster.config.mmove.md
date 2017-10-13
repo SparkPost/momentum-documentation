@@ -11,10 +11,3 @@ If you wish to determine the amount of traffic on the #mmove binding, use the [m
 ### ECmmove2
 
 ECmmove2 is the service that handles DuraVIP™ message moves. A node will connect to the ECCluster_listener and indicate that it is going to initiate an mmove; the connection is then passed over to the SMTP state machines on both sides and completes using regular SMTP.
-
-| [Prev](cluster.config.duravip.php)  | [Up](cluster.config.duravip.php) |  [Next](cluster.config.arp_all_hosts.php) |
-| Chapter 27. DuraVIP™: IP Fail over  | [Table of Contents](index.php) |  27.3. Address Resolution Protocol (ARP) traffic |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

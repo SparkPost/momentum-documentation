@@ -126,10 +126,3 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 ## See Also
 
 [thread.mutex](lua.ref.thread.mutex.php "thread.mutex"), [msys.sleep](lua.ref.msys.sleep.php "msys.sleep"), [msys.lock](lua.ref.msys.lock.php "msys.lock"), [msys.unlock](lua.ref.msys.unlock.php "msys.unlock"), [threadpool](conf.ref.threadpool.php "threadpool")
-
-| [Prev](lua.ref.msys.registerModule.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.sleep.php) |
-| msys.registerModule  | [Table of Contents](index.php) |  msys.sleep |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

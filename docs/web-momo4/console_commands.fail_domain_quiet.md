@@ -20,10 +20,3 @@ unresolvableproblems.com purged, 62415 messages failed.
 ## See Also
 
 [fail domain](console_commands.fail_domain.php "fail domain")
-
-| [Prev](console_commands.fail_domain.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.fingerprint_cache_summary.php) |
-| fail domain  | [Table of Contents](index.php) |  fingerprint cache summary |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -208,10 +208,3 @@ This command flushes all entries from the keycache. If you alter the private key
 </dd>
 
 </dl>
-
-| [Prev](modules.dnsbuf.php)  | [Up](modules.php) |  [Next](modules.ds_core.php) |
-| 71.27. dnsbuf – Dynamically Set the DNS UDP Buffer Size  | [Table of Contents](index.php) |  71.29. ds_core - Datasource Query Core |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

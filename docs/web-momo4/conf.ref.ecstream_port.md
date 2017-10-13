@@ -32,10 +32,3 @@ ecstream_port is valid in the binding, binding_group, domain, and global scopes.
 ## See Also
 
 [delivery_method](conf.ref.delivery_method.php "delivery_method")
-
-| [Prev](conf.ref.drop_body_after_trans_fail.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.ecstream_timeout.php) |
-| drop_body_after_trans_fail  | [Table of Contents](index.php) |  ecstream_timeout |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

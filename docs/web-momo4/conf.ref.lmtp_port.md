@@ -21,10 +21,3 @@ lmtp_port is valid in the binding, binding_group, domain and global scopes.
 ## See Also
 
 [delivery_method](conf.ref.delivery_method.php "delivery_method")
-
-| [Prev](conf.ref.license.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.local_changes_file.php) |
-| license  | [Table of Contents](index.php) |  local_changes_file |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

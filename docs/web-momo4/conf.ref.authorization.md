@@ -38,10 +38,3 @@ authorization is valid in the global scope.
 ## See Also
 
 [msys.registerAuth](lua.ref.msys.registerAuth.php "msys.registerAuth"), [Section 71.8, “auth_ds – Datasource based SMTP Authentication”](modules.auth_ds.php "71.8. auth_ds – Datasource based SMTP Authentication") and [Section 17.4, “Control_Listener Authorization”](control_authz.php "17.4. Control_Listener Authorization")
-
-| [Prev](conf.ref.async_bounce_rendering.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.bind_address.php) |
-| async_bounce_rendering  | [Table of Contents](index.php) |  bind_address |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -23,10 +23,3 @@ Changing the value of this option at runtime requires restarting the ecelerity p
 ## See Also
 
 [spoolbase](conf.ref.spoolbase.php "spoolbase")
-
-| [Prev](conf.ref.soft_bounce_drain_rate.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.spoolbase.php) |
-| soft_bounce_drain_rate  | [Table of Contents](index.php) |  spoolbase |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

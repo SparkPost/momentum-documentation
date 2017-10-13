@@ -263,10 +263,3 @@ As discussed in [Section 15.1.2, “Using the `include` and `readonly_include` 
         Some configuration changes require restarting the ecelerity process, as documented throughout this guide. Running the **`config reload`**         command will not suffice.
 
     *   For a node-specific configuration, use the [ec_ctl](executable.ec_ctl.php "ec_ctl") command to restart the ecelerity process. The **`config reload`**         command will not load configuration changes.
-
-| [Prev](p.configuration.php)  | [Up](p.configuration.php) |  [Next](conf.options.php) |
-| Part III. Configuring Momentum  | [Table of Contents](index.php) |  15.2. Configuration Options |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

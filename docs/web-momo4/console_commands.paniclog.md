@@ -20,10 +20,3 @@ Momentum maintains, in memory, the last several messages that were written to th
 [Sun 30 Nov 2003 10:31:37] [serious] Valid license.
 [Sun 30 Nov 2003 10:31:37] [serious] ndbm_cache initialized
 ```
-
-| [Prev](console_commands.pager.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.pid.php) |
-| \pager  | [Table of Contents](index.php) |  pid |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

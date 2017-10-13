@@ -231,10 +231,3 @@ Up to date
 </dd>
 
 </dl>
-
-| [Prev](modules.alias.php)  | [Up](modules.php) |  [Next](modules.as_logger.php) |
-| 71.5. alias – Alias Expansion  | [Table of Contents](index.php) |  71.7. as_logger – Audit Series Logger |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

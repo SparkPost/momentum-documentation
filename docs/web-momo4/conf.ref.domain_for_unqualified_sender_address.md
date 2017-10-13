@@ -18,10 +18,3 @@ When set, `domain_for_unqualified_sender_address` will rewrite the envelope addr
 ## Scope
 
 domain_for_unqualified_sender_address is valid in a pathway, pathway_group, listener, and global scopes.
-
-| [Prev](conf.ref.domain_for_unqualified_recipient_addresses.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.domain.php) |
-| domain_for_unqualified_recipient_addresses  | [Table of Contents](index.php) |  domain |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -21,10 +21,3 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 ## See Also
 
 [msys.lock](lua.ref.msys.lock.php "msys.lock")
-
-| [Prev](lua.ref.msys.type.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.session_request_url_get.php) |
-| msys.type  | [Table of Contents](index.php) |  session:request_url_get |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

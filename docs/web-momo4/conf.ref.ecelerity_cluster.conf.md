@@ -114,10 +114,3 @@ For details about the cluster module, see [Section 71.19, “cluster – Cluste
 </dd>
 
 </dl>
-
-| [Prev](conf.ref.eccluster.conf.php)  | [Up](cluster.php) |  [Next](conf.ref.msgc_server.conf.php) |
-| 16.2. `eccluster.conf` File  | [Table of Contents](index.php) |  16.4. `msgc_server.conf` File |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

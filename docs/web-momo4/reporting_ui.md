@@ -39,10 +39,3 @@ To create your custom reports, begin in theSummary section by selecting your met
 See [Chapter 57, *Reports and Engagement Tracking in the UI*                                  ](web-ui.reports.php "Chapter 57. Reports and Engagement Tracking in the UI") for detailed information about the six reports including screen captures, descriptions of the various metrics, and instructions to create custom reports.
 
 Congratulations! You have successfully logged into Momentum's UI. You can create custom reports in the UI by selecting the metrics and filters for your specific reporting needs. Become familiar with the UI and explore its capabilities.
-
-| [Prev](web-ui.php)  | [Up](p.analytics.php) |  [Next](web-ui.reports.php) |
-| Chapter 55. Getting Started with the Web-based User Interface  | [Table of Contents](index.php) |  Chapter 57. Reports and Engagement Tracking in the UI |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -519,10 +519,3 @@ ecdb
 </dd>
 
 </dl>
-
-| [Prev](modules.domainkeys.php)  | [Up](modules.php) |  [Next](modules.ec_logger.php) |
-| 71.28. domainkeys – Yahoo! DomainKeys  | [Table of Contents](index.php) |  71.30. EC_logger – Momentum-Style Logging |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

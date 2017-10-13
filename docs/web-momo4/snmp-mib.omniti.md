@@ -269,10 +269,3 @@ OMNITI-SNMP-MIB DEFINITIONS ::= BEGIN
 
   END
 ```
-
-| [Prev](snmp-mib.pergroup.php)  | [Up](snmp-mib.php) |  [Next](smtp-response-codes.php) |
-| B.2. Per-group (binding) Metrics, 1.3.6.1.4.1.19552.1.3  | [Table of Contents](index.php) |  Appendix C. SMTP Response Codes |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

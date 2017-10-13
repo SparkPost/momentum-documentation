@@ -38,10 +38,3 @@ This option is valid in the binding, binding_group, domain, and global scopes.
 ## See Also
 
 [Section 71.58, “response_transcode – Module”](modules.response_transcode.php "71.58. response_transcode – Module")
-
-| [Prev](conf.ref.resolv_conf.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.response_transcode_replace.php) |
-| resolv_conf  | [Table of Contents](index.php) |  response_transcode_replace |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -29,10 +29,3 @@ The cluster module must be configured with the outbound throttle parameters.
 ## See Also
 
 [cluster_outbound_throttle_messages](conf.ref.cluster_outbound_throttle_messages.php "cluster_outbound_throttle_messages")
-
-| [Prev](conf.ref.cluster_max_outbound_connections.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.cluster_outbound_throttle_messages.php) |
-| cluster_max_outbound_connections  | [Table of Contents](index.php) |  cluster_outbound_throttle_messages |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

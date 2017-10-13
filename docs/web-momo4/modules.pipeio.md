@@ -149,10 +149,3 @@ Logs {
 ### 71.54.4. See Also
 
 [Chapter 31, *Configuring the Environment File*](environment_file.php "Chapter 31. Configuring the Environment File") 
-
-| [Prev](modules.persistio.php)  | [Up](modules.php) |  [Next](modules.pipe_transport.php) |
-| 71.53. persist_io – Persistent IO Wrapper  | [Table of Contents](index.php) |  71.55. pipe_transport – Module |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -38,10 +38,3 @@ Domain local.example.com {
   Delivery_Method = LMTP
 }
 ```
-
-| [Prev](multi_event_loops.php)  | [Up](p.configuration.php) |  [Next](outbound_mail.prohibited.hosts.php) |
-| Chapter 24. Configuring Multiple Event Loops  | [Table of Contents](index.php) |  25.2. Prohibited_Hosts |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

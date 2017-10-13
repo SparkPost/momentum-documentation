@@ -20,10 +20,3 @@ The default value is `300`.
 ## Scope
 
 permastore_interval is valid in the global scope.
-
-| [Prev](conf.ref.pcre_cache_ttl.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.pidfile.php) |
-| pcre_cache_ttl  | [Table of Contents](index.php) |  pidfile |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

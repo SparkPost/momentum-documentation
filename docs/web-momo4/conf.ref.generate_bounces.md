@@ -25,10 +25,3 @@ generate_bounces is valid in the binding, binding_group, domain and global scope
 ## See Also
 
 [bounce_behavior](conf.ref.bounce_behavior.php "bounce_behavior")
-
-| [Prev](conf.ref.gateway.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.generate_bounces_for_multi_recipient_policy_rejections.php) |
-| gateway  | [Table of Contents](index.php) |  generate_bounces_for_multi_recipient_policy_rejections |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

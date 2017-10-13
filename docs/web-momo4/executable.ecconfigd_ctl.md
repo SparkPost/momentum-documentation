@@ -20,10 +20,3 @@ If the `EXTRA_ARGS` environment variable is set, its contents will be passed as 
 ## See Also
 
 [ecconfigd](executable.ecconfigd.php "ecconfigd"), [Chapter 31, *Configuring the Environment File*](environment_file.php "Chapter 31. Configuring the Environment File") 
-
-| [Prev](executable.ecconfigd.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ecelerity.php) |
-| ecconfigd  | [Table of Contents](index.php) |  ecelerity |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

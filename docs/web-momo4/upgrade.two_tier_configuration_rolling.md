@@ -91,10 +91,3 @@ An overview of the rolling upgrade process is shown below.
 ### Note
 
 Be sure to read the [Release Notes](https://support.messagesystems.com/start.php) for the version of Momentum that you are installing.
-
-| [Prev](upgrade.single_node.configuration.next_steps.php)  | [Up](p.installing.php) |  [Next](upgrade.two_tier.preparation.prepare_all_nodes_rolling.php) |
-| 10.9. Next Steps  | [Table of Contents](index.php) |  11.2. Before You Begin the Upgrade |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -29,10 +29,3 @@ It takes the following parameters:
 ## See Also
 
 [msys.validate.dk.sign](lua.ref.msys.validate.dk.sign.php "msys.validate.dk.sign")
-
-| [Prev](lua.ref.msys.timer.every.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.validate.dk.sign.php) |
-| msys.timer.every  | [Table of Contents](index.php) |  msys.validate.dk.sign |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

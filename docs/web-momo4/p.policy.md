@@ -33,10 +33,3 @@
 </dd>
 
 </dl>
-
-| [Prev](engagement_tracking_http.php)  |   |  [Next](policy.php) |
-| Chapter 61. Tracking Engagement for HTTP  | [Table of Contents](index.php) |  Chapter 62. Implementing Policy with Momentum |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -37,10 +37,3 @@ Enable this function with the statement `require('msys.pcre')`.
 ## See Also
 
 [msys.pcre.match](lua.ref.msys.pcre.match.php "msys.pcre.match"), [msys.pcre.split](lua.ref.msys.pcre.split.php "msys.pcre.split")
-
-| [Prev](lua.ref.msys.pcre.match.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.pcre.split.php) |
-| msys.pcre.match  | [Table of Contents](index.php) |  msys.pcre.split |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

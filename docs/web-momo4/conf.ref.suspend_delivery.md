@@ -58,10 +58,3 @@ For more information on the default binding, see [the section called “`default
 ## See Also
 
 [binding](conf.ref.binding.php "binding"), [Section 27.2, “`duravip_follow` and the #mmove Binding”](cluster.config.mmove.php "27.2. duravip_follow and the #mmove Binding"), [default_binding](conf.ref.default_binding.php "default_binding")
-
-| [Prev](conf.ref.supplemental_groups.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.tcp_buffer_size.php) |
-| supplemental_groups  | [Table of Contents](index.php) |  tcp_buffer_size |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -63,10 +63,3 @@ Host edge.omniti.com {
 ## See Also
 
 [max_outbound_connections](conf.ref.max_outbound_connections.php "max_outbound_connections"), [host](conf.ref.host.php "host")
-
-| [Prev](config.click_tracking_scheme.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.cluster_outbound_throttle_connections.php) |
-| click_tracking_scheme  | [Table of Contents](index.php) |  cluster_outbound_throttle_connections |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

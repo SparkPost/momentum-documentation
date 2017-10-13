@@ -77,10 +77,3 @@ To make it easier to work with libraries that use bitmasks as part of their API,
 ## See Also
 
 [msys.runInPool](lua.ref.msys.runinpool.php "msys.runInPool")
-
-| [Prev](lua.ref.msgpart_unlink.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.cast.php) |
-| msgpart:unlink  | [Table of Contents](index.php) |  msys.cast |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

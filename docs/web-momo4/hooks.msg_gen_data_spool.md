@@ -44,10 +44,3 @@ This hook will be called in any thread.
 ## See Also
 
 [msg_gen Module](modules.msg_gen.php "71.48. msg_gen – Message Generation")
-
-| [Prev](hooks.php)  | [Up](hooks.php) |  [Next](hooks.config_rsrc_setup.php) |
-| Chapter 69. Hook Points and C Functions Reference  | [Table of Contents](index.php) |  config_rsrc_setup |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

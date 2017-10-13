@@ -13,10 +13,3 @@ Momentum’s queuing architecture allows delivery over hundreds or even thousand
 ### Internal Network Bandwidth
 
 When sending transactional or SMTP traffic into Momentum, the injection network must match the bandwidth of the external network.
-
-| [Prev](hardware.scaling.php)  | [Up](hardware.requirements.php) |  [Next](hardware.config.php) |
-| 5.3. Hardware Scaling Approach  | [Table of Contents](index.php) |  5.5. Hardware Deployment Configuration |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

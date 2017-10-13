@@ -160,10 +160,3 @@ Follow all steps below on the first Cassandra node until reaching the final numb
         UN  10.77.0.233  110.98 KB  256     35.4%  2713fb8f-b188-4b0b-9d11-b76506e922bc  rack1
         UN  10.77.0.235  111.41 KB  256     33.3%  88a7616c-36b9-4aa0-9ddc-db24ad76115c  rack1
         ```
-
-| [Prev](new_installation.php)  | [Up](new_installation.php) |  [Next](install.analytics_nodes.php) |
-| Chapter 9. New Installation - All Configurations  | [Table of Contents](index.php) |  9.3. Configure the Analytics Nodes |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

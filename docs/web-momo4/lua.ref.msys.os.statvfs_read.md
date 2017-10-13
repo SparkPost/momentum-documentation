@@ -117,10 +117,3 @@ The function that performs the registered action, in the examples above, accepts
 ## See Also
 
 [msys.os.statvfs_subscribe](lua.ref.msys.os.statvfs_subscribe.php "msys.os.statvfs_subscribe"), [ec_statvfs](https://support.messagesystems.com/docs/web-c-api/structs.ec_statvfs.php), [command_construct](https://support.messagesystems.com/docs/web-c-api/structs.command_construct.php) and [msys.registerControl](lua.ref.msys.registerControl.php "msys.registerControl")
-
-| [Prev](lua.ref.msys.pcre.split.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.os.statvfs_subscribe.php) |
-| msys.pcre.split  | [Table of Contents](index.php) |  msys.os.statvfs_subscribe |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

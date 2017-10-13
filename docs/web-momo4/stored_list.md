@@ -129,10 +129,3 @@ Congratulations! You have created your first stored recipient list using Momentu
 **Configuration Change. ** Version 4.2 and later support managing your recipient lists using the UI.
 
 You can also create and manage your recipient lists using the web-based UI. For detailed instructions, see [Section 55.1, “Recipient Lists”](web-ui.php#web-ui.recipients "55.1. Recipient Lists").
-
-| [Prev](using_template.php)  | [Up](p.http_rest.php) |  [Next](using_list.php) |
-| Chapter 49. Using Stored Templates  | [Table of Contents](index.php) |  Chapter 51. Using Stored Recipient Lists |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

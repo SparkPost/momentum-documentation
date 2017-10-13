@@ -19,10 +19,3 @@ The following is a description of the fields:
 | 4 | hotmail.com | Domain name, only included in ‘`G`’ record types (may be empty) |
 | 5 | NOTICE | Log level name, only included in ‘`G`’ record types (see [debug_flags](conf.ref.debug_flags.php "debug_flags") for a list of valid names.) |
 | 6 | retry_interval *`from`* -> *`to`* | Free-form string, only included in ‘`G`’ record types (this string may include additional ‘`@`’ signs; typically, it will show how an option has changed.) |
-
-| [Prev](log_formats.php)  | [Up](log_formats.php) |  [Next](log_formats.bouncelog.php) |
-| Chapter 35. Log Formats  | [Table of Contents](index.php) |  35.3. `bouncelog` |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

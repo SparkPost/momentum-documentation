@@ -16,10 +16,3 @@ This configuration directive is used to override the default hostname as determi
 ## Scope
 
 hostname is valid in the global scope.
-
-| [Prev](conf.ref.host.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.host_failure_retry.php) |
-| host  | [Table of Contents](index.php) |  host_failure_retry |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

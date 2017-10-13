@@ -159,10 +159,3 @@ You can also use Lua to classify bounces at runtime. For more information see [m
 ### 71.12.4. See Also
 
 [Section 71.44, “Live Bounce Updates – Live Bounce Updates Service”](modules.live.bounce.updates.php "71.44. Live Bounce Updates – Live Bounce Updates Service")
-
-| [Prev](modules.bind_address_secondary.php)  | [Up](modules.php) |  [Next](modules.bounce_logger.php) |
-| 71.11. bind_address_secondary – Dual-stack IPv4/IPv6 Support  | [Table of Contents](index.php) |  71.13. bounce_logger – Momentum-Style Bounce Logging |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

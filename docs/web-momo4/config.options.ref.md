@@ -441,10 +441,3 @@
 This chapter provides the definitions of the configuration options for the configuration files that are referenced in this document.
 
 Most options that are common to Momentum 4 and Momentum 3 are documented in the Momentum 3.x Reference Manual. See the [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
-
-| [Prev](modules.url_ripper.php)  | [Up](p.reference.php) |  [Next](conf.ref.adaptive_backstore_leveldb.php) |
-| 71.73. url_ripper – URL Extraction  | [Table of Contents](index.php) |  adaptive_backstore_leveldb |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

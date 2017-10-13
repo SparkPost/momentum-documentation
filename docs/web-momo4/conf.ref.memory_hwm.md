@@ -21,10 +21,3 @@ memory_hwm is valid in the global scope.
 ## See Also
 
 [memory_goal](conf.ref.memory_goal.php "memory_goal")
-
-| [Prev](conf.ref.memory_goal.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.message_expiration.php) |
-| memory_goal  | [Table of Contents](index.php) |  message_expiration |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

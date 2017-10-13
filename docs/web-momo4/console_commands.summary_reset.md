@@ -21,10 +21,3 @@ The **summary reset**       command resets the statistics counters of the runnin
 ## See Also
 
 [binding summary](console_commands.binding_summary.php "binding summary"), [summary](console_commands.summary.php "summary")
-
-| [Prev](console_commands.summary.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.sysinfo.php) |
-| summary  | [Table of Contents](index.php) |  sysinfo |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

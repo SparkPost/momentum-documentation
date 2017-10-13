@@ -114,10 +114,3 @@ Duration that the script is cached; the default timeout is 300 seconds. Increasi
 </dd>
 
 </dl>
-
-| [Prev](modules.sched.php)  | [Up](modules.php) |  [Next](modules.securecreds.php) |
-| 71.59. sched – The Schedule Module  | [Table of Contents](index.php) |  71.61. securecreds – Password Encryption/Credential Retrieval |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

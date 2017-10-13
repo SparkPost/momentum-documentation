@@ -41,10 +41,3 @@ Bounces for Domain "bounces.xyz.com" will be blackholed because `bounce_behavior
 ## See Also
 
 [blackhole](conf.ref.blackhole.php "blackhole"), [bounce_domains](conf.ref.bounce_domains.php "bounce_domains"), [bounce_pattern](conf.ref.bounce_pattern.php "bounce_pattern"), [generate_bounces](conf.ref.generate_bounces.php "generate_bounces") and [Section 71.13, “bounce_logger – Momentum-Style Bounce Logging”](modules.bounce_logger.php "71.13. bounce_logger – Momentum-Style Bounce Logging")
-
-| [Prev](conf.ref.body_timeout.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.bounce_domains.php) |
-| body_timeout  | [Table of Contents](index.php) |  bounce_domains |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

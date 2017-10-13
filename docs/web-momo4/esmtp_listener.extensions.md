@@ -46,10 +46,3 @@ Set a name/value pair in the following way:
 ### 19.4.5. ALWAYS-ALLOW Property
 
 If present, the connection will succeed and will automatically be authenticated as the `anonymous` user.
-
-| [Prev](esmtp_listener.reconfig_message.php)  | [Up](esmtp_listener.php) |  [Next](inbound_smtp.php) |
-| 19.3. `Reconfig_Message` Option  | [Table of Contents](index.php) |  19.5. ESMTP_Listener Authentication |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

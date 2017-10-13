@@ -138,10 +138,3 @@ These instructions apply to Momentum 4.2.1.*`x`*, where `x` > or = `11`
 1.  Follow [ instructions provided by HP](https://my.vertica.com/docs/7.1.x/HTML/Content/Authoring/AdministratorsGuide/ManageNodes/RemovingNodesFromADatabase.htm) to remove a Vertica node from a cluster.
 
 2.  Perform backups as necessary.
-
-| [Prev](add_remove_analytics_nodes.php)  | [Up](add_remove_analytics_nodes.php) |  [Next](p.configuration.php) |
-| Chapter 14. Adding and Removing Analytics Nodes  | [Table of Contents](index.php) |  Part III. Configuring Momentum |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

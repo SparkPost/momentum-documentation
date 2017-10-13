@@ -27,10 +27,3 @@ chroot is valid in the security scope.
 ## See Also
 
 [security](conf.ref.security.php "security"), [capabilities](conf.ref.capabilities.php "capabilities"), [user](conf.ref.user.php "user"), and [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups")
-
-| [Prev](conf.ref.capabilities.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.clear_mail_queue_maintainers.php) |
-| capabilities  | [Table of Contents](index.php) |  clear_mail_queue_maintainers |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

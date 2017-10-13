@@ -20,10 +20,3 @@ The default value is `32`.
 ## Scope
 
 `initial_hash_buckets` is valid in the global scope.
-
-| [Prev](conf.ref.inbound_throttle_messages.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.inline_transfail_processing.php) |
-| inbound_throttle_messages  | [Table of Contents](index.php) |  inline_transfail_processing |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -22,10 +22,3 @@ static_routes
   target = "1.2.3.4:1234"
 }
 ```
-
-| [Prev](modules.spf.php)  | [Up](modules.php) |  [Next](modules.suppress_spool.php) |
-| 71.68. spf Modules – spf_macros, spf_v1, and senderid (SPF v2)  | [Table of Contents](index.php) |  71.70. suppress_spool – Deferred Message Spooling |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

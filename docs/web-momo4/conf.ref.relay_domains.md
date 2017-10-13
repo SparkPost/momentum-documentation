@@ -32,10 +32,3 @@ Any addresses set in the `addresses` option of the [Section 71.35, “fbl - Fee
 ## See Also
 
 [relay_hosts](conf.ref.relay_hosts.php "relay_hosts"), [only_use_best_mx_for_relay_domains](conf.ref.only_use_best_mx_for_relay_domains.php "only_use_best_mx_for_relay_domains")
-
-| [Prev](conf.ref.relay_for_sending_domains.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.relay_hosts.php) |
-| relay_for_sending_domains  | [Table of Contents](index.php) |  relay_hosts |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

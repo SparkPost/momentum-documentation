@@ -66,10 +66,3 @@ call_chunk_logger_log_hook("default", buf, buflen);
 ### Note
 
 "default" is specified here as the name of the log destination. Currently `chunk_logger` only supports one log destination, so this field is ignored. It is recommended that you pass "default" until different log destinations are supported.
-
-| [Prev](modules.brightmail.php)  | [Up](modules.php) |  [Next](modules.cidrdb.php) |
-| 71.14. brightmail – Symantec Brightmail™ Content Scanning Support  | [Table of Contents](index.php) |  71.16. cidrdb – CIDRDB |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

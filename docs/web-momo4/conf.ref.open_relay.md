@@ -36,10 +36,3 @@ ESMTP_Listener {
 ## See Also
 
 [relay_hosts](conf.ref.relay_hosts.php "relay_hosts")
-
-| [Prev](conf.ref.only_use_best_mx_for_relay_domains.php)  | [Up](config.options.ref.php) |  [Next](config.open_tracking_enabled.php) |
-| only_use_best_mx_for_relay_domains  | [Table of Contents](index.php) |  open_tracking_enabled |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

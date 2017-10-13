@@ -27,10 +27,3 @@ server_max_outbound_connections is valid in the binding, binding_group and globa
 ## See Also
 
 [server_reserve_outbound_connections](conf.ref.server_reserve_outbound_connections.php "server_reserve_outbound_connections"), [server_max_file_descriptors](conf.ref.server_max_file_descriptors.php "server_max_file_descriptors")
-
-| [Prev](conf.ref.server_max_file_descriptors.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.server_reserve_outbound_connections.php) |
-| server_max_file_descriptors  | [Table of Contents](index.php) |  server_reserve_outbound_connections |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -156,10 +156,3 @@
     4.  Start Vertica. Enter your password when prompted.
 
         `service msys-vertica start`
-
-| [Prev](upgrade.two_tier.preparation.restore_tranmissions_rolling.php)  | [Up](upgrade.two_tier_configuration_rolling.php) |  [Next](upgrade.two_tier.configuration.flyway_rolling.php) |
-| 11.9. Restore Transmissions to the Remaining Platform Nodes  | [Table of Contents](index.php) |  11.11. Prepare and Run Flyway |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

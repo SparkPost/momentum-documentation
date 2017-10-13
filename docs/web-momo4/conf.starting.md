@@ -38,10 +38,3 @@ if [ $? != 0 ]; then
   exit 1
 fi
 ```
-
-| [Prev](p.operations.php)  | [Up](p.operations.php) |  [Next](operations.php) |
-| Part V. Using the System Console  | [Table of Contents](index.php) |  Chapter 37. Using the System Console (**ec_console**) |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

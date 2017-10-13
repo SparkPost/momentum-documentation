@@ -23,10 +23,3 @@ Enable this function with the statement `require('msys.extended.ac');`.
 ## See Also
 
 [ac:esmtp_capability_add](lua.ref.ac_esmtp_capability_add.php "ac:esmtp_capability_add")
-
-| [Prev](lua.ref.ac_esmtp_capability_add.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.ac_inbound_session_count.php) |
-| ac:esmtp_capability_add  | [Table of Contents](index.php) |  ac:inbound_session_count |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

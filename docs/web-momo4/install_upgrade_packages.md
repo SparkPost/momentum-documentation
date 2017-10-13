@@ -121,10 +121,3 @@ Ensure that you are in the `/var/tmp/momentum-4.2.1.50062` directory, then insta
             rm -f /etc/init.d/verticad
         fi
         ```
-
-| [Prev](download_bundle.php)  | [Up](p.installing.php) |  [Next](new_installation.php) |
-| Chapter 7. Download the Software Bundle and Prepare  | [Table of Contents](index.php) |  Chapter 9. New Installation - All Configurations |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

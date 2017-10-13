@@ -146,10 +146,3 @@ Used to indicate that a domain is currently testing DomainKeys. `y` will indicat
 A sample DNS text record would look like:
 
 `_domainkey IN TXT "t=y; o=~"`
-
-| [Prev](auth.php)  | [Up](p.configuration.php) |  [Next](using_domainkeys.validation.php) |
-| Chapter 21. Enforcing REST API/UI User Authentication  | [Table of Contents](index.php) |  22.2. DomainKeys Validation |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -91,10 +91,3 @@ SNMPv2-Example::enterprises.19552.1.3.4.4 = STRING: "none/example"
 ```
 
 In the output above, `cdp` and `example` are binding names. The MTAGroupIndexID of `cdp` is `2` because `2` is one less than the last number in `SNMPv2-SMI::enterprises.19552.1.3.4.3`.
-
-| [Prev](message_responses.php)  | [Up](p.appendix.php) |  [Next](snmp-mib.pergroup.php) |
-| Appendix A. Message Responses  | [Table of Contents](index.php) |  B.2. Per-group (binding) Metrics, 1.3.6.1.4.1.19552.1.3 |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

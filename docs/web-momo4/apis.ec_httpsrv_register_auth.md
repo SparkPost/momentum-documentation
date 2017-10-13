@@ -81,10 +81,3 @@ This function returns `0` on success. On failure, it returns an error number tha
 **Threading**
 
 This hook can be called in any thread.
-
-| [Prev](apis.ec_config_rsrc_get.php)  | [Up](hooks.php) |  [Next](apis.ec_httpsrv_request_local_address.php) |
-| ec_config_rsrc_get  | [Table of Contents](index.php) |  ec_httpsrv_request_local_address |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

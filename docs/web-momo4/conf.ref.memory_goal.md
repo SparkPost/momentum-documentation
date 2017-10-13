@@ -23,10 +23,3 @@ memory_goal is valid in the global scope.
 ## See Also
 
 [memory_hwm](conf.ref.memory_hwm.php "memory_hwm")
-
-| [Prev](conf.ref.mdn_failures_notify.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.memory_hwm.php) |
-| mdn_failures_notify  | [Table of Contents](index.php) |  memory_hwm |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

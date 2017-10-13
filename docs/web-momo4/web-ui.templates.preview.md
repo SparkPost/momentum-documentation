@@ -49,10 +49,3 @@ In the Sent Test form, enter your recipient's address and click Send.
 ![Send Test Form](images/send_test.png)
 
 If successful, a message will briefly appear indicating that your message was successfully queued. Your recipient should receive an email with your test data included in the message body.
-
-| [Prev](web-ui.templates.create.php)  | [Up](web-ui.templates.php) |  [Next](web-ui.update.template.php) |
-| 48.2. Creating a Template  | [Table of Contents](index.php) |  48.4. Updating Your Template |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

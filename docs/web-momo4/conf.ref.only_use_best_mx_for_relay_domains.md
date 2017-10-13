@@ -25,10 +25,3 @@ only_use_best_mx_for_relay_domains is valid in the global scope.
 ## See Also
 
 [routes](conf.ref.routes.php "routes"), [bounce_domains](conf.ref.bounce_domains.php "bounce_domains"), [relay_domains](conf.ref.relay_domains.php "relay_domains")
-
-| [Prev](conf.ref.never_retry.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.open_relay.php) |
-| never_retry  | [Table of Contents](index.php) |  open_relay |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

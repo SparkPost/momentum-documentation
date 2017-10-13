@@ -79,10 +79,3 @@ ec_logger "ec_logger_cluster" {
 Repeat this change for each log file that you want to export in this way.
 
 Note that each subscriber that you declare will maintain a checkpoint for the log data in the jlog. If a subscriber never consumes data from the jlog, the jlog will continue to grow and occupy an increasing amount of disk space. For this reason, ensure that you only provision subscribers that will be actively consuming data from the jlog.
-
-| [Prev](cluster.config.logging.centalized.logging.php)  | [Up](log_aggregation.php) |  [Next](cluster.config.logging.redundancy.php) |
-| 26.2. Centralized Logging Example  | [Table of Contents](index.php) |  26.4. Redundant Logs |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

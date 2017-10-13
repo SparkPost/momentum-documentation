@@ -16,10 +16,3 @@ TLS_Client_Ca specifies a file containing a trusted certificate authority list. 
 ## Scope
 
 `tls_client_ca` is valid in the ecstream_listener, esmtp_listener, global, http_listener, listen, pathway, pathway_group and peer scopes.
-
-| [Prev](config.tls_ciphers.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.tls_dhparams_file.php) |
-| tls_ciphers  | [Table of Contents](index.php) |  tls_dhparams_file |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

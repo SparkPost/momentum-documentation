@@ -124,10 +124,3 @@ Responses are sorted by SMTP code and then enhanced code.
 | 554 | 5.4.7 | [internal] exceeded max time without delivery | See message. |
 | 554 | 5.7.0 | [internal] Blackholed | "Blackhole" option is set to "internal" |
 | 554 | 5.7.0 | [internal] Message manually purged | Purged messages from the system console |
-
-| [Prev](p.appendix.php)  | [Up](p.appendix.php) |  [Next](snmp-mib.php) |
-| Part XI. Appendix  | [Table of Contents](index.php) |  Appendix B. MIB Files |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

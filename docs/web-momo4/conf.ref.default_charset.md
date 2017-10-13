@@ -18,10 +18,3 @@ The default value is `"us-ascii"`
 ## Scope
 
 default_binding is valid in the global, pathway_group, and pathway scopes.
-
-| [Prev](conf.ref.default_binding.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.delay_dsn_max_retry_interval.php) |
-| default_binding  | [Table of Contents](index.php) |  delay_dsn_max_retry_interval |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

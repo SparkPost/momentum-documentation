@@ -62,10 +62,3 @@ Changing the value of options in the `security` scope at runtime requires restar
 ## See Also
 
 [security](conf.ref.security.php "security"), [user](conf.ref.user.php "user"), [chroot](conf.ref.chroot.php "chroot"), and [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups")
-
-| [Prev](conf.ref.bounces_inline_original.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.chroot.php) |
-| bounces_inline_original  | [Table of Contents](index.php) |  chroot |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

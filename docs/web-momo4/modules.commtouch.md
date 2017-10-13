@@ -115,10 +115,3 @@ This command outputs the number of pending jobs.
 </dd>
 
 </dl>
-
-| [Prev](modules.cluster.php)  | [Up](modules.php) |  [Next](modules.compress_spool.php) |
-| 71.19. cluster – Cluster  | [Table of Contents](index.php) |  71.21. compress_spool – Dynamic Spool Compression |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

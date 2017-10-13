@@ -145,10 +145,3 @@ Message: 00/00-02001-C6DD1CA4
 
             .
 ```
-
-| [Prev](executable.ec_sendmail.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.eccfg.php) |
-| ec_sendmail  | [Table of Contents](index.php) |  eccfg |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -37,10 +37,3 @@ bind_address is valid in the global, binding_group, and binding scopes.
 ## See Also
 
 [binding](conf.ref.binding.php "binding")
-
-| [Prev](conf.ref.authorization.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.binding.php) |
-| authorization  | [Table of Contents](index.php) |  binding |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

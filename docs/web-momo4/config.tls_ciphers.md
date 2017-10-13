@@ -42,10 +42,3 @@ This option can be set to `NORMAL`.
 ## Scope
 
 `tls_ciphers` is valid in the binding, binding_group, domain, ecstream_listener, esmtp_listener, global, http_listener, listen, pathway, pathway_group and peer scopes.
-
-| [Prev](config.tls_certificate.php)  | [Up](config.options.ref.php) |  [Next](config.tls_client_ca.php) |
-| tls_certificate  | [Table of Contents](index.php) |  tls_client_ca |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

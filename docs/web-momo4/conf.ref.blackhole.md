@@ -33,10 +33,3 @@ Blackhole is valid in the binding, binding_group, domain and global scopes.
 ## See Also
 
 [bounce_behavior](conf.ref.bounce_behavior.php "bounce_behavior"), [generate_bounces](conf.ref.generate_bounces.php "generate_bounces")
-
-| [Prev](conf.ref.binding_group.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.body_timeout.php) |
-| binding_group  | [Table of Contents](index.php) |  body_timeout |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

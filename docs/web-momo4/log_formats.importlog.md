@@ -36,10 +36,3 @@ Result indicator
 
  |
 | 5 | /var/spool/my-alternative-spool | Base directory containing the spool being imported |
-
-| [Prev](log_formats.httplog.php)  | [Up](log_formats.php) |  [Next](log_formats.mainlog.php) |
-| 35.5. `httplog`  | [Table of Contents](index.php) |  35.7. `mainlog` |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

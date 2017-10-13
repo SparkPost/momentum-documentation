@@ -29,10 +29,3 @@ fully_resolve_before_smtp is valid in the binding, binding_group, domain, and gl
 ## See Also
 
 [relay_domains](conf.ref.relay_domains.php "relay_domains")
-
-| [Prev](conf.ref.force_fsync.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.gateway.php) |
-| force_fsync  | [Table of Contents](index.php) |  gateway |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

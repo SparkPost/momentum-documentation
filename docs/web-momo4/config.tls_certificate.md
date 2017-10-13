@@ -18,10 +18,3 @@ The special value `none` can be used to indicate that no certificate file should
 ## Scope
 
 `tls_certificate` is valid in the binding, binding_group, domain, ecstream_listener, esmtp_listener, global, http_listener, listen, pathway, pathway_group and peer scopes.
-
-| [Prev](config.tls_ca.php)  | [Up](config.options.ref.php) |  [Next](config.tls_ciphers.php) |
-| tls_ca  | [Table of Contents](index.php) |  tls_ciphers |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -69,10 +69,3 @@ If you need to install Java 7, follow the steps below.
     If your results display a single option, then select that option.
 
 For more information, contact Message Systems Professional Services.
-
-| [Prev](byb.set_hostnames.php)  | [Up](before_you_begin.php) |  [Next](byb.root_and_vertica_dba.php) |
-| 6.8. Setting Hostnames  | [Table of Contents](index.php) |  6.10. Creating `root` and `vertica_dba` Accounts |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

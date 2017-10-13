@@ -16,10 +16,3 @@ The amount of time in seconds to wait for a response to the `EHLO` command. The 
 ## Scope
 
 ehlo_timeout is valid in the binding, binding_group, domain, and global scopes.
-
-| [Prev](conf.ref.ehlo_hostname.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.enable_fbl_header_insertion.php) |
-| ehlo_hostname  | [Table of Contents](index.php) |  enable_fbl_header_insertion |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

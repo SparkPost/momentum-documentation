@@ -155,10 +155,3 @@
 ## 71.1. Introduction
 
 This chapter includes module reference material that is specific to Momentum 4.
-
-| [Prev](lua.ref.xml.parsexml.php)  | [Up](p.reference.php) |  [Next](modules.ac_auth.php) |
-| xml.parsexml  | [Table of Contents](index.php) |  71.2. ac_auth – Authentication Handler |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

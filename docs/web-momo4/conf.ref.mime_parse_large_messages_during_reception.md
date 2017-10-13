@@ -20,10 +20,3 @@ Setting this value to "false" may result in blocking the scheduler thread. The d
 ## Scope
 
 `mime_parse_large_messages_during_reception` is valid in the global scope.
-
-| [Prev](conf.ref.migrate_connections_between_sibling_domains.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.min_dns_ttl.php) |
-| migrate_connections_between_sibling_domains  | [Table of Contents](index.php) |  min_dns_ttl |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

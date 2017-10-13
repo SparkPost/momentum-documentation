@@ -11,10 +11,3 @@ To decommission a log aggregator, complete the following operational procedure:
 4.  Remove the log aggregator from your cluster.
 
 5.  On each of the nodes that was journalling data for that log aggregator, use the [jlogctl](executable.jlogctl.php "jlogctl") tool to erase the now redundant subscriber checkpoint information from each of the jlog files.
-
-| [Prev](cluster.config.logging.redundancy.php)  | [Up](log_aggregation.php) |  [Next](cluster.config.duravip.php) |
-| 26.4. Redundant Logs  | [Table of Contents](index.php) |  Chapter 27. DuraVIP™: IP Fail over |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

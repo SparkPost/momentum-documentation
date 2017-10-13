@@ -153,10 +153,3 @@ View all options that affect the cluster manager. This command displays options 
 </dd>
 
 </dl>
-
-| [Prev](cluster.config.operations.php)  | [Up](cluster.config.operations.php) |  [Next](cluster.cidr_server.php) |
-| Chapter 38. Using the Cluster Manager (**eccmgr**)  | [Table of Contents](index.php) |  Chapter 39. CIDR Server |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

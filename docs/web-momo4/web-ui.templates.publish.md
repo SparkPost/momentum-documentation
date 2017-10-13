@@ -11,10 +11,3 @@ To publish your template, click the arrow on the right-hand side of the Save Dra
 ![Publish Template](images/publish_template.png)
 
 A published template can still be edited, either by editing the published version or by creating a new draft.
-
-| [Prev](web-ui.update.template.php)  | [Up](web-ui.templates.php) |  [Next](web-ui.templates.delete.php) |
-| 48.4. Updating Your Template  | [Table of Contents](index.php) |  48.6. Deleting a Template |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

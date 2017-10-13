@@ -2251,10 +2251,3 @@ Document generated on: 2017-Aug-09
 </dl>
 
 [List of Figures](figure-toc.php)[List of Tables](table-toc.php)[List of Examples](example-toc.php)
-
-|   |   |  [Next](preface.php) |
-|   |   |  Preface |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

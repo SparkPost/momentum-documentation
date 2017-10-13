@@ -125,10 +125,3 @@ Proxy type (HTTP, SOCKS4, SOCKS5).
 </dd>
 
 </dl>
-
-| [Prev](executable.ec_dump_config.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ec_log_trace.php) |
-| ec_dump_config  | [Table of Contents](index.php) |  ec_log_trace |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

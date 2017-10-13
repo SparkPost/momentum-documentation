@@ -29,10 +29,3 @@
     16:26:06 /tmp/2025> msg_gen joblist                                                                                          
     Ok
     ```
-
-| [Prev](upgrade.two_tier.preparation.ecelerity_rolling.php)  | [Up](upgrade.two_tier_configuration_rolling.php) |  [Next](upgrade.two_tier.preparation.upgrade_ecelerity_rolling.php) |
-| 11.6. Upgrade Ecelerity and the Cassandra Schema on the First Platform Node  | [Table of Contents](index.php) |  11.8. Upgrade Ecelerity on the Remaining Platform Nodes |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

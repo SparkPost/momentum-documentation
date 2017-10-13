@@ -73,10 +73,3 @@
 <dt>[53\. Using Complex Templates](complex_template.php)</dt>
 
 </dl>
-
-| [Prev](smtp_reporting_options.php)  |   |  [Next](create_apikey.php) |
-| Chapter 42. Reporting Options  | [Table of Contents](index.php) |  Chapter 43. Creating an API Key |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

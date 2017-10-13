@@ -125,10 +125,3 @@ Set `OPTION` in a `node-local.conf` file in all the /opt/msys/ecelerity/etc/conf
 Add an "include node-local.conf" statement to `/opt/msys/ecelerity/etc/default/ecelerity.conf`.
 
 If there are major differences between node configurations, it is probably simpler to create a separate configuration file for each node as described in [Section 16.1.1.1, “Repository Working Copy for Cluster”](cluster.php#cluster.config_files.mgmt.cluster "16.1.1.1. Repository Working Copy for Cluster").
-
-| [Prev](conf.ref.ecelerity.conf.php)  | [Up](p.configuration.php) |  [Next](conf.ref.eccluster.conf.php) |
-| 15.6. `ecelerity.conf` File  | [Table of Contents](index.php) |  16.2. `eccluster.conf` File |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

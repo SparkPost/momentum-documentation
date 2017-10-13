@@ -25,10 +25,3 @@ If you are logged in as a user named `tom` who belongs to the group `users`, you
 ## See Also
 
 [authz roles list](console_commands.authz_roles_list.php "authz roles list")
-
-| [Prev](console_commands.active.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.authz_roles_list.php) |
-| active  | [Table of Contents](index.php) |  authz roles list |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

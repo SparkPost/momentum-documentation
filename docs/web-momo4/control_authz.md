@@ -153,10 +153,3 @@ If account logging is configured, an attempt to execute an unauthorized command 
 `1242133558@Z@127.0.0.1:2025@127.0.0.1:49440@john@0@summary`
 
 The last three fields indicate a failed execution of the summary command by the user `john`. For a description of the meaning of all the fields, see [Section 35.1, “`acctlog`”](log_formats.php#log_formats.acctlog "35.1. acctlog").
-
-| [Prev](control_acct.php)  | [Up](control_listener.php) |  [Next](ecstream_listener.php) |
-| 17.3. Control_Listener Accounting  | [Table of Contents](index.php) |  Chapter 18. Configuring Inbound Mail Service Using ECStream |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

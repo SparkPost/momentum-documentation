@@ -18,10 +18,3 @@ The default value is `true`.
 ## Scope
 
 `unlink_on_spool_in_failure` is valid in the global scope.
-
-| [Prev](conf.ref.umem_reap_interval.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.unsafe_spool.php) |
-| umem_reap_interval  | [Table of Contents](index.php) |  _unsafe_spool |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

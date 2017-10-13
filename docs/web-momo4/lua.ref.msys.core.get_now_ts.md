@@ -16,10 +16,3 @@ If this function is called from a scheduler thread, it will return the time from
 The value returned is the epoch time in UTC measured in seconds.
 
 Because this function is in the msys.core namespace, an explicit `require('msys.core')` is not necessary.
-
-| [Prev](lua.ref.msys.core.dns_get_domain.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.core.mail_queue_delay_domain.php) |
-| msys.core.dns_get_domain  | [Table of Contents](index.php) |  msys.core.mail_queue_delay_domain |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

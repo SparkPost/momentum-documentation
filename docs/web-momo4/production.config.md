@@ -293,10 +293,3 @@ Analytics DB - /var/db/vertica
 Note: This array should be dedicated to the Analytics DB.
 
  |
-
-| [Prev](hardware.config.php)  | [Up](hardware.requirements.php) |  [Next](addl.config.notes.php) |
-| 5.5. Hardware Deployment Configuration  | [Table of Contents](index.php) |  5.7. Additional Configuration Notes |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

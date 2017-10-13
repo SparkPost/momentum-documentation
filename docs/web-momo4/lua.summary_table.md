@@ -198,10 +198,3 @@ This section contains tables of Lua functions. Click the function name for detai
 | [vctx:set](lua.ref.vctx_set.php "vctx:set") – Set the value of a context variable | type, key, value | msys.core | 4.0 | any |
 | [vctx:set_code](lua.ref.vctx_set_code.php "vctx:set_code") – Sets the inbound disposition and response message | codenum, message | msys.core | 4.0 | any |
 | [vctx:tarpit](lua.ref.vctx_tarpit.php "vctx:tarpit") – Issues a time cost on the inbound session, if supported by the listener (currently only SMTP supports this) | interval | msys.extended.vctx | 4.0 | connect |
-
-| [Prev](p.reference.php)  | [Up](p.reference.php) |  [Next](modules.summary.all.modules.php) |
-| Part X. Reference  | [Table of Contents](index.php) |  Chapter 65. Modules Summary |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

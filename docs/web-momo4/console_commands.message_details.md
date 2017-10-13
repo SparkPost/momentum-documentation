@@ -40,10 +40,3 @@ If both the metadata and the body are desired, the "full" option should be used:
 ### Note
 
 `message details` cannot show details for a message that is in the process of being delivered.
-
-| [Prev](console_commands.memory.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.message_fail.php) |
-| memory  | [Table of Contents](index.php) |  message fail |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

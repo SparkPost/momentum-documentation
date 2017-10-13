@@ -724,10 +724,3 @@ bouncealllog
 </dd>
 
 </dl>
-
-| [Prev](modules.cloudmark.php)  | [Up](modules.php) |  [Next](modules.commtouch.php) |
-| 71.18. cloudmark – Cloudmark Authority® Content Scanning  | [Table of Contents](index.php) |  71.20. commtouch_ctasd – Commtouch Spam Protection |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

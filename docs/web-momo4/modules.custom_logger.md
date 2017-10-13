@@ -799,10 +799,3 @@ Value of entry "key" in the message context dictionary
 ### 71.25.9. Configuration of Aggregated Cluster Node Logging
 
 It is possible to aggregate logs in a cluster configuration. For an sample configuration, see [Section 26.2, “Centralized Logging Example”](cluster.config.logging.centalized.logging.php "26.2. Centralized Logging Example").
-
-| [Prev](modules.custom_bounce_logger.php)  | [Up](modules.php) |  [Next](modules.delay_dsn.php) |
-| 71.24. custom_bounce_logger – Custom Bounce Logging  | [Table of Contents](index.php) |  71.26. delay_dsn – Delay DSN Generation |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

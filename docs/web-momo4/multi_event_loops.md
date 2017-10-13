@@ -43,10 +43,3 @@ To enable the multiple event loop feature for SMTP and HTTP injection, add the f
     ```
 
 After you edit your ecelerity.conf file, you must restart the ecelerity process using **/opt/msys/ecelerity/bin/ec_ctl** — issuing the ec_console command **config reload**        will not suffice. See [ec_ctl](executable.ec_ctl.php "ec_ctl").
-
-| [Prev](using_dkim.validation.php)  | [Up](p.configuration.php) |  [Next](outbound_mail.php) |
-| 23.2. DKIM Validation  | [Table of Contents](index.php) |  Chapter 25. Configuring Outbound Mail Delivery |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

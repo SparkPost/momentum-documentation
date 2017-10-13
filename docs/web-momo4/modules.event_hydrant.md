@@ -180,10 +180,3 @@ If this option is enabled, logs will be written individually on each Platform no
 </dd>
 
 </dl>
-
-| [Prev](modules.engage_tracker.php)  | [Up](modules.php) |  [Next](modules.exim_logger.php) |
-| 71.32. engagement_tracker – HTTP Engagement Tracking  | [Table of Contents](index.php) |  71.34. exim_logger – Exim Logging |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

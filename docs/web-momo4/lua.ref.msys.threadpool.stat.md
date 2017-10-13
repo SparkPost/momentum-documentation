@@ -55,10 +55,3 @@ Enable this function with the statement `require('msys.threadpool');`.
 ## See Also
 
 [msys.threadpool.find](lua.ref.msys.threadpool.find.php "msys.threadpool.find"), [msys.threadpool.count](lua.ref.msys.threadpool.count.php "msys.threadpool.count") [threadpool](conf.ref.threadpool.php "threadpool")
-
-| [Prev](lua.ref.msys.threadpool.find.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.timer.after.php) |
-| msys.threadpool.find  | [Table of Contents](index.php) |  msys.timer.after |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

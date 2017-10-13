@@ -107,10 +107,3 @@ This value creates an empty CIDR that you can populate for yourself.
 ## See Also
 
 [Section 71.16, “cidrdb – CIDRDB”](modules.cidrdb.php "71.16. cidrdb – CIDRDB"), [msys.cidr.reload](lua.ref.msys.cidr.reload.php "msys.cidr.reload"), [msys.cidr.query](lua.ref.msys.cidr.query.php "msys.cidr.query")
-
-| [Prev](lua.ref.msys.brightmail.scan.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.cidr.query.php) |
-| msys.brightmail.scan  | [Table of Contents](index.php) |  msys.cidr.query |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

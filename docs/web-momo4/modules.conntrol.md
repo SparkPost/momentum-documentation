@@ -53,10 +53,3 @@ Whether the peer started issuing commands before Momentum sent the initial SMTP 
 </dd>
 
 </dl>
-
-| [Prev](modules.compress_spool.php)  | [Up](modules.php) |  [Next](modules.csapi.php) |
-| 71.21. compress_spool – Dynamic Spool Compression  | [Table of Contents](index.php) |  71.23. csapi – Symantec CSAPI Antivirus Support |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

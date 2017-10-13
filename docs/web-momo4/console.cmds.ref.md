@@ -127,10 +127,3 @@
 This section documents all the non-module-specific console commands. Module-specific console commands are documented with their module. See [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
 
 Preceding a command with `xml` will output the results in XML format.
-
-| [Prev](conf.ref.xclient.php)  | [Up](p.reference.php) |  [Next](console_commands.active.php) |
-| xclient  | [Table of Contents](index.php) |  active |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

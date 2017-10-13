@@ -58,10 +58,3 @@ Configure the tables for running the Flyway data migration tool on the **first A
     4.  Quit vsql.
 
         `\q`
-
-| [Prev](upgrade.two_tier.preparation.upgrade_vertica_rolling.php)  | [Up](upgrade.two_tier_configuration_rolling.php) |  [Next](upgrade.two_tier.preparation.rpms_rolling.php) |
-| 11.10. Upgrade Vertica on the Analytics Nodes  | [Table of Contents](index.php) |  11.12. Upgrade Remaining RPMs on Analytics Nodes |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

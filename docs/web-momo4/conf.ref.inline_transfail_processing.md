@@ -29,10 +29,3 @@ inline_transfail_processing is valid in the global scope.
 ## See Also
 
 [transfail_drain_rate](conf.ref.transfail_drain_rate.php "transfail_drain_rate") and [max_resident_transfails](conf.ref.max_resident_transfails.php "max_resident_transfails")
-
-| [Prev](conf.ref.initial_hash_buckets.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.keep_message_dicts_in_memory.php) |
-| initial_hash_buckets  | [Table of Contents](index.php) |  keep_message_dicts_in_memory |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

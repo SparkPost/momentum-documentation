@@ -43,10 +43,3 @@ Alerting cache size. Default value is `1048576` bytes.
 </dd>
 
 </dl>
-
-| [Prev](modules.adaptive.php)  | [Up](modules.php) |  [Next](modules.alias.php) |
-| 71.3. adaptive – Adaptive Delivery  | [Table of Contents](index.php) |  71.5. alias – Alias Expansion |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -23,10 +23,3 @@ The default value is `1000` (because Adaptive Delivery makes heavy use of thrott
 ## See Also
 
 [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery")
-
-| [Prev](conf.ref.signing_stats.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.skip_hosts.php) |
-| signing_stats  | [Table of Contents](index.php) |  skip_hosts |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

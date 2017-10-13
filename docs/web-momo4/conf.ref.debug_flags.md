@@ -66,10 +66,3 @@ Use ‘`ALL`’ instead of listing each service debug flag.
 ## Scope
 
 debug_flags is valid in the global scope.
-
-| [Prev](config.crypto_lock_method.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.default_binding.php) |
-| crypto_lock_method  | [Table of Contents](index.php) |  default_binding |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

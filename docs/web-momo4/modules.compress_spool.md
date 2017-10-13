@@ -63,10 +63,3 @@ bzip2 compression is also available. The "bzip2io {}" stanza is not necessary as
 ### Warning
 
 This module compresses the spool messages in place. If you enable this module, you MUST be certain that the queue is empty before you disable it, or else you risk sending compressed messages without decompressing them.
-
-| [Prev](modules.commtouch.php)  | [Up](modules.php) |  [Next](modules.conntrol.php) |
-| 71.20. commtouch_ctasd – Commtouch Spam Protection  | [Table of Contents](index.php) |  71.22. conntrol – Fine-Grained Connection Control |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

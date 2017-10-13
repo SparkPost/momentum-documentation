@@ -22,10 +22,3 @@ Follow the steps below to set up log rotation for Vertica.
 The log is only rotated if it is over 10M.
 
 For more information, see [ HP Vertica Analytics Platform Version 7.1.x Documentation](https://my.vertica.com/docs/7.1.x/HTML/index.htm#Authoring/AdministratorsGuide/Monitoring/Vertica/RotatingLogFiles.htm)
-
-| [Prev](install.post-install.config.php)  | [Up](post_installation.php) |  [Next](install.post-install.vertica_mgmt_console.php) |
-| 12.2. Reviewing Configuration Files  | [Table of Contents](index.php) |  12.4. Download and Install the Vertica Management Console |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

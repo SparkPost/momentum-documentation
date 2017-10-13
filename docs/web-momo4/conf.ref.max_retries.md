@@ -43,10 +43,3 @@ The default value for `max_retries` is "auto" so be sure to change it to a posit
 ## See Also
 
 [message_expiration](conf.ref.message_expiration.php "message_expiration") and [max_retry_interval](conf.ref.max_retry_interval.php "max_retry_interval")
-
-| [Prev](conf.ref.max_resident_transfails.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.max_retry_interval.php) |
-| max_resident_transfails  | [Table of Contents](index.php) |  max_retry_interval |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

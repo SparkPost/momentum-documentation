@@ -29,10 +29,3 @@ Enable this function with the statement `require('msys.audit_series');`.
 ## See Also
 
 [msys.audit_series.define](lua.ref.msys.audit_series.define.php "msys.audit_series.define") [msys.audit_series.count](lua.ref.msys.audit_series.count.php "msys.audit_series.count"), [msys.audit_series.add](lua.ref.msys.audit_series.add.php "msys.audit_series.add"), [use_ipv6](conf.ref.use_ipv6.php "use_ipv6"), [Section 71.41, “inbound_audit – Inbound traffic analytics”](modules.inbound_audit.php "71.41. inbound_audit – Inbound traffic analytics")
-
-| [Prev](lua.ref.msys.audit_series.define.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.av.engines.php) |
-| msys.audit_series.define  | [Table of Contents](index.php) |  msys.av.engines |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

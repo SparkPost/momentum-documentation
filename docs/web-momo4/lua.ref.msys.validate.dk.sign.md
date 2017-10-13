@@ -46,10 +46,3 @@ This function should only be invoked from the core_final_validation hook.
 ## See Also
 
 [msys.validate.dk.get_responsible_domain](lua.ref.msys.validate.dk.get_responsible_domain.php "msys.validate.dk.get_responsible_domain")
-
-| [Prev](lua.ref.msys.validate.dk.get_responsible_domain.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.validate.opendkim.get_num_sigs.php) |
-| msys.validate.dk.get_responsible_domain  | [Table of Contents](index.php) |  msys.validate.opendkim.get_num_sigs |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

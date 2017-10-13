@@ -96,10 +96,3 @@ To be effective, you would do this for each of the MX hosts that service Google 
 ## See Also
 
 [binding](conf.ref.binding.php "binding"), [domain](conf.ref.domain.php "domain")
-
-| [Prev](conf.ref.growbuf_size.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.hostname.php) |
-| growbuf_size  | [Table of Contents](index.php) |  hostname |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -38,10 +38,3 @@ Esmtp_Listener {
 ### Note
 
 Hosts specified by the `relay_hosts` option are not subject to any SMTP authentication you may have implemented. Likewise when `open_relay` is set to `true`. For more information, see [relay_hosts](conf.ref.relay_hosts.php "relay_hosts").
-
-| [Prev](modules.sendmail_logger.php)  | [Up](modules.php) |  [Next](modules.smtp_cbv.php) |
-| 71.63. sendmail_logger – Sendmail Logging  | [Table of Contents](index.php) |  71.65. smtp_cbv – SMTP Callback Verification |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

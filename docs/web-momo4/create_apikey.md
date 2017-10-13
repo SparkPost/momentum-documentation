@@ -57,10 +57,3 @@ Follow these steps to create an API key:
     Be sure to copy and paste the API key when it is displayed. Following the creation of an API key, you can modify its grants and associated label, but the UI will no longer expose the original value. Please take care to record and safeguard your API keys at all times.
 
 Congratulations! You have successfully created an API key using Momentum's UI. In addition to the creating an API key, you can manage your existing API keys using the UI. For more information, see [Chapter 44, *Managing Your API Keys*](web-ui.apikeys.php "Chapter 44. Managing Your API Keys") .
-
-| [Prev](p.http_rest.php)  | [Up](p.http_rest.php) |  [Next](web-ui.apikeys.php) |
-| Part VII. Message Generation (HTTP)  | [Table of Contents](index.php) |  Chapter 44. Managing Your API Keys |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

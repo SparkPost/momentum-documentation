@@ -40,10 +40,3 @@ When you are logged into the console of the cluster manager, you can use any of 
 ### Note
 
 The cluster *module* belongs to the configuration of a node. For this reason, the console commands specific to the cluster *module* can only be issued from that node and not from within the **eccmgr** service. For a list of these commands, see [Section 71.19.4, “Cluster Module-specific Console Commands”](modules.cluster.php#modules.cluster.console "71.19.4. Cluster Module-specific Console Commands").
-
-| [Prev](operations.console.lua.php)  | [Up](p.operations.php) |  [Next](cluster.config.operations.eccmgr.console.php) |
-| 37.5. Creating Custom Console Commands  | [Table of Contents](index.php) |  38.2. Console Commands for the Cluster Manager |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

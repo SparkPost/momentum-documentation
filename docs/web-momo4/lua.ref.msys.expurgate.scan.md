@@ -202,10 +202,3 @@ function mod:validate_data(msg, accept, vctx)
 end
 msys.registerModule("test_scan", mod);
 ```
-
-| [Prev](lua.ref.msys.dumper.Dumper.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.gauge_cache.dec.php) |
-| msys.dumper.Dumper  | [Table of Contents](index.php) |  msys.gauge_cache.dec |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

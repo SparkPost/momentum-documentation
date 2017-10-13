@@ -33,10 +33,3 @@ For details about the non-module specific configuration options that are valid i
 Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
 
 For general information regarding listeners, see [Section 15.4, “Listeners”](listeners.php "15.4. Listeners").
-
-| [Prev](inbound_tls.php)  | [Up](p.configuration.php) |  [Next](conf.ref.msg_gen.conf.php) |
-| 19.7. Inbound TLS  | [Table of Contents](index.php) |  20.2. `msg_gen.conf` File |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

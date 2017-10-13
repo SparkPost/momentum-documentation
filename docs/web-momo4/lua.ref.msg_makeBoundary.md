@@ -21,10 +21,3 @@ The ellipsis (...) in the parameter list indicate that this function has any num
 ## See Also
 
 [msg:makeContainer](lua.ref.msg_makeContainer.php "msg:makeContainer")
-
-| [Prev](lua.ref.msg_mailfrom.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msg_makeContainer.php) |
-| msg:mailfrom  | [Table of Contents](index.php) |  msg:makeContainer |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

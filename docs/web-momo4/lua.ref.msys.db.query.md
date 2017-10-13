@@ -87,10 +87,3 @@ Each iteration over the returned rowset yields a table with string keys correspo
 ## See Also
 
 [msys.db.fetch_row](lua.ref.msys.db.fetch_row.php "msys.db.fetch_row"), [msys.db.execute](lua.ref.msys.db.execute.php "msys.db.execute"), [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets")
-
-| [Prev](lua.ref.msys.db.fetch_row.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.delivery.ob_get_current_message.php) |
-| msys.db.fetch_row  | [Table of Contents](index.php) |  msys.delivery.ob_get_current_message |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

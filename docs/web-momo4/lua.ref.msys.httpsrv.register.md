@@ -82,10 +82,3 @@ The `rsrc_setup` hook provides a safer way to register resources against new [co
 ## See Also
 
 [session:request_url_get](lua.ref.session_request_url_get.php "session:request_url_get") and [session:response_status_set_std](lua.ref.session_response_status_set_std.php "session:response_status_set_std")
-
-| [Prev](lua.ref.msys.getClassMetaTable.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.idn.php) |
-| msys.getClassMetaTable  | [Table of Contents](index.php) |  msys.idn.to_idn |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

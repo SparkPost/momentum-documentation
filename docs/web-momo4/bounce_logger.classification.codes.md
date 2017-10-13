@@ -28,10 +28,3 @@ The following is a list of bounce classification codes and their meanings.
 | 80 | Subscribe | The message is a subscribe request. | Admin |
 | 90 | Unsubscribe | The message is an unsubscribe request. | Hard |
 | 100 | Challenge-Response | The message is a challenge-response probe. | Soft |
-
-| [Prev](log_formats.rejectlog.php)  | [Up](log_formats.php) |  [Next](log_formats.connection.stages.php) |
-| 35.9. `rejectlog`  | [Table of Contents](index.php) |  35.11. Connection Stages |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

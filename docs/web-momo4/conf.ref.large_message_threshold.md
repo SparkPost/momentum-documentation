@@ -25,10 +25,3 @@ large_message_threshold is valid in the global scope.
 ## See Also
 
 [growbuf_size](conf.ref.growbuf_size.php "growbuf_size"), [legacy_message_threshold](conf.ref.legacy_message_threshold.php "legacy_message_threshold")
-
-| [Prev](conf.ref.keep_message_dicts_in_memory.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.legacy_message_threshold.php) |
-| keep_message_dicts_in_memory  | [Table of Contents](index.php) |  legacy_message_threshold |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

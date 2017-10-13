@@ -80,10 +80,3 @@ end
 ### Note
 
 Results of `msys.dnsLookup()` invocations in your policy scripts can also be queried from the system console by using [dns_cache stats](console_commands.dns_cache.php "dns_cache").
-
-| [Prev](lua.ref.msys.config.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.expandMacro.php) |
-| msys.config  | [Table of Contents](index.php) |  msys.expandMacro |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

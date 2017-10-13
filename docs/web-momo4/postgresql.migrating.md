@@ -16,10 +16,3 @@ Database dumps are plain-text files that contain the SQL commands and data requi
 
     `shell> /opt/msys/3rdParty/bin/pg_restore -c -U msyspg -d ecelerity /path/to/db.dump`
 3.  Examine any warnings that are output. You will get errors trying to drop and create some of the schemas, but they are harmless.
-
-| [Prev](postgresql.client.php)  | [Up](postgresql.php) |  [Next](riak.php) |
-| 29.3. Using the PostgreSQL Client Program  | [Table of Contents](index.php) |  Chapter 30. Riak |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

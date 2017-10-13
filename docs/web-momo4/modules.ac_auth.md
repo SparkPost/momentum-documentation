@@ -93,10 +93,3 @@ if mc then
   vctx = mc.ctx
 end
 ```
-
-| [Prev](modules.php)  | [Up](modules.php) |  [Next](modules.adaptive.php) |
-| Chapter 71. Modules Reference  | [Table of Contents](index.php) |  71.3. adaptive – Adaptive Delivery |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -57,10 +57,3 @@ To disable user authentication, do the following:
     `/etc/init.d/msys-nginx start`
 
     Once Nginx has been turned back on, your users should be able to access all of the REST API and web-based UI without having to supply credentials or API keys.
-
-| [Prev](conf.ref.msg_gen.conf.php)  | [Up](p.configuration.php) |  [Next](using_domainkeys.php) |
-| 20.2. `msg_gen.conf` File  | [Table of Contents](index.php) |  Chapter 22. Using Yahoo! DomainKeys |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -82,10 +82,3 @@ Show version information.
 ## See Also
 
 [eccmgr_ctl](executable.eccmgr_ctl.php "eccmgr_ctl"), [Section 16.2, “`eccluster.conf` File”](conf.ref.eccluster.conf.php "16.2. eccluster.conf File"), [Chapter 38, *Using the Cluster Manager (**eccmgr**)*](cluster.config.operations.php "Chapter 38. Using the Cluster Manager (eccmgr)") 
-
-| [Prev](executable.eccfg.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.eccmgr_ctl.php) |
-| eccfg  | [Table of Contents](index.php) |  eccmgr_ctl |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

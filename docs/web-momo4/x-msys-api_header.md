@@ -126,10 +126,3 @@ If the X-MSYS-API header includes invalid JSON values, the SMTP message will be 
 4.3.3 [internal] smtpapi unable to generate unique transmission id
 
  |
-
-| [Prev](engagement_tracking_smtp.php)  | [Up](engagement_tracking_smtp.php) |  [Next](engagement_tracking_smtp.policy.php) |
-| Chapter 41. Tracking Engagement for SMTP  | [Table of Contents](index.php) |  41.3. Using Policy for Engagement Tracking |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

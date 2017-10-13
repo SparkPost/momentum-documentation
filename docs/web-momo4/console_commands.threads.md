@@ -60,10 +60,3 @@ Jobs in the CPU pool
 ## See Also
 
 [threadpool](conf.ref.threadpool.php "threadpool")
-
-| [Prev](console_commands.sysinfo.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.tls.php) |
-| sysinfo  | [Table of Contents](index.php) |  tls |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

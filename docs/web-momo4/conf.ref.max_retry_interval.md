@@ -44,10 +44,3 @@ max_retry_interval is valid in the binding, binding_group, domain and global sco
 ## See Also
 
 [retry_interval](conf.ref.retry_interval.php "retry_interval"), [max_retries](conf.ref.max_retries.php "max_retries")
-
-| [Prev](conf.ref.max_retries.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.max_timed_events_per_iter.php) |
-| max_retries  | [Table of Contents](index.php) |  max_timed_events_per_iter |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

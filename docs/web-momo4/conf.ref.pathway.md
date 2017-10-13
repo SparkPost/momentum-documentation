@@ -61,10 +61,3 @@ The pathway *option* references a pathway scope and is valid within an esmtp_lis
 ## See Also
 
 [pathway_group](conf.ref.pathway_group.php "pathway_group")
-
-| [Prev](conf.ref.outbound_throttle_messages.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.pathway_group.php) |
-| outbound_throttle_messages  | [Table of Contents](index.php) |  pathway_group |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

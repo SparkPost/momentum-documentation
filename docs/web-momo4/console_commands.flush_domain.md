@@ -22,10 +22,3 @@ just-revived.com flushed.  12521 messages requeued.
 ```
 
 You may substitute `all` for the domain name to apply to all domains.
-
-| [Prev](console_commands.fingerprint_rejection_summary.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.help.php) |
-| fingerprint rejection summary  | [Table of Contents](index.php) |  help |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

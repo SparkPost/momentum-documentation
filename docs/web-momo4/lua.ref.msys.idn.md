@@ -40,10 +40,3 @@ This function wil help facilitate the translation of international characters to
 ## See Also
 
 [msys.idn.to_utf8](lua.ref.msys.idn_utf8.php "msys.idn.to_utf8")
-
-| [Prev](lua.ref.msys.httpsrv.register.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.idn_utf8.php) |
-| msys.httpsrv.register  | [Table of Contents](index.php) |  msys.idn.to_utf8 |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -18,10 +18,3 @@ The default is `10` seconds.
 ## Scope
 
 `dns_expire_interval` is valid in the global scope.
-
-| [Prev](conf.ref.dns_cache_purge_interval.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.dns_failures_to_purge.php) |
-| dns_cache_purge_interval  | [Table of Contents](index.php) |  dns_failures_to_purge |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

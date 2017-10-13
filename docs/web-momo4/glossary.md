@@ -329,10 +329,3 @@ This technique specifies a different return path for every message making it pos
 </dd>
 
 </dl>
-
-| [Prev](libedit.extended.php)  |   |  [Next](copyrights.php) |
-| D.2. Extended Commands  | [Table of Contents](index.php) |  Appendix E. Copyright Notices |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

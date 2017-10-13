@@ -63,10 +63,3 @@ The function that performs the registered action, in [Example 70.33, “registe
 ## See Also
 
 [msys.core.dns_get_domain](lua.ref.msys.core.dns_get_domain.php "msys.core.dns_get_domain") and [command_construct](https://support.messagesystems.com/docs/web-c-api/structs.command_construct.php)
-
-| [Prev](lua.ref.msys.registerAuth.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.registerModule.php) |
-| msys.registerAuth  | [Table of Contents](index.php) |  msys.registerModule |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

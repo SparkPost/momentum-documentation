@@ -34,10 +34,3 @@ Not all listener options are valid within the ECStream_Listener or the Listen sc
 Note that the `ecstream_idle_time` and `ecstream_max_batch_size` options are only valid within the ECStream scope or a listen scope within this scope. They are also the only options valid in the ECStream::Peer scope or ECStream_Listener::Listen::Peer scopes.
 
 For general information regarding listeners, see [Section 15.4, “Listeners”](listeners.php "15.4. Listeners").
-
-| [Prev](control_authz.php)  | [Up](p.configuration.php) |  [Next](esmtp_listener.php) |
-| 17.4. Control_Listener Authorization  | [Table of Contents](index.php) |  Chapter 19. Configuring Inbound Mail Service Using SMTP |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

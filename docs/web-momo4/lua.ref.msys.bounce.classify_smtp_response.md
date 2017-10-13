@@ -43,10 +43,3 @@ msys.registerModule("test_bc", mod);
 ## See Also
 
 [Section 71.12, “bounce_classifier_override – Override/Augment Bounce Classifications”](modules.bounce_classifier_override.php "71.12. bounce_classifier_override – Override/Augment Bounce Classifications"), [msys.bounce.classify](lua.ref.msys.bounce.classify.php "msys.bounce.classify")
-
-| [Prev](lua.ref.msys.bounce.classify.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.brightmail.scan.php) |
-| msys.bounce.classify  | [Table of Contents](index.php) |  msys.brightmail.scan |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

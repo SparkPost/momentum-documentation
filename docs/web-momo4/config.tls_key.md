@@ -16,10 +16,3 @@ TLS_Key specifies the location of the PEM encoded key associated with the certif
 ## Scope
 
 `tls_key` is valid in the ecstream_listener, esmtp_listener, global, http_listener, listen, pathway, pathway_group and peer scopes.
-
-| [Prev](config.tls_ifavailable_fallback.php)  | [Up](config.options.ref.php) |  [Next](config.tls_protocols.php) |
-| tls_ifavailable_fallback  | [Table of Contents](index.php) |  tls_protocols |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

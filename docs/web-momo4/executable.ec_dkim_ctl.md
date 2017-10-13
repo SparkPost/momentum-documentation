@@ -104,10 +104,3 @@ Show version information.
 ## See Also
 
 [Chapter 22, *Using Yahoo! DomainKeys*](using_domainkeys.php "Chapter 22. Using Yahoo! DomainKeys") , [Chapter 23, *Using DomainKeys Identified Mail (DKIM) Signatures*](using_dkim.php "Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures") 
-
-| [Prev](executable.ec_ctl.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ec_dump_config.php) |
-| ec_ctl  | [Table of Contents](index.php) |  ec_dump_config |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

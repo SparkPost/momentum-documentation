@@ -122,10 +122,3 @@ For example, the message_events_webhook is subscribed to "delivery", "policy rej
 For the field definitions and a mapping of the fields that constitute a payload for a given event type, use the Webhook Events and Webhook Sample Events endpoints. See the Webhooks API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
 
 Using the UI, you can create webhooks to post data for any of the event types listed above.
-
-| [Prev](reporting_webhooks.php)  | [Up](p.analytics.php) |  [Next](web-ui.webhooks.create.php) |
-| Chapter 59. Using Webhooks for Event Data  | [Table of Contents](index.php) |  60.2. Creating a Webhook |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

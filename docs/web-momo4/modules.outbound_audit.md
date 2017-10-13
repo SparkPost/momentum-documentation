@@ -195,10 +195,3 @@ The number of permanent failures (5xx response codes) for delivery attempts to t
 </dd>
 
 </dl>
-
-| [Prev](modules.opendkim.php)  | [Up](modules.php) |  [Next](modules.outbound_smtp_auth.php) |
-| 71.50. opendkim – Open Source DKIM  | [Table of Contents](index.php) |  71.52. outbound_smtp_auth |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

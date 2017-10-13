@@ -83,10 +83,3 @@ Control which tty modes that editrc won’t allow the user to change. `-d`, `-q`
 Without other arguments, setty lists the modes in the chosen set that are fixed on (‘+mode’) or off (‘-mode’). `-a` lists all tty modes in the chosen set regardless of the setting. With +mode, -mode or mode, fixes mode on or off or removes control of mode in the chosen set.
 
  |
-
-| [Prev](libedit.php)  | [Up](libedit.php) |  [Next](glossary.php) |
-| Appendix D. Key Binding Reference for ec_console  | [Table of Contents](index.php) |  Glossary |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -23,10 +23,3 @@ msys.registerControl("delay_domain", delay_domain);
 ```
 
 This code creates the ec_console command: **delay_domain *`domain`***           .
-
-| [Prev](modules.options.console.php)  | [Up](operations.php) |  [Next](cluster.config.operations.php) |
-| 37.4. Setting and Getting Module Options from the Console  | [Table of Contents](index.php) |  Chapter 38. Using the Cluster Manager (**eccmgr**) |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

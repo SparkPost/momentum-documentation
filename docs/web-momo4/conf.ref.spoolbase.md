@@ -21,10 +21,3 @@ spoolbase — set the base directory for the spool
 ## See Also
 
 [spool_mode](conf.ref.spool_mode.php "spool_mode")
-
-| [Prev](conf.ref.spool_mode.php)  | [Up](config.options.ref.php) |  [Next](config.ssl_lock_method.php) |
-| spool_mode  | [Table of Contents](index.php) |  ssl_lock_method |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

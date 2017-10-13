@@ -236,10 +236,3 @@ Both parts need to be loaded; otherwise, the timing data will not be collected o
 ### Warning
 
 The `reception_timing` module is not compatible with the Supercharger feature.
-
-| [Prev](modules.postfix_logger.php)  | [Up](modules.php) |  [Next](modules.response_transcode.php) |
-| 71.56. postfix_logger – Postfix Logging  | [Table of Contents](index.php) |  71.58. response_transcode – Module |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

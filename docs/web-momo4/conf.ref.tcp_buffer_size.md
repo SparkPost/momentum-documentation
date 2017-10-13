@@ -27,10 +27,3 @@ tcp_buffer_size is valid in the global scope.
 ## See Also
 
 [use_mmap](conf.ref.use_mmap.php "use_mmap")
-
-| [Prev](conf.ref.suspend_delivery.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.threadpool.php) |
-| suspend_delivery  | [Table of Contents](index.php) |  threadpool |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

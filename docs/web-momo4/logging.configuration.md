@@ -11,10 +11,3 @@ You control Momentum's logging behaviour by configuring the selected logging mod
 For a summary of all the non-module specific configuration options, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
 
 Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
-
-| [Prev](logging.overview.php)  | [Up](logging.overview.php) |  [Next](log_monitoring.php) |
-| Chapter 32. Logging Overview  | [Table of Contents](index.php) |  Chapter 33. Log Monitoring |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

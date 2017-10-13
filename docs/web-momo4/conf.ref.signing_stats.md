@@ -27,10 +27,3 @@ Default value is `all`.
 ## See Also
 
 [signing_stats](console_commands.signing_stats.php "signing_stats"), [signing_stats reset](console_commands.signing_stats_reset.php "signing_stats reset"), [Chapter 22, *Using Yahoo! DomainKeys*](using_domainkeys.php "Chapter 22. Using Yahoo! DomainKeys") , and [Chapter 23, *Using DomainKeys Identified Mail (DKIM) Signatures*](using_dkim.php "Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures") 
-
-| [Prev](conf.ref.server_reserve_outbound_connections.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.siv_throttle_cache_size.php) |
-| server_reserve_outbound_connections  | [Table of Contents](index.php) |  siv_throttle_cache_size |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

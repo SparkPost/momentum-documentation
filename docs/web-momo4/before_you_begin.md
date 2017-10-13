@@ -53,10 +53,3 @@ You will need to provide Message Systems with a MAC address for each MTA node in
 ### Note
 
 The [Momentum REST Injector](https://support.messagesystems.com/docs/web-rest-injector/) introduced in Momentum 3.14 continues to work in Momentum 4 and does not require a license. You can still use this injector to inject messages with simple template substitutions, but it has a very limited feature set compared to the Momentum 4 REST APIs.
-
-| [Prev](addl.config.notes.php)  | [Up](p.installing.php) |  [Next](byb.os.php) |
-| 5.7. Additional Configuration Notes  | [Table of Contents](index.php) |  6.2. Operating System |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

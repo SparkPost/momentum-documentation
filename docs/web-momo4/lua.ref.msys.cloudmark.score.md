@@ -74,10 +74,3 @@ Do not use `pcall` with this function.
 ## See Also
 
 [msys.cloudmark.analyze](lua.ref.msys.cloudmark.analyze.php "msys.cloudmark.analyze")
-
-| [Prev](lua.ref.msys.cloudmark.add_af_data.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.cloudmark.score_af.php) |
-| msys.cloudmark.add_af_data  | [Table of Contents](index.php) |  msys.cloudmark.score_af |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

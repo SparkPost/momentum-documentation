@@ -35,10 +35,3 @@ session to interrogate
 address in ec_sockaddr * format
 
 The local IP address will be valid for the lifetime of the session.
-
-| [Prev](apis.ec_httpsrv_register_auth.php)  | [Up](hooks.php) |  [Next](apis.ec_httpsrv_request_peer_address.php) |
-| ec_httpsrv_register_auth  | [Table of Contents](index.php) |  ec_httpsrv_request_peer_address |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

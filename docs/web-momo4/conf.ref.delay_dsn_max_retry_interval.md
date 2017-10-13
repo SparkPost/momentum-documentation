@@ -27,10 +27,3 @@ The default value is `0`.
 ## See Also
 
 [generate_delay_dsn](conf.ref.generate_delay_dsn.php "generate_delay_dsn"), [delay_dsn_max_retry_interval](conf.ref.delay_dsn_max_retry_interval.php "delay_dsn_max_retry_interval"), and [delay_dsn_retry_interval](conf.ref.delay_dsn_retry_interval.php "delay_dsn_retry_interval")
-
-| [Prev](conf.ref.default_charset.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.delay_dsn_retry_interval.php) |
-| default_charset  | [Table of Contents](index.php) |  delay_dsn_retry_interval |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

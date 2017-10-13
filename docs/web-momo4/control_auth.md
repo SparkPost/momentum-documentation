@@ -100,10 +100,3 @@ Control_Listener {
 ```
 
 In this case, access to `Peer "127.0.0.1"` is always allowed regardless of the results of authentication.
-
-| [Prev](control_listener.php)  | [Up](control_listener.php) |  [Next](control_acct.php) |
-| Chapter 17. Configuring Momentum's System Console  | [Table of Contents](index.php) |  17.3. Control_Listener Accounting |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -19,10 +19,3 @@ Make your changes in the Edit Webhook form, as shown in [Figure 60.8, “Edit W
 If the webhook successfully updates, a message will briefly display upon return to the Webhooks tab. Batches currently queued for delivery to this webhook will not be affected by these modifications. For example: If you change the webhook’s target URL, batches already queued for delivery will still be posted to the previous URL.
 
 Also if you update the target URL, a test POST will be sent to the URL for validation, as described in [Section 60.2, “Creating a Webhook”](web-ui.webhooks.create.php "60.2. Creating a Webhook").
-
-| [Prev](web-ui.webhooks.test.php)  | [Up](web-ui.webhooks.php) |  [Next](web-ui.webhooks.delete.php) |
-| 60.3. Testing Your Webhook  | [Table of Contents](index.php) |  60.5. Deleting a Webhook |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -57,10 +57,3 @@ total messages sent during the life of the domain record
 </dl>
 
 The row detailing the totals represents the totals across *all* domains, not just those listed.
-
-| [Prev](console_commands.counter.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.dig.php) |
-| counter  | [Table of Contents](index.php) |  dig |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

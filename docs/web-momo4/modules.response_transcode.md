@@ -50,10 +50,3 @@ For more information, see [response_transcode_replace](conf.ref.response_transco
 ### Note
 
 If you reference either option, the response_transcode module will be loaded automatically.
-
-| [Prev](modules.reception_timing.php)  | [Up](modules.php) |  [Next](modules.sched.php) |
-| 71.57. reception_timing - Reception Timing Modules  | [Table of Contents](index.php) |  71.59. sched – The Schedule Module |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

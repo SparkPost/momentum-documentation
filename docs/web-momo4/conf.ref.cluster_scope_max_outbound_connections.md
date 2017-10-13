@@ -35,10 +35,3 @@ cluster_scope_max_outbound_connections is valid in the global, binding, binding_
 ## See Also
 
 [scope_max_outbound_connections](conf.ref.scope_max_outbound_connections.php "scope_max_outbound_connections"), [cluster_max_outbound_connections](conf.ref.cluster_max_outbound_connections.php "cluster_max_outbound_connections"), [cluster_server_max_outbound_connections](conf.ref.cluster_server_max_outbound_connections.php "cluster_server_max_outbound_connections")
-
-| [Prev](conf.ref.cluster_outbound_throttle_messages.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.cluster_server_max_outbound_connections.php) |
-| cluster_outbound_throttle_messages  | [Table of Contents](index.php) |  cluster_server_max_outbound_connections |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

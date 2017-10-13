@@ -178,10 +178,3 @@ Listen "[fd82:7796:815b:af9d:230:48ff:fef2:aa4a]:587" {...}
 IPv6 addresses are much more flexible than IPv4 addresses in terms of their formatting options. They also use a different delimiter character than IPv4 addresses (a colon instead of a period). This means that in certain contexts, an IPv6 address can create parsing ambiguities.
 
 In circumstances where a configuration parameter can also contain something other than an IP address, the accepted convention is to require that an IPv6 address be enclosed in square brackets. In practical terms, this means that things like the `Gateway`, `Routes` and `Listen` options must have IPv6 addresses enclosed in brackets. Others, such as `Peer`, `Relay_Hosts` and `Prohibited_Hosts` do not require the IPv6 address in brackets.
-
-| [Prev](ecelerity.conf.fallback.php)  | [Up](conf.overview.php) |  [Next](module_config.php) |
-| 15.3. Configuration Scopes and Fallback  | [Table of Contents](index.php) |  15.5. Modules |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

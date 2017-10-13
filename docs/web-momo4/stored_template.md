@@ -170,10 +170,3 @@ Congratulations! You have created your first stored template using Momentum's Te
 **Configuration Change. ** Version 4.1 and later support managing your templates using the UI.
 
 You can also create and manage your templates using the web-based UI. For detailed instructions, see [Chapter 48, *Managing Your Templates in the UI*](web-ui.templates.php "Chapter 48. Managing Your Templates in the UI") .
-
-| [Prev](substitution_data.php)  | [Up](p.http_rest.php) |  [Next](web-ui.templates.php) |
-| Chapter 46. Using Substitution Data  | [Table of Contents](index.php) |  Chapter 48. Managing Your Templates in the UI |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

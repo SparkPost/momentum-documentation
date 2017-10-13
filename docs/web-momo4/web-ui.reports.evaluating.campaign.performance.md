@@ -50,10 +50,3 @@ The following are the columns in the table:
 *   Total - Total number of clicks for the given link (i.e., Clicks) divided by Total Clicks for the time period and/or campaign filters applied. Note that Total Clicks is not listed in the report.
 
 You can sort the data by any column to show different arrangements. For example, sorting by Clicks in descending order shows the links that had the most clicks.
-
-| [Prev](web-ui.reports.adaptive.delivery.php)  | [Up](web-ui.reports.php) |  [Next](reporting_metrics.php) |
-| 57.3. Adaptive Delivery Report  | [Table of Contents](index.php) |  Chapter 58. Using the Metrics API for Reporting |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

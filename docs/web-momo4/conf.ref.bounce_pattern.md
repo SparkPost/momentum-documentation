@@ -29,10 +29,3 @@ bounce_pattern is valid in the domain and global scopes.
 ## See Also
 
 [bounce_domains](conf.ref.bounce_domains.php "bounce_domains"), [bounce_behavior](conf.ref.bounce_behavior.php "bounce_behavior"), [bounce_suppress_list](conf.ref.bounce_suppress_list.php "bounce_suppress_list"), and [Section 71.13, “bounce_logger – Momentum-Style Bounce Logging”](modules.bounce_logger.php "71.13. bounce_logger – Momentum-Style Bounce Logging")
-
-| [Prev](conf.ref.bounce_domains.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.bounce_suppress_list.php) |
-| bounce_domains  | [Table of Contents](index.php) |  bounce_suppress_list |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

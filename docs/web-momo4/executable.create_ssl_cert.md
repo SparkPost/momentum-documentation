@@ -80,10 +80,3 @@ For the **ecconfigd** service, use `ecuser`. For the **msyspg** service, use `ms
 ## See Also
 
 [ecconfigd](executable.ecconfigd.php "ecconfigd"), [Section 29.2, “Running the PostgreSQL Server”](postgresql.server.php "29.2. Running the PostgreSQL Server")
-
-| [Prev](executable.ad_summary.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.credmgr.php) |
-| ad_summary  | [Table of Contents](index.php) |  credmgr |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

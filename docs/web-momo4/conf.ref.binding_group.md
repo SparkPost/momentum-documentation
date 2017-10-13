@@ -80,10 +80,3 @@ For a complete list of options valid in the binding_group scope, refer to [Chapt
 ## See Also
 
 [binding](conf.ref.binding.php "binding")
-
-| [Prev](conf.ref.binding_auto_replumb_interval.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.blackhole.php) |
-| binding_auto_replumb_interval  | [Table of Contents](index.php) |  blackhole |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

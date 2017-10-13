@@ -90,10 +90,3 @@ When mapping from a Lua value to a JSON object representation, the following rul
 ## See Also
 
 [json.decode](lua.ref.json.decode.php "json.decode")
-
-| [Prev](lua.ref.json.decode.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.json.new.php) |
-| json.decode  | [Table of Contents](index.php) |  json.new |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

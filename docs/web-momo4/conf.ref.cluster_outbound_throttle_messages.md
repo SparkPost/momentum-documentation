@@ -26,10 +26,3 @@ The cluster module must be configured with the outbound throttle parameters.
 ## Scope
 
 `cluster_outbound_throttle_messages` is valid in the binding_group, domain, and global scopes.
-
-| [Prev](conf.ref.cluster_outbound_throttle_connections.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.cluster_scope_max_outbound_connections.php) |
-| cluster_outbound_throttle_connections  | [Table of Contents](index.php) |  cluster_scope_max_outbound_connections |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

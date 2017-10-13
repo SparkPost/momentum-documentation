@@ -298,10 +298,3 @@ Perform the following steps on each Analytics node in your cluster.
 3.  On all original Platform nodes, the Cassandra database will have duplicate keys that have now been distributed to the added node. Run the following command on each Platform/Cassandra node:
 
     `/opt/msys/3rdParty/cassandra/bin/nodetool cleanup`
-
-| [Prev](install.security_considerations.php)  | [Up](p.installing.php) |  [Next](node_remove.php) |
-| 12.6. Security Considerations  | [Table of Contents](index.php) |  13.2. Removing a Platform Node |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

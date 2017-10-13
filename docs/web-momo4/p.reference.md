@@ -1261,10 +1261,3 @@
 </dd>
 
 </dl>
-
-| [Prev](policy.context-mess.php)  |   |  [Next](lua.summary_table.php) |
-| 63.2. Message Context Variables  | [Table of Contents](index.php) |  Chapter 64. Lua Functions Summary |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

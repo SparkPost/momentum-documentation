@@ -80,10 +80,3 @@ $reader->close();
 This code opens a jlog and reads each line in that jlog. The `$path` and `$subscriber` variables should match those configured in the custom_logger module. The `checkpoint` method indicates that records have been read successfully to this point. Records are removed after they have been read by all registered subscribers.
 
 For more information about JLog::Reader, issue the command **`/opt/msys/3rdParty/bin/perldoc JLog::Reader`**              .
-
-| [Prev](modules.ipv6_lookup.php)  | [Up](modules.php) |  [Next](modules.live.bounce.updates.php) |
-| 71.42. ipv6_lookup – Multi-address-family MX Records  | [Table of Contents](index.php) |  71.44. Live Bounce Updates – Live Bounce Updates Service |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

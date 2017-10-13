@@ -19,10 +19,3 @@ Certain roles and behaviors are set up during installation. An overview of each 
 *   The web-based **UI** provides a flexible, easy-to-use interface to perform various tasks related to message generation and reporting. This application runs on an Analytics node, which is identified during installation. If this node fails in a cluster configuration, another arbitrary Analytics node assumes UI duties. For additional information about the UI, see [Chapter 55, *Getting Started with the Web-based User Interface*](web-ui.php "Chapter 55. Getting Started with the Web-based User Interface") .
 
 *   **Cluster log aggregation**                 applies only if you require aggregation of log files in a cluster configuration. The Manager node functions as the log aggregator. When you choose log aggregation during installation, the required ec_logger module is created in the `ecelerity-cluster.conf` file on the Manager.
-
-| [Prev](loam.php)  | [Up](p.intro.php) |  [Next](licensed_features.php) |
-| Chapter 2. Life of A Message  | [Table of Contents](index.php) |  Chapter 4. Licensed Features |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

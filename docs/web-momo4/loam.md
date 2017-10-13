@@ -49,10 +49,3 @@ Momentum uses Engagement Tracking to track opens and clicks. This activity occur
 ## Reporting
 
 The event hose reports all aspects of the message disposition to the Analytics database, including any messages generated via HTTP injection.
-
-| [Prev](components.php)  | [Up](p.intro.php) |  [Next](roles_behaviors.php) |
-| Chapter 1. Components  | [Table of Contents](index.php) |  Chapter 3. Roles and Behaviors |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

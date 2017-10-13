@@ -11,10 +11,3 @@ If the system configuration can be changed; then change the setting in the `/etc
 If set, `LC_ALL` supersedes `LANG`. If neither is set, Vertica will use `en_US`.
 
 For examples of how to set `LANG`, see [Implement Locales for International Data Sets](https://my.vertica.com/docs/7.1.x/HTML/Content/Authoring/AdministratorsGuide/ConfiguringTheDB/ImplementLocalesForInternationalDataSets.htm).
-
-| [Prev](byb.redefine_ephemeral_ports.php)  | [Up](before_you_begin.php) |  [Next](byb.config_SSH_and_SSHD.php) |
-| 6.11. Redefining Ephemeral Ports  | [Table of Contents](index.php) |  6.13. Configuring SSH and SSHD |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

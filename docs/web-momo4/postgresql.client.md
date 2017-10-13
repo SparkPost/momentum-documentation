@@ -19,10 +19,3 @@ To use this program, do the following:
 We strongly advise against building applications to interface with our database and make no guarantees that the database will remain the same between minor revisions of the product.
 
 Additionally, applications that interface directly may be incompatible with future upgrades to the version of PostgreSQL used with Momentum.
-
-| [Prev](postgresql.server.php)  | [Up](postgresql.php) |  [Next](postgresql.migrating.php) |
-| 29.2. Running the PostgreSQL Server  | [Table of Contents](index.php) |  29.4. Dumping and Restoring the Database |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

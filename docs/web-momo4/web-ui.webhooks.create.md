@@ -31,10 +31,3 @@ When complete, click Create to create your new webhook.
 On creation, a test POST is sent to the target URL for validation. If this request does not receive an HTTP 200 response, the webhook will not be created, and you will receive a validation error in the Create New Webhook form.
 
 If the test POST is successful, a message will briefly display upon return to the Webhooks tab. The events that you selected will begin to be posted to the target URL after after a 1 minute activation time.
-
-| [Prev](web-ui.webhooks.php)  | [Up](web-ui.webhooks.php) |  [Next](web-ui.webhooks.test.php) |
-| Chapter 60. Managing Your Webhooks in the UI  | [Table of Contents](index.php) |  60.3. Testing Your Webhook |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

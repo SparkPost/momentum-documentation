@@ -36,10 +36,3 @@ product name: Ecelerity Momentum Sending
 SUSE Linux Enterprise Server 10 (x86_64)
 Linux sel10bare 2.6.16.21-0.8-default #1 Mon Jul 3 18:25:39 UTC 2006 x86_64
 ```
-
-| [Prev](console_commands.summary_reset.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.threads.php) |
-| summary reset  | [Table of Contents](index.php) |  threads |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

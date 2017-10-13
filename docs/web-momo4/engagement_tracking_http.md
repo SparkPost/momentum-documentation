@@ -131,10 +131,3 @@ Follow these steps to view your engagement data:
     ![Engagement Report](images/engagement.png)
 
 Congratulations! You have successfully sent an email with a link and tracked the engagement of your message in the UI. To learn more about using the Engagement report, see [Section 57.4, “Evaluating Your Campaign Performance”](web-ui.reports.evaluating.campaign.performance.php "57.4. Evaluating Your Campaign Performance").
-
-| [Prev](web-ui.webhooks.delete.php)  | [Up](p.analytics.php) |  [Next](p.policy.php) |
-| 60.5. Deleting a Webhook  | [Table of Contents](index.php) |  Part IX. Writing Policy |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

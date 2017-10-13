@@ -23,10 +23,3 @@ exim_logger "exim_logger1" {
 ```
 
 You can toggle the logging of transient failures using the `log_transient_failures` option.
-
-| [Prev](modules.event_hydrant.php)  | [Up](modules.php) |  [Next](modules.fbl.php) |
-| 71.33. event_hydrant – Message Tracking  | [Table of Contents](index.php) |  71.35. fbl - Feedback Loop |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -21,10 +21,3 @@ context is valid in the esmtp_listener, listen, pathway, pathway_group, and peer
 ## See Also
 
 [Section 62.1, “Validation and the Validation Context”](policy.php#policy.validation "62.1. Validation and the Validation Context")
-
-| [Prev](conf.ref.connection_allocation_aggressiveness.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.control_client_timeout.php) |
-| connection_allocation_aggressiveness  | [Table of Contents](index.php) |  control_client_timeout |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

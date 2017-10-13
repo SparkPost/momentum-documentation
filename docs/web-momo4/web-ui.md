@@ -277,10 +277,3 @@ In the Delete Recipient List window, click Delete to confirm your request, as sh
 ![Confirm Delete](images/confirm_list_delete.png)
 
 The system will stop sending to the recipients after transmissions currently queued to be delivered using that recipients list are sent.
-
-| [Prev](http_reporting_options.php)  | [Up](p.analytics.php) |  [Next](reporting_ui.php) |
-| Chapter 54. Reporting Options  | [Table of Contents](index.php) |  Chapter 56. Using the UI for Reporting |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

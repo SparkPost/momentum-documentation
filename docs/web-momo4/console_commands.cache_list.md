@@ -167,10 +167,3 @@ CAPACITY    ENTRIES     USED    HT/TL   RD/WR CACHE
 ## See Also
 
 [cache stat](console_commands.cache_stat.php "cache stat"), [cache stats](console_commands.cache_stats.php "cache stats"), [match_cache_life](conf.ref.match_cache_life.php "match_cache_life")
-
-| [Prev](console_commands.binding_summary.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.cache_stat.php) |
-| binding summary  | [Table of Contents](index.php) |  cache stat |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

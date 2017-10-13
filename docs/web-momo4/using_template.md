@@ -89,10 +89,3 @@ Follow these steps to send an email using a stored template:
     Verify that each recipient received a personalized email, then open the UI and confirm that two messages were successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui.php "Chapter 56. Using the UI for Reporting") .
 
 Congratulations! You have successfully sent an email using a stored template. To learn more about using the Transmissions API, see the Transmission API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
-
-| [Prev](web-ui.templates.delete.php)  | [Up](p.http_rest.php) |  [Next](stored_list.php) |
-| 48.6. Deleting a Template  | [Table of Contents](index.php) |  Chapter 50. Creating Stored Recipient Lists |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

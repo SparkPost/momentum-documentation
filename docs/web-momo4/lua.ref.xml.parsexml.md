@@ -33,10 +33,3 @@ local child = node:addchild("item")
 ### See Also
 
 [doc:root](lua.ref.xml.doc_root.php "doc:root")
-
-| [Prev](lua.ref.xml.node_unlink.php)  | [Up](lua.function.details.php) |  [Next](modules.php) |
-| node:unlink  | [Table of Contents](index.php) |  Chapter 71. Modules Reference |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

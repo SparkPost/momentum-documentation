@@ -118,10 +118,3 @@ Override the product version of the installation. For example, if you would like
 ## See Also
 
 [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery")
-
-| [Prev](executable.jlogctl.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.validate_config.php) |
-| jlogctl  | [Table of Contents](index.php) |  validate_config |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

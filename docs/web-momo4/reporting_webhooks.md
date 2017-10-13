@@ -119,10 +119,3 @@ Congratulations! You have successfully created a webhook using the Webhooks API.
 **Managing Webhooks using the UI** 
 
 You can alos create and manage your webhooks in the web-based UI. For detailed instructions, see [Chapter 60, *Managing Your Webhooks in the UI*](web-ui.webhooks.php "Chapter 60. Managing Your Webhooks in the UI") .
-
-| [Prev](reporting_metrics.php)  | [Up](p.analytics.php) |  [Next](web-ui.webhooks.php) |
-| Chapter 58. Using the Metrics API for Reporting  | [Table of Contents](index.php) |  Chapter 60. Managing Your Webhooks in the UI |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

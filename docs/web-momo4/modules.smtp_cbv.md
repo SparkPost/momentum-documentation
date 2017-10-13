@@ -77,10 +77,3 @@ You may act on the context variable from a script or from other validation modul
 ### 71.65.3. Abuse Issues With CBV
 
 Using SMTP CBV can abuse a remote MTA if a large number of inbound messages are forged to look like they have been sent from a third party's domain. Exercise caution before deploying this module.
-
-| [Prev](modules.smtp_auth_proxy.php)  | [Up](modules.php) |  [Next](modules.smtp_rcptto_proxy.php) |
-| 71.64. smtp_auth_proxy - SMTP Authentication Proxy  | [Table of Contents](index.php) |  71.66. smtp_rcptto_proxy - SMTP Recipient-To Proxy |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

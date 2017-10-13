@@ -32,10 +32,3 @@ The `_unsafe_spool` line disables Momentum's internal protections to guarantee t
 ### Warning
 
 This module is loaded automatically as required and does not need to be explicitly included. However, it is dangerous and can result in data loss if you experience a crash.
-
-| [Prev](modules.static_routes.php)  | [Up](modules.php) |  [Next](modules.syslog_io.php) |
-| 71.69. static-routes - Static Routes  | [Table of Contents](index.php) |  71.71. syslog_io – The syslog_io Module |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

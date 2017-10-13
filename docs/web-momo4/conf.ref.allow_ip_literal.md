@@ -25,10 +25,3 @@ allow_ip_literal is valid in the global, listener, listen, peer, pathway, and pa
 ## See Also
 
 [allow_null_envelope_sender](conf.ref.allow_null_envelope_sender.php "allow_null_envelope_sender")
-
-| [Prev](conf.ref.alias_schemes.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.allow_null_envelope_sender.php) |
-| alias_schemes  | [Table of Contents](index.php) |  allow_null_envelope_sender |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -19,10 +19,3 @@ Because this function is in the `msys.core` namespace, an explicit `require('msy
 ## See Also
 
 [msys.core.mail_queue_delay_domain](lua.ref.msys.core.mail_queue_delay_domain.php "msys.core.mail_queue_delay_domain")
-
-| [Prev](lua.ref.curl.unescape.php)  | [Up](lua.function.details.php) |  [Next](lua.ref.msys.core.get_now_ts.php) |
-| curl.unescape  | [Table of Contents](index.php) |  msys.core.get_now_ts |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

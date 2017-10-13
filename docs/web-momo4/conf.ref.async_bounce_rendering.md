@@ -18,10 +18,3 @@ The default value is `true`.
 ## Scope
 
 async_bounce_rendering is valid in the global scope.
-
-| [Prev](conf.ref.allow_trailing_whitespace_in_commands.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.authorization.php) |
-| allow_trailing_whitespace_in_commands  | [Table of Contents](index.php) |  authorization |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

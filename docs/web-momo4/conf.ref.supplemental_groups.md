@@ -31,10 +31,3 @@ Supplemental_Groups is valid in the security scope.
 ## See Also
 
 [security](conf.ref.security.php "security"), [capabilities](conf.ref.capabilities.php "capabilities"), [user](conf.ref.user.php "user"), and [chroot](conf.ref.chroot.php "chroot")
-
-| [Prev](config.starttls_injection_policy.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.suspend_delivery.php) |
-| starttls_injection_policy  | [Table of Contents](index.php) |  suspend_delivery |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

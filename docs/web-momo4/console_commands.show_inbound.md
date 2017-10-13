@@ -21,10 +21,3 @@ This command shows all inbound connections. In the following example, the output
 ## See Also
 
 [show outbound](console_commands.show_outbound.php "show outbound")
-
-| [Prev](console_commands.reroute_queue.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.show_outbound.php) |
-| reroute queue  | [Table of Contents](index.php) |  show outbound |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -384,10 +384,3 @@ The `Version` column indicated the version(s) of Momentum that support the optio
 | [xmpp_dialback_secret](https://support.messagesystems.com/docs/web-mobility/mobility.xmpp.modules.php#mobility.xmpp.modules.xmpp_role.php) – Use when verifying the XMPP server dialback key (Mobile Momentum) | both |   | 4.0 and later | domain |
 | [xmpp_listener](https://support.messagesystems.com/docs/web-mobility/mobility.xmpp.modules.php#modules.xmpp.xmpp_listener.php) *(scope)* – The listener for incoming XMPP connections (Mobile Momentum) | receiving |   | 4.0 and later | global |
 | [xmpp_role](https://support.messagesystems.com/docs/web-mobility/mobility.xmpp.modules.php#mobility.xmpp.modules.xmpp_role.php) – Define whether a domain is an XMPP server or client (Mobile Momentum) | both |   | 4.0 and later | domain |
-
-| [Prev](modules.summary.all.modules.php)  | [Up](p.reference.php) |  [Next](console_commands.php) |
-| Chapter 65. Modules Summary  | [Table of Contents](index.php) |  Chapter 67. Console Commands Summary |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

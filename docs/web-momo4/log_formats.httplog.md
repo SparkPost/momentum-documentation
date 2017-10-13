@@ -27,10 +27,3 @@ The following is a description of the fields:
 | 6 | 500 | HTTP response status code |
 | 7 | 332 | Total number of bytes of the response |
 | 8 | 1045.000 | Time taken from request to response in milliseconds |
-
-| [Prev](log_formats.fbllog.php)  | [Up](log_formats.php) |  [Next](log_formats.importlog.php) |
-| 35.4. `fbllog`  | [Table of Contents](index.php) |  35.6. `importlog` |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

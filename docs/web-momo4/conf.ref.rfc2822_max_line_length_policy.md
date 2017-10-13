@@ -25,10 +25,3 @@ The default value for this option is `none`.
 ## See Also
 
 [rfc2822_max_line_length](conf.ref.rfc2822_max_line_length.php "rfc2822_max_line_length")
-
-| [Prev](conf.ref.rfc2822_max_line_length.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.rfc2822_messageid_header.php) |
-| rfc2822_max_line_length  | [Table of Contents](index.php) |  rfc2822_messageid_header |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

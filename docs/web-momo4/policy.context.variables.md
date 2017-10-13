@@ -110,10 +110,3 @@ Modules that support predefined module-specific connection context variables are
 *   [conntrol – Fine-Grained Connection Control](modules.conntrol.php#modules.conntrol.context.variables "71.22.2. Connection Context Variables")
 
 *   [mail_loop – Mail Loop Detection](modules.mail_loop.php#modules.mail_loop.context.variables "71.45.2. Connection Context Variables")
-
-| [Prev](implementing.policy.scriptlets.php)  | [Up](p.policy.php) |  [Next](policy.context-mess.php) |
-| 62.2. Policy Scriptlets  | [Table of Contents](index.php) |  63.2. Message Context Variables |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

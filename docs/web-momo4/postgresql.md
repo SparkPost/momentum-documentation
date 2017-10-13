@@ -91,10 +91,3 @@ Default setting is `100MB`. With the default settings, a new log file will be cr
 </dd>
 
 </dl>
-
-| [Prev](cluster.config.replication.php)  | [Up](p.configuration.php) |  [Next](postgresql.server.php) |
-| Chapter 28. Data Replication  | [Table of Contents](index.php) |  29.2. Running the PostgreSQL Server |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

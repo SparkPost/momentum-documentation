@@ -57,10 +57,3 @@
 </dl>
 
 This chapter provides the definitions of the executable commands that are referenced in this document.
-
-| [Prev](console_commands.write_config.php)  | [Up](p.reference.php) |  [Next](executable.ad_summary.php) |
-| write config  | [Table of Contents](index.php) |  ad_summary |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

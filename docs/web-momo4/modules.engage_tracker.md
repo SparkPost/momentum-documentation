@@ -48,10 +48,3 @@ The maximum amount of metadata bytes that will be encoded into click and open tr
 ### Note
 
 Metadata can be included in click tracking for messages injected using SMTP and REST. The setting of the `click_track_include_metadata` and `max_metadata_len` options applies to both types of messages.
-
-| [Prev](modules.eleven.php)  | [Up](modules.php) |  [Next](modules.event_hydrant.php) |
-| 71.31. eleven – Eleven eXpurgate Content Scanning  | [Table of Contents](index.php) |  71.33. event_hydrant – Message Tracking |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

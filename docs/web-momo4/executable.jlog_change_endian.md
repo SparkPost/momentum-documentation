@@ -17,10 +17,3 @@ The first argument is the path to the jlog you want to convert.
 The second argument indicates the endianness of the destination jlog (and implicitly of the source jlog). `tole` will convert a big-endian jlog to little-endian (e.g. sparc to i386), while `tobe` will convert a little-endian jlog to big-endian (e.g. i386 to sparc).
 
 The third argument is the path where you want the converted jlog to be written; it must not exist, but its parent directory must exist before you run `jlog_change_endian.pl`.
-
-| [Prev](executable.ecelerity.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.jlog_sanity_check.php) |
-| ecelerity  | [Table of Contents](index.php) |  jlog_sanity_check |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -46,10 +46,3 @@ Removed smtp tracer #1
 ```
 
 To set the permissions of smtp trace files see [trace_smtp_mode](conf.ref.trace_smtp_mode.php "trace_smtp_mode").
-
-| [Prev](console_commands.tls.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.unlink_stats.php) |
-| tls  | [Table of Contents](index.php) |  unlink stats |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

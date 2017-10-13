@@ -27,10 +27,3 @@ You may substitute `all` for the domain name to apply to all domains.
 ## See Also
 
 [message_expiration](conf.ref.message_expiration.php "message_expiration")
-
-| [Prev](console_commands.binding_fail_domain_quiet.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.binding_summary.php) |
-| binding fail domain quiet  | [Table of Contents](index.php) |  binding summary |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

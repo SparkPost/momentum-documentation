@@ -31,10 +31,3 @@ Singleton module commands are executed by using the module scope name followed b
 `ds_core flush sqlite`
 
 For a list of module-specific console commands, see [Chapter 67, *Console Commands Summary*](console_commands.php "Chapter 67. Console Commands Summary") .
-
-| [Prev](operations.console-commands.php)  | [Up](operations.php) |  [Next](modules.options.console.php) |
-| 37.2. Console Commands  | [Table of Contents](index.php) |  37.4. Setting and Getting Module Options from the Console |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

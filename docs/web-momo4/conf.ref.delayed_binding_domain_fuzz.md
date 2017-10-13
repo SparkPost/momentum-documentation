@@ -23,10 +23,3 @@ delayed_binding_domain_fuzz is valid in the global, binding, and binding_group s
 ## See Also
 
 [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery")
-
-| [Prev](conf.ref.delay_dsn_retry_interval.php)  | [Up](config.options.ref.php) |  [Next](conf.ref.delayed_queue_scan_interval.php) |
-| delay_dsn_retry_interval  | [Table of Contents](index.php) |  delayed_queue_scan_interval |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

@@ -71,10 +71,3 @@ Follow these steps to send an email using a stored recipient list:
     Verify that each recipient received an email, then open the UI and confirm that two messages were successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui.php "Chapter 56. Using the UI for Reporting") .
 
 Congratulations! You have successfully sent an email using a stored recipient list. To learn more about using the Recipient Lists API, see the Recipient Lists API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).
-
-| [Prev](stored_list.php)  | [Up](p.http_rest.php) |  [Next](sending_cc_bcc.php) |
-| Chapter 50. Creating Stored Recipient Lists  | [Table of Contents](index.php) |  Chapter 52. Sending Emails as CC and BCC |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

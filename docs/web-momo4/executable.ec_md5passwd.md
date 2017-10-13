@@ -90,10 +90,3 @@ You do not need to restart the MTA after adding a new user.
 ## See Also
 
 [DIGEST-MD5 Authentication](control_auth.php#control_auth.digest-md5 "17.2.1. DIGEST-MD5 Authentication")
-
-| [Prev](executable.ec_log_trace.php)  | [Up](exec.cmds.ref.php) |  [Next](executable.ec_rotate.php) |
-| ec_log_trace  | [Table of Contents](index.php) |  ec_rotate |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

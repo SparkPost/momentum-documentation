@@ -69,10 +69,3 @@ For details about the non-module specific configuration options that are valid i
 Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
 
 For general information regarding listeners, see [Section 15.4, “Listeners”](listeners.php "15.4. Listeners").
-
-| [Prev](ecstream_listener.php)  | [Up](p.configuration.php) |  [Next](esmtp_listener.relay_domains.php) |
-| Chapter 18. Configuring Inbound Mail Service Using ECStream  | [Table of Contents](index.php) |  19.2. Inbound Email Relay or Gateway |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

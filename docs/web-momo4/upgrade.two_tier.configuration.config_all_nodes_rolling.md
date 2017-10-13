@@ -63,10 +63,3 @@ Multiple stanzas in the root must be separated by commas. For example, in the we
 8.  SCP the Platform changes to the **other Platform nodes** . See below for an example scp command:
 
     `scp –p /opt/msys/app/metrics-etl/config/production.json {nodename or IP}:/opt/msys/app/metrics-etl/config/production.json`
-
-| [Prev](upgrade.two_tier.preparation.rpms_rolling.php)  | [Up](upgrade.two_tier_configuration_rolling.php) |  [Next](upgrade.two_tier.configuration.software_upgrade_rolling.php) |
-| 11.12. Upgrade Remaining RPMs on Analytics Nodes  | [Table of Contents](index.php) |  11.14. Install the Adaptive Delivery API |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)

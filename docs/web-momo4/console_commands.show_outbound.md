@@ -35,10 +35,3 @@ This command will also display Google Push notification connections as "http_han
 ## See Also
 
 [show inbound](console_commands.show_inbound.php "show inbound") and [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/)
-
-| [Prev](console_commands.show_inbound.php)  | [Up](console.cmds.ref.php) |  [Next](console_commands.showqueue.php) |
-| show inbound  | [Table of Contents](index.php) |  showqueue |
-
-Follow us on:
-
-[![Facebook](https://support.messagesystems.com/images/icon-facebook.png)](http://www.facebook.com/messagesystems) [![Twitter](https://support.messagesystems.com/images/icon-twitter.png)](http://twitter.com/#!/MessageSystems) [![LinkedIn](https://support.messagesystems.com/images/icon-linkedin.png)](http://www.linkedin.com/company/message-systems)
