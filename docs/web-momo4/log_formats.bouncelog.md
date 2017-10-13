@@ -58,3 +58,6 @@ The following is a description of the fields:
 | 4 | M1 | `M1` indicating a heartbeat |
 
 Having three unused fields ensures that, like other logs, the fifth field is the log entry type. This makes parsing easier.
+
+| [Prev](adaptive.log.format)  | [Up](log_formats) |  [Next](log_formats.fbllog) |
+| 35.2. `adaptive` Log  | [Table of Contents](index) |  35.4. `fbllog` |
