@@ -428,7 +428,7 @@ For example, suppose you have the following custom_logger configuration:
 ```
 custom_logger "custom_logger1" {
     rejection_format = "%p @ %s @ %BI @ %A @ %U @ %n @ %h{Subject} @ %r »
-@ %R @ %m @ %M @ %i @ %t @ %t\{%Y-%m-%d} @ %H @ %mx @ %S"
+@ %R @ %m @ %M @ %i @ %t @ %t\\{%Y-%m-%d} @ %H @ %mx @ %S"
   rejection_logfile = "/var/log/ecelerity/my_reject.log"
 }
 ```
