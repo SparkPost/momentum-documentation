@@ -14,7 +14,7 @@ ec_show — show spool or message information
 
 ### Note
 
-`ec_show` provides a "best guess" calculation of retries and next_attempt based on the messages on disk. (Retries and next_attempt (and code) are not rewritten to disk for cost and performance reasons.) If you need exact information for these values, use the ec_console command [message details](console_commands.message_details.php "message details"), which looks at the live message's metadata in memory.
+`ec_show` provides a "best guess" calculation of retries and next_attempt based on the messages on disk. (Retries and next_attempt (and code) are not rewritten to disk for cost and performance reasons.) If you need exact information for these values, use the ec_console command [message details](console_commands.message_details "message details"), which looks at the live message's metadata in memory.
 
 `ec_show` has the following options:
 

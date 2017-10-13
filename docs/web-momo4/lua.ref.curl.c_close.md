@@ -31,4 +31,4 @@ c:close();
 <a name="idp15411312"></a>
 ### See Also
 
-[curl.new](lua.ref.curl.new.php "curl.new")
+[curl.new](lua.ref.curl.new "curl.new")

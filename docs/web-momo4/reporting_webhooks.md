@@ -18,9 +18,9 @@ This section provides instructions to create a webhook using the REST API. It in
 
 Generation and engagement events are emitted by Message Generation, which is licensed separately from the core Momentum platform. For this tutorial, you must have Message Generation.
 
-This tutorial assumes that you have completed the tutorial in [Chapter 61, *Tracking Engagement for HTTP*](engagement_tracking_http.php "Chapter 61. Tracking Engagement for HTTP") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
+This tutorial assumes that you have completed the tutorial in [Chapter 61, *Tracking Engagement for HTTP*](engagement_tracking_http "Chapter 61. Tracking Engagement for HTTP") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
 
-You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey.php "Chapter 43. Creating an API Key") .
+You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey "Chapter 43. Creating an API Key") .
 
 You will also need a URL to receive the event data.
 
@@ -81,7 +81,7 @@ Follow these steps to receive event data using webhooks:
     }
 3.  Inject a message into Momentum.
 
-    After a 1 minute activation time, the new webhook will be ready to receive event data. Send the email that you created in the tutorial in [Chapter 61, *Tracking Engagement for HTTP*](engagement_tracking_http.php "Chapter 61. Tracking Engagement for HTTP") .
+    After a 1 minute activation time, the new webhook will be ready to receive event data. Send the email that you created in the tutorial in [Chapter 61, *Tracking Engagement for HTTP*](engagement_tracking_http "Chapter 61. Tracking Engagement for HTTP") .
 
 4.  Open the email and click the link.
 
@@ -118,4 +118,4 @@ Congratulations! You have successfully created a webhook using the Webhooks API.
 
 **Managing Webhooks using the UI** 
 
-You can alos create and manage your webhooks in the web-based UI. For detailed instructions, see [Chapter 60, *Managing Your Webhooks in the UI*](web-ui.webhooks.php "Chapter 60. Managing Your Webhooks in the UI") .
+You can alos create and manage your webhooks in the web-based UI. For detailed instructions, see [Chapter 60, *Managing Your Webhooks in the UI*](web-ui.webhooks "Chapter 60. Managing Your Webhooks in the UI") .

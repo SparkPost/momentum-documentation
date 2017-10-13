@@ -28,4 +28,4 @@ legacy_message_threshold is valid in the global scope.
 <a name="idp25093008"></a>
 ## See Also
 
-[growbuf_size](conf.ref.growbuf_size.php "growbuf_size"), [large_message_threshold](conf.ref.large_message_threshold.php "large_message_threshold")
+[growbuf_size](conf.ref.growbuf_size "growbuf_size"), [large_message_threshold](conf.ref.large_message_threshold.php "large_message_threshold")

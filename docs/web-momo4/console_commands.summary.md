@@ -201,4 +201,4 @@ Use the `with-mobile` option to display the status of SMPP and MM7 message queue
 <a name="idp13483968"></a>
 ## See Also
 
-[binding summary](console_commands.binding_summary.php "binding summary"), [summary reset](console_commands.summary_reset.php "summary reset")
+[binding summary](console_commands.binding_summary "binding summary"), [summary reset](console_commands.summary_reset.php "summary reset")

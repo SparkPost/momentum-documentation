@@ -125,4 +125,4 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 <a name="idp16377008"></a>
 ## See Also
 
-[thread.mutex](lua.ref.thread.mutex.php "thread.mutex"), [msys.sleep](lua.ref.msys.sleep.php "msys.sleep"), [msys.lock](lua.ref.msys.lock.php "msys.lock"), [msys.unlock](lua.ref.msys.unlock.php "msys.unlock"), [threadpool](conf.ref.threadpool.php "threadpool")
+[thread.mutex](lua.ref.thread.mutex "thread.mutex"), [msys.sleep](lua.ref.msys.sleep.php "msys.sleep"), [msys.lock](lua.ref.msys.lock.php "msys.lock"), [msys.unlock](lua.ref.msys.unlock.php "msys.unlock"), [threadpool](conf.ref.threadpool.php "threadpool")

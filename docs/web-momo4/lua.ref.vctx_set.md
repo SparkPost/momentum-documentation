@@ -41,4 +41,4 @@ Because this function is in the `msys.core` namespace, an explicit `require('msy
 <a name="idp19312112"></a>
 ## See Also
 
-[vctx:get](lua.ref.vctx_get.php "vctx:get")
+[vctx:get](lua.ref.vctx_get "vctx:get")

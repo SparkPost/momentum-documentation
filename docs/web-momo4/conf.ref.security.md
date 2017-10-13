@@ -49,15 +49,15 @@ We do not recommend that the user in a `Security` stanza be set to `root`. Howev
 
 The following are the options valid in the `security` scope. For additional details about each option, follow the link:
 
-*   [`capabilities`](conf.ref.capabilities.php "capabilities")
+*   [`capabilities`](conf.ref.capabilities "capabilities")
 
-*   [`group`](conf.ref.user.php "user")
+*   [`group`](conf.ref.user "user")
 
-*   [`user`](conf.ref.user.php "user")
+*   [`user`](conf.ref.user "user")
 
-*   [`chroot`](conf.ref.chroot.php "chroot")
+*   [`chroot`](conf.ref.chroot "chroot")
 
-*   [`supplemental_groups`](conf.ref.supplemental_groups.php "supplemental_groups")
+*   [`supplemental_groups`](conf.ref.supplemental_groups "supplemental_groups")
 
 ### Note
 
@@ -71,4 +71,4 @@ Changing the value of options in the `security` scope at runtime requires restar
 <a name="idp26480992"></a>
 ## See Also
 
-[capabilities](conf.ref.capabilities.php "capabilities"), [chroot](conf.ref.chroot.php "chroot"), [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups"), [user](conf.ref.user.php "user"), and [Section 16.3, “`ecelerity-cluster.conf` File”](conf.ref.ecelerity_cluster.conf.php "16.3. ecelerity-cluster.conf File")
+[capabilities](conf.ref.capabilities "capabilities"), [chroot](conf.ref.chroot.php "chroot"), [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups"), [user](conf.ref.user.php "user"), and [Section 16.3, “`ecelerity-cluster.conf` File”](conf.ref.ecelerity_cluster.conf.php "16.3. ecelerity-cluster.conf File")

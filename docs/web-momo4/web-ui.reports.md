@@ -4,13 +4,13 @@
 
 <dl class="toc">
 
-<dt>[57.1\. Selecting Your Metrics and Filters](web-ui.reports.php#web-ui.reports.selecting.metrics.filters)</dt>
+<dt>[57.1\. Selecting Your Metrics and Filters](web-ui.reports#web-ui.reports.selecting.metrics.filters)</dt>
 
-<dt>[57.2\. Viewing Your Reports](web-ui.reports.viewing.reports.php)</dt>
+<dt>[57.2\. Viewing Your Reports](web-ui.reports.viewing.reports)</dt>
 
-<dt>[57.3\. Adaptive Delivery Report](web-ui.reports.adaptive.delivery.php)</dt>
+<dt>[57.3\. Adaptive Delivery Report](web-ui.reports.adaptive.delivery)</dt>
 
-<dt>[57.4\. Evaluating Your Campaign Performance](web-ui.reports.evaluating.campaign.performance.php)</dt>
+<dt>[57.4\. Evaluating Your Campaign Performance](web-ui.reports.evaluating.campaign.performance)</dt>
 
 </dl>
 
@@ -20,7 +20,7 @@
 
 The UI provides a flexible, easy-to-use interface to evaluate your message deliverability and campaign performance. All the metrics provided in the Metrics API are also available in the UI. Using the UI, you can select metrics, filter the metric data, and view detailed reports based on your specific needs. Its drill-down capabilities enable you to focus your reporting on the message events and data that are most important to you.
 
-The Reports tab consists of six sections. To create your custom reports, begin in the Summary section by selecting your metrics and filters. Next, view the summary report provided in the Summary section and the detailed reports provided in the Bounces, Rejections, Accepted, and Delayed sections to evaluate your deliverability and performance. The Engagement section includes a specialized report enabling you to drill down to the level of a link within your campaign, while the Adaptive Delivery section includes a specialized report enabling you to view data related to managing your outbound traffic. Use the drop-down list shown in [Figure 57.1, “Navigating Reports”](web-ui.reports.php#figure_navigation_menu "Figure 57.1. Navigating Reports") to navigate Reports.
+The Reports tab consists of six sections. To create your custom reports, begin in the Summary section by selecting your metrics and filters. Next, view the summary report provided in the Summary section and the detailed reports provided in the Bounces, Rejections, Accepted, and Delayed sections to evaluate your deliverability and performance. The Engagement section includes a specialized report enabling you to drill down to the level of a link within your campaign, while the Adaptive Delivery section includes a specialized report enabling you to view data related to managing your outbound traffic. Use the drop-down list shown in [Figure 57.1, “Navigating Reports”](web-ui.reports#figure_navigation_menu "Figure 57.1. Navigating Reports") to navigate Reports.
 
 <a name="figure_navigation_menu"></a>
 
@@ -40,7 +40,7 @@ In the Summary section, you can select metrics and filters enabling you to drill
 
 ### 57.1.1. Selecting Metrics
 
-From the METRICS drop-down list shown in [Figure 57.2, “Metrics Drop-down List”](web-ui.reports.php#figure_metrics_list "Figure 57.2. Metrics Drop-down List"), you can select from a comprehensive list of metrics. Click the icon next to METRICS to open the list.
+From the METRICS drop-down list shown in [Figure 57.2, “Metrics Drop-down List”](web-ui.reports#figure_metrics_list "Figure 57.2. Metrics Drop-down List"), you can select from a comprehensive list of metrics. Click the icon next to METRICS to open the list.
 
 Hover over any metric to display tool-tips providing a description. Then, select the check boxes for the metrics that you want to include in your report. You can select a maximum of five metrics. To save your selections, click Save.
 
@@ -64,7 +64,7 @@ The Summary report provides graphical and tabular views of the metric data.
 
 **57.1.2.1. Graphical Display**
 
-In the METRICS area of the Summary report, the totals for the selected metrics are displayed next to the corresponding name. Each metric is displayed as a function of time in the adjacent graph. The graph uses a different color for each metric with the color corresponding to the bar along the right side of the METRICS area and the legend above the graph. The precision of the graph changes based on the time period selected. In [Figure 57.3, “Summary Graph”](web-ui.reports.php#figure_summary_graph "Figure 57.3. Summary Graph"), the time period is Last 7 Days. Note that the units on the x-axis are by day. For information about selecting the time period filter, see [Section 57.1.3.1, “Time Period”](web-ui.reports.php#web-ui.reports.select.time "57.1.3.1. Time Period").
+In the METRICS area of the Summary report, the totals for the selected metrics are displayed next to the corresponding name. Each metric is displayed as a function of time in the adjacent graph. The graph uses a different color for each metric with the color corresponding to the bar along the right side of the METRICS area and the legend above the graph. The precision of the graph changes based on the time period selected. In [Figure 57.3, “Summary Graph”](web-ui.reports#figure_summary_graph "Figure 57.3. Summary Graph"), the time period is Last 7 Days. Note that the units on the x-axis are by day. For information about selecting the time period filter, see [Section 57.1.3.1, “Time Period”](web-ui.reports.php#web-ui.reports.select.time "57.1.3.1. Time Period").
 
 There are four possible measurements for the metrics:
 
@@ -90,15 +90,15 @@ By default, the scale of the graph is linear. You can change the scale to log or
 
 **57.1.2.2. Table Format**
 
-The tabular view lists the metric totals by domains, bindings, binding groups, campaigns, and templates for the selected time period, as shown in [Figure 57.4, “Summary Table”](web-ui.reports.php#figure_summary_table "Figure 57.4. Summary Table"). These groupings are organized by tabs in the table.
+The tabular view lists the metric totals by domains, bindings, binding groups, campaigns, and templates for the selected time period, as shown in [Figure 57.4, “Summary Table”](web-ui.reports#figure_summary_table "Figure 57.4. Summary Table"). These groupings are organized by tabs in the table.
 
 ### Note
 
-Bindings are user-specific, with the exception of the #mmove binding. This binding occurs if you are using DuraVIP™. For details about DuraVIP™, see [Section 27.2, “`duravip_follow` and the #mmove Binding”](cluster.config.mmove.php "27.2. duravip_follow and the #mmove Binding").
+Bindings are user-specific, with the exception of the #mmove binding. This binding occurs if you are using DuraVIP™. For details about DuraVIP™, see [Section 27.2, “`duravip_follow` and the #mmove Binding”](cluster.config.mmove "27.2. duravip_follow and the #mmove Binding").
 
 The tabular view includes metric totals for templates that have been deleted, indicated by a label entry of **`deleted`**. These templates are not available in the Search function.
 
-Each tab includes the top 1000 of that grouping with the exception of the Domains tab. By default, the number of domains is reduced to approximately 250\. As you filter the metric data, the number will increase to 1000\. The top 1000 is defined as the 1000 that have the most messages injected into Momentum. This restriction was implemented to allow the UI to load faster. Data is available for all domains, bindings, binding groups, campaigns, and templates. To display any data not shown by default, select applicable filters as described in [Section 57.1.4, “Filtering Metric Data”](web-ui.reports.php#web-ui.reports.filtering.selected.metrics "57.1.4. Filtering Metric Data").
+Each tab includes the top 1000 of that grouping with the exception of the Domains tab. By default, the number of domains is reduced to approximately 250\. As you filter the metric data, the number will increase to 1000\. The top 1000 is defined as the 1000 that have the most messages injected into Momentum. This restriction was implemented to allow the UI to load faster. Data is available for all domains, bindings, binding groups, campaigns, and templates. To display any data not shown by default, select applicable filters as described in [Section 57.1.4, “Filtering Metric Data”](web-ui.reports#web-ui.reports.filtering.selected.metrics "57.1.4. Filtering Metric Data").
 
 ### Note
 
@@ -126,7 +126,7 @@ The drop-down lists located in the upper area of each web page enable you to fil
 
 **57.1.3.1. Time Period**
 
-By default, the UI displays data for the Last Hour pre-set. You can select other pre-set time periods or set your own custom range. Click the calendar icon and select from the drop-down list shown in [Figure 57.5, “Time Period Drop-down List”](web-ui.reports.php#figure_time "Figure 57.5. Time Period Drop-down List"). Selecting a pre-set time period automatically updates the report. To set a custom range, select Custom Range, select your dates and times, and then click Apply to update the report.
+By default, the UI displays data for the Last Hour pre-set. You can select other pre-set time periods or set your own custom range. Click the calendar icon and select from the drop-down list shown in [Figure 57.5, “Time Period Drop-down List”](web-ui.reports#figure_time "Figure 57.5. Time Period Drop-down List"). Selecting a pre-set time period automatically updates the report. To set a custom range, select Custom Range, select your dates and times, and then click Apply to update the report.
 
 <a name="figure_time"></a>
 
@@ -134,11 +134,11 @@ By default, the UI displays data for the Last Hour pre-set. You can select other
 
 ![Time Period Drop-down List](images/time.png)
 
-In the graph on the Summary report, the precision of the data is based on the time period selected. A data point can represent the total for a minute, five minutes, fifteen minutes, an hour, twelve hours, or a day. As an example of a five minute precision, a data point at 9:00 AM represents data for the time span of 9:00:00 AM - 9:04:59 AM. The x-axis of the graph changes based on the precision. See [Figure 57.3, “Summary Graph”](web-ui.reports.php#figure_summary_graph "Figure 57.3. Summary Graph") for an example of a day precision.
+In the graph on the Summary report, the precision of the data is based on the time period selected. A data point can represent the total for a minute, five minutes, fifteen minutes, an hour, twelve hours, or a day. As an example of a five minute precision, a data point at 9:00 AM represents data for the time span of 9:00:00 AM - 9:04:59 AM. The x-axis of the graph changes based on the precision. See [Figure 57.3, “Summary Graph”](web-ui.reports#figure_summary_graph "Figure 57.3. Summary Graph") for an example of a day precision.
 
 Reports created with the pre-set time periods display data from the beginning of the selected time period up to the current time. The beginning time is rounded to the earliest hour, while the current time is rounded to the latest minute. The last data point for a pre-set time period may not represent a complete precision interval and should not be used to evaluate your report.
 
-Reports created with a custom range display data from the beginning of the selected time period up to but not including the ending time. In the example shown in [Figure 57.6, “Custom Range”](web-ui.reports.php#figure_custom_range "Figure 57.6. Custom Range"), a custom range of `Apr 7 2014 10:00 AM - Apr 8 2014 10:00 AM` displays data from Apr 7 2014 10:00:00 AM to Apr 8 2014 9:59:59 AM in one hour increments. The last data point is displayed at 9:00 AM and is the total for the last full hour, i.e., 9:00:00 AM to 9:59:59 AM. In this case, the last point represents a complete data set for the given precision interval.
+Reports created with a custom range display data from the beginning of the selected time period up to but not including the ending time. In the example shown in [Figure 57.6, “Custom Range”](web-ui.reports#figure_custom_range "Figure 57.6. Custom Range"), a custom range of `Apr 7 2014 10:00 AM - Apr 8 2014 10:00 AM` displays data from Apr 7 2014 10:00:00 AM to Apr 8 2014 9:59:59 AM in one hour increments. The last data point is displayed at 9:00 AM and is the total for the last full hour, i.e., 9:00:00 AM to 9:59:59 AM. In this case, the last point represents a complete data set for the given precision interval.
 
 <a name="figure_custom_range"></a>
 
@@ -147,7 +147,7 @@ Reports created with a custom range display data from the beginning of the selec
 ![Custom Range](images/custom_range.png)
 **57.1.3.2. Node**
 
-To list your node names, click the arrow as shown in [Figure 57.7, “Node Drop-down List”](web-ui.reports.php#figure_node "Figure 57.7. Node Drop-down List"). Node names are user-defined and correspond to your Platform nodes. Only nodes that have had message data will appear in the list. Even if a node has been disconnected, it will appear in the list since it still has historical data associated with it. Select the check boxes for the nodes that you want to include in your report and then click Save to save your selections.
+To list your node names, click the arrow as shown in [Figure 57.7, “Node Drop-down List”](web-ui.reports#figure_node "Figure 57.7. Node Drop-down List"). Node names are user-defined and correspond to your Platform nodes. Only nodes that have had message data will appear in the list. Even if a node has been disconnected, it will appear in the list since it still has historical data associated with it. Select the check boxes for the nodes that you want to include in your report and then click Save to save your selections.
 
 <a name="figure_node"></a>
 
@@ -161,7 +161,7 @@ The UI is designed to provide maximum flexibility enabling you to drill down to 
 
 **57.1.4.1. Filtering by Search**
 
-To filter by the Search function, enter the domain, binding, binding group, campaigns, or templates that you want to include in your report in the Search box. The entry will pre-fill after three letters, as shown in [Figure 57.8, “Filter by Search”](web-ui.reports.php#figure_filter_by_search "Figure 57.8. Filter by Search"). The table and graph are updated displaying only data for that name. Search only allows one filter at a time and removes any other filters.
+To filter by the Search function, enter the domain, binding, binding group, campaigns, or templates that you want to include in your report in the Search box. The entry will pre-fill after three letters, as shown in [Figure 57.8, “Filter by Search”](web-ui.reports#figure_filter_by_search "Figure 57.8. Filter by Search"). The table and graph are updated displaying only data for that name. Search only allows one filter at a time and removes any other filters.
 
 <a name="figure_filter_by_search"></a>
 
@@ -177,7 +177,7 @@ You can search by the template's label or ID. These fields are assigned when the
 
 **57.1.4.2. Filtering by Table Entry**
 
-To filter by table entry, select a tab in the table and click the domain, binding, binding group, campaign, or template that you want to include in your report. The filter is listed in the area below the time period, and the table and graph are updated to display only data for that filter, as shown in [Figure 57.9, “Filter by Table Entry”](web-ui.reports.php#figure_filter_by_entry "Figure 57.9. Filter by Table Entry"). In this example, the data is filtered by domain. You can drill down multiple levels by consecutively selecting entries, i.e., select a binding, binding group, campaign, or template in any successive order.
+To filter by table entry, select a tab in the table and click the domain, binding, binding group, campaign, or template that you want to include in your report. The filter is listed in the area below the time period, and the table and graph are updated to display only data for that filter, as shown in [Figure 57.9, “Filter by Table Entry”](web-ui.reports#figure_filter_by_entry "Figure 57.9. Filter by Table Entry"). In this example, the data is filtered by domain. You can drill down multiple levels by consecutively selecting entries, i.e., select a binding, binding group, campaign, or template in any successive order.
 
 <a name="figure_filter_by_entry"></a>
 
@@ -186,7 +186,7 @@ To filter by table entry, select a tab in the table and click the domain, bindin
 ![Filter by Table Entry](images/filter_by_entry.png)
 **57.1.4.3. Removing Filters**
 
-To remove any filter, click the X located to the right of the filter, as shown in [Figure 57.9, “Filter by Table Entry”](web-ui.reports.php#figure_filter_by_entry "Figure 57.9. Filter by Table Entry").
+To remove any filter, click the X located to the right of the filter, as shown in [Figure 57.9, “Filter by Table Entry”](web-ui.reports#figure_filter_by_entry "Figure 57.9. Filter by Table Entry").
 
 ### Note
 

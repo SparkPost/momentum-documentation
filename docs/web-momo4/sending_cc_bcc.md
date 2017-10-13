@@ -16,9 +16,9 @@ In this tutorial, you will learn how to send an email as a *CC* and *BCC* using 
 
 ### Note
 
-This tutorial assumes that you have completed the tutorial in [Chapter 50, *Creating Stored Recipient Lists*](stored_list.php "Chapter 50. Creating Stored Recipient Lists") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
+This tutorial assumes that you have completed the tutorial in [Chapter 50, *Creating Stored Recipient Lists*](stored_list "Chapter 50. Creating Stored Recipient Lists") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
 
-You must have a valid API key to complete this tutorial. If you do not, complete the tutorial in [Chapter 43, *Creating an API Key*](create_apikey.php "Chapter 43. Creating an API Key") .
+You must have a valid API key to complete this tutorial. If you do not, complete the tutorial in [Chapter 43, *Creating an API Key*](create_apikey "Chapter 43. Creating an API Key") .
 
 Follow these steps to send a simple transmission with *CC* and *BCC* recipients:
 
@@ -111,6 +111,6 @@ Follow these steps to send a simple transmission with *CC* and *BCC* recipients:
 
     Each recipient (To, CC, BCC, and archive) is counted as a targeted message. As a result, each *CC* and *BCC* message, as well as the archive copy of the nmessage, is given a unique tracking URL.
 
-    Verify that your recipients received the emails, then open the UI and confirm that your message was successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui.php "Chapter 56. Using the UI for Reporting") .
+    Verify that your recipients received the emails, then open the UI and confirm that your message was successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui "Chapter 56. Using the UI for Reporting") .
 
 Congratulations! You have used your knowledge of the REST API to send an email as a *CC* and *BCC*. You can find more information about the attributes used in the Templates and Recipient Lists API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).

@@ -4,19 +4,19 @@
 
 <dl class="toc">
 
-<dt>[5.1\. Server Roles](hardware.requirements.php#hardware.server_roles)</dt>
+<dt>[5.1\. Server Roles](hardware.requirements#hardware.server_roles)</dt>
 
-<dt>[5.2\. Configuration Options](hardware.config_options.php)</dt>
+<dt>[5.2\. Configuration Options](hardware.config_options)</dt>
 
-<dt>[5.3\. Hardware Scaling Approach](hardware.scaling.php)</dt>
+<dt>[5.3\. Hardware Scaling Approach](hardware.scaling)</dt>
 
-<dt>[5.4\. Environmental Considerations](hardware.environmental.php)</dt>
+<dt>[5.4\. Environmental Considerations](hardware.environmental)</dt>
 
-<dt>[5.5\. Hardware Deployment Configuration](hardware.config.php)</dt>
+<dt>[5.5\. Hardware Deployment Configuration](hardware.config)</dt>
 
-<dt>[5.6\. Production Environment Configurations](production.config.php)</dt>
+<dt>[5.6\. Production Environment Configurations](production.config)</dt>
 
-<dt>[5.7\. Additional Configuration Notes](addl.config.notes.php)</dt>
+<dt>[5.7\. Additional Configuration Notes](addl.config.notes)</dt>
 
 </dl>
 

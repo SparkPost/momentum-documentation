@@ -4,15 +4,15 @@
 
 <dl class="toc">
 
-<dt>[38.1\. Connecting to the Console on the Cluster Manager](cluster.config.operations.php#idp4497120)</dt>
+<dt>[38.1\. Connecting to the Console on the Cluster Manager](cluster.config.operations#idp4497120)</dt>
 
-<dt>[38.2\. Console Commands for the Cluster Manager](cluster.config.operations.eccmgr.console.php)</dt>
+<dt>[38.2\. Console Commands for the Cluster Manager](cluster.config.operations.eccmgr.console)</dt>
 
 </dl>
 
-**eccmgr** is the Momentum Cluster Manager, henceforth referred to as the cluster manager. On start up, the script **/etc/init.d/eccmgr start**       runs **eccmgr** as a service on the node designated as Manager. For details about the available options, see [eccmgr](executable.eccmgr.php "eccmgr").
+**eccmgr** is the Momentum Cluster Manager, henceforth referred to as the cluster manager. On start up, the script **/etc/init.d/eccmgr start**       runs **eccmgr** as a service on the node designated as Manager. For details about the available options, see [eccmgr](executable.eccmgr "eccmgr").
 
-Use **eccmgr_ctl** to start, stop, or restart this service. For details about this command, see [eccmgr_ctl](executable.eccmgr_ctl.php "eccmgr_ctl").
+Use **eccmgr_ctl** to start, stop, or restart this service. For details about this command, see [eccmgr_ctl](executable.eccmgr_ctl "eccmgr_ctl").
 
 ## 38.1. Connecting to the Console on the Cluster Manager
 
@@ -31,12 +31,12 @@ A successful connection will result in output similar to the following:
 12:33:15 /tmp/2025>
 ```
 
-For information about the console, see [`ec_console`](operations.php#operations.console "37.1. Connecting to the Console").
+For information about the console, see [`ec_console`](operations#operations.console "37.1. Connecting to the Console").
 
-On Unix systems, **eccmgr** listens at `/tmp/2025` by default. If you should need to change this default, you must edit the `Control_Listener` stanza in [`eccluster.conf`](conf.ref.eccluster.conf.php "16.2. eccluster.conf File") and perhaps also your [`/opt/msys/ecelerity/etc/environment`](environment_file.php "Chapter 31. Configuring the Environment File") file.
+On Unix systems, **eccmgr** listens at `/tmp/2025` by default. If you should need to change this default, you must edit the `Control_Listener` stanza in [`eccluster.conf`](conf.ref.eccluster.conf "16.2. eccluster.conf File") and perhaps also your [`/opt/msys/ecelerity/etc/environment`](environment_file.php "Chapter 31. Configuring the Environment File") file.
 
-When you are logged into the console of the cluster manager, you can use any of the commands listed in [Section 38.2, “Console Commands for the Cluster Manager”](cluster.config.operations.eccmgr.console.php "38.2. Console Commands for the Cluster Manager")
+When you are logged into the console of the cluster manager, you can use any of the commands listed in [Section 38.2, “Console Commands for the Cluster Manager”](cluster.config.operations.eccmgr.console "38.2. Console Commands for the Cluster Manager")
 
 ### Note
 
-The cluster *module* belongs to the configuration of a node. For this reason, the console commands specific to the cluster *module* can only be issued from that node and not from within the **eccmgr** service. For a list of these commands, see [Section 71.19.4, “Cluster Module-specific Console Commands”](modules.cluster.php#modules.cluster.console "71.19.4. Cluster Module-specific Console Commands").
+The cluster *module* belongs to the configuration of a node. For this reason, the console commands specific to the cluster *module* can only be issued from that node and not from within the **eccmgr** service. For a list of these commands, see [Section 71.19.4, “Cluster Module-specific Console Commands”](modules.cluster#modules.cluster.console "71.19.4. Cluster Module-specific Console Commands").

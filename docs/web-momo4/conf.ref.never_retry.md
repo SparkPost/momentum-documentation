@@ -22,4 +22,4 @@ never_retry is valid in the global, domain, binding, and binding_group scopes.
 <a name="idp25640320"></a>
 ## See Also
 
-[retry_interval](conf.ref.retry_interval.php "retry_interval")
+[retry_interval](conf.ref.retry_interval "retry_interval")

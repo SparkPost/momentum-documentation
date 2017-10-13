@@ -1,6 +1,6 @@
 ## Chapter 43. Creating an API Key
 
-**Configuration Change. ** As of version 4.1, API authentication is enabled by default. For instructions to disable it, see [Chapter 21, *Enforcing REST API/UI User Authentication*](auth.php "Chapter 21. Enforcing REST API/UI User Authentication") . When disabled, an apikey and `Authorization` header is no longer required.
+**Configuration Change. ** As of version 4.1, API authentication is enabled by default. For instructions to disable it, see [Chapter 21, *Enforcing REST API/UI User Authentication*](auth "Chapter 21. Enforcing REST API/UI User Authentication") . When disabled, an apikey and `Authorization` header is no longer required.
 
 **Introduction**
 
@@ -22,7 +22,7 @@ Follow these steps to create an API key:
 
 1.  Open the UI by pointing your web browser at the appropriate IP address and log in using your administrator credentials.
 
-2.  Click *`admin`* in the upper-right corner, as shown in [Figure 43.1, “Login”](create_apikey.php#figure_admin_icon "Figure 43.1. Login"), to open the Settings section.
+2.  Click *`admin`* in the upper-right corner, as shown in [Figure 43.1, “Login”](create_apikey#figure_admin_icon "Figure 43.1. Login"), to open the Settings section.
 
     <a name="figure_admin_icon"></a>
 
@@ -30,7 +30,7 @@ Follow these steps to create an API key:
 
     ![Login](images/username_icon.png)
 
-3.  In the Settings section, click the New API Key icon in the upper-right corner to open the Create New API Key form, as shown in [Figure 43.2, “Create New API Key”](create_apikey.php#figure_create_api_key "Figure 43.2. Create New API Key").
+3.  In the Settings section, click the New API Key icon in the upper-right corner to open the Create New API Key form, as shown in [Figure 43.2, “Create New API Key”](create_apikey#figure_create_api_key "Figure 43.2. Create New API Key").
 
     <a name="figure_create_api_key"></a>
 
@@ -46,7 +46,7 @@ Follow these steps to create an API key:
 
         Your password is required to securely authorize this addition to your account.
 
-5.  Select the grant types that you want from the list displayed. It is always best practice to ONLY select the permissions that are necessary. To complete the examples in the following sections, you will need all grant types. For an explanation of the permissions, see [Section 44.1, “Viewing Your API Keys”](web-ui.apikeys.php#web-ui.apikeys.viewing "44.1. Viewing Your API Keys").
+5.  Select the grant types that you want from the list displayed. It is always best practice to ONLY select the permissions that are necessary. To complete the examples in the following sections, you will need all grant types. For an explanation of the permissions, see [Section 44.1, “Viewing Your API Keys”](web-ui.apikeys#web-ui.apikeys.viewing "44.1. Viewing Your API Keys").
 
 6.  When complete, click Create to create your new API key. If the API key is successfully created, a message will display upon return to the Settings section showing the value of the API key.
 
@@ -56,4 +56,4 @@ Follow these steps to create an API key:
 
     Be sure to copy and paste the API key when it is displayed. Following the creation of an API key, you can modify its grants and associated label, but the UI will no longer expose the original value. Please take care to record and safeguard your API keys at all times.
 
-Congratulations! You have successfully created an API key using Momentum's UI. In addition to the creating an API key, you can manage your existing API keys using the UI. For more information, see [Chapter 44, *Managing Your API Keys*](web-ui.apikeys.php "Chapter 44. Managing Your API Keys") .
+Congratulations! You have successfully created an API key using Momentum's UI. In addition to the creating an API key, you can manage your existing API keys using the UI. For more information, see [Chapter 44, *Managing Your API Keys*](web-ui.apikeys "Chapter 44. Managing Your API Keys") .

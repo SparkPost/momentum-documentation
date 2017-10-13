@@ -21,11 +21,11 @@ Delete a context variable. Legal values for `type` are:
 
 *   `msys.core.ECMESS_CTX_CONN`
 
-For a code example see [Example 70.59, “msys.gcm.gcm_classify_error example”](lua.ref.msys.gcm.gcm_classify_error.php#lua.ref.msys.gcm.gcm_classify_error.example "Example 70.59. msys.gcm.gcm_classify_error example"). Because this function is in the `msys.core` namespace, an explicit `require('msys.core')` is not necessary.
+For a code example see [Example 70.59, “msys.gcm.gcm_classify_error example”](lua.ref.msys.gcm.gcm_classify_error#lua.ref.msys.gcm.gcm_classify_error.example "Example 70.59. msys.gcm.gcm_classify_error example"). Because this function is in the `msys.core` namespace, an explicit `require('msys.core')` is not necessary.
 
 This function returns `1` if the key is deleted and `0` if the key does not exist.
 
 <a name="idp15901872"></a>
 ## See Also
 
-[msg:context_set](lua.ref.msg_context_set.php "msg:context_set")
+[msg:context_set](lua.ref.msg_context_set "msg:context_set")

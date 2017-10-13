@@ -59,4 +59,4 @@ Jobs in the CPU pool
 <a name="idp12831728"></a>
 ## See Also
 
-[threadpool](conf.ref.threadpool.php "threadpool")
+[threadpool](conf.ref.threadpool "threadpool")

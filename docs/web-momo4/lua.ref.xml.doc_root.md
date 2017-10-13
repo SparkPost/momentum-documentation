@@ -30,4 +30,4 @@ print(node:tostring());
 <a name="idp19348848"></a>
 ## See Also
 
-[xml.parsexml](lua.ref.xml.parsexml.php "xml.parsexml")
+[xml.parsexml](lua.ref.xml.parsexml "xml.parsexml")

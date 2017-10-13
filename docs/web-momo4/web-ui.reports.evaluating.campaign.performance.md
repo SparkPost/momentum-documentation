@@ -10,7 +10,7 @@ The Engagement report is specially designed to enable you to drill down to the l
 
 Navigating to the Engagement section removes all filters except time period and campaign. Navigating to the Engagement section removes the binding, binding group, and node filters.
 
-[Figure 57.21, “Engagement Report”](web-ui.reports.evaluating.campaign.performance.php#figure_engagement_report "Figure 57.21. Engagement Report") shows an example report with filters for domain and campaign. [Figure 57.21, “Engagement Report”](web-ui.reports.evaluating.campaign.performance.php#figure_engagement_report "Figure 57.21. Engagement Report") shows an example report with a filter for campaign.
+[Figure 57.21, “Engagement Report”](web-ui.reports.evaluating.campaign.performance#figure_engagement_report "Figure 57.21. Engagement Report") shows an example report with filters for domain and campaign. [Figure 57.21, “Engagement Report”](web-ui.reports.evaluating.campaign.performance.php#figure_engagement_report "Figure 57.21. Engagement Report") shows an example report with a filter for campaign.
 
 <a name="figure_engagement_report"></a>
 
@@ -19,7 +19,7 @@ Navigating to the Engagement section removes all filters except time period and 
 ![Engagement Report](images/engagement_report.png)
 **57.4.1.1. Viewing Performance**
 
-The Engagement report includes a graph showing the progress of your campaign’s performance, as shown in [Figure 57.21, “Engagement Report”](web-ui.reports.evaluating.campaign.performance.php#figure_engagement_report "Figure 57.21. Engagement Report"). The following metrics are displayed in the graph:
+The Engagement report includes a graph showing the progress of your campaign’s performance, as shown in [Figure 57.21, “Engagement Report”](web-ui.reports.evaluating.campaign.performance#figure_engagement_report "Figure 57.21. Engagement Report"). The following metrics are displayed in the graph:
 
 *   Targeted - Messages successfully injected into Momentum, as well as rejected by it
 
@@ -33,11 +33,11 @@ From the graph, you can quickly determine what percentage of your messages have 
 
 ### Note
 
-For an explanation of the approximate values, see [Section 57.1.1, “Selecting Metrics”](web-ui.reports.php#web-ui.reports.select.metrics "57.1.1. Selecting Metrics").
+For an explanation of the approximate values, see [Section 57.1.1, “Selecting Metrics”](web-ui.reports#web-ui.reports.select.metrics "57.1.1. Selecting Metrics").
 
 **57.4.1.2. Identifying Selected Links**
 
-The table included in the lower area of the Engagement report, shown in [Figure 57.21, “Engagement Report”](web-ui.reports.evaluating.campaign.performance.php#figure_engagement_report "Figure 57.21. Engagement Report"), enables you to view how many times a link within your message has been clicked.
+The table included in the lower area of the Engagement report, shown in [Figure 57.21, “Engagement Report”](web-ui.reports.evaluating.campaign.performance#figure_engagement_report "Figure 57.21. Engagement Report"), enables you to view how many times a link within your message has been clicked.
 
 The following are the columns in the table:
 

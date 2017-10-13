@@ -11,6 +11,6 @@ msg:is_mcmt — Determine whether a message is a MCMT message
 <a name="idp16822336"></a>
 ## Description
 
-Determine whether a message is a Multi-Channel Message Type (MCMT) message. For more information about this message type see [The MCMT_Reception Option](https://support.messagesystems.com/docs/web-mobility/mm7.mcmt_reception.php).
+Determine whether a message is a Multi-Channel Message Type (MCMT) message. For more information about this message type see [The MCMT_Reception Option](https://support.messagesystems.com/docs/web-mobility/mm7.mcmt_reception).
 
 Because this function is in the `msys.core` namespace, an explicit `require('msys.core')` is not necessary.

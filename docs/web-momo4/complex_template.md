@@ -10,11 +10,11 @@ In this section, you will learn about advanced features of the templating langua
 
 ### Note
 
-This tutorial assumes that you have completed the tutorials in [Chapter 47, *Creating Stored Templates*                 ](stored_template.php "Chapter 47. Creating Stored Templates") and [Chapter 49, *Using Stored Templates*](using_template.php "Chapter 49. Using Stored Templates") .
+This tutorial assumes that you have completed the tutorials in [Chapter 47, *Creating Stored Templates*                 ](stored_template "Chapter 47. Creating Stored Templates") and [Chapter 49, *Using Stored Templates*](using_template.php "Chapter 49. Using Stored Templates") .
 
 A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required. As a prerequisite, you should also be familiar with the information provided in the Substitutions Reference section of the [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html) documentation.
 
-You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey.php "Chapter 43. Creating an API Key") .
+You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey "Chapter 43. Creating an API Key") .
 
 Follow these steps to create a complex template:
 
@@ -189,7 +189,7 @@ Follow these steps to view your engagement data:
 
     Verify that your recipient received a personalized email. Open the email and click the link included in the message body.
 
-2.  Open the UI and navigate to the Engagement report. In the Engagement report, confirm that your message was successfully injected into Momentum (Targeted), accepted by the ISP (Accepted), and opened (Unique Confirmed Opens) and that the link was clicked (Unique Clicks), as shown in [Figure 53.1, “Engagement Report”](complex_template.php#figure_engagement_example "Figure 53.1. Engagement Report").
+2.  Open the UI and navigate to the Engagement report. In the Engagement report, confirm that your message was successfully injected into Momentum (Targeted), accepted by the ISP (Accepted), and opened (Unique Confirmed Opens) and that the link was clicked (Unique Clicks), as shown in [Figure 53.1, “Engagement Report”](complex_template#figure_engagement_example "Figure 53.1. Engagement Report").
 
     <a name="figure_engagement_example"></a>
 

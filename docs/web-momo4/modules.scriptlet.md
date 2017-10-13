@@ -2,11 +2,11 @@
 
 <a class="indexterm" name="idp22828096"></a>
 
-The scriptlet module enables the use of [Lua](http://www.lua.org/) scripts to enforce policy. For details about policy, see [Chapter 62, *Implementing Policy with Momentum*](policy.php "Chapter 62. Implementing Policy with Momentum") .
+The scriptlet module enables the use of [Lua](http://www.lua.org/) scripts to enforce policy. For details about policy, see [Chapter 62, *Implementing Policy with Momentum*](policy "Chapter 62. Implementing Policy with Momentum") .
 
 ### 71.60.1. Configuration
 
-To use the scriptlet module, the [alerting](modules.alerting.php "71.4. alerting – Send Alerting Emails") module must be loaded, as shown in the following example:
+To use the scriptlet module, the [alerting](modules.alerting "71.4. alerting – Send Alerting Emails") module must be loaded, as shown in the following example:
 
 <a name="modules.scriptlet.code"></a>
 
@@ -95,13 +95,13 @@ Controls how often to expire spares from the spare thread cache. Default value i
 
 <dd>
 
-In the code example [Example 71.84, “scriptlet Configuration”](modules.scriptlet.php#modules.scriptlet.code "Example 71.84. scriptlet Configuration"), "boot" is the name of the module that is provided by the script. The boot module is located in the `/opt/msys/ecelerity/libexec/scriptlets/msys` directory. It provides core product features so should always be loaded.
+In the code example [Example 71.84, “scriptlet Configuration”](modules.scriptlet#modules.scriptlet.code "Example 71.84. scriptlet Configuration"), "boot" is the name of the module that is provided by the script. The boot module is located in the `/opt/msys/ecelerity/libexec/scriptlets/msys` directory. It provides core product features so should always be loaded.
 
 Any number of script stanzas may appear within the scriptlet module. The script stanza has only one option, `source`, which identifies the location of the Lua policy script.
 
-There is a direct correlation between the name of the script stanza and the module it exports. If you are creating your own scripts, the script scope name and the name that a script is registered as must be the same. For detailed information about creating user-defined scripts, see [Section 62.2.4, “Creating Policy Scripts”](implementing.policy.scriptlets.php#policy.best.practices "62.2.4. Creating Policy Scripts").
+There is a direct correlation between the name of the script stanza and the module it exports. If you are creating your own scripts, the script scope name and the name that a script is registered as must be the same. For detailed information about creating user-defined scripts, see [Section 62.2.4, “Creating Policy Scripts”](implementing.policy.scriptlets#policy.best.practices "62.2.4. Creating Policy Scripts").
 
-For a complete list of all available Lua functions, see [Chapter 64, *Lua Functions Summary*](lua.summary_table.php "Chapter 64. Lua Functions Summary") .
+For a complete list of all available Lua functions, see [Chapter 64, *Lua Functions Summary*](lua.summary_table "Chapter 64. Lua Functions Summary") .
 
 </dd>
 

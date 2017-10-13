@@ -35,4 +35,4 @@ ESMTP_Listener {
 <a name="idp25679856"></a>
 ## See Also
 
-[relay_hosts](conf.ref.relay_hosts.php "relay_hosts")
+[relay_hosts](conf.ref.relay_hosts "relay_hosts")

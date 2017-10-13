@@ -85,4 +85,4 @@ Content-Transfer-Encoding: base64
 <a name="idp16746144"></a>
 ## See Also
 
-[msg:inject](lua.ref.msg_inject.php "msg:inject")
+[msg:inject](lua.ref.msg_inject "msg:inject")

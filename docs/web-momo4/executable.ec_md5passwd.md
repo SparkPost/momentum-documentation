@@ -89,4 +89,4 @@ You do not need to restart the MTA after adding a new user.
 <a name="idp10868144"></a>
 ## See Also
 
-[DIGEST-MD5 Authentication](control_auth.php#control_auth.digest-md5 "17.2.1. DIGEST-MD5 Authentication")
+[DIGEST-MD5 Authentication](control_auth#control_auth.digest-md5 "17.2.1. DIGEST-MD5 Authentication")

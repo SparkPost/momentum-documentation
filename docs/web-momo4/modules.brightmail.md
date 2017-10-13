@@ -4,7 +4,7 @@
 
 The brightmail module provides a mechanism for checking the current inbound message context (for each recipient) against a Symantec Brightmail AntiSpam content server.
 
-If you intend to use this module, be sure to choose it during installation. You will also need to purchase a license from Symantac. For more information, see [Section 12.1, “Installing Partner Modules”](post_installation.php#install.additional.packages "12.1. Installing Partner Modules").
+If you intend to use this module, be sure to choose it during installation. You will also need to purchase a license from Symantac. For more information, see [Section 12.1, “Installing Partner Modules”](post_installation#install.additional.packages "12.1. Installing Partner Modules").
 
 ### 71.14.1. Configuration
 
@@ -83,7 +83,7 @@ Specifies the IP address and port on which the Brightmail service should be reac
 
 Specifies whether to operate in script-only mode or not. If this option is active, then no brightmail checking will occur unless called for directly from a Lua script. If the module is loaded with "sieve_mode = off", the scanner will be run from the module (rather than a script) for all messages in the data phase. If you set `sieve_mode` to `on`, you need to invoke the brightmail_scanner manually. This can be invoked at the data, spool, or each_rcpt phases. It will not work at the connect, ehlo, mailfrom, or rcptto phases. If you do not want brightmail to see a given message, do not call `msys.brightmail.scan` for that message.
 
-This option must be set to `on` if you wish to use the Lua function, [msys.brightmail.scan](lua.ref.msys.brightmail.scan.php "msys.brightmail.scan").
+This option must be set to `on` if you wish to use the Lua function, [msys.brightmail.scan](lua.ref.msys.brightmail.scan "msys.brightmail.scan").
 
 </dd>
 
@@ -91,7 +91,7 @@ This option must be set to `on` if you wish to use the Lua function, [msys.brigh
 
 <dd>
 
-Specifies a name for a specific brightmail server instance. Allows you to concurrently interface with any number of servers that use the brightmail module. This setting also determines the prefix for the validation context variable. See [Section 71.14.2, “Message Context Variables”](modules.brightmail.php#modules.brightmail.context.variables "71.14.2. Message Context Variables"). Default value is `brightmail`.
+Specifies a name for a specific brightmail server instance. Allows you to concurrently interface with any number of servers that use the brightmail module. This setting also determines the prefix for the validation context variable. See [Section 71.14.2, “Message Context Variables”](modules.brightmail#modules.brightmail.context.variables "71.14.2. Message Context Variables"). Default value is `brightmail`.
 
 </dd>
 
@@ -123,4 +123,4 @@ This variable, if it exists, contains information pertaining to the error that o
 
 ### 71.14.3. Lua Functions
 
-This module makes the Lua function `msys.brightmail.scan` available. For a description of how this function is used, see [msys.brightmail.scan](lua.ref.msys.brightmail.scan.php "msys.brightmail.scan").
+This module makes the Lua function `msys.brightmail.scan` available. For a description of how this function is used, see [msys.brightmail.scan](lua.ref.msys.brightmail.scan "msys.brightmail.scan").

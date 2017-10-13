@@ -22,4 +22,4 @@ Enable this function with the statement `require('msys.extended.message');`.
 <a name="idp16930256"></a>
 ## See Also
 
-[msg:raw_match](lua.ref.msg_raw_match.php "msg:raw_match")
+[msg:raw_match](lua.ref.msg_raw_match "msg:raw_match")

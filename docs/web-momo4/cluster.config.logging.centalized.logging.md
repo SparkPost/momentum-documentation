@@ -2,7 +2,7 @@
 
 This section provides an example of log aggregation when a custom_logger and an fbl module are defined.
 
-The following is an example configuration for the [custom_logger](modules.custom_logger.php "71.25. custom_logger – User-defined Logging") module:
+The following is an example configuration for the [custom_logger](modules.custom_logger "71.25. custom_logger – User-defined Logging") module:
 
 ```
 custom_logger "custom_logger1" {
@@ -17,7 +17,7 @@ custom_logger "custom_logger1" {
 
 *Note*: The format options in the custom_logger module above should be unbroken in your configuration file.
 
-The following is an example configuration for the [fbl](modules.fbl.php "71.35. fbl - Feedback Loop") module:
+The following is an example configuration for the [fbl](modules.fbl "71.35. fbl - Feedback Loop") module:
 
 ```
 fbl {
@@ -50,4 +50,4 @@ cluster {
 }
 ```
 
-If the `logfile` option in the `Logs` scope is configured as shown in [Section 16.2, “`eccluster.conf` File”](conf.ref.eccluster.conf.php "16.2. eccluster.conf File"), you will have access to the fbl logs of `node1` belonging to subcluster `mysubcluster` in the /var/log/eccluster/*`year/mon/day`*/fbllog/mycluster/node1 directory on the log aggregator.
+If the `logfile` option in the `Logs` scope is configured as shown in [Section 16.2, “`eccluster.conf` File”](conf.ref.eccluster.conf "16.2. eccluster.conf File"), you will have access to the fbl logs of `node1` belonging to subcluster `mysubcluster` in the /var/log/eccluster/*`year/mon/day`*/fbllog/mycluster/node1 directory on the log aggregator.

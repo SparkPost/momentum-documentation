@@ -17,7 +17,7 @@ value: mixed
 <a name="idp15435952"></a>
 ## Description
 
-Where `c` is a curl object, set an option value. The first parameter is a number representing a cURL option; it can be any one of the options listed below at [the section called “Callback Options”](lua.ref.curl.c_setopt.php#lua.ref.c_setopt.callbacks "Callback Options") and following. A predefined constant `curl.OPT_XXXX` corresponds to the `CURLOPT_XXXX` constant defined in the libcurl interface `curl/curl.h`.
+Where `c` is a curl object, set an option value. The first parameter is a number representing a cURL option; it can be any one of the options listed below at [the section called “Callback Options”](lua.ref.curl.c_setopt#lua.ref.c_setopt.callbacks "Callback Options") and following. A predefined constant `curl.OPT_XXXX` corresponds to the `CURLOPT_XXXX` constant defined in the libcurl interface `curl/curl.h`.
 
 All enumeration types and define macros from libCURL 7.14.0 are exported to the curl namespace with the following name substitutions:
 
@@ -43,7 +43,7 @@ In the following example `c:setopt` is invoked passing a string as the second pa
 
 ```
 c = curl.new();
-c:setopt(curl.OPT_URL, "http://example.com/index.php");
+c:setopt(curl.OPT_URL, "http://example.com/index");
 c:setopt(curl.OPT_HTTP_VERSION, 1.1);
 c:setopt(curl.OPT_WRITEFUNCTION, function(userdata, datastring) print(datastring); »
   return string.len(datastring); end);
@@ -374,4 +374,4 @@ The following options are set to boolean, `true` or `false` only. (`0` and `1` a
 <a name="idp15641552"></a>
 ### See Also
 
-[curl.new](lua.ref.curl.new.php "curl.new")
+[curl.new](lua.ref.curl.new "curl.new")

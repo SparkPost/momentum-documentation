@@ -22,4 +22,4 @@ Totals: C:   1  A:      1  D:     8  S:     1
 
 The output shows a summary for each domain stanza defined in your configuration file and totals for all domains. The name of the domain is followed by the number of connections, the items in the active and the delayed queues and the successful deliveries.
 
-You can use the command **domains** as an alias for **domain all** . See also [domain](console_commands.domain.php "domain").
+You can use the command **domains** as an alias for **domain all** . See also [domain](console_commands.domain "domain").

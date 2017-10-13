@@ -4,7 +4,7 @@
 
 The as_logger module is designed for use on an `eccmgr` instance. It journals replicated audit series to disk at a configurable, periodic interval. Audit series can be included or excluded from being journalled by specifying regular expressions in an inclusion or exclusion list. The files are stored in a configurable directory. The name of each file is formed from the series name followed by a timestamp. The content of each file is a serialized "snapshot" of the audit series at that moment (reflecting the interval ending at the moment the file is written). The audit series is reset at each interval so that each file represents only one data period.
 
-Post-analysis of these data files can be performed via custom scripts. These data files can also be inspected from the cidr_server command line using the **cidr_cli** command. For more information, see [Chapter 39, *CIDR Server*](cluster.cidr_server.php "Chapter 39. CIDR Server") .
+Post-analysis of these data files can be performed via custom scripts. These data files can also be inspected from the cidr_server command line using the **cidr_cli** command. For more information, see [Chapter 39, *CIDR Server*](cluster.cidr_server "Chapter 39. CIDR Server") .
 
 ### 71.7.1. Configuration
 

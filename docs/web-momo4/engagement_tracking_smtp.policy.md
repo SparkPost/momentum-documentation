@@ -1,6 +1,6 @@
 ## 41.3. Using Policy for Engagement Tracking
 
-To enable or disable engagement tracking for a specific message, you can use policy to override the X-MSYS-API header and configuration option. In addition, engagement data specified in the policy's context variables will take precedence over the corresponding X-MSYS-API header fields. For details about engagement tracking for SMTP injections, see [Chapter 41, *Tracking Engagement for SMTP*](engagement_tracking_smtp.php "Chapter 41. Tracking Engagement for SMTP") .
+To enable or disable engagement tracking for a specific message, you can use policy to override the X-MSYS-API header and configuration option. In addition, engagement data specified in the policy's context variables will take precedence over the corresponding X-MSYS-API header fields. For details about engagement tracking for SMTP injections, see [Chapter 41, *Tracking Engagement for SMTP*](engagement_tracking_smtp "Chapter 41. Tracking Engagement for SMTP") .
 
 The following context variable are used for engagement tracking in SMTP injections. These context variables must be set before or during the `validate_data_spool_each_rcpt` phase.
 
@@ -44,7 +44,7 @@ Set the hyperlink scheme to use for click tracking links in the SMTP message
 
 JSON key value pairs associated with the SMTP message
 
-Metadata is available during engagement events based on a configuration option. See [Section 71.32, “engagement_tracker – HTTP Engagement Tracking”](modules.engage_tracker.php "71.32. engagement_tracker – HTTP Engagement Tracking").
+Metadata is available during engagement events based on a configuration option. See [Section 71.32, “engagement_tracker – HTTP Engagement Tracking”](modules.engage_tracker "71.32. engagement_tracker – HTTP Engagement Tracking").
 
 e.g.: "{\"key\" : \"value\"}"
 

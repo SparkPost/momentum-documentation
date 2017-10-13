@@ -68,4 +68,4 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 <a name="idp16264496"></a>
 ## See Also
 
-[authorization](conf.ref.authorization.php "authorization")
+[authorization](conf.ref.authorization "authorization")

@@ -43,4 +43,4 @@ max_retry_interval is valid in the binding, binding_group, domain and global sco
 <a name="idp25467392"></a>
 ## See Also
 
-[retry_interval](conf.ref.retry_interval.php "retry_interval"), [max_retries](conf.ref.max_retries.php "max_retries")
+[retry_interval](conf.ref.retry_interval "retry_interval"), [max_retries](conf.ref.max_retries.php "max_retries")

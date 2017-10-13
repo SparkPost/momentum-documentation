@@ -20,7 +20,7 @@ custom_logger "custom_logger1"
 }
 ```
 
-In this example, the `delivery_logfile` option specifies the log file for the delivery stage, and only deliveries will be logged to this path. The `delivery_format` option specifies the fields that will be captured in the log. A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger.php#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’. For an example, see the `@R@` field shown in [Example 71.41, “`namespace` example”](modules.custom_logger.php#modules.custom_logger.namespace.example "Example 71.41. namespace example"). Don't confuse this with the `@%R@` field which is the macro for the domain of the envelope RCPT TO.
+In this example, the `delivery_logfile` option specifies the log file for the delivery stage, and only deliveries will be logged to this path. The `delivery_format` option specifies the fields that will be captured in the log. A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’. For an example, see the `@R@` field shown in [Example 71.41, “`namespace` example”](modules.custom_logger.php#modules.custom_logger.namespace.example "Example 71.41. namespace example"). Don't confuse this with the `@%R@` field which is the macro for the domain of the envelope RCPT TO.
 
 Use the following directives to specify a log file for a specific stage. Multiple stages may be specified in the configuration stanza, but a given stage can only be specified once.
 
@@ -111,7 +111,7 @@ Not all IO wrappers are thread-safe so before adjusting this option check with s
 
 Specifies the fields that will be captured in the log. There is no default value for this option.
 
-A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger.php#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’.
+A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’.
 
 </dd>
 
@@ -211,7 +211,7 @@ File mode specified in octal format. Default value is `0644`.
 
 <dd>
 
-Use this option to specify which macro namespaces should be searched when expanding the custom_logger format strings. This variable is set using commas to separate different namespaces. For more information see [Section 71.25.6, “The `namespace` Option”](modules.custom_logger.php#modules.custom_logger.namespace "71.25.6. The namespace Option").
+Use this option to specify which macro namespaces should be searched when expanding the custom_logger format strings. This variable is set using commas to separate different namespaces. For more information see [Section 71.25.6, “The `namespace` Option”](modules.custom_logger#modules.custom_logger.namespace "71.25.6. The namespace Option").
 
 </dd>
 
@@ -237,7 +237,7 @@ File mode specified in octal format. Default value is `0644`.
 
 Specifies the fields that will be captured in the log. There is no default value for this option.
 
-A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger.php#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’.
+A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’.
 
 </dd>
 
@@ -263,7 +263,7 @@ Specifies the log file for permanent failures. There is no default value for thi
 
 Specifies the fields that will be captured in the log.There is no default value for this option.
 
-A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger.php#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’.
+A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’.
 
 </dd>
 
@@ -289,7 +289,7 @@ Specifies the log file for receptions. There is no default value for this option
 
 Specifies the fields that will be captured in the log. There is no default value for this option.
 
-A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger.php#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’.
+A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’.
 
 </dd>
 
@@ -313,7 +313,7 @@ File mode specified in octal format. Default value is `0644`.
 
 <dd>
 
-Define how user-supplied data is sanitized. For more information see [Section 71.25.7, “The `sanitize` Option”](modules.custom_logger.php#modules.custom_logger.sanitize "71.25.7. The sanitize Option").
+Define how user-supplied data is sanitized. For more information see [Section 71.25.7, “The `sanitize` Option”](modules.custom_logger#modules.custom_logger.sanitize "71.25.7. The sanitize Option").
 
 </dd>
 
@@ -321,7 +321,7 @@ Define how user-supplied data is sanitized. For more information see [Section 7
 
 <dd>
 
-Default threadpool for the custom_logger. For more information see [Section 71.25.5, “The `thread_pool` Option”](modules.custom_logger.php#modules.custom_logger.thread_pool "71.25.5. The thread_pool Option").
+Default threadpool for the custom_logger. For more information see [Section 71.25.5, “The `thread_pool` Option”](modules.custom_logger#modules.custom_logger.thread_pool "71.25.5. The thread_pool Option").
 
 </dd>
 
@@ -331,7 +331,7 @@ Default threadpool for the custom_logger. For more information see [Section 71.
 
 Specifies the fields that will be captured in the log. There is no default value for this option.
 
-A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger.php#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’.
+A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’.
 
 </dd>
 
@@ -357,7 +357,7 @@ Specifies the log file for transient failures. There is no default value for thi
 
 Specifies the fields that will be captured in the log. There is no default value for this option.
 
-A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger.php#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’.
+A complete list of format specifiers is given in [Section 71.25.8, “Log Format Specifiers”](modules.custom_logger#modules.custom_logger.formats "71.25.8. Log Format Specifiers"). You can also use literals in the format string simply by adding a field that is not preceded by a ‘`%`’.
 
 </dd>
 
@@ -411,13 +411,13 @@ unknown @  @ 00/00-00000-00000000 @  @  @ relaying denied @  @  @  @
 
 If you have a custom logger that reacts to transient failures and examines messages, you may experience poor performance, excessive memory utilization, and potentially a watchdog timeout if a large batch of messages is transiently failed at the same time.
 
-To manage such situations, set `inline_transfail_processing` to `false` and adjust the values of `transfail_drain_rate` and `max_resident_transfails`. For more information, see [inline_transfail_processing](conf.ref.inline_transfail_processing.php "inline_transfail_processing").
+To manage such situations, set `inline_transfail_processing` to `false` and adjust the values of `transfail_drain_rate` and `max_resident_transfails`. For more information, see [inline_transfail_processing](conf.ref.inline_transfail_processing "inline_transfail_processing").
 
 ### Warning
 
 In circumstances where you are logging headers, use the `%vctx_mess{v}` macro rather than the `%h{X}` macro, otherwise there may be a significant degradation in performance.
 
-From Lua use the `msg:header` and the [msg:context_set](lua.ref.msg_context_set.php "msg:context_set") functions.
+From Lua use the `msg:header` and the [msg:context_set](lua.ref.msg_context_set "msg:context_set") functions.
 
 ### 71.25.5. The `thread_pool` Option
 
@@ -438,7 +438,7 @@ custom_logger "custom_logger1" {
 
 It is possible to define a custom thread pool that uses different parameters than the one the custom_logger creates for itself by default. The most common parameter to change is the `backlog` option that controls how many custom_logger jobs may be queued up at a time. While raising this parameter from its default of 1024 may be appropriate in certain circumstances, *it should always be done under guidance from the Message Systems support team* . Specifically, raising this value means that you should also pay attention to both the `server_max_file_descriptors` setting, as well as the corresponding operating-system level maximum open file descriptors limit.
 
-For more information about the threadpool scope, see [threadpool](conf.ref.threadpool.php "threadpool").
+For more information about the threadpool scope, see [threadpool](conf.ref.threadpool "threadpool").
 
 ### Note
 
@@ -702,7 +702,7 @@ Domain of the envelope RCPT TO:
 
 String description of the delivery stage of the message (only meaningful for failures)
 
-For a list of the different connection phases see [Section 35.11, “Connection Stages”](log_formats.connection.stages.php "35.11. Connection Stages").
+For a list of the different connection phases see [Section 35.11, “Connection Stages”](log_formats.connection.stages "35.11. Connection Stages").
 
 </dd>
 
@@ -712,7 +712,7 @@ For a list of the different connection phases see [Section 35.11, “Connection
 
 Numeric indicator of the stage of the message
 
-For a list of the different connection phases see [Section 35.11, “Connection Stages”](log_formats.connection.stages.php "35.11. Connection Stages").
+For a list of the different connection phases see [Section 35.11, “Connection Stages”](log_formats.connection.stages "35.11. Connection Stages").
 
 </dd>
 
@@ -798,4 +798,4 @@ Value of entry "key" in the message context dictionary
 
 ### 71.25.9. Configuration of Aggregated Cluster Node Logging
 
-It is possible to aggregate logs in a cluster configuration. For an sample configuration, see [Section 26.2, “Centralized Logging Example”](cluster.config.logging.centalized.logging.php "26.2. Centralized Logging Example").
+It is possible to aggregate logs in a cluster configuration. For an sample configuration, see [Section 26.2, “Centralized Logging Example”](cluster.config.logging.centalized.logging "26.2. Centralized Logging Example").

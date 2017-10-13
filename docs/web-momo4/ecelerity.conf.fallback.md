@@ -2,13 +2,13 @@
 
 Momentum has a flexible configuration system that allows many options to be set to different values for different hosts, domains, bindings, and binding groups:
 
-*   [binding_group](conf.ref.binding_group.php "binding_group") - stanza to configure binding_group-specific options
+*   [binding_group](conf.ref.binding_group "binding_group") - stanza to configure binding_group-specific options
 
-*   [binding](conf.ref.binding.php "binding") - stanza to configure binding-specific options
+*   [binding](conf.ref.binding "binding") - stanza to configure binding-specific options
 
-*   [domain](conf.ref.domain.php "domain") - stanza to configure MultiVIP© domain-specific options
+*   [domain](conf.ref.domain "domain") - stanza to configure MultiVIP© domain-specific options
 
-*   [host](conf.ref.host.php "host") - stanza to configure host-specific options
+*   [host](conf.ref.host "host") - stanza to configure host-specific options
 
 `domain` stanzas can be nested inside a `binding` stanza, creating a per-binding, per-domain configuration. This is referred to as a `binding::domain` scope. Also, since hosts may appear within bindings, there is also a `binding::host` scope. Other permutations also apply; for example, when a domain is within a binding that is in turn a member of a binding group, the scope is `binding-group::binding::domain`.
 

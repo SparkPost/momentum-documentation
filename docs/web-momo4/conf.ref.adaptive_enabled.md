@@ -13,7 +13,7 @@ adaptive_enabled — enable or disable the adaptive module
 
 ### Note
 
-This directive is only valid if the Momentum adaptive module is loaded. See [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery").
+This directive is only valid if the Momentum adaptive module is loaded. See [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery").
 
 This directive instructs Momentum to enable (or disable) the adaptive module globally, on a specific domain, binding or domain within a binding.
 
@@ -25,4 +25,4 @@ adaptive_enabled is valid in the binding, binding_group, domain and global scope
 <a name="idp23370880"></a>
 ## See Also
 
-[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery")
+[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery")

@@ -34,8 +34,8 @@ When `FAIL` is returned, check the referenced URL for a detailed description of 
 
 *   See [Swap Space Requirements](https://my.vertica.com/docs/7.0.x/HTML/index.htm#cshid=S0180)
 
-*   See [SELinux](https://my.vertica.com/docs/7.0.x/HTML/index.htm#cshid=S0081) and [Section 6.5, “Disable SELinux”](byb.disable_selinux.php "6.5. Disable SELinux")
+*   See [SELinux](https://my.vertica.com/docs/7.0.x/HTML/index.htm#cshid=S0081) and [Section 6.5, “Disable SELinux”](byb.disable_selinux "6.5. Disable SELinux")
 
 *   See [Transparent Hugepages](https://my.vertica.com/docs/7.0.x/HTML/index.htm#cshid=S0310)
 
-*   See [The NTP Server](https://my.vertica.com/docs/7.0.x/HTML/index.htm#cshid=S0030) and [Section 6.6, “Enable Network Time Protocol (NTP)”](byb.ntp.php "6.6. Enable Network Time Protocol (NTP)")
+*   See [The NTP Server](https://my.vertica.com/docs/7.0.x/HTML/index.htm#cshid=S0030) and [Section 6.6, “Enable Network Time Protocol (NTP)”](byb.ntp "6.6. Enable Network Time Protocol (NTP)")

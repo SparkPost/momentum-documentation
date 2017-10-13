@@ -4,7 +4,7 @@
 
 <dl class="toc">
 
-<dt>[39.1\. `cidr_cli` Utility](cluster.cidr_server.php#cluster.cidr_cli)</dt>
+<dt>[39.1\. `cidr_cli` Utility](cluster.cidr_server#cluster.cidr_cli)</dt>
 
 </dl>
 
@@ -27,7 +27,7 @@ The command-line utility **cidr_cli** offers the same functions as **cidr_server
 
 This changes the cursor to `cidr>`, opening the `cidr` shell.
 
-From this command-line interface, you can have immediate and customized access to data created by the [as_logger](modules.as_logger.php "71.7. as_logger – Audit Series Logger"). The syntax used to query these data files is described in the following sections.
+From this command-line interface, you can have immediate and customized access to data created by the [as_logger](modules.as_logger "71.7. as_logger – Audit Series Logger"). The syntax used to query these data files is described in the following sections.
 
 ### 39.1.1. `cidr_cli` Grammar
 
@@ -179,7 +179,7 @@ $VAR1 = [
 ];
 ```
 
-The `spam` series files appear in the directory defined by the `base_dir` parameter in the `cidr_maintain.conf` file, in this case the `/var/log/eccluster/aslogger` directory. For more information about the `cidr_maintain.conf` file, see [Section 71.7.2, “`cidr_maintain.conf` File”](modules.as_logger.php#module.as_logger.cidr_maintain.conf "71.7.2. cidr_maintain.conf File").
+The `spam` series files appear in the directory defined by the `base_dir` parameter in the `cidr_maintain.conf` file, in this case the `/var/log/eccluster/aslogger` directory. For more information about the `cidr_maintain.conf` file, see [Section 71.7.2, “`cidr_maintain.conf` File”](modules.as_logger#module.as_logger.cidr_maintain.conf "71.7.2. cidr_maintain.conf File").
 
 ### Note
 

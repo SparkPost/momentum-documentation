@@ -24,4 +24,4 @@ Changing the value of this options at runtime requires restarting the ecelerity 
 <a name="idp27297152"></a>
 ## See Also
 
-[Chapter 27, *DuraVIP™: IP Fail over*](cluster.config.duravip.php "Chapter 27. DuraVIP™: IP Fail over") 
+[Chapter 27, *DuraVIP™: IP Fail over*](cluster.config.duravip "Chapter 27. DuraVIP™: IP Fail over") 

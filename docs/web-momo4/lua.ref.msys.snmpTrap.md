@@ -25,11 +25,11 @@ Issue an SNMP trap. `traptable` has the following permitted keys:
 
 *   `mib` the OID identifying the trap.
 
-*   `trapvar.mib` the OID identifying the trap variable. If not specified, 1.3.6.1.4.1.19552.1.4.1.0 is used (the OmniTI Enterprise MIB assignment). For more information, see [Appendix B, *MIB Files*](snmp-mib.php "Appendix B. MIB Files") .
+*   `trapvar.mib` the OID identifying the trap variable. If not specified, 1.3.6.1.4.1.19552.1.4.1.0 is used (the OmniTI Enterprise MIB assignment). For more information, see [Appendix B, *MIB Files*](snmp-mib "Appendix B. MIB Files") .
 
 Because this function is in the `msys` namespace, an explicit `require` is not necessary.
 
 <a name="idp16419344"></a>
 ## See Also
 
-[SNMP](conf.ref.snmp.php "SNMP")
+[SNMP](conf.ref.snmp "SNMP")

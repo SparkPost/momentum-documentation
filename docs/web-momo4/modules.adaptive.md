@@ -18,7 +18,7 @@ AD is intended to be largely self-managed and auto-tuning, but still allows you 
 
 ### Note
 
-In a cluster configuration, suspension of a binding can result in excessive "#mmoves" between nodes. To avoid this possibility always assign a `duravip_preference` for any bindings used with the adaptive module. For more information about mmove and DuraVIP™, see [Chapter 27, *DuraVIP™: IP Fail over*](cluster.config.duravip.php "Chapter 27. DuraVIP™: IP Fail over") .
+In a cluster configuration, suspension of a binding can result in excessive "#mmoves" between nodes. To avoid this possibility always assign a `duravip_preference` for any bindings used with the adaptive module. For more information about mmove and DuraVIP™, see [Chapter 27, *DuraVIP™: IP Fail over*](cluster.config.duravip "Chapter 27. DuraVIP™: IP Fail over") .
 
 There is no upper limit to the number of bindings that can be in a binding group. When Adaptive Delivery is enabled, a large number of bindings in a binding group will affect performance since significant CPU time is spent checking for suspended bindings. For this reason, when using the adpative module, the recommended best practice is not to exceed 32 bindings per binding group.
 
@@ -28,7 +28,7 @@ Whenever the adaptive module makes an adjustment to delivery parameters, it logs
 
 ### 71.3.1. Configuration
 
-The adaptive module must be included in the `ecelerity.conf` file and requires the [inbound_audit](modules.inbound_audit.php "71.41. inbound_audit – Inbound traffic analytics") module. The following is an example configuration:
+The adaptive module must be included in the `ecelerity.conf` file and requires the [inbound_audit](modules.inbound_audit "71.41. inbound_audit – Inbound traffic analytics") module. The following is an example configuration:
 
 <a name="modules.adaptive.configuration.example"></a>
 
@@ -83,7 +83,7 @@ The default value is `ADRR_series`.
 
 Specify the adaptive cache size. The value specifies the number of entries *not* the size of the cache in bytes. If you reduce the cache size you will have to restart ecelerity for the change to take effect. Default value is `1048576`.
 
-Depending on the number of bindings in your configuration and the number of domains being delivered to, the default value for this option may be too small. For a detailed discussion of this topic see [Using the System Console](https://support.messagesystems.com/docs/web-ad/ad.troubleshooting.console.php).
+Depending on the number of bindings in your configuration and the number of domains being delivered to, the default value for this option may be too small. For a detailed discussion of this topic see [Using the System Console](https://support.messagesystems.com/docs/web-ad/ad.troubleshooting.console).
 
 </dd>
 
@@ -117,7 +117,7 @@ This option is required in case an unmanaged option is used by a new AD rule act
 
 *   max_resident_active_queue
 
-Managing an option that is not managed by default will not improve performance; it will degrade performance. It is harmless to manage options that are managed by default. Managed options are shown in [adaptive_unmanage_options](modules.adaptive.php#modules.adaptive.adaptive_unmanage_options) .
+Managing an option that is not managed by default will not improve performance; it will degrade performance. It is harmless to manage options that are managed by default. Managed options are shown in [adaptive_unmanage_options](modules.adaptive#modules.adaptive.adaptive_unmanage_options) .
 
 </dd>
 
@@ -207,7 +207,7 @@ A value of `0` will not prevent suspensions that are in response to specific tra
 
 Identifies the IP/Port of the Riak servers, which are used as the data store for adaptive parameters. `data_store` is an array with the default value of `("http://127.0.0.1:8098")`.
 
-If you are using LevelDB as your backing store, this option is not applicable. See [adaptive_backstore_leveldb](modules.adaptive.php#modules.adaptive.adaptive_backstore_leveldb)
+If you are using LevelDB as your backing store, this option is not applicable. See [adaptive_backstore_leveldb](modules.adaptive#modules.adaptive.adaptive_backstore_leveldb)
 
 During the installation of a cluster, the installer installs Riak on all nodes, giving you the benefit of a distributed installation. Additional redundancy can be gained by adding the public IP address of these nodes to the `data_store` option.
 
@@ -227,9 +227,9 @@ The preferred value for `data_store` is
 "http://192.168.1.12:8098" "http://192.168.1.13:8098")
 ```
 
-where the first item in the list is the "preferred" URL (i.e. local URL). When the adaptive module is configured in this way, it is important that all nodes see the same set of data no matter which URL is being used to access the data. To achieve this, all Riak nodes must be joined together as described in [Section 16.7.3, “Checking Riak Cluster Communication”](cluster.riak.configuration.php#cluster.riak.configuration.checking "16.7.3. Checking Riak Cluster Communication").
+where the first item in the list is the "preferred" URL (i.e. local URL). When the adaptive module is configured in this way, it is important that all nodes see the same set of data no matter which URL is being used to access the data. To achieve this, all Riak nodes must be joined together as described in [Section 16.7.3, “Checking Riak Cluster Communication”](cluster.riak.configuration#cluster.riak.configuration.checking "16.7.3. Checking Riak Cluster Communication").
 
-In situations where the adaptive module cannot connect to the "preferred" URL, it will iterate through the list to find a server that it can connect to. The last connected server will be reused until it no longer responds or until the next time the local parameters are being backed up. (The "preferred" server will be reset to the first one and the interval between backups is specified by [data_store_sync_interval](modules.adaptive.php#modules.adaptive.data_store_sync_interval) .)
+In situations where the adaptive module cannot connect to the "preferred" URL, it will iterate through the list to find a server that it can connect to. The last connected server will be reused until it no longer responds or until the next time the local parameters are being backed up. (The "preferred" server will be reset to the first one and the interval between backups is specified by [data_store_sync_interval](modules.adaptive#modules.adaptive.data_store_sync_interval) .)
 
 ### Warning
 
@@ -281,7 +281,7 @@ If this option is set to `false`, the operational details will not be logged at 
 
 <dd>
 
-Create a monitoring window of "window-size, seconds long" and maintain the history for the specified number of windows. This option is used in conjunction with the `adaptive_fbl_volume_threshold` and `adaptive_attempt_threshold` options. These options are discussed in [adaptive_fbl_volume_threshold](modules.adaptive.php#modules.adaptive.adaptive_fbl_volume_threshold) . Default value is `14400,6`.
+Create a monitoring window of "window-size, seconds long" and maintain the history for the specified number of windows. This option is used in conjunction with the `adaptive_fbl_volume_threshold` and `adaptive_attempt_threshold` options. These options are discussed in [adaptive_fbl_volume_threshold](modules.adaptive#modules.adaptive.adaptive_fbl_volume_threshold) . Default value is `14400,6`.
 
 </dd>
 
@@ -321,7 +321,7 @@ Define the location of the adaptive logs. Default value is `/var/log/ecelerity/a
 
 <dd>
 
-Define the log level of the AD module. The different log levels are defined in [debug_flags](conf.ref.debug_flags.php "debug_flags"). The setting of this option does not affect paniclog events. Default value is `NOTICE`.
+Define the log level of the AD module. The different log levels are defined in [debug_flags](conf.ref.debug_flags "debug_flags"). The setting of this option does not affect paniclog events. Default value is `NOTICE`.
 
 </dd>
 
@@ -395,7 +395,7 @@ The following options set upper and lower bounds on the effective values of the 
 
 *   adaptive_rset_timeout
 
-The AD rules govern the behavior of the following options and will dynamically tune them for the receivers specified. (For more information see [Adaptive Delivery User Guide](https://support.messagesystems.com/docs/web-ad/index.php).)
+The AD rules govern the behavior of the following options and will dynamically tune them for the receivers specified. (For more information see [Adaptive Delivery User Guide](https://support.messagesystems.com/docs/web-ad/index).)
 
 *   `adaptive_max_outbound_connections`
 
@@ -439,7 +439,7 @@ binding "customer-1" {
 }
 ```
 
-The throttle, blackhole, and suspend actions will generate an email to the address associated with this option. You can define any number of destination addresses by separating addresses using spaces or commas, and also configure which events generate an email message. See [adaptive_notification_events](modules.adaptive.php#modules.adaptive.adaptive_notification_events) .
+The throttle, blackhole, and suspend actions will generate an email to the address associated with this option. You can define any number of destination addresses by separating addresses using spaces or commas, and also configure which events generate an email message. See [adaptive_notification_events](modules.adaptive#modules.adaptive.adaptive_notification_events) .
 
 </dd>
 
@@ -455,7 +455,7 @@ Set the address for the alert email sender. There is no default value.
 
 <dd>
 
-Define the minimum number of delivery attempts that must have been made before checking the `adaptive_rejection_rate_suspension_percentage` option. Also define the minimum number of delivery attempts over a period during which bounce statistics are collected. This minimum number must be met before a bounce sweep rule can fire. The period is one hour and is hard-coded inside `adaptive.lua`. This option plays a role in determining the `low_action` in the adaptive_sweep_rule scope. For more information see [adaptive_sweep_rule](modules.adaptive.php#modules.adaptive.adaptive_sweep_rule) .
+Define the minimum number of delivery attempts that must have been made before checking the `adaptive_rejection_rate_suspension_percentage` option. Also define the minimum number of delivery attempts over a period during which bounce statistics are collected. This minimum number must be met before a bounce sweep rule can fire. The period is one hour and is hard-coded inside `adaptive.lua`. This option plays a role in determining the `low_action` in the adaptive_sweep_rule scope. For more information see [adaptive_sweep_rule](modules.adaptive#modules.adaptive.adaptive_sweep_rule) .
 
 When specified in the global scope, it pertains to individual domains, binding_groups or bindings, not the aggregate.
 
@@ -467,7 +467,7 @@ The default value is `2000`.
 
 <dd>
 
-For detailed information about this configuration option, see [adaptive_backstore_leveldb](conf.ref.adaptive_backstore_leveldb.php "adaptive_backstore_leveldb").
+For detailed information about this configuration option, see [adaptive_backstore_leveldb](conf.ref.adaptive_backstore_leveldb "adaptive_backstore_leveldb").
 
 </dd>
 
@@ -475,7 +475,7 @@ For detailed information about this configuration option, see [adaptive_backstor
 
 <dd>
 
-For detailed information about this configuration option, see [adaptive_backstore_riak](conf.ref.adaptive_backstore_riak.php "adaptive_backstore_riak").
+For detailed information about this configuration option, see [adaptive_backstore_riak](conf.ref.adaptive_backstore_riak "adaptive_backstore_riak").
 
 </dd>
 
@@ -495,7 +495,7 @@ This option is a string that specifies an integer number value and a unit. The u
 
 **Configuration Change. ** This option is available as of version 4.2.
 
-This option will enable and disable [adaptive_rejection_rate_suspension_percentage](modules.adaptive.php#modules.adaptive.adaptive_rejection_rate_suspension_percentage) . Its default setting is `false`.
+This option will enable and disable [adaptive_rejection_rate_suspension_percentage](modules.adaptive#modules.adaptive.adaptive_rejection_rate_suspension_percentage) . Its default setting is `false`.
 
 </dd>
 
@@ -503,7 +503,7 @@ This option will enable and disable [adaptive_rejection_rate_suspension_percenta
 
 <dd>
 
-For detailed information about this configuration option, see [adaptive_enabled](conf.ref.adaptive_enabled.php "adaptive_enabled").
+For detailed information about this configuration option, see [adaptive_enabled](conf.ref.adaptive_enabled "adaptive_enabled").
 
 </dd>
 
@@ -519,7 +519,7 @@ Set the minimum total delivered mail count over a period during which FBL stats 
 
 <dd>
 
-Configures the events that will trigger an email notification to the address defined by [adaptive_alert_email_destination](modules.adaptive.php#modules.adaptive.adaptive_alert_email_destination) . The default value is shown below:
+Configures the events that will trigger an email notification to the address defined by [adaptive_alert_email_destination](modules.adaptive#modules.adaptive.adaptive_alert_email_destination) . The default value is shown below:
 
 `adaptive_notification_events = ( throttle suspension blackhole )`
 
@@ -549,13 +549,13 @@ This option acts as a brake to prevent rapidly advancing to the high end of the 
 
 <dd>
 
-**Configuration Change. ** As of version 4.2, this option is enabled and disabled by [adaptive_default_suspension_enabled](modules.adaptive.php#modules.adaptive.adaptive_default_suspension_enabled) .
+**Configuration Change. ** As of version 4.2, this option is enabled and disabled by [adaptive_default_suspension_enabled](modules.adaptive#modules.adaptive.adaptive_default_suspension_enabled) .
 
 AD monitors the rate at which messages are rejected by the destination MTA (the delivery failure rate). If this rate exceeds the configuration value for `adaptive_rejection_rate_suspension_percentage`, AD will enact a suspension on the affected binding::domain.
 
 The default value is `20`, which means that the domain will be suspended if the rejection rate exceeds 20% of the number of attempts.
 
-If a suspension is enacted, it applies to the domain on the affected binding and not globally. The suspension will last for the amount of time configured by the [adaptive_default_suspension](modules.adaptive.php#modules.adaptive.adaptive_default_suspension) option.
+If a suspension is enacted, it applies to the domain on the affected binding and not globally. The suspension will last for the amount of time configured by the [adaptive_default_suspension](modules.adaptive#modules.adaptive.adaptive_default_suspension) option.
 
 </dd>
 
@@ -563,7 +563,7 @@ If a suspension is enacted, it applies to the domain on the affected binding and
 
 <dd>
 
-Improves the performance of ecelerity when a domain has reached its consecutive failure threshold and in other instances where all messages associated with a binding domain must be requeued. This option uses the adaptive improvements to "fuzz" messages over an interval rather than attempting to re-process them immediately. See also [delayed_binding_domain_fuzz](conf.ref.delayed_binding_domain_fuzz.php "delayed_binding_domain_fuzz"). Default value is `4096`.
+Improves the performance of ecelerity when a domain has reached its consecutive failure threshold and in other instances where all messages associated with a binding domain must be requeued. This option uses the adaptive improvements to "fuzz" messages over an interval rather than attempting to re-process them immediately. See also [delayed_binding_domain_fuzz](conf.ref.delayed_binding_domain_fuzz "delayed_binding_domain_fuzz"). Default value is `4096`.
 
 </dd>
 
@@ -571,7 +571,7 @@ Improves the performance of ecelerity when a domain has reached its consecutive 
 
 <dd>
 
-For detailed information about this configuration option, see [adaptive_scope](conf.ref.adaptive_scope.php "adaptive_scope").
+For detailed information about this configuration option, see [adaptive_scope](conf.ref.adaptive_scope "adaptive_scope").
 
 </dd>
 
@@ -579,7 +579,7 @@ For detailed information about this configuration option, see [adaptive_scope](c
 
 <dd>
 
-Enables adaptive delivery according to bounce and FBL statistics. This option requires special attention and is documented separately in [Section 71.3.5, “`adaptive_sweep_rule` Scope”](modules.adaptive.php#modules.adaptive.adaptive_sweep_rule_scope "71.3.5. adaptive_sweep_rule Scope").
+Enables adaptive delivery according to bounce and FBL statistics. This option requires special attention and is documented separately in [Section 71.3.5, “`adaptive_sweep_rule` Scope”](modules.adaptive#modules.adaptive.adaptive_sweep_rule_scope "71.3.5. adaptive_sweep_rule Scope").
 
 </dd>
 
@@ -618,13 +618,13 @@ binding "binding1" {
 
 ### 71.3.4. `adaptive_scope` Option
 
-This option controls the scope of adaptive delivery. For configuration information, see [adaptive_scope](conf.ref.adaptive_scope.php "adaptive_scope").
+This option controls the scope of adaptive delivery. For configuration information, see [adaptive_scope](conf.ref.adaptive_scope "adaptive_scope").
 
 ### 71.3.5. `adaptive_sweep_rule` Scope
 
 This scope enables AD according to bounce and FBL statistics. It is valid in the global, domain, binding and binding_group scopes.
 
-For each `bounce_sweep_interval` (defined in the adaptive module), the system iterates through all the binding and domain pairs that are local to the current node and examines the bounce statistics and the feed back loop (FBL) statistics collected through the fbl module. See [Section 71.35, “fbl - Feedback Loop”](modules.fbl.php "71.35. fbl - Feedback Loop").
+For each `bounce_sweep_interval` (defined in the adaptive module), the system iterates through all the binding and domain pairs that are local to the current node and examines the bounce statistics and the feed back loop (FBL) statistics collected through the fbl module. See [Section 71.35, “fbl - Feedback Loop”](modules.fbl "71.35. fbl - Feedback Loop").
 
 A sample configuration showing `adaptive_sweep_rule` defined in the global scope and two different domain scopes follows:
 
@@ -668,11 +668,11 @@ The configuration options valid in the `adaptive_sweep_rule` scope are defined i
 
 Specify a list of bounce codes or FBL categories. The summation of their rates is used to evaluate the rule. Although the syntax does not prevent using both bounce codes and FBL categories within a rule, it is bad practice to mix them since they occur in very different time scales.
 
-Valid values for bounce codes start with the prefix `bc:` followed by a legitimate bounce code number. For a list of valid bounce codes, see [Section 35.10, “Bounce Classification Codes”](bounce_logger.classification.codes.php "35.10. Bounce Classification Codes"). You can also use custom bounce codes defined by the [Section 71.12, “bounce_classifier_override – Override/Augment Bounce Classifications”](modules.bounce_classifier_override.php "71.12. bounce_classifier_override – Override/Augment Bounce Classifications").
+Valid values for bounce codes start with the prefix `bc:` followed by a legitimate bounce code number. For a list of valid bounce codes, see [Section 35.10, “Bounce Classification Codes”](bounce_logger.classification.codes "35.10. Bounce Classification Codes"). You can also use custom bounce codes defined by the [Section 71.12, “bounce_classifier_override – Override/Augment Bounce Classifications”](modules.bounce_classifier_override.php "71.12. bounce_classifier_override – Override/Augment Bounce Classifications").
 
 Valid values for fbl codes start with the prefix `fbl:` followed by a legitimate fbl category such as `abuse` or `unsubscribe`. Legitimate categories are determined by the requirements of the specific ISP.
 
-This option is required. There is no default value for this option except as defined in [Section 71.3.5.2, “Default Adaptive Sweep Rules”](modules.adaptive.php#modules.adaptive.default_adaptive_sweep_rule "71.3.5.2. Default Adaptive Sweep Rules").
+This option is required. There is no default value for this option except as defined in [Section 71.3.5.2, “Default Adaptive Sweep Rules”](modules.adaptive#modules.adaptive.default_adaptive_sweep_rule "71.3.5.2. Default Adaptive Sweep Rules").
 
 </dd>
 
@@ -680,9 +680,9 @@ This option is required. There is no default value for this option except as def
 
 <dd>
 
-Specify the action when the high threshold is met and the number of delivery attempts exceeds the `adaptive_attempt_threshold`. See [adaptive_fbl_volume_threshold](modules.adaptive.php#modules.adaptive.adaptive_fbl_volume_threshold) .
+Specify the action when the high threshold is met and the number of delivery attempts exceeds the `adaptive_attempt_threshold`. See [adaptive_fbl_volume_threshold](modules.adaptive#modules.adaptive.adaptive_fbl_volume_threshold) .
 
-Default value is `("suspend" "4 hours")`. For a complete list of valid values see [Rule Actions](https://support.messagesystems.com/docs/web-ad/ad.adaptive.rules.actions.php). The throttle, blackhole, and suspend actions will generate an email to the address associated with the `adaptive_alert_email_destination` option.
+Default value is `("suspend" "4 hours")`. For a complete list of valid values see [Rule Actions](https://support.messagesystems.com/docs/web-ad/ad.adaptive.rules.actions). The throttle, blackhole, and suspend actions will generate an email to the address associated with the `adaptive_alert_email_destination` option.
 
 ### Warning
 
@@ -702,9 +702,9 @@ Specify the high threshold value for the sum of the rates of the bounce codes or
 
 <dd>
 
-Specify the action when the high threshold is not met but the low threshold is met and the number of delivery attempts exceeds the `adaptive_attempt_threshold` parameter. (See [adaptive_fbl_volume_threshold](modules.adaptive.php#modules.adaptive.adaptive_fbl_volume_threshold) .)
+Specify the action when the high threshold is not met but the low threshold is met and the number of delivery attempts exceeds the `adaptive_attempt_threshold` parameter. (See [adaptive_fbl_volume_threshold](modules.adaptive#modules.adaptive.adaptive_fbl_volume_threshold) .)
 
-Default value is `("throttle" "down")`. For a complete list of valid values see [Rule Actions](https://support.messagesystems.com/docs/web-ad/ad.adaptive.rules.actions.php). The throttle, blackhole, and suspend actions will generate an email to the address associated with the `adaptive_alert_email_destination` option.
+Default value is `("throttle" "down")`. For a complete list of valid values see [Rule Actions](https://support.messagesystems.com/docs/web-ad/ad.adaptive.rules.actions). The throttle, blackhole, and suspend actions will generate an email to the address associated with the `adaptive_alert_email_destination` option.
 
 </dd>
 
@@ -726,7 +726,7 @@ Specify the low threshold value for the sum of the rates of the bounce codes or 
 
 *   adaptive_sweep_rule stanzas must have unique names. If two adaptive_sweep_rule stanzas with the same name are applied to a binding::domain, the most specific one will win, even if that stanza is disabled.
 
-*   When multiple adaptive sweep rules are defined in different scopes, the applicable adaptive sweep rules for a binding::domain pair are determined by the usual scope fallback rules with one exception: if the effective value of `adaptive_sweep_rule_enabled` is `0` in a scope along the fallback path, the rules defined in that scope will not apply. For more information about fallback, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback").
+*   When multiple adaptive sweep rules are defined in different scopes, the applicable adaptive sweep rules for a binding::domain pair are determined by the usual scope fallback rules with one exception: if the effective value of `adaptive_sweep_rule_enabled` is `0` in a scope along the fallback path, the rules defined in that scope will not apply. For more information about fallback, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback").
 
 *   If the value of the `adaptive_sweep_rule_enabled` option is `0` within the scope of the adaptive_sweep_rule stanza, then that stanza will not apply.
 
@@ -768,7 +768,7 @@ adaptive_sweep_rule "default_fbl_rule" {
 
 If you are using multiple event loops, you must put the spool directory and the Adaptive backing store database directory on separate disks. This is particularly important if Adaptive is enabled for a large number of binding-domain combinations. Additionally, when multiple event loops are configured, it is not valid to load the adaptive module with `config reload`. The ecelerity process must be restarted when adding Adaptive Delivery to your configuration.
 
-For additional information about configuring Multiple Event Loops, see [Chapter 24, *Configuring Multiple Event Loops*](multi_event_loops.php "Chapter 24. Configuring Multiple Event Loops") 
+For additional information about configuring Multiple Event Loops, see [Chapter 24, *Configuring Multiple Event Loops*](multi_event_loops "Chapter 24. Configuring Multiple Event Loops") 
 
 ### 71.3.6. Console Commands
 
@@ -811,7 +811,7 @@ For example, to change the TTL for `yahoo.com` in the `default` binding, you wou
 
 <dd>
 
-Reenable suspension for the specified binding domain. For examples of this command see [the section called “Enabling and Disabling Suspensions”](modules.adaptive.php#modules.adaptive.console.examples "Enabling and Disabling Suspensions").
+Reenable suspension for the specified binding domain. For examples of this command see [the section called “Enabling and Disabling Suspensions”](modules.adaptive#modules.adaptive.console.examples "Enabling and Disabling Suspensions").
 
 </dd>
 
@@ -871,7 +871,7 @@ During the most recent time period defined by `fbl_stats_monitor` ( the default 
 
 <dd>
 
-This command summarizes the suspensions that are currently in effect, whether they are enabled (you may administratively override the suspension) and displays how much time remains before the suspension will be lifted and service returned to normal. For examples of this command see [the section called “Enabling and Disabling Suspensions”](modules.adaptive.php#modules.adaptive.console.examples "Enabling and Disabling Suspensions").
+This command summarizes the suspensions that are currently in effect, whether they are enabled (you may administratively override the suspension) and displays how much time remains before the suspension will be lifted and service returned to normal. For examples of this command see [the section called “Enabling and Disabling Suspensions”](modules.adaptive#modules.adaptive.console.examples "Enabling and Disabling Suspensions").
 
 You can examine all suspensions or just the suspensions for a specific binding/domain pairing. Using this console command with no options is equivalent to using it with the `--all` option.
 
@@ -891,7 +891,7 @@ Displays the age of bindings from the perspective of the IP warmup component of 
 
 Sets the age of a binding, in seconds. If the age argument is omitted, then the binding age is set to 0.
 
-Setting the age of a binding helps establish a good reputation by building up a sending rate that follows the schedules that have been set up for the major receivers. Some of those schedules limit volume based on the time since you started to use the IP address. For newly obtained IP addresses, the warmup feature works out of the box. If you are installing the adaptive module on a system with preexisting IP addresses with established reputations, you need to inform the module how old the associated bindings are so that it won't underutilize them. It won't hurt your reputation to underutilize the bindings, but it may result in lower throughput. For more information about IP warmup see [IP Warmup](glossary.php#gloss-ip-warmup "IP Warmup").
+Setting the age of a binding helps establish a good reputation by building up a sending rate that follows the schedules that have been set up for the major receivers. Some of those schedules limit volume based on the time since you started to use the IP address. For newly obtained IP addresses, the warmup feature works out of the box. If you are installing the adaptive module on a system with preexisting IP addresses with established reputations, you need to inform the module how old the associated bindings are so that it won't underutilize them. It won't hurt your reputation to underutilize the bindings, but it may result in lower throughput. For more information about IP warmup see [IP Warmup](glossary#gloss-ip-warmup "IP Warmup").
 
 If `adaptive_scope` evaluates to "global" for a binding scope (binding is a scope in Momentum), the age set for that binding through the warmup action will be applied to that binding across the whole cluster. *Note*: If adaptive_scope evaluates to "global" for a binding::domain combination, it does not imply that `adaptive_scope` will also evaluate to the same value for that binding alone.
 
@@ -934,7 +934,7 @@ default                          test.messagesystems.com     14138       1
 
 ### 71.3.7. Summary Email
 
-A summary of actions taken by the adaptive module is created at `/var/log/ecelerity/adaptive.summary` and sent via email to the recipient defined by the option `adaptive_alert_email_destination`. The `/opt/msys/ecelerity/bin/ad_summary` script creates this summary and is added to `/etc/cron.d/msys-ecelerity` when the adaptive module is installed. It is run nightly as a cron job. This summary is created whether alerts have been generated or not. The default sender is `ecuser@localhost`. The log file,`/var/log/ecelerity/adaptive.summary`, should be added to `ec_rotate.conf`. For instructions on doing this, see [ec_rotate](executable.ec_rotate.php "ec_rotate"). For more information about the `/opt/msys/ecelerity/bin/ad_summary` script, see [ad_summary](executable.ad_summary.php "ad_summary").
+A summary of actions taken by the adaptive module is created at `/var/log/ecelerity/adaptive.summary` and sent via email to the recipient defined by the option `adaptive_alert_email_destination`. The `/opt/msys/ecelerity/bin/ad_summary` script creates this summary and is added to `/etc/cron.d/msys-ecelerity` when the adaptive module is installed. It is run nightly as a cron job. This summary is created whether alerts have been generated or not. The default sender is `ecuser@localhost`. The log file,`/var/log/ecelerity/adaptive.summary`, should be added to `ec_rotate.conf`. For instructions on doing this, see [ec_rotate](executable.ec_rotate "ec_rotate"). For more information about the `/opt/msys/ecelerity/bin/ad_summary` script, see [ad_summary](executable.ad_summary.php "ad_summary").
 
 The following is the layout of a sample summary email sent by the adaptive module:
 
@@ -1019,6 +1019,6 @@ Adjusting the format of this report by changing the parameters passed to the ad_
 
 ### 71.3.8. Logging
 
-Log retention is enabled by default and uses the existing ec_rotate log rotation process. ec_rotate consults `ec_rotate.conf` to determine what and where to look for logs to rotate. For more information, see [Section 34.1, “`ec_rotate.conf` File”](log_rotating.php#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File").
+Log retention is enabled by default and uses the existing ec_rotate log rotation process. ec_rotate consults `ec_rotate.conf` to determine what and where to look for logs to rotate. For more information, see [Section 34.1, “`ec_rotate.conf` File”](log_rotating#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File").
 
-For the format of the adaptive log, see [Section 35.2, “`adaptive` Log”](adaptive.log.format.php "35.2. adaptive Log").
+For the format of the adaptive log, see [Section 35.2, “`adaptive` Log”](adaptive.log.format "35.2. adaptive Log").

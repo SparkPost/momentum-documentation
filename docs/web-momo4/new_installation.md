@@ -4,19 +4,19 @@
 
 <dl class="toc">
 
-<dt>[9.1\. Configure Your MTA Nodes](new_installation.php#install.mta_node)</dt>
+<dt>[9.1\. Configure Your MTA Nodes](new_installation#install.mta_node)</dt>
 
-<dt>[9.2\. Configure the Cassandra Nodes](install.configure_cassandra.php)</dt>
+<dt>[9.2\. Configure the Cassandra Nodes](install.configure_cassandra)</dt>
 
-<dt>[9.3\. Configure the Analytics Nodes](install.analytics_nodes.php)</dt>
+<dt>[9.3\. Configure the Analytics Nodes](install.analytics_nodes)</dt>
 
-<dt>[9.4\. Start Remaining Services](install.start_remaining_services.php)</dt>
+<dt>[9.4\. Start Remaining Services](install.start_remaining_services)</dt>
 
 </dl>
 
 ### Warning
 
-**The installation and upgrade instructions in Chapters 8 through 11 are only applicable in their entirety for Momentum 4.x releases prior to 4.2.28.**                                                                                                                                                 For release 4.2.28 and beyond, please refer to the installation and upgrade PDF documents available under the desired release's folder on the Message Systems Support website's [Downloads page](https://support.messagesystems.com/start.php/). If you are uncertain as to which document is applicable to your situation, please contact your technical support representative.
+**The installation and upgrade instructions in Chapters 8 through 11 are only applicable in their entirety for Momentum 4.x releases prior to 4.2.28.**                                                                                                                                                 For release 4.2.28 and beyond, please refer to the installation and upgrade PDF documents available under the desired release's folder on the Message Systems Support website's [Downloads page](https://support.messagesystems.com/start/). If you are uncertain as to which document is applicable to your situation, please contact your technical support representative.
 
 This section documents the installation procedures for use in either a local or Amazon Web Services (AWS) environment. This installation can be scaled for a variety of installation configurations, including singlenode, a cluster with three combined Platform and Analytics nodes, and two-tiered topologies that have multiple Platform and multiple, separate Analytics nodes.
 
@@ -32,7 +32,7 @@ The first node in a cluster requires the installation and configuration of some 
 
     `/opt/msys/ecelerity/bin/ec_lic`
 
-    For more information, see [Section 6.1, “Momentum License”](before_you_begin.php#byb.msg.gen.license "6.1. Momentum License").
+    For more information, see [Section 6.1, “Momentum License”](before_you_begin#byb.msg.gen.license "6.1. Momentum License").
 
 2.  Execute the commands below to create a random service password file named `.svcpasswd` that can be used by the various services to access the database. The commands will store the password in a file on the disk on the first node, then have you copy it to **all** Platform nodes (in the same location).
 
@@ -446,7 +446,7 @@ Be sure to repeat the steps in this section on **all** remaining platform nodes.
 
         ### Note
 
-        Combined nodes will ultimately require additional of the NGINX configuration files to be copied to the remaining nodes in order to support their Anaytics functions. You may choose to do that now, if applicable, or when those steps are covered in section [Section 9.3.2, “Configure the Remaining Analytics Nodes by Copying Files”](install.analytics_nodes.php#install.remaining_analytics_nodes "9.3.2. Configure the Remaining Analytics Nodes by Copying Files")
+        Combined nodes will ultimately require additional of the NGINX configuration files to be copied to the remaining nodes in order to support their Anaytics functions. You may choose to do that now, if applicable, or when those steps are covered in section [Section 9.3.2, “Configure the Remaining Analytics Nodes by Copying Files”](install.analytics_nodes#install.remaining_analytics_nodes "9.3.2. Configure the Remaining Analytics Nodes by Copying Files")
 
         ```
         cd /opt/msys/3rdParty/nginx/conf.d
@@ -470,6 +470,6 @@ Be sure to repeat the steps in this section on **all** remaining platform nodes.
     chmod g+ws .
     chmod -R g+w .
     /opt/msys/ecelerity/bin/eccfg bootstrap --clustername default -u admin -p $ADMINPASS $INITIALNODE
-3.  For each remaining MTA node, test Ecelerity configuration exactly as you did on the first MTA node as described in Step #7 of section [Section 9.1.2, “Configure Ecelerity”](new_installation.php#install.two_tier.configuration.ecelerity "9.1.2. Configure Ecelerity").
+3.  For each remaining MTA node, test Ecelerity configuration exactly as you did on the first MTA node as described in Step #7 of section [Section 9.1.2, “Configure Ecelerity”](new_installation#install.two_tier.configuration.ecelerity "9.1.2. Configure Ecelerity").
 
-4.  If not already done so in section [Section 9.1.3, “Configure RabbitMQ”](new_installation.php#install.two_tier.configuration.rabbitmq "9.1.3. Configure RabbitMQ"), log onto each remaining MTA node and configure RabbitMQ exactly as you did on the first MTA node as described in that section.
+4.  If not already done so in section [Section 9.1.3, “Configure RabbitMQ”](new_installation#install.two_tier.configuration.rabbitmq "9.1.3. Configure RabbitMQ"), log onto each remaining MTA node and configure RabbitMQ exactly as you did on the first MTA node as described in that section.

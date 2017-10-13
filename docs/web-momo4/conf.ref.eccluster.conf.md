@@ -1,6 +1,6 @@
 ## 16.2. `eccluster.conf` File
 
-The `eccluster.conf` file configures the behavior of the Momentum Cluster Manager [eccmgr](executable.eccmgr.php "eccmgr"). Note that it does not configure the behavior of cluster nodes. This file is found in the `/opt/msys/ecelerity/etc/conf/default/` directory.
+The `eccluster.conf` file configures the behavior of the Momentum Cluster Manager [eccmgr](executable.eccmgr "eccmgr"). Note that it does not configure the behavior of cluster nodes. This file is found in the `/opt/msys/ecelerity/etc/conf/default/` directory.
 
 The following is an example `eccluster.conf` file:
 
@@ -69,11 +69,11 @@ file_mode = "0640"
 
 Since the `eccluster.conf` file is specific to the cluster manager, you cannot view the `Logs` scope from the console on a cluster node.
 
-For a discussion of scopes and fallbacks, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback").
+For a discussion of scopes and fallbacks, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback").
 
-For a summary of all the non-module specific configuration options, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For a summary of all the non-module specific configuration options, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
-Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
+Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
 The following sections provide an overview of the configuration commonly defined in the `eccluster.conf` file.
 
@@ -83,7 +83,7 @@ The following sections provide an overview of the configuration commonly defined
 
 <dd>
 
-For a discussion of the `Security` stanza options, see [security](conf.ref.security.php "security").
+For a discussion of the `Security` stanza options, see [security](conf.ref.security "security").
 
 </dd>
 
@@ -91,7 +91,7 @@ For a discussion of the `Security` stanza options, see [security](conf.ref.secur
 
 <dd>
 
-The `Control_Listener` stanza, specifies the port on which `eccmgr` listens. On Unix systems, `eccmgr` listens at `/tmp/2025` by default. For a discussion of the Control_Listener, see [Chapter 17, *Configuring Momentum's System Console*](control_listener.php "Chapter 17. Configuring Momentum's System Console") .
+The `Control_Listener` stanza, specifies the port on which `eccmgr` listens. On Unix systems, `eccmgr` listens at `/tmp/2025` by default. For a discussion of the Control_Listener, see [Chapter 17, *Configuring Momentum's System Console*](control_listener "Chapter 17. Configuring Momentum's System Console") .
 
 </dd>
 
@@ -99,9 +99,9 @@ The `Control_Listener` stanza, specifies the port on which `eccmgr` listens. On 
 
 <dd>
 
-For a discussion of using the ec_logger module on the cluster manager, see [Section 71.30.3, “Configuration for the Cluster Manager”](modules.ec_logger.php#modules.ec_logger.eccmgr "71.30.3. Configuration for the Cluster Manager").
+For a discussion of using the ec_logger module on the cluster manager, see [Section 71.30.3, “Configuration for the Cluster Manager”](modules.ec_logger#modules.ec_logger.eccmgr "71.30.3. Configuration for the Cluster Manager").
 
-For a discussion of using the bounce_logger module on the cluster manager, see [Section 71.13.3, “Configuration for the Cluster Manager”](modules.bounce_logger.php#modules.bounce_logger.eccmgr "71.13.3. Configuration for the Cluster Manager").
+For a discussion of using the bounce_logger module on the cluster manager, see [Section 71.13.3, “Configuration for the Cluster Manager”](modules.bounce_logger#modules.bounce_logger.eccmgr "71.13.3. Configuration for the Cluster Manager").
 
 </dd>
 
@@ -181,7 +181,7 @@ Maximum number of concurrently open log files
 
 </dl>
 
-The example configuration, [Example 16.2, “Logs Stanza”](conf.ref.eccluster.conf.php#conf.ref.eccluster.conf.logs.stanza "Example 16.2. Logs Stanza"), creates logs under `/var/log/eccluster` according to the `logfile` setting. This is processed by `strftime` expanding the macros as follows:
+The example configuration, [Example 16.2, “Logs Stanza”](conf.ref.eccluster.conf#conf.ref.eccluster.conf.logs.stanza "Example 16.2. Logs Stanza"), creates logs under `/var/log/eccluster` according to the `logfile` setting. This is processed by `strftime` expanding the macros as follows:
 
 <dl class="variablelist">
 
@@ -219,7 +219,7 @@ Additional special place holders are as follows:
 
 <dd>
 
-Expands to the name of the log specified as the key in the `logs` dictionary configured within the cluster scope of the `ecelerity-cluster.conf` file. See [logs](modules.cluster.php#option.logs.dictionary)
+Expands to the name of the log specified as the key in the `logs` dictionary configured within the cluster scope of the `ecelerity-cluster.conf` file. See [logs](modules.cluster#option.logs.dictionary)
 
 </dd>
 
@@ -261,7 +261,7 @@ The `/opt/msys/etc/installer/eccmgr.d/ecdb.conf` file contains the definition of
 
 <dd>
 
-The [as_logger](modules.as_logger.php "71.7. as_logger – Audit Series Logger") module is specific to the cluster manager. It must be manually added to the `eccluster.conf` file, if needed.
+The [as_logger](modules.as_logger "71.7. as_logger – Audit Series Logger") module is specific to the cluster manager. It must be manually added to the `eccluster.conf` file, if needed.
 
 </dd>
 

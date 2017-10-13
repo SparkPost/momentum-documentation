@@ -3,7 +3,7 @@
 <a class="indexterm" name="idp20060016"></a>
 ### Note
 
-The Live Bounce Updates service is provided free of charge with your support agreement; however, you must configure this module in order to use the service. For more information, see [Section 71.44, “Live Bounce Updates – Live Bounce Updates Service”](modules.live.bounce.updates.php "71.44. Live Bounce Updates – Live Bounce Updates Service").
+The Live Bounce Updates service is provided free of charge with your support agreement; however, you must configure this module in order to use the service. For more information, see [Section 71.44, “Live Bounce Updates – Live Bounce Updates Service”](modules.live.bounce.updates "71.44. Live Bounce Updates – Live Bounce Updates Service").
 
 Use the bounce_classifier_override module to augment and override the built-in bounce classification system. It allows new rules (static and wildcarded) and new categories to be registered. Logs can be pulled out of either flat files or via an arbitrary datasource. The types of datasources available are:
 
@@ -44,7 +44,7 @@ Use the datasource layer to manage your custom classifications in a central data
 
 There are two kinds of classification overrides, SMTP and Message Disposition Notification (MDN). SMTP overrides apply to the classification of errors that are returned over the SMTP dialog. MDN overrides apply to messages that are received out-of-band with the delivery. SMTP overrides can be special-cased to apply only to particular domains, whereas MDN overrides apply globally.
 
-"SMTP bounces" are much more common than "MDN bounces". To determine the kind of bounce, look at the connection stage code in the bounce log (offset field `11`). For a description of these codes, see [Section 35.11, “Connection Stages”](log_formats.connection.stages.php "35.11. Connection Stages"). The bounce log itself is described in [Table 35.4, “Bounce Record Fields”](log_formats.bouncelog.php#log_formats.bounce.record.fields "Table 35.4. Bounce Record Fields").
+"SMTP bounces" are much more common than "MDN bounces". To determine the kind of bounce, look at the connection stage code in the bounce log (offset field `11`). For a description of these codes, see [Section 35.11, “Connection Stages”](log_formats.connection.stages "35.11. Connection Stages"). The bounce log itself is described in [Table 35.4, “Bounce Record Fields”](log_formats.bouncelog.php#log_formats.bounce.record.fields "Table 35.4. Bounce Record Fields").
 
 The following configuration options are available:
 
@@ -100,7 +100,7 @@ This file is found in the `/opt/msys/ecelerity/etc/` directory. The file format 
 
 *   `domain` can be the empty string, in which case the rule is considered to be global. Otherwise, the rule will only apply to responses given when talking to the specified domain.
 
-*   `bounce_code` is the numeric bounce classification code you want to assign. This must either be an internal code or one registered via the `custom_classes` directive. For more information about the internal codes, see [Section 35.10, “Bounce Classification Codes”](bounce_logger.classification.codes.php "35.10. Bounce Classification Codes"). When adding new codes be careful not to use existing internal code numbers.
+*   `bounce_code` is the numeric bounce classification code you want to assign. This must either be an internal code or one registered via the `custom_classes` directive. For more information about the internal codes, see [Section 35.10, “Bounce Classification Codes”](bounce_logger.classification.codes "35.10. Bounce Classification Codes"). When adding new codes be careful not to use existing internal code numbers.
 
 *   `rule` can take one of two forms. If the ‘`|`’ character appears anywhere in the string, it will act as a globbing character in a wildcard. Otherwise, the string will be considered a simple static pattern. In both cases, the rule will return true if the pattern matches any substring of the classification text.
 
@@ -118,7 +118,7 @@ Default name of this file is `user_mdn_classification.ovr`.
 
 It is found in the `/opt/msys/ecelerity/etc/` directory. The file format for MDN overrides is: `bounce_code,rule`, where
 
-*   `bounce_code` is the numeric bounce classification code you want to assign. This must either be an internal code or one registered via the `custom_classes` directive. For more information about the internal codes, see [Section 35.10, “Bounce Classification Codes”](bounce_logger.classification.codes.php "35.10. Bounce Classification Codes"). When adding new codes be careful not to use existing internal code numbers.
+*   `bounce_code` is the numeric bounce classification code you want to assign. This must either be an internal code or one registered via the `custom_classes` directive. For more information about the internal codes, see [Section 35.10, “Bounce Classification Codes”](bounce_logger.classification.codes "35.10. Bounce Classification Codes"). When adding new codes be careful not to use existing internal code numbers.
 
 *   `rule` can be of one of two forms. If the ‘`|`’ character appears anywhere in the string, it will act as a globbing character in a wildcard. Otherwise, the string will be considered a simple static pattern. In both cases, the rule will return `true` if the pattern matches any substring of the classification text.
 
@@ -154,8 +154,8 @@ Use this command to determine how a specific SMTP reply is classified. This comm
 
 ### 71.12.3. Lua Functions
 
-You can also use Lua to classify bounces at runtime. For more information see [msys.bounce.classify_smtp_response](lua.ref.msys.bounce.classify_smtp_response.php "msys.bounce.classify_smtp_response") and [msys.bounce.classify](lua.ref.msys.bounce.classify.php "msys.bounce.classify").
+You can also use Lua to classify bounces at runtime. For more information see [msys.bounce.classify_smtp_response](lua.ref.msys.bounce.classify_smtp_response "msys.bounce.classify_smtp_response") and [msys.bounce.classify](lua.ref.msys.bounce.classify.php "msys.bounce.classify").
 
 ### 71.12.4. See Also
 
-[Section 71.44, “Live Bounce Updates – Live Bounce Updates Service”](modules.live.bounce.updates.php "71.44. Live Bounce Updates – Live Bounce Updates Service")
+[Section 71.44, “Live Bounce Updates – Live Bounce Updates Service”](modules.live.bounce.updates "71.44. Live Bounce Updates – Live Bounce Updates Service")

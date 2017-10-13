@@ -18,7 +18,7 @@ credmgr — manipulate credentials used with the securecreds module
 <a name="idp12744464"></a>
 ## Description
 
-**credmgr** is used in conjunction with the [securecreds](modules.securecreds.php "71.61. securecreds – Password Encryption/Credential Retrieval") module. Use it to create the credentials database and the credentials key and to set, get, and delete credentials. If you are not using the securecreds module, you do not need to be concerned with this command.
+**credmgr** is used in conjunction with the [securecreds](modules.securecreds "71.61. securecreds – Password Encryption/Credential Retrieval") module. Use it to create the credentials database and the credentials key and to set, get, and delete credentials. If you are not using the securecreds module, you do not need to be concerned with this command.
 
 ### Note
 
@@ -190,4 +190,4 @@ Examples of usage follow:
 <a name="idp13566480"></a>
 ## See Also
 
-[Section 71.61, “securecreds – Password Encryption/Credential Retrieval”](modules.securecreds.php "71.61. securecreds – Password Encryption/Credential Retrieval")
+[Section 71.61, “securecreds – Password Encryption/Credential Retrieval”](modules.securecreds "71.61. securecreds – Password Encryption/Credential Retrieval")

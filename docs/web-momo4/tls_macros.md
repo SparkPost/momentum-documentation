@@ -11,7 +11,7 @@ The tls_macros module must be loaded in a configuration file, as follows:
 `tls_macros {}`
 ### 71.72.2. TLS Logging Macros
 
-[Table 71.2, “TLS Logging Macros”](tls_macros.php#tls-macros-table "Table 71.2. TLS Logging Macros") lists the TLS logging macros.
+[Table 71.2, “TLS Logging Macros”](tls_macros#tls-macros-table "Table 71.2. TLS Logging Macros") lists the TLS logging macros.
 
 <a name="tls-macros-table"></a>
 
@@ -120,4 +120,4 @@ custom_logger custom_logger1 {
 }
 ```
 {% endraw  %}
-For more information on the custom_logger, see [Section 71.25, “custom_logger – User-defined Logging”](modules.custom_logger.php "71.25. custom_logger – User-defined Logging").
+For more information on the custom_logger, see [Section 71.25, “custom_logger – User-defined Logging”](modules.custom_logger "71.25. custom_logger – User-defined Logging").

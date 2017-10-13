@@ -38,4 +38,4 @@ transform_8bitmime_content is valid in the global, binding_group, binding, and d
 <a name="idp27240880"></a>
 ## See Also
 
-[send_8bitmime](conf.ref.send_8bitmime.php "send_8bitmime")
+[send_8bitmime](conf.ref.send_8bitmime "send_8bitmime")

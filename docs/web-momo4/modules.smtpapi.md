@@ -6,7 +6,7 @@ The smtpapi module implements engagement tracking for SMTP injections and provid
 
 ### Note
 
-Message Generation is a licensed feature that must be configured in order to use SMTP Engagement Tracking. For more information, see [Section 71.48, “msg_gen – Message Generation”](modules.msg_gen.php "71.48. msg_gen – Message Generation").
+Message Generation is a licensed feature that must be configured in order to use SMTP Engagement Tracking. For more information, see [Section 71.48, “msg_gen – Message Generation”](modules.msg_gen "71.48. msg_gen – Message Generation").
 
 ### 71.67.1. Configuration
 
@@ -20,7 +20,7 @@ The smtpapi module has the following dependencies:
 
 *   engagement_tracker – Handles the creation of open-tracked and click-tracked links and the corresponding parsing of the links when an open or click event occurs and determines if metadata is included in click tracking (automatically loaded)
 
-    For additional information, see [Section 71.32, “engagement_tracker – HTTP Engagement Tracking”](modules.engage_tracker.php "71.32. engagement_tracker – HTTP Engagement Tracking").
+    For additional information, see [Section 71.32, “engagement_tracker – HTTP Engagement Tracking”](modules.engage_tracker "71.32. engagement_tracker – HTTP Engagement Tracking").
 
 *   msys.rest.templates.lua – Provides functionality to render the tracking links into the message
 
@@ -34,15 +34,15 @@ The smtpapi module implements the `post_validate_data_spool_each_rcpt` hook to p
 
 ### 71.67.3. Enabling Engagement Tracking
 
-In the default configuration, engagement tracking for SMTP injections is disabled and the associated configuration options are set to default values. To globally enable engagement tracking, change the default configuration. See [Section 71.67.4, “Configuration Options for Engagement Tracking”](modules.smtpapi.php#modules.smtpapi.config.options "71.67.4. Configuration Options for Engagement Tracking").
+In the default configuration, engagement tracking for SMTP injections is disabled and the associated configuration options are set to default values. To globally enable engagement tracking, change the default configuration. See [Section 71.67.4, “Configuration Options for Engagement Tracking”](modules.smtpapi#modules.smtpapi.config.options "71.67.4. Configuration Options for Engagement Tracking").
 
 You can override the configuration for a specific message by specifying the attributes in an optional X-MSYS-API header or through policy by specifying the corresponding context variables. In these cases, the behavior is determined by the following order of precedence, from highest to lowest:
 
-*   Associated context variables in Lua Policy – See [Section 41.3, “Using Policy for Engagement Tracking”](engagement_tracking_smtp.policy.php "41.3. Using Policy for Engagement Tracking").
+*   Associated context variables in Lua Policy – See [Section 41.3, “Using Policy for Engagement Tracking”](engagement_tracking_smtp.policy "41.3. Using Policy for Engagement Tracking").
 
-*   X-MSYS-API header in the SMTP message – See [Section 41.2, “Using the X-MSYS-API Header for Engagement Tracking”](x-msys-api_header.php "41.2. Using the X-MSYS-API Header for Engagement Tracking").
+*   X-MSYS-API header in the SMTP message – See [Section 41.2, “Using the X-MSYS-API Header for Engagement Tracking”](x-msys-api_header "41.2. Using the X-MSYS-API Header for Engagement Tracking").
 
-*   Configuration options in the `ecelerity.conf` file – See [Section 71.67.4, “Configuration Options for Engagement Tracking”](modules.smtpapi.php#modules.smtpapi.config.options "71.67.4. Configuration Options for Engagement Tracking").
+*   Configuration options in the `ecelerity.conf` file – See [Section 71.67.4, “Configuration Options for Engagement Tracking”](modules.smtpapi#modules.smtpapi.config.options "71.67.4. Configuration Options for Engagement Tracking").
 
 For example, if the `smtpapi_open_tracking` context variable is not specified, the `open_tracking` attribute in the X-MSYS-API header is used. If this attribute is also not specified, the value of the `open_tracking_enabled` configuration option is used.
 
@@ -52,17 +52,17 @@ While the configuration options for engagement tracking are not required when us
 
 When tracking engagement in SMTP messages, configure the following options or ensure that the default values meet your needs. For details about each option, including the associated context variables in Lua Policy and X-MSYS-API header fields, follow each link:
 
-*   [click_tracking_enabled](config.click_tracking_enabled.php "click_tracking_enabled")
+*   [click_tracking_enabled](config.click_tracking_enabled "click_tracking_enabled")
 
-*   [click_tracking_scheme](config.click_tracking_scheme.php "click_tracking_scheme")
+*   [click_tracking_scheme](config.click_tracking_scheme "click_tracking_scheme")
 
-*   [open_tracking_enabled](config.open_tracking_enabled.php "open_tracking_enabled")
+*   [open_tracking_enabled](config.open_tracking_enabled "open_tracking_enabled")
 
-*   [open_tracking_scheme](config.open_tracking_scheme.php "open_tracking_scheme")
+*   [open_tracking_scheme](config.open_tracking_scheme "open_tracking_scheme")
 
-*   [tracking_domain](config.tracking_domain.php "tracking_domain")
+*   [tracking_domain](config.tracking_domain "tracking_domain")
 
-*   [tracking_link_expiry](config.tracking_link_expiry.php "tracking_link_expiry")
+*   [tracking_link_expiry](config.tracking_link_expiry "tracking_link_expiry")
 
 These options are valid in the esmtp_listener, listen, pathway, pathway_group, and peer scope.
 

@@ -10,7 +10,7 @@ max_resident_messages — threshold above which messages are not held in memory
 <a name="idp25394672"></a>
 ## Description
 
-`max_resident_messages` is used to control the maximum number of messages held concurrently in memory. A value of 0 sets no limit. A rough guide to setting this option is to divide the maximum amount of RAM that you want to reserve for messages by your growbuf_size. For more information about the `growbuf_size` option see [growbuf_size](conf.ref.growbuf_size.php "growbuf_size").
+`max_resident_messages` is used to control the maximum number of messages held concurrently in memory. A value of 0 sets no limit. A rough guide to setting this option is to divide the maximum amount of RAM that you want to reserve for messages by your growbuf_size. For more information about the `growbuf_size` option see [growbuf_size](conf.ref.growbuf_size "growbuf_size").
 
 The default value is `32768`. However, this value is typically overridden in the `ecelerity.conf` file and set to `65536`.
 
@@ -26,4 +26,4 @@ This is an advanced option. Setting this option to small non-zero values can hav
 <a name="idp25403488"></a>
 ## See Also
 
-[growbuf_size](conf.ref.growbuf_size.php "growbuf_size")
+[growbuf_size](conf.ref.growbuf_size "growbuf_size")

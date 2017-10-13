@@ -24,4 +24,4 @@ only_use_best_mx_for_relay_domains is valid in the global scope.
 <a name="idp25663104"></a>
 ## See Also
 
-[routes](conf.ref.routes.php "routes"), [bounce_domains](conf.ref.bounce_domains.php "bounce_domains"), [relay_domains](conf.ref.relay_domains.php "relay_domains")
+[routes](conf.ref.routes "routes"), [bounce_domains](conf.ref.bounce_domains.php "bounce_domains"), [relay_domains](conf.ref.relay_domains.php "relay_domains")

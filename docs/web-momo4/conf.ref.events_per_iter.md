@@ -22,4 +22,4 @@ events_per_iter is valid in the control_listener, eccluster_listener, ecstream_l
 <a name="idp24635840"></a>
 ## See Also
 
-[pool_name](esmtp_listener.php#esmtp_listener.config "19.1. ESMTP_Listener Configuration")
+[pool_name](esmtp_listener#esmtp_listener.config "19.1. ESMTP_Listener Configuration")

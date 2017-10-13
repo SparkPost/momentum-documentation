@@ -1,6 +1,6 @@
 ## 44.2. Creating an API Key
 
-In the Settings section, click the New API Key icon in the upper-right corner to open the Create New API Key form, as shown in [Figure 44.3, “Create New API Key”](web-ui.apikeys.create.php#figure_create_apikey "Figure 44.3. Create New API Key").
+In the Settings section, click the New API Key icon in the upper-right corner to open the Create New API Key form, as shown in [Figure 44.3, “Create New API Key”](web-ui.apikeys.create#figure_create_apikey "Figure 44.3. Create New API Key").
 
 <a name="figure_create_apikey"></a>
 

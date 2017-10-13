@@ -2,7 +2,7 @@
 
 <a class="indexterm" name="idp20662576"></a>
 
-The commtouch_ctasd module provides message diagnosis via the CYREN (formerly known as Commtouch) spam and phishing protection technology. If you intend to use this module be sure to choose it during installation. For more information, see [Section 12.1, “Installing Partner Modules”](post_installation.php#install.additional.packages "12.1. Installing Partner Modules").
+The commtouch_ctasd module provides message diagnosis via the CYREN (formerly known as Commtouch) spam and phishing protection technology. If you intend to use this module be sure to choose it during installation. For more information, see [Section 12.1, “Installing Partner Modules”](post_installation#install.additional.packages "12.1. Installing Partner Modules").
 
 ### 71.20.1. Configuration
 
@@ -98,7 +98,7 @@ Settings for this parameter are `nonvirus`, `medium`, `high`, and `unknown`.
 
 ### 71.20.3. Lua Functions
 
-This module makes the Lua function `msys.commtouch.diagnose` available. For a description of how this function is used, see [msys.commtouch.diagnose](lua.ref.msys.commtouch.diagnose.php "msys.commtouch.diagnose").
+This module makes the Lua function `msys.commtouch.diagnose` available. For a description of how this function is used, see [msys.commtouch.diagnose](lua.ref.msys.commtouch.diagnose "msys.commtouch.diagnose").
 
 ### 71.20.4. Console Commands
 

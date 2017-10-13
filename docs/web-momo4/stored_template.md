@@ -12,9 +12,9 @@ This section provides instructions to create a simple stored template using the 
 
 ### Note
 
-This tutorial assumes that you have completed the tutorial in [Chapter 46, *Using Substitution Data*](substitution_data.php "Chapter 46. Using Substitution Data") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
+This tutorial assumes that you have completed the tutorial in [Chapter 46, *Using Substitution Data*](substitution_data "Chapter 46. Using Substitution Data") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
 
-You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey.php "Chapter 43. Creating an API Key") .
+You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey "Chapter 43. Creating an API Key") .
 
 Follow these steps to create a stored template:
 
@@ -169,4 +169,4 @@ Congratulations! You have created your first stored template using Momentum's Te
 
 **Configuration Change. ** Version 4.1 and later support managing your templates using the UI.
 
-You can also create and manage your templates using the web-based UI. For detailed instructions, see [Chapter 48, *Managing Your Templates in the UI*](web-ui.templates.php "Chapter 48. Managing Your Templates in the UI") .
+You can also create and manage your templates using the web-based UI. For detailed instructions, see [Chapter 48, *Managing Your Templates in the UI*](web-ui.templates "Chapter 48. Managing Your Templates in the UI") .

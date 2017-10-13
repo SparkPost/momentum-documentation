@@ -20,4 +20,4 @@ The **summary reset**       command resets the statistics counters of the runnin
 <a name="idp13497872"></a>
 ## See Also
 
-[binding summary](console_commands.binding_summary.php "binding summary"), [summary](console_commands.summary.php "summary")
+[binding summary](console_commands.binding_summary "binding summary"), [summary](console_commands.summary.php "summary")

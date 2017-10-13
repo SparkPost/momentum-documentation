@@ -10,7 +10,7 @@ _unsafe_spool — allow dangerous spool semantics to be used
 <a name="idp27277680"></a>
 ## Description
 
-Use of this option is not recommended unless you have complete control over the generation and delivery process. See [Section 71.70, “suppress_spool – Deferred Message Spooling”](modules.suppress_spool.php "71.70. suppress_spool – Deferred Message Spooling") for more details on its use.
+Use of this option is not recommended unless you have complete control over the generation and delivery process. See [Section 71.70, “suppress_spool – Deferred Message Spooling”](modules.suppress_spool "71.70. suppress_spool – Deferred Message Spooling") for more details on its use.
 
 The default value is `false`.
 

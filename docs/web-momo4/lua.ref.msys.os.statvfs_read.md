@@ -116,4 +116,4 @@ The function that performs the registered action, in the examples above, accepts
 <a name="idp18319392"></a>
 ## See Also
 
-[msys.os.statvfs_subscribe](lua.ref.msys.os.statvfs_subscribe.php "msys.os.statvfs_subscribe"), [ec_statvfs](https://support.messagesystems.com/docs/web-c-api/structs.ec_statvfs.php), [command_construct](https://support.messagesystems.com/docs/web-c-api/structs.command_construct.php) and [msys.registerControl](lua.ref.msys.registerControl.php "msys.registerControl")
+[msys.os.statvfs_subscribe](lua.ref.msys.os.statvfs_subscribe "msys.os.statvfs_subscribe"), [ec_statvfs](https://support.messagesystems.com/docs/web-c-api/structs.ec_statvfs.php), [command_construct](https://support.messagesystems.com/docs/web-c-api/structs.command_construct.php) and [msys.registerControl](lua.ref.msys.registerControl.php "msys.registerControl")

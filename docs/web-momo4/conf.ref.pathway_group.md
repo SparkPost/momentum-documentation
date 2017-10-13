@@ -35,4 +35,4 @@ pathway_group is valid in the global scope.
 <a name="idp25824144"></a>
 ## See Also
 
-[pathway](conf.ref.pathway.php "pathway")
+[pathway](conf.ref.pathway "pathway")

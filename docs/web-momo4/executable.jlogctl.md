@@ -99,4 +99,4 @@ When used along with another option or options this option provides verbose outp
 <a name="idp12635648"></a>
 ## See Also
 
-[Section 71.43, “jlog – jlog-Formatted Logging”](modules.jlog.php "71.43. jlog – jlog-Formatted Logging"), [Section 26.5, “Decommissioning a Log Aggregator”](cluster.config.logging.decommissioning.php "26.5. Decommissioning a Log Aggregator")
+[Section 71.43, “jlog – jlog-Formatted Logging”](modules.jlog "71.43. jlog – jlog-Formatted Logging"), [Section 26.5, “Decommissioning a Log Aggregator”](cluster.config.logging.decommissioning.php "26.5. Decommissioning a Log Aggregator")

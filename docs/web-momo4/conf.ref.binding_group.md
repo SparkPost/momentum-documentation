@@ -52,7 +52,7 @@ binding_group "group1" {
 
 Binding group names are case-sensitive and spaces are not allowed in binding group names.
 
-There is no upper limit to the number of bindings that can be in a binding group. When Adaptive Delivery is enabled, a large number of bindings in a binding group will affect performance since significant CPU time is spent checking for suspended bindings. For this reason the recommended best practice, when using the [adaptive module](modules.adaptive.php "71.3. adaptive – Adaptive Delivery"), is not to exceed 32 bindings per binding group.
+There is no upper limit to the number of bindings that can be in a binding group. When Adaptive Delivery is enabled, a large number of bindings in a binding group will affect performance since significant CPU time is spent checking for suspended bindings. For this reason the recommended best practice, when using the [adaptive module](modules.adaptive "71.3. adaptive – Adaptive Delivery"), is not to exceed 32 bindings per binding group.
 
 <a name="conf.ref.bindinggroup.default"></a>
 ## `default` Binding Group
@@ -67,16 +67,16 @@ binding_group "default" {
 }
 ```
 
-The `default` binding_group behaves in the same way as the `default` binding. For more information, see [the section called “`default` Binding”](conf.ref.binding.php#conf.ref.binding.default "default Binding").
+The `default` binding_group behaves in the same way as the `default` binding. For more information, see [the section called “`default` Binding”](conf.ref.binding#conf.ref.binding.default "default Binding").
 
 <a name="idp23658336"></a>
 ## Scope and Valid Options
 
 `binding_group` is valid in the global scope.
 
-For a complete list of options valid in the binding_group scope, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For a complete list of options valid in the binding_group scope, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
 <a name="idp23662272"></a>
 ## See Also
 
-[binding](conf.ref.binding.php "binding")
+[binding](conf.ref.binding "binding")

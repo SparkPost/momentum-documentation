@@ -58,7 +58,7 @@ The trailing ‘`/`’ character is optional.
 
 <dd>
 
-Closure that is passed through to the handler via [ec_httpsrv_service_ctx_get](https://support.messagesystems.com/docs/web-c-api/apis.ec_httpsrv_service_ctx_get.php)
+Closure that is passed through to the handler via [ec_httpsrv_service_ctx_get](https://support.messagesystems.com/docs/web-c-api/apis.ec_httpsrv_service_ctx_get)
 
 </dd>
 
@@ -72,7 +72,7 @@ Function that is invoked on matching requests
 
 </dl>
 
-Authentication handlers are matched using the same algorithm as request handlers. See the description of [ec_httpsrv_register](https://support.messagesystems.com/docs/web-c-api/apis.ec_httpsrv_register.php) for details.
+Authentication handlers are matched using the same algorithm as request handlers. See the description of [ec_httpsrv_register](https://support.messagesystems.com/docs/web-c-api/apis.ec_httpsrv_register) for details.
 
 **Return Values**
 

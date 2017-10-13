@@ -6,7 +6,7 @@
 
 The `static_routes` module routes all traffic to a given server by IP address and port. It supports both IPv4 and IPv6.
 
-This module performs much better than the [routes](conf.ref.routes.php "routes") option, which is known to cause performance issues because it makes every domain in the system share connections. When domains share an MX, the system will try to find idle connections in other domain containers. When many domains share an MX, there are a lot of domains searching for idle connections, which slows the system down considerably.
+This module performs much better than the [routes](conf.ref.routes "routes") option, which is known to cause performance issues because it makes every domain in the system share connections. When domains share an MX, the system will try to find idle connections in other domain containers. When many domains share an MX, there are a lot of domains searching for idle connections, which slows the system down considerably.
 
 <a name="modules.static_routes.example"></a>
 

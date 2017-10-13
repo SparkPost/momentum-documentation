@@ -18,7 +18,7 @@ The default is `false`. This option should be set dependent on the performance a
 
 ### Warning
 
-If you set `use_mmap` to `true` the `compress_spool` module will not load. For more information see [Section 71.21, “compress_spool – Dynamic Spool Compression”](modules.compress_spool.php "71.21. compress_spool – Dynamic Spool Compression")
+If you set `use_mmap` to `true` the `compress_spool` module will not load. For more information see [Section 71.21, “compress_spool – Dynamic Spool Compression”](modules.compress_spool "71.21. compress_spool – Dynamic Spool Compression")
 
 <a name="idp27329808"></a>
 ## Scope
@@ -28,4 +28,4 @@ use_mmap is valid in the global scope.
 <a name="idp27331632"></a>
 ## See Also
 
-[malloc2mmap_threshold](conf.ref.malloc2mmap_threshold.php "malloc2mmap_threshold") and [use_sendfile](conf.ref.use_sendfile.php "use_sendfile")
+[malloc2mmap_threshold](conf.ref.malloc2mmap_threshold "malloc2mmap_threshold") and [use_sendfile](conf.ref.use_sendfile.php "use_sendfile")

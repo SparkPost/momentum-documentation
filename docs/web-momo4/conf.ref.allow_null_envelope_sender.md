@@ -20,4 +20,4 @@ allow_null_envelope_sender is valid in the global, listener, listen, peer, pathw
 <a name="idp23514992"></a>
 ## See Also
 
-[allow_ip_literal](conf.ref.allow_ip_literal.php "allow_ip_literal")
+[allow_ip_literal](conf.ref.allow_ip_literal "allow_ip_literal")

@@ -18,4 +18,4 @@ Enable this function with the statement `require('msys.extended.message');`.
 <a name="idp16917088"></a>
 ## See Also
 
-[msg:raw_replace](lua.ref.msg_raw_replace.php "msg:raw_replace")
+[msg:raw_replace](lua.ref.msg_raw_replace "msg:raw_replace")

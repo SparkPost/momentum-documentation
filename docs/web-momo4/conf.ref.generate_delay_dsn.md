@@ -18,7 +18,7 @@ The default value for this option is `false`.
 
 ### Note
 
-To use this feature the [delay_dsn](modules.delay_dsn.php "71.26. delay_dsn – Delay DSN Generation") module must be loaded.
+To use this feature the [delay_dsn](modules.delay_dsn "71.26. delay_dsn – Delay DSN Generation") module must be loaded.
 
 <a name="idp24793632"></a>
 ## Scope
@@ -28,4 +28,4 @@ To use this feature the [delay_dsn](modules.delay_dsn.php "71.26. delay_dsn –
 <a name="idp24795936"></a>
 ## See Also
 
-[delay_dsn_retry_interval](conf.ref.delay_dsn_retry_interval.php "delay_dsn_retry_interval"), [delay_dsn_max_retry_interval](conf.ref.delay_dsn_max_retry_interval.php "delay_dsn_max_retry_interval") and [generate_delay_dsn](conf.ref.generate_delay_dsn.php "generate_delay_dsn")
+[delay_dsn_retry_interval](conf.ref.delay_dsn_retry_interval "delay_dsn_retry_interval"), [delay_dsn_max_retry_interval](conf.ref.delay_dsn_max_retry_interval.php "delay_dsn_max_retry_interval") and [generate_delay_dsn](conf.ref.generate_delay_dsn.php "generate_delay_dsn")

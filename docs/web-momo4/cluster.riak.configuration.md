@@ -1,6 +1,6 @@
 ## 16.7. Configuring Riak in a Cluster
 
-In a cluster configuration, by default, [Riak](riak.php "Chapter 30. Riak") is installed on every node. Each node requires a unique name to participate in the cluster. During installation, the installer automatically assigns names, which are stored in the `/opt/msys/3rdParty/riak/etc/vm.args` configuration file and specified with the "-name" parameter switch.
+In a cluster configuration, by default, [Riak](riak "Chapter 30. Riak") is installed on every node. Each node requires a unique name to participate in the cluster. During installation, the installer automatically assigns names, which are stored in the `/opt/msys/3rdParty/riak/etc/vm.args` configuration file and specified with the "-name" parameter switch.
 
 ### Note
 
@@ -79,7 +79,7 @@ If you fail to retrieve the test record, check that the Riak nodes are joined by
 
 `shell> /opt/msys/3rdParty/riak/bin/riak-admin status`
 
-In the output, look for the `ring_members` line and verify that there is an entry 'riak-*`cluster_name@ip_address`*' for each node in the cluster. If this is not the case, then the Riak servers may be partially joined or not joined at all. Join the missing node or nodes to the cluster as described in [Section 16.7.1, “Joining a Node to a Riak Cluster”](cluster.riak.configuration.php#cluster.riak.configuration.joining "16.7.1. Joining a Node to a Riak Cluster")
+In the output, look for the `ring_members` line and verify that there is an entry 'riak-*`cluster_name@ip_address`*' for each node in the cluster. If this is not the case, then the Riak servers may be partially joined or not joined at all. Join the missing node or nodes to the cluster as described in [Section 16.7.1, “Joining a Node to a Riak Cluster”](cluster.riak.configuration#cluster.riak.configuration.joining "16.7.1. Joining a Node to a Riak Cluster")
 
 ### Note
 

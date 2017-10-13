@@ -22,4 +22,4 @@ Changing the value of this option at runtime requires restarting the ecelerity p
 <a name="idp26721392"></a>
 ## See Also
 
-[spoolbase](conf.ref.spoolbase.php "spoolbase")
+[spoolbase](conf.ref.spoolbase "spoolbase")

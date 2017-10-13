@@ -15,7 +15,7 @@ mimetype: string (optional)
 <a name="idp16477088"></a>
 ## Description
 
-Use this function with [msys.httpsrv.register](lua.ref.msys.httpsrv.register.php "msys.httpsrv.register") to set the HTTP status for the session response. For example code see [Example 70.30, “msys.httpsrv.register Example”](lua.ref.msys.httpsrv.register.php#lua.ref.msys.httpsrv.register.example "Example 70.30. msys.httpsrv.register Example"). For a description of the session object, see [ec_httpsrv_session](https://support.messagesystems.com/docs/web-c-api/structs.ec_httpsrv_session.php).
+Use this function with [msys.httpsrv.register](lua.ref.msys.httpsrv.register "msys.httpsrv.register") to set the HTTP status for the session response. For example code see [Example 70.30, “msys.httpsrv.register Example”](lua.ref.msys.httpsrv.register.php#lua.ref.msys.httpsrv.register.example "Example 70.30. msys.httpsrv.register Example"). For a description of the session object, see [ec_httpsrv_session](https://support.messagesystems.com/docs/web-c-api/structs.ec_httpsrv_session.php).
 
 Set the `code` to a valid HTTP response code, the `message` to an appropriate message, and `mimetype` to a mime type. The following is an example:
 
@@ -26,4 +26,4 @@ Enable this function with the statement `require("msys.extended.httpsrv");`.
 <a name="idp16484304"></a>
 ## See Also
 
-[msys.httpsrv.register](lua.ref.msys.httpsrv.register.php "msys.httpsrv.register") and [session:request_url_get](lua.ref.session_request_url_get.php "session:request_url_get")
+[msys.httpsrv.register](lua.ref.msys.httpsrv.register "msys.httpsrv.register") and [session:request_url_get](lua.ref.session_request_url_get.php "session:request_url_get")

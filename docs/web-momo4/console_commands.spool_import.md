@@ -22,9 +22,9 @@ Importing a spool window subdirectory, for example, `/var/spool/ecelerity/59A3B`
 
 If you import a spool and delete the folder after importation, ecelerity will eventually crash. If you wish to delete the folder associated with an imported spool, do this only after restarting ecelerity.
 
-You can configure the ec_logger module to log import events as described in [Section 71.30, “EC_logger – Momentum-Style Logging”](modules.ec_logger.php "71.30. EC_logger – Momentum-Style Logging"). Alternatively, you can implement a hook to record these events as you see fit.
+You can configure the ec_logger module to log import events as described in [Section 71.30, “EC_logger – Momentum-Style Logging”](modules.ec_logger "71.30. EC_logger – Momentum-Style Logging"). Alternatively, you can implement a hook to record these events as you see fit.
 
 <a name="idp12945232"></a>
 ## See Also
 
-[spool import_poll](console_commands.spool_import_poll.php "spool import_poll")
+[spool import_poll](console_commands.spool_import_poll "spool import_poll")

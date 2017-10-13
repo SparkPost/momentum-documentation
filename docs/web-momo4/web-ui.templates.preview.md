@@ -2,7 +2,7 @@
 
 You can preview and test your template by specifying test data in the New Template form. Test data must be in the form of a JSON object of key/value pairs of recipient-specific data. Click Edit, select the Test Data tab, and type your test data using the online editor. Note that the test data is not saved.
 
-[Figure 48.6, “Test Data”](web-ui.templates.preview.php#figure_test_data "Figure 48.6. Test Data") shows test data for the Simple Template. In this example, *John*, *simple stored template* , and *My Company*         will replace *`{{name}}`*, *`{{subject}}`*, and *`{{company}}`*, respectively, in the preview of your template.
+[Figure 48.6, “Test Data”](web-ui.templates.preview#figure_test_data "Figure 48.6. Test Data") shows test data for the Simple Template. In this example, *John*, *simple stored template* , and *My Company*         will replace *`{{name}}`*, *`{{subject}}`*, and *`{{company}}`*, respectively, in the preview of your template.
 
 <a name="figure_test_data"></a>
 
@@ -14,7 +14,7 @@ You can preview and test your template by specifying test data in the New Templa
 
 You can preview the HTML content, plain text content, and top-level header substitution of your email using the UI. To preview your template, click Preview and select the appropriate tab.
 
-[Figure 48.7, “Preview Template”](web-ui.templates.preview.php#figure_preview_template "Figure 48.7. Preview Template") shows a preview of the HMTL content for the Simple Template. Notice the substitution for *`{{name}}`* and *`{{subject}}`*.
+[Figure 48.7, “Preview Template”](web-ui.templates.preview#figure_preview_template "Figure 48.7. Preview Template") shows a preview of the HMTL content for the Simple Template. Notice the substitution for *`{{name}}`* and *`{{subject}}`*.
 
 <a name="figure_preview_template"></a>
 
@@ -22,7 +22,7 @@ You can preview the HTML content, plain text content, and top-level header subst
 
 ![Preview Template](images/preview_template.png)
 
-[Figure 48.8, “Preview Template Details”](web-ui.templates.preview.php#figure_preview_details "Figure 48.8. Preview Template Details") shows a preview of the Template Details for the Simple Template. Notice the substitution for *`{{name}}`* and *`{{company}}`*.
+[Figure 48.8, “Preview Template Details”](web-ui.templates.preview#figure_preview_details "Figure 48.8. Preview Template Details") shows a preview of the Template Details for the Simple Template. Notice the substitution for *`{{name}}`* and *`{{company}}`*.
 
 <a name="figure_preview_details"></a>
 

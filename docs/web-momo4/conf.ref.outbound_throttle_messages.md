@@ -18,7 +18,7 @@ If a single integer parameter is provided, Momentum will ensure that no more tha
 
 ### Note
 
-For best results, a throttle in the same scope and with the same values should also be defined using [outbound_throttle_connections](conf.ref.outbound_throttle_connections.php "outbound_throttle_connections").
+For best results, a throttle in the same scope and with the same values should also be defined using [outbound_throttle_connections](conf.ref.outbound_throttle_connections "outbound_throttle_connections").
 
 If this option is not set or if is set to `0`, there is no limit on the number of messages sent.
 
@@ -108,4 +108,4 @@ outbound_throttle_messages is valid in the binding, binding_group, domain, and g
 <a name="idp25782912"></a>
 ## See Also
 
-[Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback")
+[Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback")

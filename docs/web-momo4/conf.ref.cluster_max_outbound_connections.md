@@ -10,13 +10,13 @@ cluster_max_outbound_connections — set the maximum number of outbound connecti
 <a name="idp23910480"></a>
 ## Description
 
-This will limit the number of outbound connections across the cluster to an individual binding to the specified value. It can also be set at a global level, which enforces the limit on every domain in the cluster. The global value can be overridden by setting it in a `Binding` stanza. Furthermore, this option can be used in a `Host` stanza to limit the connections to a particular MX as shown in [the section called “Scope”](conf.ref.cluster_max_outbound_connections.php#conf.ref.cluster_max_outbound_connections.scope "Scope"). *Note*: When used in the Host scope, `Cluster_Max_Outbound_Connections` limits the number of connections **to** the particular MX.
+This will limit the number of outbound connections across the cluster to an individual binding to the specified value. It can also be set at a global level, which enforces the limit on every domain in the cluster. The global value can be overridden by setting it in a `Binding` stanza. Furthermore, this option can be used in a `Host` stanza to limit the connections to a particular MX as shown in [the section called “Scope”](conf.ref.cluster_max_outbound_connections#conf.ref.cluster_max_outbound_connections.scope "Scope"). *Note*: When used in the Host scope, `Cluster_Max_Outbound_Connections` limits the number of connections **to** the particular MX.
 
 The default value is `-1`, which means that an unlimited number of connections are allowed.
 
 ### Note
 
-When this option is used in scopes other than Host, the cluster module must have the outbound_domains parameter configured as defined in [Section 28.1, “Replication Configurations”](cluster.config.replication.php#cluster.replication.features "28.1. Replication Configurations").
+When this option is used in scopes other than Host, the cluster module must have the outbound_domains parameter configured as defined in [Section 28.1, “Replication Configurations”](cluster.config.replication#cluster.replication.features "28.1. Replication Configurations").
 
 <a name="conf.ref.cluster_max_outbound_connections.scope"></a>
 ## Scope
@@ -62,4 +62,4 @@ Host edge.omniti.com {
 <a name="idp23932208"></a>
 ## See Also
 
-[max_outbound_connections](conf.ref.max_outbound_connections.php "max_outbound_connections"), [host](conf.ref.host.php "host")
+[max_outbound_connections](conf.ref.max_outbound_connections "max_outbound_connections"), [host](conf.ref.host.php "host")

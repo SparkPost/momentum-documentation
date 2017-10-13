@@ -61,4 +61,4 @@ Changing the value of options in the `security` scope at runtime requires restar
 <a name="idp23831776"></a>
 ## See Also
 
-[security](conf.ref.security.php "security"), [user](conf.ref.user.php "user"), [chroot](conf.ref.chroot.php "chroot"), and [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups")
+[security](conf.ref.security "security"), [user](conf.ref.user.php "user"), [chroot](conf.ref.chroot.php "chroot"), and [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups")

@@ -41,7 +41,7 @@ url_ripper "url_ripper1" {
 
 ### Note
 
-This module no longer supports the `checklist_suppress_hostnames` and `checklist_suppress_ips` options, which were dependent upon the deprecated `checklist` module. You can replace this functionality with Lua datasource functions. For more information, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core.php "71.29. ds_core - Datasource Query Core") and [msys.dp_config.whitelist](https://support.messagesystems.com/docs/web-policy/policy.default.configuration.php#policy.default.configuration.msys.dp_config.whitelist).
+This module no longer supports the `checklist_suppress_hostnames` and `checklist_suppress_ips` options, which were dependent upon the deprecated `checklist` module. You can replace this functionality with Lua datasource functions. For more information, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core "71.29. ds_core - Datasource Query Core") and [msys.dp_config.whitelist](https://support.messagesystems.com/docs/web-policy/policy.default.configuration.php#policy.default.configuration.msys.dp_config.whitelist).
 
 The following are the configuration options defined within this module:
 

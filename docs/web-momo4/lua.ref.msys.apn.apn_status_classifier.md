@@ -59,4 +59,4 @@ msys.registerModule("convert", mod);
 <a name="idp15180512"></a>
 ## See Also
 
-[Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/) and [msys.gcm.gcm_classify_error](lua.ref.msys.gcm.gcm_classify_error.php "msys.gcm.gcm_classify_error")
+[Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/) and [msys.gcm.gcm_classify_error](lua.ref.msys.gcm.gcm_classify_error "msys.gcm.gcm_classify_error")

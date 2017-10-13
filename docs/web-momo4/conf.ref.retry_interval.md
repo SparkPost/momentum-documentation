@@ -12,7 +12,7 @@ retry_interval — base retry interval
 
 The base retry period in seconds for a message which could not be delivered. Momentum employs an exponential back-off scheme for retrying messages. On the first failure the message is retried `Retry_Interval` seconds later. On the second failure, twice that. On the third failure, four times that. On the fourth failure, eight times that. This process continues until the message is delivered, or the `Message_Expiration` timeout is reached, whichever comes first. The default value for this option is `1200` (20 minutes).
 
-You can disable Momentum's exponential back-off scheme so that a message is retried at a fixed interval. For more information see [max_retries](conf.ref.max_retries.php "max_retries").
+You can disable Momentum's exponential back-off scheme so that a message is retried at a fixed interval. For more information see [max_retries](conf.ref.max_retries "max_retries").
 
 <a name="idp26106880"></a>
 ## Scope
@@ -22,4 +22,4 @@ retry_interval is valid in the binding, binding_group, domain and global scopes.
 <a name="idp26108752"></a>
 ## See Also
 
-[message_expiration](conf.ref.message_expiration.php "message_expiration")
+[message_expiration](conf.ref.message_expiration "message_expiration")

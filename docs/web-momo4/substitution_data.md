@@ -12,15 +12,15 @@ In this section, you will build on your knowledge of the Transmissions API by us
 
 ### Note
 
-This tutorial assumes that you have completed the tutorial in [Chapter 45, *Generating a Transmission*](message_gen.php "Chapter 45. Generating a Transmission") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
+This tutorial assumes that you have completed the tutorial in [Chapter 45, *Generating a Transmission*](message_gen "Chapter 45. Generating a Transmission") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
 
-You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey.php "Chapter 43. Creating an API Key") .
+You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey "Chapter 43. Creating an API Key") .
 
 Follow these steps to use substitution data in a simple transmission:
 
 1.  Specify your input data using substitution.
 
-    The tutorial in [Chapter 45, *Generating a Transmission*               ](message_gen.php "Chapter 45. Generating a Transmission") included only the required transmission attributes in the JSON blob. The attribute "substitution_data" is optional and includes key/value pairs that will be provided to Momentum's substitution engine. This attribute can include any number of substitutions, and each key/value pair is completely user-defined. This tutorial uses substitution data as part of the transmission JSON structure and each recipient JSON structure.
+    The tutorial in [Chapter 45, *Generating a Transmission*               ](message_gen "Chapter 45. Generating a Transmission") included only the required transmission attributes in the JSON blob. The attribute "substitution_data" is optional and includes key/value pairs that will be provided to Momentum's substitution engine. This attribute can include any number of substitutions, and each key/value pair is completely user-defined. This tutorial uses substitution data as part of the transmission JSON structure and each recipient JSON structure.
 
     Using your text editor, create the following JSON file named `subdata_template.json`. Be sure to use your information for sender address, recipient addresses, and recipient names.
 
@@ -81,6 +81,6 @@ Follow these steps to use substitution data in a simple transmission:
 
 3.  Confirm your email delivery.
 
-    Verify that each recipient received a personalized email, then open the UI and confirm that two messages were successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui.php "Chapter 56. Using the UI for Reporting") .
+    Verify that each recipient received a personalized email, then open the UI and confirm that two messages were successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui "Chapter 56. Using the UI for Reporting") .
 
 Congratulations! You have taken the first step to using Momentum's powerful substitution capability. This tutorial demonstrates simple substitution, yet Momentum supports many advanced features. To learn more about using substitution data including details about syntax, see the Substitution Reference available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).

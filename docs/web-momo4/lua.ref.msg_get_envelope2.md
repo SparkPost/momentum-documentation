@@ -48,7 +48,7 @@ To make it easier to work with libraries that use bitmasks as part of their API,
 
 *   `a \ 2` – integer division (__intdiv)
 
-You must use the [msys.core.string_new](lua.ref.msys.core.string_new.php "msys.core.string_new") function to create the userdata variables used as the second and third parameters. Upon execution of this function, these variables will contain, respectively, the local part and the domain of the specific message as explained above.
+You must use the [msys.core.string_new](lua.ref.msys.core.string_new "msys.core.string_new") function to create the userdata variables used as the second and third parameters. Upon execution of this function, these variables will contain, respectively, the local part and the domain of the specific message as explained above.
 
 <a name="lua.ref.msg_get_envelope2.example.get"></a>
 
@@ -81,4 +81,4 @@ Enable this function with the statement `require('msys.extended.message');`.
 <a name="idp15804560"></a>
 ## See Also
 
-[ec_message_get_envelope2](https://support.messagesystems.com/docs/web-c-api/apis.ec_message_get_envelope2.php)
+[ec_message_get_envelope2](https://support.messagesystems.com/docs/web-c-api/apis.ec_message_get_envelope2)

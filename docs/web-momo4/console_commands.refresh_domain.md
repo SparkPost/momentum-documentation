@@ -14,4 +14,4 @@ This command takes a single argument in the form of a domain name and refreshes 
 
 ### Note
 
-This console command manipulates the *route cache* , and likewise with the [dig](console_commands.dig.php "dig") and [domain](console_commands.domain.php "domain") commands. The *DNS cache* , is manipulated by the [dns_cache](console_commands.dns_cache.php "dns_cache") series of console commands.
+This console command manipulates the *route cache* , and likewise with the [dig](console_commands.dig "dig") and [domain](console_commands.domain.php "domain") commands. The *DNS cache* , is manipulated by the [dns_cache](console_commands.dns_cache.php "dns_cache") series of console commands.

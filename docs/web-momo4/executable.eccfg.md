@@ -60,11 +60,11 @@ If you change any configuration files or add configuration files, it is strongly
 
 Situations such as the following typically require the use of this command:
 
-*   Updating any configuration files that are under revision control – See [Section 15.1.4, “Changing Configuration Files”](conf.overview.php#conf.manual.changes "15.1.4. Changing Configuration Files").
+*   Updating any configuration files that are under revision control – See [Section 15.1.4, “Changing Configuration Files”](conf.overview#conf.manual.changes "15.1.4. Changing Configuration Files").
 
-*   Adding new configuration files that are "included" using the `include` directive – See [Section 15.1.5, “Adding Configuration Files”](conf.overview.php#conf.adding.configuration.files "15.1.5. Adding Configuration Files").
+*   Adding new configuration files that are "included" using the `include` directive – See [Section 15.1.5, “Adding Configuration Files”](conf.overview#conf.adding.configuration.files "15.1.5. Adding Configuration Files").
 
-*   Adding Lua policy scripts – See [Section 62.2.4, “Creating Policy Scripts”](implementing.policy.scriptlets.php#policy.best.practices "62.2.4. Creating Policy Scripts").
+*   Adding Lua policy scripts – See [Section 62.2.4, “Creating Policy Scripts”](implementing.policy.scriptlets#policy.best.practices "62.2.4. Creating Policy Scripts").
 
 In most circumstances, you will only need to use a limited number of the **eccfg** commands. The commonly used **eccfg** commands are highlighted in the following sections.
 
@@ -157,7 +157,7 @@ Committed revision 47.
 
 ### Note
 
-*Committing changes does not automatically load them into the running ecelerity process.*                                                                              For details, see See [Section 15.1.4, “Changing Configuration Files”](conf.overview.php#conf.manual.changes "15.1.4. Changing Configuration Files") and [Section 15.1.5, “Adding Configuration Files”](conf.overview.php#conf.adding.configuration.files "15.1.5. Adding Configuration Files").
+*Committing changes does not automatically load them into the running ecelerity process.*                                                                              For details, see See [Section 15.1.4, “Changing Configuration Files”](conf.overview#conf.manual.changes "15.1.4. Changing Configuration Files") and [Section 15.1.5, “Adding Configuration Files”](conf.overview.php#conf.adding.configuration.files "15.1.5. Adding Configuration Files").
 
 </dd>
 
@@ -383,4 +383,4 @@ Request that the cluster's nominal MASTER attempt to resolve the CONFLICT state.
 <a name="idp14721088"></a>
 ## See Also
 
-[ecconfigd](executable.ecconfigd.php "ecconfigd"), [Section 15.1.3, “Configuration Management (**ecconfigd**)”](conf.overview.php#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)")
+[ecconfigd](executable.ecconfigd "ecconfigd"), [Section 15.1.3, “Configuration Management (**ecconfigd**)”](conf.overview.php#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)")

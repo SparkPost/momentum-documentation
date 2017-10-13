@@ -84,7 +84,7 @@ Override the default productname. The default value for this option is `ecelerit
 
 <dd>
 
-If you are using a proxy server to access updates use this option to specify the proxy server and your credentials. Use of a proxy server with live updates is discussed in [Using a Proxy Server](https://support.messagesystems.com/docs/web-ad/ad.adaptive.automated.proxy.php).
+If you are using a proxy server to access updates use this option to specify the proxy server and your credentials. Use of a proxy server with live updates is discussed in [Using a Proxy Server](https://support.messagesystems.com/docs/web-ad/ad.adaptive.automated.proxy).
 
 </dd>
 
@@ -117,4 +117,4 @@ Override the product version of the installation. For example, if you would like
 <a name="idp12695168"></a>
 ## See Also
 
-[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery")
+[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery")

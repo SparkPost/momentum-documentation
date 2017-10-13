@@ -12,4 +12,4 @@ config set ec_logger *`ec_logger1`* log_transient_failures off
 
 If the command is successful, then `Set` is output to the screen.
 
-For a complete discussion of the **config** command, see [config](console_commands.config.php "config").
+For a complete discussion of the **config** command, see [config](console_commands.config "config").

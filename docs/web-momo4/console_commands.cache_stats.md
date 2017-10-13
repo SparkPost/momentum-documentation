@@ -25,4 +25,4 @@ For each cache, this command prints statistics including the number of elements 
 <a name="idp11437504"></a>
 ## See Also
 
-[match_cache_life](conf.ref.match_cache_life.php "match_cache_life")
+[match_cache_life](conf.ref.match_cache_life "match_cache_life")

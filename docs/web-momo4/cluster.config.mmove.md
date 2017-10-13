@@ -6,7 +6,7 @@ The current design of Momentum assumes that #mmove traffic will be the exception
 
 Sometimes a client doesn't know until the message is injected which binding to assign it to, but often this is known beforehand. When you do know which binding a message will be assigned to, it is best practice to associate a specific Listener IP with a specific binding (or binding group) by using `Duravip_Follow` in the Listener stanza. Injecting to a given Listener means that the outbound binding is always local. The alternative is to always inject to binding groups and have each binding group contain a preferred binding on each node, so that delivery is always local.
 
-If you wish to determine the amount of traffic on the #mmove binding, use the [mailq](console_commands.mailq.php "mailq") command from the system console.
+If you wish to determine the amount of traffic on the #mmove binding, use the [mailq](console_commands.mailq "mailq") command from the system console.
 
 ### ECmmove2
 

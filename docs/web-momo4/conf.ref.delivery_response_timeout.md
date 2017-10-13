@@ -40,4 +40,4 @@ domain "gcm.example.com" {
 <a name="idp24331008"></a>
 ## See Also
 
-[idle_timeout](conf.ref.idle_timeout.php "idle_timeout"), [delivery_method](conf.ref.delivery_method.php "delivery_method"), and [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/)
+[idle_timeout](conf.ref.idle_timeout "idle_timeout"), [delivery_method](conf.ref.delivery_method.php "delivery_method"), and [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/)

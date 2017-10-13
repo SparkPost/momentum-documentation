@@ -4,13 +4,13 @@
 
 <dl class="toc">
 
-<dt>[17.1\. Control_Listener Configuration](control_listener.php#control_listener.config)</dt>
+<dt>[17.1\. Control_Listener Configuration](control_listener#control_listener.config)</dt>
 
-<dt>[17.2\. Control_Listener Authentication](control_auth.php)</dt>
+<dt>[17.2\. Control_Listener Authentication](control_auth)</dt>
 
-<dt>[17.3\. Control_Listener Accounting](control_acct.php)</dt>
+<dt>[17.3\. Control_Listener Accounting](control_acct)</dt>
 
-<dt>[17.4\. Control_Listener Authorization](control_authz.php)</dt>
+<dt>[17.4\. Control_Listener Authorization](control_authz)</dt>
 
 </dl>
 
@@ -34,10 +34,10 @@ In this example, the Unix domain socket is located in `tmp`, and the endpoint fo
 
 In addition, the Control_Listener supports a `Timeout` option that specifies a timeout for idle control connections. Default value is `60` seconds.
 
-For details about the non-module specific configuration options that are valid in the Control_Listener and its nested scopes, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For details about the non-module specific configuration options that are valid in the Control_Listener and its nested scopes, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
-Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
+Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
-For general information regarding listeners, see [Section 15.4, “Listeners”](listeners.php "15.4. Listeners").
+For general information regarding listeners, see [Section 15.4, “Listeners”](listeners "15.4. Listeners").
 
-The Control_Listener supports a number of extended properties including `ALWAYS-ALLOW`, `LOGIN` and `DIGEST-MD5`. For more information, see [Section 17.2, “Control_Listener Authentication”](control_auth.php "17.2. Control_Listener Authentication").
+The Control_Listener supports a number of extended properties including `ALWAYS-ALLOW`, `LOGIN` and `DIGEST-MD5`. For more information, see [Section 17.2, “Control_Listener Authentication”](control_auth "17.2. Control_Listener Authentication").

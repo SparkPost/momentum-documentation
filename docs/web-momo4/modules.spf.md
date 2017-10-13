@@ -49,7 +49,7 @@ senderid "senderid" {
 
 ### Note
 
-To alter the SMTP session disposition, use scripts to implement policy based on the results of SPF or SenderID validation. For more information about the scriptlet module, see [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet.php "71.60. scriptlet - Lua Policy Scripts").
+To alter the SMTP session disposition, use scripts to implement policy based on the results of SPF or SenderID validation. For more information about the scriptlet module, see [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet "71.60. scriptlet - Lua Policy Scripts").
 
 In the default configuration, the SPF modules have the following settings:
 

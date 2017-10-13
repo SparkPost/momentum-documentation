@@ -19,4 +19,4 @@ unresolvableproblems.com purged, 62415 messages failed.
 <a name="idp13053504"></a>
 ## See Also
 
-[fail domain](console_commands.fail_domain.php "fail domain")
+[fail domain](console_commands.fail_domain "fail domain")

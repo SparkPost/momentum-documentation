@@ -37,4 +37,4 @@ authorization is valid in the global scope.
 <a name="idp23558608"></a>
 ## See Also
 
-[msys.registerAuth](lua.ref.msys.registerAuth.php "msys.registerAuth"), [Section 71.8, “auth_ds – Datasource based SMTP Authentication”](modules.auth_ds.php "71.8. auth_ds – Datasource based SMTP Authentication") and [Section 17.4, “Control_Listener Authorization”](control_authz.php "17.4. Control_Listener Authorization")
+[msys.registerAuth](lua.ref.msys.registerAuth "msys.registerAuth"), [Section 71.8, “auth_ds – Datasource based SMTP Authentication”](modules.auth_ds.php "71.8. auth_ds – Datasource based SMTP Authentication") and [Section 17.4, “Control_Listener Authorization”](control_authz.php "17.4. Control_Listener Authorization")

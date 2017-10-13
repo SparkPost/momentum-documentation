@@ -34,4 +34,4 @@ This command will also display Google Push notification connections as "http_han
 <a name="idp13875632"></a>
 ## See Also
 
-[show inbound](console_commands.show_inbound.php "show inbound") and [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/)
+[show inbound](console_commands.show_inbound "show inbound") and [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/)

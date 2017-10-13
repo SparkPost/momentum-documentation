@@ -63,4 +63,4 @@ msys.registerModule("validate_mailfrom", mod);
 <a name="idp17252688"></a>
 ## See Also
 
-[msys.audit.inbound_session_count](lua.ref.msys.audit.inbound_session_count.php "msys.audit.inbound_session_count"), [msys.audit.rejections](lua.ref.msys.audit.rejections.php "msys.audit.rejections"), [msys.audit.receptions](lua.ref.msys.audit.receptions.php "msys.audit.receptions")
+[msys.audit.inbound_session_count](lua.ref.msys.audit.inbound_session_count "msys.audit.inbound_session_count"), [msys.audit.rejections](lua.ref.msys.audit.rejections.php "msys.audit.rejections"), [msys.audit.receptions](lua.ref.msys.audit.receptions.php "msys.audit.receptions")

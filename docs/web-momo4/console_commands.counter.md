@@ -61,7 +61,7 @@ VALUE       RESET_TIME       SEMANTICS COUNTER
 
 All content scanning modules record statistics on scanned virus and spam volume metrics. These metrics are exposed via the counters subsystem and can be viewed using the **counter list**      command.
 
-The **counter increment**           command increments the specified counter by one. For example, you can increment the `/vendor/sample` counter shown in [Example 73.1, “counter list”](console_commands.counter.php#console_commands.counter.list.example "Example 73.1. counter list") by issuing the command **counter increment /vendor/sample** .
+The **counter increment**           command increments the specified counter by one. For example, you can increment the `/vendor/sample` counter shown in [Example 73.1, “counter list”](console_commands.counter#console_commands.counter.list.example "Example 73.1. counter list") by issuing the command **counter increment /vendor/sample** .
 
 </dd>
 
@@ -77,14 +77,14 @@ Deletes a counter and the **counter reset**       sets a counter to `0`.
 
 You can also display and manipulate counters through the following Lua functions:
 
-*   [msys.counter.add](lua.ref.msys.counter.add.php "msys.counter.add")
+*   [msys.counter.add](lua.ref.msys.counter.add "msys.counter.add")
 
-*   [msys.counter.inc](lua.ref.msys.counter.inc.php "msys.counter.inc")
+*   [msys.counter.inc](lua.ref.msys.counter.inc "msys.counter.inc")
 
-*   [msys.counter.open](lua.ref.msys.counter.open.php "msys.counter.open")
+*   [msys.counter.open](lua.ref.msys.counter.open "msys.counter.open")
 
-*   [msys.counter.read](lua.ref.msys.counter.read.php "msys.counter.read")
+*   [msys.counter.read](lua.ref.msys.counter.read "msys.counter.read")
 
-*   [msys.counter.reset](lua.ref.msys.counter.reset.php "msys.counter.reset")
+*   [msys.counter.reset](lua.ref.msys.counter.reset "msys.counter.reset")
 
-*   [msys.counter.unlink](lua.ref.msys.counter.unlink.php "msys.counter.unlink")
+*   [msys.counter.unlink](lua.ref.msys.counter.unlink "msys.counter.unlink")

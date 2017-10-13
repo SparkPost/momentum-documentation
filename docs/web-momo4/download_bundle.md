@@ -2,7 +2,7 @@
 
 Whether you intend to perform a **new install**         or an **upgrade** you need to download the software bundle **on all nodes** .
 
-1.  Download the appropriate Momentum software bundle from the [Message Systems Support website](https://support.messagesystems.com/start.php) for every node that you will install or upgrade.
+1.  Download the appropriate Momentum software bundle from the [Message Systems Support website](https://support.messagesystems.com/start) for every node that you will install or upgrade.
 
 2.  Copy the bundle to the `/var/tmp` directory on each of the nodes.
 

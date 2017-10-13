@@ -4,9 +4,9 @@
 
 <dl class="toc">
 
-<dt>[23.1\. DKIM Signing](using_dkim.php#using_dkim.signing)</dt>
+<dt>[23.1\. DKIM Signing](using_dkim#using_dkim.signing)</dt>
 
-<dt>[23.2\. DKIM Validation](using_dkim.validation.php)</dt>
+<dt>[23.2\. DKIM Validation](using_dkim.validation)</dt>
 
 </dl>
 
@@ -14,7 +14,7 @@ DomainKeys Identified Mail (DKIM) is a mechanism that allows verification of the
 
 To determine subsequent handling of incoming email messages, service providers may use the success/failure of DKIM signature verification or the lack of a DKIM signature. The provider can drop invalid messages without impacting the final recipient, exposing the results of DKIM verification directly to the recipient, or exposing the lack of a signature directly to the recipient. Additionally, service providers may use signature verification as the basis for persistent reputation profiles to support anti-spam policy systems or to share with other service providers.
 
-[Figure 23.1, “DKIM schematic”](using_dkim.php#figure_dkim_schematic "Figure 23.1. DKIM schematic") gives a graphical view of how DKIM works.
+[Figure 23.1, “DKIM schematic”](using_dkim#figure_dkim_schematic "Figure 23.1. DKIM schematic") gives a graphical view of how DKIM works.
 
 <a name="figure_dkim_schematic"></a>
 
@@ -52,17 +52,17 @@ Enabling DKIM signing in Momentum is a two-step process:
 
 1.  Generate public and private keys for each signing domain and create the DKIM public key DNS records for those domains.
 
-    *   For instructions, see [Section 23.1.1, “Generating DKIM Keys”](using_dkim.php#using_dkim.generating "23.1.1. Generating DKIM Keys")
+    *   For instructions, see [Section 23.1.1, “Generating DKIM Keys”](using_dkim#using_dkim.generating "23.1.1. Generating DKIM Keys")
 
 2.  Configure Momentum to conditionally attach DKIM signatures to emails that are submitted into the MTA.
 
-    *   Load the opendkim module. For details, see [Section 71.50, “opendkim – Open Source DKIM”](modules.opendkim.php "71.50. opendkim – Open Source DKIM").
+    *   Load the opendkim module. For details, see [Section 71.50, “opendkim – Open Source DKIM”](modules.opendkim "71.50. opendkim – Open Source DKIM").
 
-    *   Configure the opendkim module to sign messages or write policy to do so at runtime using Lua functions. For details, see [Section 71.50.2, “Lua Functions”](modules.opendkim.php#modules.opendkim.lua.functions "71.50.2. Lua Functions").
+    *   Configure the opendkim module to sign messages or write policy to do so at runtime using Lua functions. For details, see [Section 71.50.2, “Lua Functions”](modules.opendkim#modules.opendkim.lua.functions "71.50.2. Lua Functions").
 
-    *   Set the `opendkim_sign` option to `true` in the appropriate scope to enable DKIM signing on a global, per domain, per binding, or per binding-per domain basis. For details, see [opendkim_sign](conf.ref.opendkim_sign.php "opendkim_sign").
+    *   Set the `opendkim_sign` option to `true` in the appropriate scope to enable DKIM signing on a global, per domain, per binding, or per binding-per domain basis. For details, see [opendkim_sign](conf.ref.opendkim_sign "opendkim_sign").
 
-To control how OpenDKIM signing statistics are recorded, see [signing_stats](conf.ref.signing_stats.php "signing_stats"). The console command [signing_stats](console_commands.signing_stats.php "signing_stats") is used to examine signing statistics and [signing_stats reset](console_commands.signing_stats_reset.php "signing_stats reset") resets statistics.
+To control how OpenDKIM signing statistics are recorded, see [signing_stats](conf.ref.signing_stats "signing_stats"). The console command [signing_stats](console_commands.signing_stats.php "signing_stats") is used to examine signing statistics and [signing_stats reset](console_commands.signing_stats_reset.php "signing_stats reset") resets statistics.
 
 ### 23.1.1. Generating DKIM Keys
 

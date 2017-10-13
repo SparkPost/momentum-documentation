@@ -1,6 +1,6 @@
 ## 71.37. http_logger – HTTP Requests and Responses
 
-The http_logger module enables logging of HTTP requests and responses made by the [httpsrv Module](https://support.messagesystems.com/docs/web-rest-injector/rest.configuring.php).
+The http_logger module enables logging of HTTP requests and responses made by the [httpsrv Module](https://support.messagesystems.com/docs/web-rest-injector/rest.configuring).
 
 ### 71.37.1. Configuration
 
@@ -26,10 +26,10 @@ The following is the configuration option defined by this module:
 
 Define the logfile used by the http_logger. The default value for this option is `file:///var/log/ecelerity/httplog.ec`.
 
-For details about the format of `httplog.ec`, see [Section 35.5, “`httplog`”](log_formats.httplog.php "35.5. httplog").
+For details about the format of `httplog.ec`, see [Section 35.5, “`httplog`”](log_formats.httplog "35.5. httplog").
 
 </dd>
 
 </dl>
 
-The default log file created by this logger is rotated by the utility script **ec_rotate**. For more information, see [ec_rotate](executable.ec_rotate.php "ec_rotate").
+The default log file created by this logger is rotated by the utility script **ec_rotate**. For more information, see [ec_rotate](executable.ec_rotate "ec_rotate").

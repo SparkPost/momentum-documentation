@@ -17,6 +17,6 @@ This function sets the message body (minus headers) if it is provided and return
 
 When called without parameters, this function returns content that does not have the end-of-data marker (`CRLF.CRLF`). However, when setting the message body you must append the end-of-data marker to the content.
 
-If you are modifying content be sure set readonly to `false` using the [msg:mime](lua.ref.msg_mime.php "msg:mime") function.
+If you are modifying content be sure set readonly to `false` using the [msg:mime](lua.ref.msg_mime "msg:mime") function.
 
 Enable this function with the statement `require('msys.extended.message');`.

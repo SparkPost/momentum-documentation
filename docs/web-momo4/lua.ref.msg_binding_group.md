@@ -13,7 +13,7 @@ msg:binding_group — Sets the binding_group to the named binding, if one is pro
 
 Sets the binding to one in the named binding_group, if one is provided. Returns the current or new value for the binding_group.
 
-If the [adaptive module](modules.adaptive.php "71.3. adaptive – Adaptive Delivery") is enabled the logic for choosing a binding is as follows:
+If the [adaptive module](modules.adaptive "71.3. adaptive – Adaptive Delivery") is enabled the logic for choosing a binding is as follows:
 
 1.  An unsuspended binding local to the MTA
 
@@ -26,4 +26,4 @@ Enable this function with the statement `require('msys.extended.message');`.
 <a name="idp16675856"></a>
 ## See Also
 
-[msg:binding](lua.ref.msg_binding.php "msg:binding")
+[msg:binding](lua.ref.msg_binding "msg:binding")

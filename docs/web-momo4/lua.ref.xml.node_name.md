@@ -31,16 +31,16 @@ for kid in child:children() do
 end
 ```
 
-The code shown in [Example 70.81, “node:name example”](lua.ref.xml.node_name.php#lua.ref.xml.node_name.example "Example 70.81. node:name example") results in the following output:
+The code shown in [Example 70.81, “node:name example”](lua.ref.xml.node_name#lua.ref.xml.node_name.example "Example 70.81. node:name example") results in the following output:
 
 ```
 item
 text
 ```
 
-If you remove the line, `child:contents("I am a child node.");`, from [Example 70.81, “node:name example”](lua.ref.xml.node_name.php#lua.ref.xml.node_name.example "Example 70.81. node:name example"), `item` is all that will be output.
+If you remove the line, `child:contents("I am a child node.");`, from [Example 70.81, “node:name example”](lua.ref.xml.node_name#lua.ref.xml.node_name.example "Example 70.81. node:name example"), `item` is all that will be output.
 
 <a name="idp19474144"></a>
 ### See Also
 
-[xml.parsexml](lua.ref.xml.parsexml.php "xml.parsexml") and [node:contents](lua.ref.xml.node_contents.php "node:contents")
+[xml.parsexml](lua.ref.xml.parsexml "xml.parsexml") and [node:contents](lua.ref.xml.node_contents.php "node:contents")

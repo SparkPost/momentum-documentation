@@ -37,9 +37,9 @@ In this case the output is as follows:
 
 ### Note
 
-The `print` function will automatically convert a node to string so the use of `child:tostring` in [Example 70.82, “node:tostring example”](lua.ref.xml.node_tostring.php#lua.ref.xml.node_tostring.example "Example 70.82. node:tostring example") is not strictly necessary.
+The `print` function will automatically convert a node to string so the use of `child:tostring` in [Example 70.82, “node:tostring example”](lua.ref.xml.node_tostring#lua.ref.xml.node_tostring.example "Example 70.82. node:tostring example") is not strictly necessary.
 
 <a name="idp19493120"></a>
 ### See Also
 
-[xml.parsexml](lua.ref.xml.parsexml.php "xml.parsexml")
+[xml.parsexml](lua.ref.xml.parsexml "xml.parsexml")

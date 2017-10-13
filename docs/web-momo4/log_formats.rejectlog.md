@@ -1,6 +1,6 @@
 ## 35.9. `rejectlog`
 
-The `rejectlog` stores records of inbound messages that are rejected by Momentum, either due to policy or protocol deviations. It lists the full context for all rejected messages, as well as a summary of why the message was rejected, and it is configured in the [ec_logger](modules.ec_logger.php "71.30. EC_logger – Momentum-Style Logging").
+The `rejectlog` stores records of inbound messages that are rejected by Momentum, either due to policy or protocol deviations. It lists the full context for all rejected messages, as well as a summary of why the message was rejected, and it is configured in the [ec_logger](modules.ec_logger "71.30. EC_logger – Momentum-Style Logging").
 
 ### 35.9.1. Rejection Records
 

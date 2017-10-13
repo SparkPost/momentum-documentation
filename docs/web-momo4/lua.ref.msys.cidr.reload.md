@@ -18,4 +18,4 @@ Enable this function with the statement `require('msys.cidr');`.
 <a name="idp17737232"></a>
 ## See Also
 
-[Section 71.16, “cidrdb – CIDRDB”](modules.cidrdb.php "71.16. cidrdb – CIDRDB"), [msys.cidr.define](lua.ref.msys.cidr.define.php "msys.cidr.define"), [msys.cidr.query](lua.ref.msys.cidr.query.php "msys.cidr.query")
+[Section 71.16, “cidrdb – CIDRDB”](modules.cidrdb "71.16. cidrdb – CIDRDB"), [msys.cidr.define](lua.ref.msys.cidr.define.php "msys.cidr.define"), [msys.cidr.query](lua.ref.msys.cidr.query.php "msys.cidr.query")

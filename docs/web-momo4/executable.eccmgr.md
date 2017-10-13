@@ -81,4 +81,4 @@ Show version information.
 <a name="idp12193728"></a>
 ## See Also
 
-[eccmgr_ctl](executable.eccmgr_ctl.php "eccmgr_ctl"), [Section 16.2, “`eccluster.conf` File”](conf.ref.eccluster.conf.php "16.2. eccluster.conf File"), [Chapter 38, *Using the Cluster Manager (**eccmgr**)*](cluster.config.operations.php "Chapter 38. Using the Cluster Manager (eccmgr)") 
+[eccmgr_ctl](executable.eccmgr_ctl "eccmgr_ctl"), [Section 16.2, “`eccluster.conf` File”](conf.ref.eccluster.conf.php "16.2. eccluster.conf File"), [Chapter 38, *Using the Cluster Manager (**eccmgr**)*](cluster.config.operations.php "Chapter 38. Using the Cluster Manager (eccmgr)") 

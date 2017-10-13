@@ -15,7 +15,7 @@ vctx: userdata, validate_context type
 <a name="idp18427664"></a>
 ## Description
 
-Use this function to scan email. You must load and correctly configure the beik module before using this function. Be sure to load the beik module in passive mode by setting `Enabled` to `false`. For details, see [Section 71.10, “beik – Symantec Brightmail™ Engine Integration Kit”](modules.beik.php "71.10. beik – Symantec Brightmail™ Engine Integration Kit").
+Use this function to scan email. You must load and correctly configure the beik module before using this function. Be sure to load the beik module in passive mode by setting `Enabled` to `false`. For details, see [Section 71.10, “beik – Symantec Brightmail™ Engine Integration Kit”](modules.beik "71.10. beik – Symantec Brightmail™ Engine Integration Kit").
 
 It can be invoked in the data, spool, or each_rcpt phases, and it will not work at the connect, ehlo, mailfrom, or rcptto phases.
 

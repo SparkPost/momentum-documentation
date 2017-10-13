@@ -18,4 +18,4 @@ Enable this function with the statement `require('msys.extended.message');`.
 <a name="idp17019488"></a>
 ## See Also
 
-[msgpart:addLastChild](lua.ref.msgpart_addLastChild.php "msgpart:addLastChild")
+[msgpart:addLastChild](lua.ref.msgpart_addLastChild "msgpart:addLastChild")

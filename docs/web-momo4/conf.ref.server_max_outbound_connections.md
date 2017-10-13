@@ -14,7 +14,7 @@ Limits the number of total connections that will be established concurrently wit
 
 The default value is `75000`; however, the assigned value in the default configuration file is `20000`.
 
-Note that this parameter is intimately related to [server_max_file_descriptors](conf.ref.server_max_file_descriptors.php "server_max_file_descriptors") since the number of available OS file descriptors will limit the number of messages that can be queued simultaneously.
+Note that this parameter is intimately related to [server_max_file_descriptors](conf.ref.server_max_file_descriptors "server_max_file_descriptors") since the number of available OS file descriptors will limit the number of messages that can be queued simultaneously.
 
 Within a `Binding` stanza, this option will regulate the total number of connections through that particular binding.
 
@@ -26,4 +26,4 @@ server_max_outbound_connections is valid in the binding, binding_group and globa
 <a name="idp26539872"></a>
 ## See Also
 
-[server_reserve_outbound_connections](conf.ref.server_reserve_outbound_connections.php "server_reserve_outbound_connections"), [server_max_file_descriptors](conf.ref.server_max_file_descriptors.php "server_max_file_descriptors")
+[server_reserve_outbound_connections](conf.ref.server_reserve_outbound_connections "server_reserve_outbound_connections"), [server_max_file_descriptors](conf.ref.server_max_file_descriptors.php "server_max_file_descriptors")

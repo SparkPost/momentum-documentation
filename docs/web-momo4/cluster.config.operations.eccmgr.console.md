@@ -8,7 +8,7 @@ The following console commands can be issued from within the **eccmgr** service.
 
 <dd>
 
-Broadcast a console command to the cluster. For a list of available console commands, see [Chapter 67, *Console Commands Summary*](console_commands.php "Chapter 67. Console Commands Summary") .
+Broadcast a console command to the cluster. For a list of available console commands, see [Chapter 67, *Console Commands Summary*](console_commands "Chapter 67. Console Commands Summary") .
 
 </dd>
 
@@ -70,7 +70,7 @@ Show a help message, listing available commands and their brief usages.
 
 Show general information about the cluster group and the cluster node.
 
-This command is analogous to the similarly named cluster module console command, described in [Section 71.19.4, “Cluster Module-specific Console Commands”](modules.cluster.php#modules.cluster.console "71.19.4. Cluster Module-specific Console Commands").
+This command is analogous to the similarly named cluster module console command, described in [Section 71.19.4, “Cluster Module-specific Console Commands”](modules.cluster#modules.cluster.console "71.19.4. Cluster Module-specific Console Commands").
 
 </dd>
 
@@ -96,7 +96,7 @@ Retrieve the responses to a unicasted/broadcasted command from the specified nod
 
 Show current cluster members and their roles (nodes, manager or other).
 
-This command is analogous to the similarly named cluster module console command described in [Section 71.19.4, “Cluster Module-specific Console Commands”](modules.cluster.php#modules.cluster.console "71.19.4. Cluster Module-specific Console Commands"), i.e., the output of **show cluster membership**                    while in XML format, is identical to the output of the cluster module command **cluster membership** .
+This command is analogous to the similarly named cluster module console command described in [Section 71.19.4, “Cluster Module-specific Console Commands”](modules.cluster#modules.cluster.console "71.19.4. Cluster Module-specific Console Commands"), i.e., the output of **show cluster membership**                    while in XML format, is identical to the output of the cluster module command **cluster membership** .
 
 </dd>
 
@@ -112,7 +112,7 @@ Shutdown the cluster manager.
 
 <dd>
 
-Unicast a [console command](console_commands.php "Chapter 67. Console Commands Summary") to the specified node in the cluster.
+Unicast a [console command](console_commands "Chapter 67. Console Commands Summary") to the specified node in the cluster.
 
 </dd>
 
@@ -128,7 +128,7 @@ Display version and copyright information of eccmgr.
 
 <dd>
 
-You can use the [config](console_commands.config.php "config") commands for online configuration tuning. Commonly used commands include:
+You can use the [config](console_commands.config "config") commands for online configuration tuning. Commonly used commands include:
 
 <dl class="variablelist">
 

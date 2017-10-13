@@ -4,19 +4,19 @@
 
 <dl class="toc">
 
-<dt>[16.1\. Cluster-specific Configuration Files](cluster.php#cluster.config_files)</dt>
+<dt>[16.1\. Cluster-specific Configuration Files](cluster#cluster.config_files)</dt>
 
-<dt>[16.2\. `eccluster.conf` File](conf.ref.eccluster.conf.php)</dt>
+<dt>[16.2\. `eccluster.conf` File](conf.ref.eccluster.conf)</dt>
 
-<dt>[16.3\. `ecelerity-cluster.conf` File](conf.ref.ecelerity_cluster.conf.php)</dt>
+<dt>[16.3\. `ecelerity-cluster.conf` File](conf.ref.ecelerity_cluster.conf)</dt>
 
-<dt>[16.4\. `msgc_server.conf` File](conf.ref.msgc_server.conf.php)</dt>
+<dt>[16.4\. `msgc_server.conf` File](conf.ref.msgc_server.conf)</dt>
 
-<dt>[16.5\. Cluster-specific Listeners](cluster.listeners.php)</dt>
+<dt>[16.5\. Cluster-specific Listeners](cluster.listeners)</dt>
 
-<dt>[16.6\. Configuring Momentum for High Availability and Failover](cluster.config.failover.php)</dt>
+<dt>[16.6\. Configuring Momentum for High Availability and Failover](cluster.config.failover)</dt>
 
-<dt>[16.7\. Configuring Riak in a Cluster](cluster.riak.configuration.php)</dt>
+<dt>[16.7\. Configuring Riak in a Cluster](cluster.riak.configuration)</dt>
 
 </dl>
 
@@ -42,35 +42,35 @@ Momentum's installer does not support setting up subclusters during installation
 
 ## 16.1. Cluster-specific Configuration Files
 
-A Momentum cluster installation is configured using the [`ecelerity.conf`](conf.ref.ecelerity.conf.php "15.6. ecelerity.conf File") file similar to a Momentum single node configuration. However, additional configuration files are needed:
+A Momentum cluster installation is configured using the [`ecelerity.conf`](conf.ref.ecelerity.conf "15.6. ecelerity.conf File") file similar to a Momentum single node configuration. However, additional configuration files are needed:
 
-*   [`eccluster.conf`](conf.ref.eccluster.conf.php "16.2. eccluster.conf File") - Momentum Cluster Manager configuration file
+*   [`eccluster.conf`](conf.ref.eccluster.conf "16.2. eccluster.conf File") - Momentum Cluster Manager configuration file
 
-*   [`ecelerity_cluster.conf`](conf.ref.ecelerity_cluster.conf.php "16.3. ecelerity-cluster.conf File") - Cluster-specific configuration file included from within `ecelerity.conf`
+*   [`ecelerity_cluster.conf`](conf.ref.ecelerity_cluster.conf "16.3. ecelerity-cluster.conf File") - Cluster-specific configuration file included from within `ecelerity.conf`
 
-*   [`msgc_server.conf`](conf.ref.msgc_server.conf.php "16.4. msgc_server.conf File") - Cluster messaging bus configuration file included from within the `eccluster.conf` file on the cluster manager and from the `ecelerity-cluster.conf` file on nodes
+*   [`msgc_server.conf`](conf.ref.msgc_server.conf "16.4. msgc_server.conf File") - Cluster messaging bus configuration file included from within the `eccluster.conf` file on the cluster manager and from the `ecelerity-cluster.conf` file on nodes
 
 The default cluster-enabled configuration is located in the `/opt/msys/ecelerity/etc/conf/default` subdirectory. Simple deployments will not typically need to edit the cluster portions of this configuration. If you intend to use DuraVIP™ or to more tightly control the scope of replicate data, you will need to edit the configuration in the cluster stanza of the `ecelerity-cluster.conf` file.
 
-There are numerous configuration options that are cluster-specific. Some of these options such as `cluster_max_outbound_connections` are visible in various scopes, but most options specific to cluster configuration are defined in the [cluster](modules.cluster.php "71.19. cluster – Cluster") module.
+There are numerous configuration options that are cluster-specific. Some of these options such as `cluster_max_outbound_connections` are visible in various scopes, but most options specific to cluster configuration are defined in the [cluster](modules.cluster "71.19. cluster – Cluster") module.
 
-The non-module specific configuration options are listed in [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+The non-module specific configuration options are listed in [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
-Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
+Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
-For general information about Momentum's configuration files, see [Section 15.1, “Configuration Files”](conf.overview.php#conf.files "15.1. Configuration Files").
+For general information about Momentum's configuration files, see [Section 15.1, “Configuration Files”](conf.overview#conf.files "15.1. Configuration Files").
 
-For additional details about editing your configuration files, see [Section 15.1.4, “Changing Configuration Files”](conf.overview.php#conf.manual.changes "15.1.4. Changing Configuration Files").
+For additional details about editing your configuration files, see [Section 15.1.4, “Changing Configuration Files”](conf.overview#conf.manual.changes "15.1.4. Changing Configuration Files").
 
 ### 16.1.1. Cluster-specific Configuration Management
 
-Momentum configuration files are maintained in a version control repository and exported to your cluster network via the [`ecconfigd`](conf.overview.php#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)") service running on the cluster manager. This daemon is auto-configuring and will replicate your configuration repositories to all participating cluster nodes. On the cluster manager, the repository resides in the `/var/ecconfigd/repo` directory. Nodes pull their configuration from this repository and store their working copy in the `/opt/msys/ecelerity/etc/conf` directory.
+Momentum configuration files are maintained in a version control repository and exported to your cluster network via the [`ecconfigd`](conf.overview#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)") service running on the cluster manager. This daemon is auto-configuring and will replicate your configuration repositories to all participating cluster nodes. On the cluster manager, the repository resides in the `/var/ecconfigd/repo` directory. Nodes pull their configuration from this repository and store their working copy in the `/opt/msys/ecelerity/etc/conf` directory.
 
-The default installation has a cron job deployed on the nodes that uses [**eccfg pull** ](executable.eccfg.php "eccfg") to update the local configuration from the `ecconfigd` service. **eccfg** is built in such a way that these updates are applied atomically to the configuration checkout directory.
+The default installation has a cron job deployed on the nodes that uses [**eccfg pull** ](executable.eccfg "eccfg") to update the local configuration from the `ecconfigd` service. **eccfg** is built in such a way that these updates are applied atomically to the configuration checkout directory.
 
 The tools that operate on the configuration checkout directory try very hard to avoid leaving it in a broken state. Every minute, each node will attempt to update its directory to match the repository. If you have made local changes to the directory, the update will attempt to merge updates from the repository with your changes. The update process will only modify the directory if the complete revision was able to be pulled. In other words, it will not modify the configuration checkout directory if doing so causes a conflict and will never leave a directory with a half-applied update.
 
-In some situations, it is possible to put the configuration replication into a conflicted state. For instance, in a two node cluster, if one of the nodes is unplugged from the network while configuration changes are made and committed on both nodes, when the network cable is re-connected, the configuration will attempt to sync but will notice that conflicting changes have been made. If conflicting changes were found, `ecconfigd` will warn you and provide you with instructions on how to resolve the conflict. You may need to manually resolve the conflicting configuration files. For instructions on changing configuration files, see [Section 15.1.4, “Changing Configuration Files”](conf.overview.php#conf.manual.changes "15.1.4. Changing Configuration Files").
+In some situations, it is possible to put the configuration replication into a conflicted state. For instance, in a two node cluster, if one of the nodes is unplugged from the network while configuration changes are made and committed on both nodes, when the network cable is re-connected, the configuration will attempt to sync but will notice that conflicting changes have been made. If conflicting changes were found, `ecconfigd` will warn you and provide you with instructions on how to resolve the conflict. You may need to manually resolve the conflicting configuration files. For instructions on changing configuration files, see [Section 15.1.4, “Changing Configuration Files”](conf.overview#conf.manual.changes "15.1.4. Changing Configuration Files").
 
 **16.1.1.1. Repository Working Copy for Cluster**
 
@@ -103,7 +103,7 @@ By default the order is:
 
 Directories are separated by the standard path separator.
 
-If you wish to change the search order, set the environment variable `EC_CONF_SEARCH_PATH`. For more information about `EC_CONF_SEARCH_PATH`, see [Chapter 31, *Configuring the Environment File*](environment_file.php "Chapter 31. Configuring the Environment File") .
+If you wish to change the search order, set the environment variable `EC_CONF_SEARCH_PATH`. For more information about `EC_CONF_SEARCH_PATH`, see [Chapter 31, *Configuring the Environment File*](environment_file "Chapter 31. Configuring the Environment File") .
 
 ### 16.1.2. Using Node-local `include` Files
 
@@ -124,4 +124,4 @@ Set `OPTION` in a `node-local.conf` file in all the /opt/msys/ecelerity/etc/conf
 
 Add an "include node-local.conf" statement to `/opt/msys/ecelerity/etc/default/ecelerity.conf`.
 
-If there are major differences between node configurations, it is probably simpler to create a separate configuration file for each node as described in [Section 16.1.1.1, “Repository Working Copy for Cluster”](cluster.php#cluster.config_files.mgmt.cluster "16.1.1.1. Repository Working Copy for Cluster").
+If there are major differences between node configurations, it is probably simpler to create a separate configuration file for each node as described in [Section 16.1.1.1, “Repository Working Copy for Cluster”](cluster#cluster.config_files.mgmt.cluster "16.1.1.1. Repository Working Copy for Cluster").

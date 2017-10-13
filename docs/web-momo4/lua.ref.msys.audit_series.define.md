@@ -68,7 +68,7 @@ end
 msys.registerModule("mymodule", mod);
 ```
 
-The series can be queried using the [msys.audit_series.count](lua.ref.msys.audit_series.count.php "msys.audit_series.count") function.
+The series can be queried using the [msys.audit_series.count](lua.ref.msys.audit_series.count "msys.audit_series.count") function.
 
 Enable this function with the statement `require('msys.audit_series');`.
 
@@ -84,4 +84,4 @@ The accepted convention is to require that, in circumstances where a configurati
 <a name="idp17438608"></a>
 ## See Also
 
-[msys.audit_series.count](lua.ref.msys.audit_series.count.php "msys.audit_series.count"), [msys.audit_series.add](lua.ref.msys.audit_series.add.php "msys.audit_series.add"), [msys.audit_series.remove_item](lua.ref.msys.audit_series.remove_item.php "msys.audit_series.remove_item"), [use_ipv6](conf.ref.use_ipv6.php "use_ipv6"), [Section 71.41, “inbound_audit – Inbound traffic analytics”](modules.inbound_audit.php "71.41. inbound_audit – Inbound traffic analytics")
+[msys.audit_series.count](lua.ref.msys.audit_series.count "msys.audit_series.count"), [msys.audit_series.add](lua.ref.msys.audit_series.add.php "msys.audit_series.add"), [msys.audit_series.remove_item](lua.ref.msys.audit_series.remove_item.php "msys.audit_series.remove_item"), [use_ipv6](conf.ref.use_ipv6.php "use_ipv6"), [Section 71.41, “inbound_audit – Inbound traffic analytics”](modules.inbound_audit.php "71.41. inbound_audit – Inbound traffic analytics")

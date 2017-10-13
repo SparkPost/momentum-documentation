@@ -15,4 +15,4 @@ This command takes a single argument in the form of a message id and will perman
 <a name="idp289888"></a>
 ## See Also
 
-[message fail quiet](console_commands.message_fail_quiet.php "message fail quiet")
+[message fail quiet](console_commands.message_fail_quiet "message fail quiet")

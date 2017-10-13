@@ -26,7 +26,7 @@ Messages rejected at this hook point are not reported in the UI as rejections.
 
 <dd>
 
-A pointer to the new `ec_message`. For a description of this struct see [ec_message](https://support.messagesystems.com/docs/web-c-api/structs.ec_message.php).
+A pointer to the new `ec_message`. For a description of this struct see [ec_message](https://support.messagesystems.com/docs/web-c-api/structs.ec_message).
 
 </dd>
 
@@ -43,4 +43,4 @@ This hook will be called in any thread.
 <a name="idp6302544"></a>
 ## See Also
 
-[msg_gen Module](modules.msg_gen.php "71.48. msg_gen – Message Generation")
+[msg_gen Module](modules.msg_gen "71.48. msg_gen – Message Generation")

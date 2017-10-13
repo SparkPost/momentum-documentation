@@ -37,4 +37,4 @@ Show the man page for the **ec_console** command.
 <a name="idp11112080"></a>
 ## See Also
 
-[Chapter 67, *Console Commands Summary*](console_commands.php "Chapter 67. Console Commands Summary") , [Chapter 17, *Configuring Momentum's System Console*](control_listener.php "Chapter 17. Configuring Momentum's System Console") , [Chapter 37, *Using the System Console (**ec_console**)*](operations.php "Chapter 37. Using the System Console (ec_console)") 
+[Chapter 67, *Console Commands Summary*](console_commands "Chapter 67. Console Commands Summary") , [Chapter 17, *Configuring Momentum's System Console*](control_listener.php "Chapter 17. Configuring Momentum's System Console") , [Chapter 37, *Using the System Console (**ec_console**)*](operations.php "Chapter 37. Using the System Console (ec_console)") 

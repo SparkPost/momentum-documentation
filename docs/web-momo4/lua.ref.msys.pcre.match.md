@@ -44,4 +44,4 @@ The return values are as follows:
 <a name="idp18250160"></a>
 ## See Also
 
-[msys.pcre.split](lua.ref.msys.pcre.split.php "msys.pcre.split"), [msys.pcre.replace](lua.ref.msys.pcre.replace.php "msys.pcre.replace")
+[msys.pcre.split](lua.ref.msys.pcre.split "msys.pcre.split"), [msys.pcre.replace](lua.ref.msys.pcre.replace.php "msys.pcre.replace")

@@ -13,7 +13,7 @@ json.strerror — Return the description of a JSON error code
 `code: numeric`<a name="idp16571376"></a>
 ## Description
 
-This function returns a description of the JSON error code returned when [json.decode](lua.ref.json.decode.php "json.decode") fails.
+This function returns a description of the JSON error code returned when [json.decode](lua.ref.json.decode "json.decode") fails.
 
 <a name="lua.ref.json.strerror.example"></a>
 
@@ -50,4 +50,4 @@ The follow constants are defined and can be used to determine the cause of failu
 <a name="idp16594064"></a>
 ## See Also
 
-[json.new](lua.ref.json.new.php "json.new")
+[json.new](lua.ref.json.new "json.new")

@@ -1,10 +1,10 @@
 ## 57.2. Viewing Your Reports
 
-After you have selected your metrics and filters, view your reports by going to the corresponding sections as described in [Figure 57.1, “Navigating Reports”](web-ui.reports.php#figure_navigation_menu "Figure 57.1. Navigating Reports"). The UI generates all the reports using the filters that you selected in the Summary section with the exception of the Engagement and Adaptive Delivery section. The Engagement section only supports the time period and campaign filters, domain, campaign, and template filters. The Adaptive Delivery section only supports the time period, binding, and domain filters.
+After you have selected your metrics and filters, view your reports by going to the corresponding sections as described in [Figure 57.1, “Navigating Reports”](web-ui.reports#figure_navigation_menu "Figure 57.1. Navigating Reports"). The UI generates all the reports using the filters that you selected in the Summary section with the exception of the Engagement and Adaptive Delivery section. The Engagement section only supports the time period and campaign filters, domain, campaign, and template filters. The Adaptive Delivery section only supports the time period, binding, and domain filters.
 
 ### Note
 
-The graphs in the UI depend on your specific messaging solution including the configuration options that you set in the ecelerity.conf file. For example, there will be no entries in the 10+ bar of the graph shown in [Figure 57.14, “Accepted Report”](web-ui.reports.viewing.reports.php#figure_accepted_report "Figure 57.14. Accepted Report") if the `max_retries` option is set for less than ten. For details about Momentum’s configuration options, see [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+The graphs in the UI depend on your specific messaging solution including the configuration options that you set in the ecelerity.conf file. For example, there will be no entries in the 10+ bar of the graph shown in [Figure 57.14, “Accepted Report”](web-ui.reports.viewing.reports#figure_accepted_report "Figure 57.14. Accepted Report") if the `max_retries` option is set for less than ten. For details about Momentum’s configuration options, see [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
 
 All tables included in the reports support exporting the data to a CSV file. Click the Save as CSV button located above each table to export the data. The export file will include only the data that is available to view in the table.
 
@@ -18,7 +18,7 @@ Note that an entry of *N/A* in a table indicates that the metric does not suppor
 
 ### 57.2.1. Bounces Report
 
-Messages can bounce due to a wide variety of reasons. Some messages are not accepted by the ISP and are returned immediately, while others are accepted but later returned for some reason. The UI provides the Bounces report enabling you to view details about your bounced messages. This report includes bounce rate, bounce rates by category and by type, and reasons why the messages bounced. [Figure 57.10, “Bounces Report”](web-ui.reports.viewing.reports.php#figure_bounces_report "Figure 57.10. Bounces Report") shows an example report.
+Messages can bounce due to a wide variety of reasons. Some messages are not accepted by the ISP and are returned immediately, while others are accepted but later returned for some reason. The UI provides the Bounces report enabling you to view details about your bounced messages. This report includes bounce rate, bounce rates by category and by type, and reasons why the messages bounced. [Figure 57.10, “Bounces Report”](web-ui.reports.viewing.reports#figure_bounces_report "Figure 57.10. Bounces Report") shows an example report.
 
 <a name="figure_bounces_report"></a>
 
@@ -66,9 +66,9 @@ Bounce classifications for each category are listed below:
 
 *   Undetermined - Based on the language in the Delivery Status Notification (DSN) message, the response text could not be identified (Undetermined).
 
-These classifications correspond to Momentum's [Table 35.16, “Bounce Classification Codes”](bounce_logger.classification.codes.php#log_formats.bounce.classification.codes "Table 35.16. Bounce Classification Codes").
+These classifications correspond to Momentum's [Table 35.16, “Bounce Classification Codes”](bounce_logger.classification.codes#log_formats.bounce.classification.codes "Table 35.16. Bounce Classification Codes").
 
-[Figure 57.11, “Bounce Rates By Type and By Category”](web-ui.reports.viewing.reports.php#figure_bounces_by_category "Figure 57.11. Bounce Rates By Type and By Category") shows an example of the Block category expanded.
+[Figure 57.11, “Bounce Rates By Type and By Category”](web-ui.reports.viewing.reports#figure_bounces_by_category "Figure 57.11. Bounce Rates By Type and By Category") shows an example of the Block category expanded.
 
 <a name="figure_bounces_by_category"></a>
 
@@ -88,7 +88,7 @@ You can sort by any column in ascending or descending order by clicking the sort
 
 **57.2.1.2. Viewing Bounce Messages**
 
-The UI has the capability to drill down to the reasons why your messages bounced. This data is provided in the table in the lower area of the Bounces report. [Figure 57.12, “Bounce Messages Table”](web-ui.reports.viewing.reports.php#figure_bounce_messages "Figure 57.12. Bounce Messages Table") shows an example. Using this table, you can determine why messages bounced for each category, classification, and type described in the previous section.
+The UI has the capability to drill down to the reasons why your messages bounced. This data is provided in the table in the lower area of the Bounces report. [Figure 57.12, “Bounce Messages Table”](web-ui.reports.viewing.reports#figure_bounce_messages "Figure 57.12. Bounce Messages Table") shows an example. Using this table, you can determine why messages bounced for each category, classification, and type described in the previous section.
 
 <a name="figure_bounce_messages"></a>
 
@@ -116,7 +116,7 @@ You can filter the data further by Bounce Category or Bounce Classification to n
 
 ### 57.2.2. Rejections Report
 
-Messages injected into Momentum can be rejected due to policy or technical reasons such as missing data. The Rejections report gives details about those rejections including rejection rate and the particular reasons why the messages were rejected. [Figure 57.13, “Rejections Report”](web-ui.reports.viewing.reports.php#figure_rejections_report "Figure 57.13. Rejections Report") shows an example report.
+Messages injected into Momentum can be rejected due to policy or technical reasons such as missing data. The Rejections report gives details about those rejections including rejection rate and the particular reasons why the messages were rejected. [Figure 57.13, “Rejections Report”](web-ui.reports.viewing.reports#figure_rejections_report "Figure 57.13. Rejections Report") shows an example report.
 
 <a name="figure_rejections_report"></a>
 
@@ -138,7 +138,7 @@ Rejection Rate can be used to gauge the performance of your inbound messages. A 
 
 **57.2.2.1. Viewing Rejection Reasons**
 
-Momentum accepts messages for delivery using SMTP, ECStream, or HTTP. If a message is rejected, it is assigned a rejection reason that falls into one of three categories. The lower area of the Rejections report includes a table listing the rejection reasons along with their corresponding category, as shown in [Figure 57.13, “Rejections Report”](web-ui.reports.viewing.reports.php#figure_rejections_report "Figure 57.13. Rejections Report").
+Momentum accepts messages for delivery using SMTP, ECStream, or HTTP. If a message is rejected, it is assigned a rejection reason that falls into one of three categories. The lower area of the Rejections report includes a table listing the rejection reasons along with their corresponding category, as shown in [Figure 57.13, “Rejections Report”](web-ui.reports.viewing.reports#figure_rejections_report "Figure 57.13. Rejections Report").
 
 The following are the columns in the table:
 
@@ -154,13 +154,13 @@ The following are the columns in the table:
 
 *   Count - Number of messages that were rejected for the given reason, in the assigned category
 
-Note that the Rejection categories are also considered Admin Failures in the Bounces report. For details about Admin Failures, see [Section 57.2.1, “Bounces Report”](web-ui.reports.viewing.reports.php#web-ui.reports.bounces.report "57.2.1. Bounces Report").
+Note that the Rejection categories are also considered Admin Failures in the Bounces report. For details about Admin Failures, see [Section 57.2.1, “Bounces Report”](web-ui.reports.viewing.reports#web-ui.reports.bounces.report "57.2.1. Bounces Report").
 
 You can drill down to one category by filtering the data further. Click the filter icon next to Category to select a category from the drop-down list. Sort the table by any column to show different arrangements. For example, filter by Generation Rejection for Category, and then sort in ascending order by Count. The resulting table displays the reasons that caused messages to fail generation in ascending order of occurrence.
 
 ### 57.2.3. Accepted Report
 
-In any messaging campaign, you want your messages delivered and delivered quickly. Using the report provided in the Accepted section, you can view details about how many of your messages were accepted, the average delivery time and message size, and the number of delivery attempts required. [Figure 57.14, “Accepted Report”](web-ui.reports.viewing.reports.php#figure_accepted_report "Figure 57.14. Accepted Report") shows an example report.
+In any messaging campaign, you want your messages delivered and delivered quickly. Using the report provided in the Accepted section, you can view details about how many of your messages were accepted, the average delivery time and message size, and the number of delivery attempts required. [Figure 57.14, “Accepted Report”](web-ui.reports.viewing.reports#figure_accepted_report "Figure 57.14. Accepted Report") shows an example report.
 
 <a name="figure_accepted_report"></a>
 
@@ -182,7 +182,7 @@ Accepted Rate can be used to gauge the performance of your outbound messages. A 
 
 **57.2.3.1. Viewing Accepted Statistics**
 
-The Accepted Stats area of this report provides average delivery times and message size, as shown in [Figure 57.14, “Accepted Report”](web-ui.reports.viewing.reports.php#figure_accepted_report "Figure 57.14. Accepted Report"). The following metrics are displayed:
+The Accepted Stats area of this report provides average delivery times and message size, as shown in [Figure 57.14, “Accepted Report”](web-ui.reports.viewing.reports#figure_accepted_report "Figure 57.14. Accepted Report"). The following metrics are displayed:
 
 *   Avg Latency (First) - Average delivery time in milliseconds (latency) for messages delivered on the first attempt
 
@@ -192,13 +192,13 @@ The Accepted Stats area of this report provides average delivery times and messa
 
 **57.2.3.2. Analyzing Accepted Rates by Attempt**
 
-The Accepted Rate given in the upper area of this report includes all messages that were accepted, regardless of the number of times delivery was attempted. The bar graph, shown in [Figure 57.14, “Accepted Report”](web-ui.reports.viewing.reports.php#figure_accepted_report "Figure 57.14. Accepted Report"), breaks down Accepted Rate by number of attempts.
+The Accepted Rate given in the upper area of this report includes all messages that were accepted, regardless of the number of times delivery was attempted. The bar graph, shown in [Figure 57.14, “Accepted Report”](web-ui.reports.viewing.reports#figure_accepted_report "Figure 57.14. Accepted Report"), breaks down Accepted Rate by number of attempts.
 
 The accepted messages are grouped by 1st, 2nd-5th, 6th-9th, and 10th or greater attempts. The graph displays the Accepted Rate for each of these groups. The rate is given below the graph or by hovering over the bars in the graph. This Accepted Rate is defined as the number of messages accepted on a given attempt divided by the total number of accepted messages. A higher rate in the first bar indicates that more of your messages are being accepted on the first attempt.
 
 ### 57.2.4. Delayed Report
 
-Temporary failures can cause your messages to be delayed. The report provided in the Delayed section includes details about the number of delayed messages and the reasons why they were delayed. [Figure 57.15, “Delayed Report”](web-ui.reports.viewing.reports.php#figure_delayed_report "Figure 57.15. Delayed Report") shows an example report.
+Temporary failures can cause your messages to be delayed. The report provided in the Delayed section includes details about the number of delayed messages and the reasons why they were delayed. [Figure 57.15, “Delayed Report”](web-ui.reports.viewing.reports#figure_delayed_report "Figure 57.15. Delayed Report") shows an example report.
 
 <a name="figure_delayed_report"></a>
 
@@ -220,7 +220,7 @@ Delayed Rate can be used to measure deliverability. A lower rate shows that fewe
 
 **57.2.4.1. Viewing Delayed Reasons**
 
-When a message is delayed, the ISP returns a notification that includes a code and explanation of why the message was delayed. The table included in the Delayed report lists these codes and explanations for each delayed message, as shown in [Figure 57.15, “Delayed Report”](web-ui.reports.viewing.reports.php#figure_delayed_report "Figure 57.15. Delayed Report").
+When a message is delayed, the ISP returns a notification that includes a code and explanation of why the message was delayed. The table included in the Delayed report lists these codes and explanations for each delayed message, as shown in [Figure 57.15, “Delayed Report”](web-ui.reports.viewing.reports#figure_delayed_report "Figure 57.15. Delayed Report").
 
 The following are the columns in the table:
 

@@ -1,6 +1,6 @@
 ## 35.5. `httplog`
 
-The `httplog` logs HTTP requests and responses. It is configured in the [http_logger](modules.http_logger.php "71.37. http_logger – HTTP Requests and Responses") module.
+The `httplog` logs HTTP requests and responses. It is configured in the [http_logger](modules.http_logger "71.37. http_logger – HTTP Requests and Responses") module.
 
 ### 35.5.1. HTTP Records
 

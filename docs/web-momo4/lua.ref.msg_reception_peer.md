@@ -42,4 +42,4 @@ msys.registerModule("myMod", mod);
 <a name="idp15881632"></a>
 ## See Also
 
-[msg:listener_addr](lua.ref.msg_listener_addr.php "msg:listener_addr")
+[msg:listener_addr](lua.ref.msg_listener_addr "msg:listener_addr")

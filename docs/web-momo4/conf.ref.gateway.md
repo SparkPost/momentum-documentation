@@ -24,7 +24,7 @@ The accepted convention is to require that, in circumstances where a configurati
 
 If it is specified within a `Domain` stanza, Momentum will ignore the MXs for the domain and send mail to the gateway host name instead. Other configurations in the domain stanza for that domain will have no effects if a gateway is specified, as mails to that domain are actually sent to the gateway.
 
-In many use cases, this option is supplanted by the Routes option. See [routes](conf.ref.routes.php "routes") for more information.
+In many use cases, this option is supplanted by the Routes option. See [routes](conf.ref.routes "routes") for more information.
 
 ### Note
 
@@ -38,4 +38,4 @@ gateway is valid in the binding, binding_group, domain and global scopes.
 <a name="idp24746496"></a>
 ## See Also
 
-[routes](conf.ref.routes.php "routes")
+[routes](conf.ref.routes "routes")

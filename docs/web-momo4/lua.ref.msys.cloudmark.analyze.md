@@ -38,7 +38,7 @@ This function analyzes the input string `hdr` and returns a table of the followi
 
 If `msg` or `vctx` is not provided, they will be inferred from the current context. The above name value pairs are also set within the validation context (VCTX_MESS with cmae- as prefix) except `analysis`.
 
-For a listing of the available context variables, see [Section 71.18, “cloudmark – Cloudmark Authority® Content Scanning”](modules.cloudmark.php "71.18. cloudmark – Cloudmark Authority® Content Scanning"). .
+For a listing of the available context variables, see [Section 71.18, “cloudmark – Cloudmark Authority® Content Scanning”](modules.cloudmark "71.18. cloudmark – Cloudmark Authority® Content Scanning"). .
 
 ### Warning
 
@@ -47,4 +47,4 @@ Do not use `pcall` with this function.
 <a name="idp14985392"></a>
 ## See Also
 
-[msys.cloudmark.score](lua.ref.msys.cloudmark.score.php "msys.cloudmark.score")
+[msys.cloudmark.score](lua.ref.msys.cloudmark.score "msys.cloudmark.score")

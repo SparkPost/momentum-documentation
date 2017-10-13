@@ -18,4 +18,4 @@ Enable this function with the statement `require('msys.av');`.
 <a name="idp17473408"></a>
 ## See Also
 
-[Section 71.6, “antivirus – Antivirus”](modules.antivirus.php "71.6. antivirus – Antivirus")
+[Section 71.6, “antivirus – Antivirus”](modules.antivirus "71.6. antivirus – Antivirus")

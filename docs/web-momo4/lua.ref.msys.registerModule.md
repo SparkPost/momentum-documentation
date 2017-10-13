@@ -85,4 +85,4 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 <a name="idp16332976"></a>
 ## See Also
 
-[Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets"), [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet.php "71.60. scriptlet - Lua Policy Scripts")
+[Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets "62.2. Policy Scriptlets"), [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet.php "71.60. scriptlet - Lua Policy Scripts")

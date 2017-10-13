@@ -4,23 +4,23 @@
 
 <dl class="toc">
 
-<dt>[44.1\. Viewing Your API Keys](web-ui.apikeys.php#web-ui.apikeys.viewing)</dt>
+<dt>[44.1\. Viewing Your API Keys](web-ui.apikeys#web-ui.apikeys.viewing)</dt>
 
-<dt>[44.2\. Creating an API Key](web-ui.apikeys.create.php)</dt>
+<dt>[44.2\. Creating an API Key](web-ui.apikeys.create)</dt>
 
-<dt>[44.3\. Updating an API Key](web-ui.apikeys.update.php)</dt>
+<dt>[44.3\. Updating an API Key](web-ui.apikeys.update)</dt>
 
-<dt>[44.4\. Deleting an API Key](web-ui.apikeys.delete.php)</dt>
+<dt>[44.4\. Deleting an API Key](web-ui.apikeys.delete)</dt>
 
 </dl>
 
 <a class="indexterm" name="idp4330416"></a>
 
-**Configuration Change. ** As of version 4.1, API authentication is enabled by default. For instructions to disable it, see [Chapter 21, *Enforcing REST API/UI User Authentication*](auth.php "Chapter 21. Enforcing REST API/UI User Authentication") . Version 4.2 and later add View Adaptive Delivery Data grant type.
+**Configuration Change. ** As of version 4.1, API authentication is enabled by default. For instructions to disable it, see [Chapter 21, *Enforcing REST API/UI User Authentication*](auth "Chapter 21. Enforcing REST API/UI User Authentication") . Version 4.2 and later add View Adaptive Delivery Data grant type.
 
 When API authentication is enabled, all APIs require that you authenticate with every request by providing an `Authorization` header with a value equal to a valid API key. The API key must have the appropriate permissions to use the API. Using the UI, administrators can view details about the existing API keys, create new API keys, update existing API keys, and delete API keys no longer need.
 
-Click *`admin`* in the upper-right corner, as shown in [Figure 44.1, “admin Username”](web-ui.apikeys.php#figure_username_icon "Figure 44.1. admin Username"), to open the Settings section.
+Click *`admin`* in the upper-right corner, as shown in [Figure 44.1, “admin Username”](web-ui.apikeys#figure_username_icon "Figure 44.1. admin Username"), to open the Settings section.
 
 <a name="figure_username_icon"></a>
 
@@ -30,7 +30,7 @@ Click *`admin`* in the upper-right corner, as shown in [Figure 44.1, “admin U
 
 ## 44.1. Viewing Your API Keys
 
-The Settings section provides a tabular view of your existing API keys, as shown in [Figure 44.2, “API Keys Table”](web-ui.apikeys.php#figure_apikeys_list "Figure 44.2. API Keys Table"). The following information is displayed in the table for each API key:
+The Settings section provides a tabular view of your existing API keys, as shown in [Figure 44.2, “API Keys Table”](web-ui.apikeys#figure_apikeys_list "Figure 44.2. API Keys Table"). The following information is displayed in the table for each API key:
 
 *   Key - Label specified when you created the API key
 
@@ -42,9 +42,9 @@ The Settings section provides a tabular view of your existing API keys, as shown
 
 ![API Keys Table](images/apikeys_list.png)
 
-API keys can access any resource you give them access to except for the user resources. This restriction is for security reasons. An API key should not be able to modify users. If your key gets loose, this restriction prevents it from being used to gain unfettered access to your system accounts. In [Figure 44.2, “API Keys Table”](web-ui.apikeys.php#figure_apikeys_list "Figure 44.2. API Keys Table"), example_api_key has access to metrics, webhooks, and transmissions.
+API keys can access any resource you give them access to except for the user resources. This restriction is for security reasons. An API key should not be able to modify users. If your key gets loose, this restriction prevents it from being used to gain unfettered access to your system accounts. In [Figure 44.2, “API Keys Table”](web-ui.apikeys#figure_apikeys_list "Figure 44.2. API Keys Table"), example_api_key has access to metrics, webhooks, and transmissions.
 
-To create an API key that meets your specific requirements, you must understand the permissions required by each API. [Table 44.1, “Grant Types”](web-ui.apikeys.php#table_grant_types "Table 44.1. Grant Types") gives a mapping of the permissions for a given grant type.
+To create an API key that meets your specific requirements, you must understand the permissions required by each API. [Table 44.1, “Grant Types”](web-ui.apikeys#table_grant_types "Table 44.1. Grant Types") gives a mapping of the permissions for a given grant type.
 
 <a name="table_grant_types"></a>
 

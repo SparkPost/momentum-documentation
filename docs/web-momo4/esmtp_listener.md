@@ -4,19 +4,19 @@
 
 <dl class="toc">
 
-<dt>[19.1\. ESMTP_Listener Configuration](esmtp_listener.php#esmtp_listener.config)</dt>
+<dt>[19.1\. ESMTP_Listener Configuration](esmtp_listener#esmtp_listener.config)</dt>
 
-<dt>[19.2\. Inbound Email Relay or Gateway](esmtp_listener.relay_domains.php)</dt>
+<dt>[19.2\. Inbound Email Relay or Gateway](esmtp_listener.relay_domains)</dt>
 
-<dt>[19.3\. `Reconfig_Message` Option](esmtp_listener.reconfig_message.php)</dt>
+<dt>[19.3\. `Reconfig_Message` Option](esmtp_listener.reconfig_message)</dt>
 
-<dt>[19.4\. SMTP Extensions](esmtp_listener.extensions.php)</dt>
+<dt>[19.4\. SMTP Extensions](esmtp_listener.extensions)</dt>
 
-<dt>[19.5\. ESMTP_Listener Authentication](inbound_smtp.php)</dt>
+<dt>[19.5\. ESMTP_Listener Authentication](inbound_smtp)</dt>
 
-<dt>[19.6\. Inbound SSL](inbound_ssl.php)</dt>
+<dt>[19.6\. Inbound SSL](inbound_ssl)</dt>
 
-<dt>[19.7\. Inbound TLS](inbound_tls.php)</dt>
+<dt>[19.7\. Inbound TLS](inbound_tls)</dt>
 
 </dl>
 
@@ -64,8 +64,8 @@ The `Pool_Name` option associates the `accept-pool` ThreadPool with the listener
 
 When using threaded accepts for listeners, you must provision the thread pool you intend to use via the ThreadPool directive. If the thread pool you name is not found or is unspecified, the IO pool will be used and a critical message will appear in your log.
 
-For details about the non-module specific configuration options that are valid in the ESMTP_Listener and its nested scopes, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For details about the non-module specific configuration options that are valid in the ESMTP_Listener and its nested scopes, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
-Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
+Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
-For general information regarding listeners, see [Section 15.4, “Listeners”](listeners.php "15.4. Listeners").
+For general information regarding listeners, see [Section 15.4, “Listeners”](listeners "15.4. Listeners").

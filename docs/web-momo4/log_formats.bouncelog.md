@@ -1,6 +1,6 @@
 ## 35.3. `bouncelog`
 
-The `bouncelog` records both in-band and out-of-band bounces. It is configured in the [bounce_logger](modules.bounce_logger.php "71.13. bounce_logger – Momentum-Style Bounce Logging") module.
+The `bouncelog` records both in-band and out-of-band bounces. It is configured in the [bounce_logger](modules.bounce_logger "71.13. bounce_logger – Momentum-Style Bounce Logging") module.
 
 ### 35.3.1. Bounce Records
 
@@ -31,8 +31,8 @@ The following is a description of the fields:
 | 8 | postalengine.com | Domain of the envelope sender |
 | 9 | group-a | Binding group to which the bounce email was bound, if available |
 | 10 | binding-a | Binding to which the bounce email was bound, if available |
-| 11 | 21 | Stage of the message (See [Section 35.11, “Connection Stages”](log_formats.connection.stages.php "35.11. Connection Stages").) |
-| 12 | 24 | Classification code for the message (See [Section 35.10, “Bounce Classification Codes”](bounce_logger.classification.codes.php "35.10. Bounce Classification Codes").) |
+| 11 | 21 | Stage of the message (See [Section 35.11, “Connection Stages”](log_formats.connection.stages "35.11. Connection Stages").) |
+| 12 | 24 | Classification code for the message (See [Section 35.10, “Bounce Classification Codes”](bounce_logger.classification.codes "35.10. Bounce Classification Codes").) |
 | 13 | 1223 | Message size |
 | 14 | 10.0.0.1 | IP address of the server that bounced the message |
 | 15 | 554 5.4.7 [internal] exceeded max time without delivery | Raw bounce message from the server |

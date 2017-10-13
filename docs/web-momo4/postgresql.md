@@ -4,13 +4,13 @@
 
 <dl class="toc">
 
-<dt>[29.1\. PostgreSQL Overview](postgresql.php#postgresql.overview)</dt>
+<dt>[29.1\. PostgreSQL Overview](postgresql#postgresql.overview)</dt>
 
-<dt>[29.2\. Running the PostgreSQL Server](postgresql.server.php)</dt>
+<dt>[29.2\. Running the PostgreSQL Server](postgresql.server)</dt>
 
-<dt>[29.3\. Using the PostgreSQL Client Program](postgresql.client.php)</dt>
+<dt>[29.3\. Using the PostgreSQL Client Program](postgresql.client)</dt>
 
-<dt>[29.4\. Dumping and Restoring the Database](postgresql.migrating.php)</dt>
+<dt>[29.4\. Dumping and Restoring the Database](postgresql.migrating)</dt>
 
 </dl>
 
@@ -26,7 +26,7 @@ The following describes the default directories and configuration related to the
 
 *   `/var/db/msyspg` – Contains the `postgresql.conf` configuration file and the PID file
 
-    The logging options set in the configuration file are discussed in [the section called “PostgreSQL Log Files”](postgresql.php#postgresql.log-files "PostgreSQL Log Files").
+    The logging options set in the configuration file are discussed in [the section called “PostgreSQL Log Files”](postgresql#postgresql.log-files "PostgreSQL Log Files").
 
     The msyspg database contains the real-time data collected by Momentum and, since this data is retained for two years, **be sure that there is adequate space on the drive that hosts the PostgreSQL server** .
 
@@ -36,7 +36,7 @@ The following describes the default directories and configuration related to the
 
     Other PostgreSQL programs such as **pg_dump** and **pg_dumpall** are also found in this directory.
 
-*   `/opt/msys/3rdParty/etc/php.d` – Contains the `ecdb.ini` file, which includes the database credentials
+*   `/opt/msys/3rdParty/etc.d` – Contains the `ecdb.ini` file, which includes the database credentials
 
 ### Warning
 

@@ -70,4 +70,4 @@ DNS cache:
 
 ### Note
 
-These console commands manipulate the *DNS cache* . The [dig](console_commands.dig.php "dig"), [refresh domain](console_commands.refresh_domain.php "refresh domain") and [domain](console_commands.domain.php "domain") commands manipulate the *route cache* .
+These console commands manipulate the *DNS cache* . The [dig](console_commands.dig "dig"), [refresh domain](console_commands.refresh_domain.php "refresh domain") and [domain](console_commands.domain.php "domain") commands manipulate the *route cache* .

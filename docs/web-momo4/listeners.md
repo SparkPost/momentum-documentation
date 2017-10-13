@@ -16,25 +16,25 @@ When using any listener, if you change from listening on a specific IP address t
 
 Momentum supports the following listeners. Follow the links for details about each listener type:
 
-*   [Control_Listener](control_listener.php "Chapter 17. Configuring Momentum's System Console") - listens for incoming control connections made via the console
+*   [Control_Listener](control_listener "Chapter 17. Configuring Momentum's System Console") - listens for incoming control connections made via the console
 
-*   [ECCluster_Listener](cluster.listeners.php#eccluster_listener "16.5.1. ECCluster_Listener Configuration") - configures direct, point-to-point communication between cluster nodes
+*   [ECCluster_Listener](cluster.listeners#eccluster_listener "16.5.1. ECCluster_Listener Configuration") - configures direct, point-to-point communication between cluster nodes
 
-*   [ECStream_Listener](ecstream_listener.php "Chapter 18. Configuring Inbound Mail Service Using ECStream") - enables messages to be injected using the ECStream protocol
+*   [ECStream_Listener](ecstream_listener "Chapter 18. Configuring Inbound Mail Service Using ECStream") - enables messages to be injected using the ECStream protocol
 
-*   [ESMTP_Listener](esmtp_listener.php "Chapter 19. Configuring Inbound Mail Service Using SMTP") - enables messages to be injected using the SMTP protocol
+*   [ESMTP_Listener](esmtp_listener "Chapter 19. Configuring Inbound Mail Service Using SMTP") - enables messages to be injected using the SMTP protocol
 
-*   [HTTP_Listener](http_listener.php "Chapter 20. Configuring Inbound Mail Service Using HTTP") - enables messages to be injected using the HTTP protocol
+*   [HTTP_Listener](http_listener "Chapter 20. Configuring Inbound Mail Service Using HTTP") - enables messages to be injected using the HTTP protocol
 
-*   [msgcserver_listener](cluster.listeners.php#msgcserver_listener "16.5.2. Msgcserver_Listener Configuration") - mediates between msgc_servers and between msgc_servers and their clients
+*   [msgcserver_listener](cluster.listeners#msgcserver_listener "16.5.2. Msgcserver_Listener Configuration") - mediates between msgc_servers and between msgc_servers and their clients
 
-In addition to the associated Listener scope, listeners can enclose Peer and Listen scopes. For a complete list of the configuration options valid in the associated scopes, see [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+In addition to the associated Listener scope, listeners can enclose Peer and Listen scopes. For a complete list of the configuration options valid in the associated scopes, see [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
 ### 15.4.1. Extended Listener Configuration Using Access Control Lists (ACLs)
 
 <a class="indexterm" name="idp3044608"></a><a class="indexterm" name="idp3046400"></a>
 
-ACLs are implemented via the Peer scope, which uses the existing matching infrastructure to find the most specific CIDR match for a given configured value. Fallback works here too, allowing for some expressive configurations that are easily understood. For more information about fallback, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback").
+ACLs are implemented via the Peer scope, which uses the existing matching infrastructure to find the most specific CIDR match for a given configured value. Fallback works here too, allowing for some expressive configurations that are easily understood. For more information about fallback, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback").
 
 <a name="example.conf.peer"></a>
 
@@ -56,7 +56,7 @@ ESMTP_Listener {
 
 Options defined in the Peer CIDR block `10.0.0.0/16` will apply to all IP addresses defined by this block unless the connecting IP address is `10.0.0.1`. In that case, anything defined in the peer scope `10.0.0.1` takes precedence.
 
-Note that SMTP extensions are defined using the `SMTP_Extensions` array. SMTP extensions are discussed in [Section 19.4, “SMTP Extensions”](esmtp_listener.extensions.php "19.4. SMTP Extensions").
+Note that SMTP extensions are defined using the `SMTP_Extensions` array. SMTP extensions are discussed in [Section 19.4, “SMTP Extensions”](esmtp_listener.extensions "19.4. SMTP Extensions").
 
 ### 15.4.2. Listener `Enable` Option
 
@@ -122,7 +122,7 @@ Listens on port 25 of the IPv6 address.
 
 </dl>
 
-For a detailed discussion of IPv6 syntax see [Section 15.4.5, “Listeners and IPv6 Addresses”](listeners.php#listeners.ipv6 "15.4.5. Listeners and IPv6 Addresses").
+For a detailed discussion of IPv6 syntax see [Section 15.4.5, “Listeners and IPv6 Addresses”](listeners#listeners.ipv6 "15.4.5. Listeners and IPv6 Addresses").
 
 ### 15.4.4. Unix Domain Listener Address Syntax
 

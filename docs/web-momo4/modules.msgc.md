@@ -31,7 +31,7 @@ msgc_server {
 }
 ```
 
-In order for the msgc_server to operate properly, a msgcserver_listener must be defined and configured. Inbound connections will generally receive membership requests from the client side of the connection, which will request subscription to various groups. For details about the msgcserver_listener, see [Section 16.5.2, “Msgcserver_Listener Configuration”](cluster.listeners.php#msgcserver_listener "16.5.2. Msgcserver_Listener Configuration").
+In order for the msgc_server to operate properly, a msgcserver_listener must be defined and configured. Inbound connections will generally receive membership requests from the client side of the connection, which will request subscription to various groups. For details about the msgcserver_listener, see [Section 16.5.2, “Msgcserver_Listener Configuration”](cluster.listeners#msgcserver_listener "16.5.2. Msgcserver_Listener Configuration").
 
 The following are the configuration options defined within this module:
 
@@ -49,7 +49,7 @@ Amount of time in seconds to spend waiting for the connect system call to return
 
 <dd>
 
-Debug level for this module. Default value is `ERROR`. For more information, see [Table 72.1, “Debug levels”](conf.ref.debug_flags.php#conf.ref.debug.levels "Table 72.1. Debug levels").
+Debug level for this module. Default value is `ERROR`. For more information, see [Table 72.1, “Debug levels”](conf.ref.debug_flags#conf.ref.debug.levels "Table 72.1. Debug levels").
 
 </dd>
 
@@ -221,7 +221,7 @@ Size of the TCP buffer in bytes. Default value is `131072`.
 
 The msgc_server port must match the port defined for the `Listen` stanza of the msgcserver_listener. Default value is `127.0.0.1:4809`.
 
-The loopback address is used because msgc_server is run on all managers and nodes in the cluster. The port used with this option must match the port defined in [port](modules.msgc.php#modules.msgc.msgc_server.config.port) .
+The loopback address is used because msgc_server is run on all managers and nodes in the cluster. The port used with this option must match the port defined in [port](modules.msgc#modules.msgc.msgc_server.config.port) .
 
 </dd>
 

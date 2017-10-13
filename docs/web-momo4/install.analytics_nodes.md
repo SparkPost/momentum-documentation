@@ -130,7 +130,7 @@ In each file, you will edit the associated “upstream stanza.” Take special n
 
 ### Note
 
-If you are installing a Combined nodes cluster, you will already have performed some of these steps during the [Section 9.1, “Configure Your MTA Nodes”](new_installation.php#install.mta_node "9.1. Configure Your MTA Nodes") section.
+If you are installing a Combined nodes cluster, you will already have performed some of these steps during the [Section 9.1, “Configure Your MTA Nodes”](new_installation#install.mta_node "9.1. Configure Your MTA Nodes") section.
 
 1.  Copy the files above from the `/opt/msys/ecelerity/etc/sample-configs/nginx/` directory to the `/opt/msys/3rdParty/nginx/conf.d` directory.
 
@@ -199,7 +199,7 @@ Copy these configuration files from the FIRST Analytics node to each of the rema
 
 Follow the steps below to create the Vertica database on the first Analytics node.
 
-1.  Configure an environment variable prior to running the Vertica installer. Use the **IP addresses**           for each Vertica node in your deployment. These should be the same IP addresses that you configured in step [4](install_upgrade_packages.php#install_upgrade_packages.vertica_ips) of [Chapter 8, *Install / Upgrade the Packages*](install_upgrade_packages.php "Chapter 8. Install / Upgrade the Packages") .
+1.  Configure an environment variable prior to running the Vertica installer. Use the **IP addresses**           for each Vertica node in your deployment. These should be the same IP addresses that you configured in step [4](install_upgrade_packages#install_upgrade_packages.vertica_ips) of [Chapter 8, *Install / Upgrade the Packages*](install_upgrade_packages.php "Chapter 8. Install / Upgrade the Packages") .
 
     export SERVERS=*`1.2.3.1`*,*`1.2.3.2`*, ... ,*`1.2.3.n`*
 2.  Create the database.

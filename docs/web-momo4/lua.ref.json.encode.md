@@ -42,7 +42,7 @@ print(tostring(obj));
 
 Enable this function with the statement `require("json");`.
 
-`json.encode` converts the `array` expression so that it can be assigned to a JSON object field. You can pass a variable or a literal to this function. The output of the print statement in [Example 70.37, “json.encode example”](lua.ref.json.encode.php#lua.ref.json.encode.example "Example 70.37. json.encode example") is as follows:
+`json.encode` converts the `array` expression so that it can be assigned to a JSON object field. You can pass a variable or a literal to this function. The output of the print statement in [Example 70.37, “json.encode example”](lua.ref.json.encode#lua.ref.json.encode.example "Example 70.37. json.encode example") is as follows:
 
 ```
 {
@@ -89,4 +89,4 @@ When mapping from a Lua value to a JSON object representation, the following rul
 <a name="idp16546992"></a>
 ## See Also
 
-[json.decode](lua.ref.json.decode.php "json.decode")
+[json.decode](lua.ref.json.decode "json.decode")

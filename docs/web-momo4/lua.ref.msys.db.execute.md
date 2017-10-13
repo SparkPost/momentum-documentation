@@ -81,9 +81,9 @@ local cache, query, raise_error;
 
 ### Note
 
-The data cache used in the preceding example must be defined in your configuration file. For more information, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core.php "71.29. ds_core - Datasource Query Core").
+The data cache used in the preceding example must be defined in your configuration file. For more information, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core "71.29. ds_core - Datasource Query Core").
 
 <a name="idp14857648"></a>
 ## See Also
 
-[msys.db.query](lua.ref.msys.db.query.php "msys.db.query"), [msys.db.fetch_row](lua.ref.msys.db.fetch_row.php "msys.db.fetch_row"), [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets")
+[msys.db.query](lua.ref.msys.db.query "msys.db.query"), [msys.db.fetch_row](lua.ref.msys.db.fetch_row.php "msys.db.fetch_row"), [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets")

@@ -79,4 +79,4 @@ For the **ecconfigd** service, use `ecuser`. For the **msyspg** service, use `ms
 <a name="idp12725216"></a>
 ## See Also
 
-[ecconfigd](executable.ecconfigd.php "ecconfigd"), [Section 29.2, “Running the PostgreSQL Server”](postgresql.server.php "29.2. Running the PostgreSQL Server")
+[ecconfigd](executable.ecconfigd "ecconfigd"), [Section 29.2, “Running the PostgreSQL Server”](postgresql.server.php "29.2. Running the PostgreSQL Server")

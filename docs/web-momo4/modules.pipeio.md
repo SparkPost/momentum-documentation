@@ -148,4 +148,4 @@ Logs {
 
 ### 71.54.4. See Also
 
-[Chapter 31, *Configuring the Environment File*](environment_file.php "Chapter 31. Configuring the Environment File") 
+[Chapter 31, *Configuring the Environment File*](environment_file "Chapter 31. Configuring the Environment File") 

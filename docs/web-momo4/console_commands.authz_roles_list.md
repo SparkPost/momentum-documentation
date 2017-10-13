@@ -25,4 +25,4 @@ Execute this command and you should see output similar to the following:
 <a name="idp14204144"></a>
 ## See Also
 
-[authz id](console_commands.authz_id.php "authz id")
+[authz id](console_commands.authz_id "authz id")

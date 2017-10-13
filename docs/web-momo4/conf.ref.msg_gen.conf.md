@@ -50,11 +50,11 @@ msg_gen {
 }
 ```
 
-For a discussion of scopes and fallbacks, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback").
+For a discussion of scopes and fallbacks, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback").
 
-For a summary of all the non-module specific configuration options, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For a summary of all the non-module specific configuration options, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
-Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
+Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
 The following are the modules configured in the `msg_gen.conf` file:
 
@@ -72,7 +72,7 @@ This module configuration includes a `uri` entry for each Platform node in your 
 
 <dd>
 
-This module handles the creation of open-tracked and click-tracked links and the corresponding parsing of the links when an open or click event occurs. See [Section 71.32, “engagement_tracker – HTTP Engagement Tracking”](modules.engage_tracker.php "71.32. engagement_tracker – HTTP Engagement Tracking").
+This module handles the creation of open-tracked and click-tracked links and the corresponding parsing of the links when an open or click event occurs. See [Section 71.32, “engagement_tracker – HTTP Engagement Tracking”](modules.engage_tracker "71.32. engagement_tracker – HTTP Engagement Tracking").
 
 </dd>
 
@@ -80,7 +80,7 @@ This module handles the creation of open-tracked and click-tracked links and the
 
 <dd>
 
-To use the REST API, this listener module must be loaded. By default, the HTTP_Listener listens on port 2081\. See [Chapter 20, *Configuring Inbound Mail Service Using HTTP*](http_listener.php "Chapter 20. Configuring Inbound Mail Service Using HTTP") .
+To use the REST API, this listener module must be loaded. By default, the HTTP_Listener listens on port 2081\. See [Chapter 20, *Configuring Inbound Mail Service Using HTTP*](http_listener "Chapter 20. Configuring Inbound Mail Service Using HTTP") .
 
 </dd>
 
@@ -88,7 +88,7 @@ To use the REST API, this listener module must be loaded. By default, the HTTP_L
 
 <dd>
 
-To use the REST API, this HTTP server infrastructure module must be loaded. See [Section 71.38, “httpsrv – HTTP Server”](modules.httpsrv.php "71.38. httpsrv – HTTP Server").
+To use the REST API, this HTTP server infrastructure module must be loaded. See [Section 71.38, “httpsrv – HTTP Server”](modules.httpsrv "71.38. httpsrv – HTTP Server").
 
 </dd>
 
@@ -96,7 +96,7 @@ To use the REST API, this HTTP server infrastructure module must be loaded. See 
 
 <dd>
 
-Handles message generation. See [Section 71.48, “msg_gen – Message Generation”](modules.msg_gen.php "71.48. msg_gen – Message Generation").
+Handles message generation. See [Section 71.48, “msg_gen – Message Generation”](modules.msg_gen "71.48. msg_gen – Message Generation").
 
 </dd>
 
@@ -104,7 +104,7 @@ Handles message generation. See [Section 71.48, “msg_gen – Message Generati
 
 <dd>
 
-The scriptlet module defined in `msg_gen.conf` supplements the scriptlet module defined in `ecelerity.conf`. The various `script` scopes point to the scripts needed to support message generation. Note that the scriptlet module instance name, `scriptlet`, is the same as the scriptlet instance name in the `ecelerity.conf` file. All instances of the scriptlet module must use the same instance name. For more information, see [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet.php "71.60. scriptlet - Lua Policy Scripts").
+The scriptlet module defined in `msg_gen.conf` supplements the scriptlet module defined in `ecelerity.conf`. The various `script` scopes point to the scripts needed to support message generation. Note that the scriptlet module instance name, `scriptlet`, is the same as the scriptlet instance name in the `ecelerity.conf` file. All instances of the scriptlet module must use the same instance name. For more information, see [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet "71.60. scriptlet - Lua Policy Scripts").
 
 </dd>
 

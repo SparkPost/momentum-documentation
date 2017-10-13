@@ -22,4 +22,4 @@ Enable this function with the statement `require('msys.base64');`.
 <a name="idp17572800"></a>
 ## See Also
 
-[msys.base64.encode](lua.ref.msys.base64.encode.php "msys.base64.encode")
+[msys.base64.encode](lua.ref.msys.base64.encode "msys.base64.encode")

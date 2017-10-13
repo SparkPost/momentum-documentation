@@ -36,7 +36,7 @@ Adjusting the format of this report by changing the parameters passed to the **a
 
 This command will not run the first day that a Momentum system is live. As a workaround, first run **ec_rotate**.
 
-The **ad_summary** command creates the log file, `/var/log/ecelerity/adaptive.summary`, and this log should be added to `ec_rotate.conf`. For details, see [Section 34.1, “`ec_rotate.conf` File”](log_rotating.php#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File").
+The **ad_summary** command creates the log file, `/var/log/ecelerity/adaptive.summary`, and this log should be added to `ec_rotate.conf`. For details, see [Section 34.1, “`ec_rotate.conf` File”](log_rotating#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File").
 
 If you are not using the adaptive module, there is no need to use this script.
 
@@ -129,4 +129,4 @@ Panic log file to operate on. Default value is `/var/log/ecelerity/paniclog.ec.1
 <a name="idp12904912"></a>
 ## See Also
 
-[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery")
+[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery")

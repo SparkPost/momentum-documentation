@@ -4,7 +4,7 @@
 
 The beik module is an anti-spam module that provides support for the Symantec Brightmail™ Engine Integration Kit (BEIK). Because BEIK is an in-process version of the brightmail module, it provides superior performance.
 
-If you intend to use this module, be sure to choose it during installation. The beik module is licensed by Symantec. Register this license as instructed by Symantec. Momentum supports version `6.3` of Brightmail Engine Integration kit. For more information, see [Section 12.1, “Installing Partner Modules”](post_installation.php#install.additional.packages "12.1. Installing Partner Modules").
+If you intend to use this module, be sure to choose it during installation. The beik module is licensed by Symantec. Register this license as instructed by Symantec. Momentum supports version `6.3` of Brightmail Engine Integration kit. For more information, see [Section 12.1, “Installing Partner Modules”](post_installation#install.additional.packages "12.1. Installing Partner Modules").
 
 ### Note
 
@@ -22,7 +22,7 @@ You must have a valid `cert.pem` file in place to use the beik module with Momen
 3.  Stop ecelerity by issuing the command:
 
     `shell> /etc/init.d/ecelerity stop`
-4.  Add a beik stanza to your `ecelerity.conf` file and commit this changed file to the repository as described in [Section 15.1.4, “Changing Configuration Files”](conf.overview.php#conf.manual.changes "15.1.4. Changing Configuration Files").
+4.  Add a beik stanza to your `ecelerity.conf` file and commit this changed file to the repository as described in [Section 15.1.4, “Changing Configuration Files”](conf.overview#conf.manual.changes "15.1.4. Changing Configuration Files").
 
 5.  Start BEIK by issuing the command:
 
@@ -84,7 +84,7 @@ When `use_wire_rep` is not or cannot be used, the number assigned to `header_pad
 
 <dd>
 
-Which thread pool to use when scanning a message. Default value is the `CPU` thread pool. For more information about defining thread pools, see [threadpool](conf.ref.threadpool.php "threadpool").
+Which thread pool to use when scanning a message. Default value is the `CPU` thread pool. For more information about defining thread pools, see [threadpool](conf.ref.threadpool "threadpool").
 
 </dd>
 
@@ -112,7 +112,7 @@ All messages that pass through the system are stored on disk dot-stuffed. This p
 
 ### 71.10.2. Lua Functions
 
-This module makes the Lua function `msys.symantec_beik.scan` available. For a description of how this function is used, see [msys.symantec_beik.scan](lua.ref.msys.symantec_beik.scan.php "msys.symantec_beik.scan").
+This module makes the Lua function `msys.symantec_beik.scan` available. For a description of how this function is used, see [msys.symantec_beik.scan](lua.ref.msys.symantec_beik.scan "msys.symantec_beik.scan").
 
 ### 71.10.3. beik and IPv6
 

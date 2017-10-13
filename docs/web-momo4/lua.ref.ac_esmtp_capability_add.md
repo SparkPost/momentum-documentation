@@ -33,9 +33,9 @@ end
 msys.registerModule("validate_connect", mod);
 ```
 
-The `ac` variable is an accept construct userdata data type. For a description of the C struct see [accept_construct](https://support.messagesystems.com/docs/web-c-api/structs.accept_construct.php).
+The `ac` variable is an accept construct userdata data type. For a description of the C struct see [accept_construct](https://support.messagesystems.com/docs/web-c-api/structs.accept_construct).
 
 <a name="idp14877728"></a>
 ## See Also
 
-[ac:esmtp_capability_remove](lua.ref.ac_esmtp_capability_remove.php "ac:esmtp_capability_remove")
+[ac:esmtp_capability_remove](lua.ref.ac_esmtp_capability_remove "ac:esmtp_capability_remove")

@@ -36,4 +36,4 @@ Because this function is in the `msys.core` namespace, an explicit `require('msy
 <a name="idp15970992"></a>
 ## See Also
 
-[msg:context_set](lua.ref.msg_context_set.php "msg:context_set"), [msg:context_exists](lua.ref.msg_context_exists.php "msg:context_exists"), and [msg:context_exists_and_get](lua.ref.msg_context_exists_and_get.php "msg:context_exists_and_get")
+[msg:context_set](lua.ref.msg_context_set "msg:context_set"), [msg:context_exists](lua.ref.msg_context_exists.php "msg:context_exists"), and [msg:context_exists_and_get](lua.ref.msg_context_exists_and_get.php "msg:context_exists_and_get")

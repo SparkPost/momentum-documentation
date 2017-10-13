@@ -30,4 +30,4 @@ match_cache_size is valid in the global scope.
 <a name="idp25276576"></a>
 ## See Also
 
-[match_cache_life](conf.ref.match_cache_life.php "match_cache_life") and [domain](conf.ref.domain.php "domain")
+[match_cache_life](conf.ref.match_cache_life "match_cache_life") and [domain](conf.ref.domain.php "domain")

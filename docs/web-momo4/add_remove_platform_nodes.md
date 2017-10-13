@@ -4,9 +4,9 @@
 
 <dl class="toc">
 
-<dt>[13.1\. Adding a Platform Node](add_remove_platform_nodes.php#node_add)</dt>
+<dt>[13.1\. Adding a Platform Node](add_remove_platform_nodes#node_add)</dt>
 
-<dt>[13.2\. Removing a Platform Node](node_remove.php)</dt>
+<dt>[13.2\. Removing a Platform Node](node_remove)</dt>
 
 </dl>
 

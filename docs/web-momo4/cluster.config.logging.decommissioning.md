@@ -10,4 +10,4 @@ To decommission a log aggregator, complete the following operational procedure:
 
 4.  Remove the log aggregator from your cluster.
 
-5.  On each of the nodes that was journalling data for that log aggregator, use the [jlogctl](executable.jlogctl.php "jlogctl") tool to erase the now redundant subscriber checkpoint information from each of the jlog files.
+5.  On each of the nodes that was journalling data for that log aggregator, use the [jlogctl](executable.jlogctl "jlogctl") tool to erase the now redundant subscriber checkpoint information from each of the jlog files.

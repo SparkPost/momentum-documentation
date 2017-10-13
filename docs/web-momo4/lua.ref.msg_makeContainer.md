@@ -25,4 +25,4 @@ Enable this function with the statement `require('msys.extended.message');`.
 <a name="idp16864880"></a>
 ## See Also
 
-[msg:makeBoundary](lua.ref.msg_makeBoundary.php "msg:makeBoundary")
+[msg:makeBoundary](lua.ref.msg_makeBoundary "msg:makeBoundary")

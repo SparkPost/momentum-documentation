@@ -1,6 +1,6 @@
 ## 62.2. Policy Scriptlets
 
-Lua scripts provide you with the capability to express the logic behind your policy. Aside from being very convenient (policy scripts can be reloaded on the fly, allowing real-time adjustment of policy without interrupting service), the Momentum implementation has extremely low overhead and tightly integrates with the event-based architecture, being able to suspend processing until asynchronous operations (such as DNS resolution, or database queries) complete. Note that variables used in a policy script are scoped locally and only persist in the particular policy script in which it is defined. Use the [validation context](policy.php#policy.validation "62.1. Validation and the Validation Context") to persist data over different policy phases and policy scripts.
+Lua scripts provide you with the capability to express the logic behind your policy. Aside from being very convenient (policy scripts can be reloaded on the fly, allowing real-time adjustment of policy without interrupting service), the Momentum implementation has extremely low overhead and tightly integrates with the event-based architecture, being able to suspend processing until asynchronous operations (such as DNS resolution, or database queries) complete. Note that variables used in a policy script are scoped locally and only persist in the particular policy script in which it is defined. Use the [validation context](policy#policy.validation "62.1. Validation and the Validation Context") to persist data over different policy phases and policy scripts.
 
 This section of the manual explains how to implement basic Lua policy scripts. For more information about this language, see [http://www.lua.org](http://www.lua.org).
 
@@ -12,7 +12,7 @@ Many Lua functions act as wrappers for C code, which means that the calling code
 
 The `/opt/msys/ecelerity/libexec/scriptlets/msys/` and `/opt/msys/ecelerity/libexec/embed/lua/msys/` directories contain modules with useful helper functions.
 
-For a list of all Lua Functions, see [Chapter 64, *Lua Functions Summary*](lua.summary_table.php "Chapter 64. Lua Functions Summary") .
+For a list of all Lua Functions, see [Chapter 64, *Lua Functions Summary*](lua.summary_table "Chapter 64. Lua Functions Summary") .
 
 ### 62.2.2. Callouts
 
@@ -92,9 +92,9 @@ At the moment, only the `msg` parameter is used by existing helpers. Be sure to 
 
 ### 62.2.3. Default Policy Scripts
 
-Default Lua policy scripts are included with Momentum for receiving. These scriptlets are found in the `/opt/msys/ecelerity/libexec/scriptlets/msys/default_policy.lua` file. These files are discussed in detail in the [Default Policy User Guide](https://support.messagesystems.com/docs/web-policy/index.php).
+Default Lua policy scripts are included with Momentum for receiving. These scriptlets are found in the `/opt/msys/ecelerity/libexec/scriptlets/msys/default_policy.lua` file. These files are discussed in detail in the [Default Policy User Guide](https://support.messagesystems.com/docs/web-policy/index).
 
-In order to use the default policy scriptlets, you must add the `/opt/msys/ecelerity/etc/sample-configs/default_policy.conf` file to your configuration. For instructions on adding a configuration file, see [Section 15.1.5, “Adding Configuration Files”](conf.overview.php#conf.adding.configuration.files "15.1.5. Adding Configuration Files").
+In order to use the default policy scriptlets, you must add the `/opt/msys/ecelerity/etc/sample-configs/default_policy.conf` file to your configuration. For instructions on adding a configuration file, see [Section 15.1.5, “Adding Configuration Files”](conf.overview#conf.adding.configuration.files "15.1.5. Adding Configuration Files").
 
 You will likely need to alter the `default_policy.conf` file to suit your circumstances—by only enabling specific scanners, for example.
 
@@ -102,7 +102,7 @@ In the `default_policy.conf` file, you should also enable the datasource(s) suit
 
 ### 62.2.4. Creating Policy Scripts
 
-Following best practices when creating policy scripts is important, especially in a cluster environment when scripts are used on more than one node. Scripts should take advantage of Momentum's built-in revision control and be added to the repository using the [eccfg](executable.eccfg.php "eccfg") command.
+Following best practices when creating policy scripts is important, especially in a cluster environment when scripts are used on more than one node. Scripts should take advantage of Momentum's built-in revision control and be added to the repository using the [eccfg](executable.eccfg "eccfg") command.
 
 To create a policy script, perform the following:
 
@@ -116,7 +116,7 @@ To create a policy script, perform the following:
 
         ### Note
 
-        Pay special attention to the instructions for using the **pull** command—if the configuration is updated your current directory may be invalidated. For more information, see [eccfg](executable.eccfg.php "eccfg").
+        Pay special attention to the instructions for using the **pull** command—if the configuration is updated your current directory may be invalidated. For more information, see [eccfg](executable.eccfg "eccfg").
 
 2.  Create a directory for your script.
 
@@ -132,7 +132,7 @@ To create a policy script, perform the following:
 
     *   Include the `msys.core` package.
 
-    *   Implement one or more of the function calls described in [Section 62.2.2, “Callouts”](implementing.policy.scriptlets.php#implementing.policy.scriptlets.callouts "62.2.2. Callouts").
+    *   Implement one or more of the function calls described in [Section 62.2.2, “Callouts”](implementing.policy.scriptlets#implementing.policy.scriptlets.callouts "62.2.2. Callouts").
 
     *   Return one of the following values:
 
@@ -161,7 +161,7 @@ To create a policy script, perform the following:
     msys.registerModule("ehlo_phase", mod);
     ```
 
-    Note that the script requires the `msys.core` package, the function name `validate_ehlo` matches the callout described in [Section 62.2.2, “Callouts”](implementing.policy.scriptlets.php#implementing.policy.scriptlets.callouts "62.2.2. Callouts"), and the script returns a legitimate value `msys.core.VALIDATE_CONT`.
+    Note that the script requires the `msys.core` package, the function name `validate_ehlo` matches the callout described in [Section 62.2.2, “Callouts”](implementing.policy.scriptlets#implementing.policy.scriptlets.callouts "62.2.2. Callouts"), and the script returns a legitimate value `msys.core.VALIDATE_CONT`.
 
     Failure to return a legitimate value from a scriptlet means that the script will not execute properly. For example, if you remove the line, `return msys.core.VALIDATE_CONT;` from the script, you should see errors similar to the following in the `paniclog`:
 
@@ -174,7 +174,7 @@ To create a policy script, perform the following:
 
 4.  Update your configuration to properly reference your script.
 
-    After writing a script and saving it to the repository, you must include it in the [`scriptlet`](modules.scriptlet.php "71.60. scriptlet - Lua Policy Scripts") module using a `script` stanza in your `ecelerity.conf` file.
+    After writing a script and saving it to the repository, you must include it in the [`scriptlet`](modules.scriptlet "71.60. scriptlet - Lua Policy Scripts") module using a `script` stanza in your `ecelerity.conf` file.
 
     For the example script, create a script scope named `ehlo_phase` inside the `scriptlet "scriptlet"` scope. Set the script name to `ehlo_phase`. Set the `source` option of this scope to "*`myscripts`*.ehlo_phase" replacing *`myscripts`* with the name of the directory that you created. The scriptlet stanza should be similar to:
 
@@ -215,7 +215,7 @@ To create a policy script, perform the following:
 
     The name of the `script` scope within the scriptlet module can also be anything of your choosing though it is good practice to use a name that describes the phase that the script runs in. Failure to register a module or misregistration does not result in an error when the console command **`config reload`**         is issued. At runtime, your script simply will not execute.
 
-    For additional details about editing your configuration files, see [Section 15.1.4, “Changing Configuration Files”](conf.overview.php#conf.manual.changes "15.1.4. Changing Configuration Files").
+    For additional details about editing your configuration files, see [Section 15.1.4, “Changing Configuration Files”](conf.overview#conf.manual.changes "15.1.4. Changing Configuration Files").
 
 5.  Check the validity of your script.
 
@@ -256,7 +256,7 @@ To create a policy script, perform the following:
 
         This indicates a datasource error in creating the prepared statement.
 
-        You can also view the last few entries in the `paniclog.ec` file by using the [paniclog](console_commands.paniclog.php "paniclog") console command.
+        You can also view the last few entries in the `paniclog.ec` file by using the [paniclog](console_commands.paniclog "paniclog") console command.
 
     *   Use the `print` function.
 

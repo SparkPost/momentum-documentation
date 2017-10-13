@@ -21,9 +21,9 @@ This function unescapes URL encoding in strings and is suitable for use when dec
 
 `print(curl.unescape("abcd%24%25%5E%26%2A%28%29"));`
 
-[Example 70.19, “curl.unescape example”](lua.ref.curl.unescape.php#lua.ref.curl.unescape.example "Example 70.19. curl.unescape example") outputs:
+[Example 70.19, “curl.unescape example”](lua.ref.curl.unescape#lua.ref.curl.unescape.example "Example 70.19. curl.unescape example") outputs:
 
 `abcd$%^&*()`<a name="idp15686032"></a>
 ### See Also
 
-[curl.escape](lua.ref.curl.escape.php "curl.escape")
+[curl.escape](lua.ref.curl.escape "curl.escape")

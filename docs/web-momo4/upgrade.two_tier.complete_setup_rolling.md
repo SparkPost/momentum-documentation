@@ -179,4 +179,4 @@
 
 ### Note
 
-Be sure to read the [Release Notes](https://support.messagesystems.com/start.php) for the version of Momentum that you are installing.
+Be sure to read the [Release Notes](https://support.messagesystems.com/start) for the version of Momentum that you are installing.

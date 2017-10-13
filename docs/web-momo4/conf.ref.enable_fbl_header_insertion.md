@@ -20,4 +20,4 @@ This option is valid in the global, binding, binding_group, and domain scopes.
 <a name="idp24579392"></a>
 ## See Also
 
-[Section 71.35, “fbl - Feedback Loop”](modules.fbl.php "71.35. fbl - Feedback Loop")
+[Section 71.35, “fbl - Feedback Loop”](modules.fbl "71.35. fbl - Feedback Loop")

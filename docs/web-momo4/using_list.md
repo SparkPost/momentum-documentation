@@ -4,7 +4,7 @@
 
 **Introduction**
 
-In the tutorial in [Chapter 45, *Generating a Transmission*](message_gen.php "Chapter 45. Generating a Transmission") , you sent emails by specifying your recipients "inline". This method may be sufficient for transactional transmissions, yet it can quickly become unmanageable as your number of recipients grows. Using stored recipient lists enables you to better manage your campaigns, tailoring your messages to your unique objectives.
+In the tutorial in [Chapter 45, *Generating a Transmission*](message_gen "Chapter 45. Generating a Transmission") , you sent emails by specifying your recipients "inline". This method may be sufficient for transactional transmissions, yet it can quickly become unmanageable as your number of recipients grows. Using stored recipient lists enables you to better manage your campaigns, tailoring your messages to your unique objectives.
 
 When you send a transmission using a stored recipient list, you reference the identifier of the list and provide the dynamic content for that specific transmission. Momentum performs any substitution required to create personalized messages for each recipient.
 
@@ -14,9 +14,9 @@ In this tutorial, you will learn how to send an email using the simple stored re
 
 ### Note
 
-This tutorial assumes that you have completed the tutorial in [Chapter 50, *Creating Stored Recipient Lists*](stored_list.php "Chapter 50. Creating Stored Recipient Lists") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
+This tutorial assumes that you have completed the tutorial in [Chapter 50, *Creating Stored Recipient Lists*](stored_list "Chapter 50. Creating Stored Recipient Lists") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
 
-You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey.php "Chapter 43. Creating an API Key") .
+You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey "Chapter 43. Creating an API Key") .
 
 Follow these steps to send an email using a stored recipient list:
 
@@ -38,7 +38,7 @@ Follow these steps to send an email using a stored recipient list:
        }
     }
 
-    This example uses the transmission from the tutorial in [Chapter 45, *Generating a Transmission*               ](message_gen.php "Chapter 45. Generating a Transmission") as a starting point and replaces the "recipients" object in the transmission with the identifier that you specified when you created your stored recipient list:
+    This example uses the transmission from the tutorial in [Chapter 45, *Generating a Transmission*               ](message_gen "Chapter 45. Generating a Transmission") as a starting point and replaces the "recipients" object in the transmission with the identifier that you specified when you created your stored recipient list:
 
     `"list_id":"simple_list"`
 2.  Inject your message into Momentum.
@@ -68,6 +68,6 @@ Follow these steps to send an email using a stored recipient list:
 
 3.  Confirm your email delivery.
 
-    Verify that each recipient received an email, then open the UI and confirm that two messages were successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui.php "Chapter 56. Using the UI for Reporting") .
+    Verify that each recipient received an email, then open the UI and confirm that two messages were successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui "Chapter 56. Using the UI for Reporting") .
 
 Congratulations! You have successfully sent an email using a stored recipient list. To learn more about using the Recipient Lists API, see the Recipient Lists API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).

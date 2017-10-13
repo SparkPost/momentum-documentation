@@ -4,23 +4,23 @@
 
 <dl class="toc">
 
-<dt>[37.1\. Connecting to the Console](operations.php#operations.console)</dt>
+<dt>[37.1\. Connecting to the Console](operations#operations.console)</dt>
 
-<dt>[37.2\. Console Commands](operations.console-commands.php)</dt>
+<dt>[37.2\. Console Commands](operations.console-commands)</dt>
 
-<dt>[37.3\. Using Module-Specific Console Commands](module_specific_console_commands.using.php)</dt>
+<dt>[37.3\. Using Module-Specific Console Commands](module_specific_console_commands.using)</dt>
 
-<dt>[37.4\. Setting and Getting Module Options from the Console](modules.options.console.php)</dt>
+<dt>[37.4\. Setting and Getting Module Options from the Console](modules.options.console)</dt>
 
-<dt>[37.5\. Creating Custom Console Commands](operations.console.lua.php)</dt>
+<dt>[37.5\. Creating Custom Console Commands](operations.console.lua)</dt>
 
 </dl>
 
 ## 37.1. Connecting to the Console
 
-Momentum's online administration, management, and analysis is through the Momentum System Console program **ec_console**, henceforth referred to as the console. For details about the available options, see [ec_console](executable.ec_console.php "ec_console").
+Momentum's online administration, management, and analysis is through the Momentum System Console program **ec_console**, henceforth referred to as the console. For details about the available options, see [ec_console](executable.ec_console "ec_console").
 
-The console can connect to a Momentum instance via a Unix domain socket or a TCP/IP socket (with an optional user@ prefix) depending upon how the Control_Listener is configured. For details on configuring the Control_Listener behavior, see [Chapter 17, *Configuring Momentum's System Console*](control_listener.php "Chapter 17. Configuring Momentum's System Console") .
+The console can connect to a Momentum instance via a Unix domain socket or a TCP/IP socket (with an optional user@ prefix) depending upon how the Control_Listener is configured. For details on configuring the Control_Listener behavior, see [Chapter 17, *Configuring Momentum's System Console*](control_listener "Chapter 17. Configuring Momentum's System Console") .
 
 ### Note
 
@@ -76,7 +76,7 @@ Control_Listener {
 
 SSH support requires the remote server to support SSH protocol version 2, and that the server be configured to allow port-forwarding. It is not possible to tunnel Unix domain socket connections over SSH.
 
-For details on configuring authentication, see [Section 17.2, “Control_Listener Authentication”](control_auth.php "17.2. Control_Listener Authentication").
+For details on configuring authentication, see [Section 17.2, “Control_Listener Authentication”](control_auth "17.2. Control_Listener Authentication").
 
 ### Successful Connection
 

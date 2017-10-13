@@ -4,7 +4,7 @@
 
 The inbound_audit module provides time-series analytics on the behavior of sending IPs. It is designed to help spot emergent issues, such as abuse, and to provide a mechanism for implementing counter-based policy on IPs. The inbound_audit module differs from the standard analytics available in Momentum in that it allows you to compare short-term real-time data with data from earlier time windows. This makes it easy to spot changes in behavior.
 
-This module is required by the [adaptive](modules.adaptive.php "71.3. adaptive – Adaptive Delivery") and [alerting](modules.alerting.php "71.4. alerting – Send Alerting Emails") modules.
+This module is required by the [adaptive](modules.adaptive "71.3. adaptive – Adaptive Delivery") and [alerting](modules.alerting.php "71.4. alerting – Send Alerting Emails") modules.
 
 ### 71.41.1. Configuration
 
@@ -63,21 +63,21 @@ Directory where the audit series state is persisted on shutdown and read in on s
 
 Configuring this module makes the following Lua functions available:
 
-*   [msys.audit.rejections](lua.ref.msys.audit.rejections.php "msys.audit.rejections")
+*   [msys.audit.rejections](lua.ref.msys.audit.rejections "msys.audit.rejections")
 
-*   [msys.audit.connections](lua.ref.msys.audit.connections.php "msys.audit.connections")
+*   [msys.audit.connections](lua.ref.msys.audit.connections "msys.audit.connections")
 
-*   [msys.audit.receptions](lua.ref.msys.audit.receptions.php "msys.audit.receptions")
+*   [msys.audit.receptions](lua.ref.msys.audit.receptions "msys.audit.receptions")
 
-*   [msys.audit.inbound_session_count](lua.ref.msys.audit.inbound_session_count.php "msys.audit.inbound_session_count")
+*   [msys.audit.inbound_session_count](lua.ref.msys.audit.inbound_session_count "msys.audit.inbound_session_count")
 
-*   [msys.audit_series.add](lua.ref.msys.audit_series.add.php "msys.audit_series.add")
+*   [msys.audit_series.add](lua.ref.msys.audit_series.add "msys.audit_series.add")
 
-*   [msys.audit_series.count](lua.ref.msys.audit_series.count.php "msys.audit_series.count")
+*   [msys.audit_series.count](lua.ref.msys.audit_series.count "msys.audit_series.count")
 
-*   [msys.audit_series.define](lua.ref.msys.audit_series.define.php "msys.audit_series.define")
+*   [msys.audit_series.define](lua.ref.msys.audit_series.define "msys.audit_series.define")
 
-*   [msys.audit_series.remove_item](lua.ref.msys.audit_series.remove_item.php "msys.audit_series.remove_item")
+*   [msys.audit_series.remove_item](lua.ref.msys.audit_series.remove_item "msys.audit_series.remove_item")
 
 ### 71.41.3. Console Commands
 

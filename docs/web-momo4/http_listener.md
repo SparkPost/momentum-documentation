@@ -4,9 +4,9 @@
 
 <dl class="toc">
 
-<dt>[20.1\. HTTP_Listener Configuration](http_listener.php#http_listener.config)</dt>
+<dt>[20.1\. HTTP_Listener Configuration](http_listener#http_listener.config)</dt>
 
-<dt>[20.2\. `msg_gen.conf` File](conf.ref.msg_gen.conf.php)</dt>
+<dt>[20.2\. `msg_gen.conf` File](conf.ref.msg_gen.conf)</dt>
 
 </dl>
 
@@ -28,8 +28,8 @@ By default, the HTTP_Listener listens on port 2081.
 
 In version 4.0, the API endpoints were accessed on port 8081\. As of version 4.1, no explicit port number is required to access the API endpoints.
 
-For details about the non-module specific configuration options that are valid in the HTTP_Listener and its nested scopes, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For details about the non-module specific configuration options that are valid in the HTTP_Listener and its nested scopes, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
-Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
+Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
-For general information regarding listeners, see [Section 15.4, “Listeners”](listeners.php "15.4. Listeners").
+For general information regarding listeners, see [Section 15.4, “Listeners”](listeners "15.4. Listeners").

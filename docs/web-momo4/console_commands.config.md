@@ -68,7 +68,7 @@ The **config** command enables online configuration tuning for Momentum. It has 
 
     The third form takes `unset` as the mode and one or more scope specifiers, and an option name as arguments. When this command is used without specifying an option, *it unsets all the options in the scope and that scope's subscopes, so use it carefully* . To prevent completely deconfiguring a running server by accident, unsetting the global scope is not supported.
 
-For a complete list of available configuration options, see [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For a complete list of available configuration options, see [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
 <a name="idp14008368"></a>
 ### Setting Boolean Options
@@ -181,7 +181,7 @@ Scheme "ecauth"
   is at auth_ds::Scheme:ecauth:
 ```
 
-The regex argument need not be quoted unless it contains spaces; specifically, enclosing it in forward slashes is not necessary and will not work. Note that the use of this command with a scope and a regular expression is different from regex scopes such as regex domains. In the case of a regex domain, (see [Regex Domains](conf.ref.domain.php#conf.ref.domain.regex "Regex Domains")) the regular expression denoted by *`pattern`* in the command **config locate Domain *`pattern`***                           will be matched against the regex domain treated as an ordinary string. For example, the command **config locate Domain ex.+**                    would locate a regex domain defined as:
+The regex argument need not be quoted unless it contains spaces; specifically, enclosing it in forward slashes is not necessary and will not work. Note that the use of this command with a scope and a regular expression is different from regex scopes such as regex domains. In the case of a regex domain, (see [Regex Domains](conf.ref.domain#conf.ref.domain.regex "Regex Domains")) the regular expression denoted by *`pattern`* in the command **config locate Domain *`pattern`***                           will be matched against the regex domain treated as an ordinary string. For example, the command **config locate Domain ex.+**                    would locate a regex domain defined as:
 
 ```
 Domain "/(?:^|[.])example[.](?:com|co[.]uk)$/" {
@@ -198,11 +198,11 @@ Reload configuration options.
 
 If no file is specified, **config reload**        reloads configuration options from the `ecelerity.conf` file. You may specify an alternate configuration file. Options changed in the configuration file come into effect immediately. Momentum does not need to be restarted. You may also use **config reload**        to attempt a configuration reload to cancel any changes made from the console. This must happen outside of a transaction, otherwise an error message will be displayed. If you make manual changes to your configuration file, issue this command to ensure that your changes are put into effect immediately.
 
-Issuing the **config reload**        command while receiving email will trigger the `Reconfig_Message`. For more information see [Section 19.3, “`Reconfig_Message` Option”](esmtp_listener.reconfig_message.php "19.3. Reconfig_Message Option").
+Issuing the **config reload**        command while receiving email will trigger the `Reconfig_Message`. For more information see [Section 19.3, “`Reconfig_Message` Option”](esmtp_listener.reconfig_message "19.3. Reconfig_Message Option").
 
 ### Warning
 
-Not all options can be changed at runtime. To confirm that an option is "dynamic", check the default column of the table at [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") . Options that cannot be changed without restarting the ecelerity process are marked as `non-dynamic`.
+Not all options can be changed at runtime. To confirm that an option is "dynamic", check the default column of the table at [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") . Options that cannot be changed without restarting the ecelerity process are marked as `non-dynamic`.
 
 </dd>
 

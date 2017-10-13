@@ -20,7 +20,7 @@ EventLoop "event_loops" {
 }
 ```
 
-For an example multiple event loop configuration, see [Chapter 24, *Configuring Multiple Event Loops*](multi_event_loops.php "Chapter 24. Configuring Multiple Event Loops") .
+For an example multiple event loop configuration, see [Chapter 24, *Configuring Multiple Event Loops*](multi_event_loops "Chapter 24. Configuring Multiple Event Loops") .
 
 The only option valid in the eventloop scope is `concurrency`. Set the `concurrency` option to a value equal to approximately 75% of the total number of CPUs in the system. If the value of the `concurrency` option exceeds the licensed number of event loops you will see an error message in the log file such as the following:
 
@@ -33,7 +33,7 @@ Concurrency]
 
 ### Note
 
-You cannot define an eventloop or change its `concurrency` at runtime as these changes require you to restart the ecelerity process. To restart, use the executable command [ec_ctl](executable.ec_ctl.php "ec_ctl"); issuing the ec_console command **config reload**        will not work.
+You cannot define an eventloop or change its `concurrency` at runtime as these changes require you to restart the ecelerity process. To restart, use the executable command [ec_ctl](executable.ec_ctl "ec_ctl"); issuing the ec_console command **config reload**        will not work.
 
 <a name="idp24616448"></a>
 ## Scope
@@ -43,4 +43,4 @@ You cannot define an eventloop or change its `concurrency` at runtime as these c
 <a name="idp24618256"></a>
 ## See Also
 
-[delivery_pool](config.ref.delivery_pool.php "delivery_pool"), [maintainer_pool](config.ref.maintainer_pool.php "maintainer_pool"), and [event_loop](config.ref.event_loop.php "event_loop")
+[delivery_pool](config.ref.delivery_pool "delivery_pool"), [maintainer_pool](config.ref.maintainer_pool.php "maintainer_pool"), and [event_loop](config.ref.event_loop.php "event_loop")

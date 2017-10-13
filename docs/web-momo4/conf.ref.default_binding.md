@@ -20,7 +20,7 @@ If you are using MultiVIP© interfaces, you may want to use one of the following
 
 *   If `default_binding` is set to `none`, then messages that would fall into the default binding will generate a 451 transient failure back to the generating software.
 
-*   If `default_binding` is set to `suspended`, you can suspend delivery for the default binding using the [suspend_delivery](conf.ref.suspend_delivery.php "suspend_delivery") option.
+*   If `default_binding` is set to `suspended`, you can suspend delivery for the default binding using the [suspend_delivery](conf.ref.suspend_delivery "suspend_delivery") option.
 
 <a name="idp24181936"></a>
 ## Scope
@@ -30,4 +30,4 @@ If you are using MultiVIP© interfaces, you may want to use one of the following
 <a name="idp24184192"></a>
 ## See Also
 
-[suspend_delivery](conf.ref.suspend_delivery.php "suspend_delivery"), [binding](conf.ref.binding.php "binding"), and [the section called “`default` Binding”](conf.ref.binding.php#conf.ref.binding.default "default Binding")
+[suspend_delivery](conf.ref.suspend_delivery "suspend_delivery"), [binding](conf.ref.binding.php "binding"), and [the section called “`default` Binding”](conf.ref.binding.php#conf.ref.binding.default "default Binding")

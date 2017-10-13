@@ -4,7 +4,7 @@
 
 <dl class="toc">
 
-<dt>[A.1\. Responses Sorted By Codes](message_responses.php#responses-by-code)</dt>
+<dt>[A.1\. Responses Sorted By Codes](message_responses#responses-by-code)</dt>
 
 </dl>
 

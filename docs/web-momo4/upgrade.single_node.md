@@ -4,29 +4,29 @@
 
 <dl class="toc">
 
-<dt>[10.1\. Preparation](upgrade.single_node.php#upgrade.single_node.preparation)</dt>
+<dt>[10.1\. Preparation](upgrade.single_node#upgrade.single_node.preparation)</dt>
 
-<dt>[10.2\. Vertica Updates](upgrade.single_node.vertica_updates.php)</dt>
+<dt>[10.2\. Vertica Updates](upgrade.single_node.vertica_updates)</dt>
 
-<dt>[10.3\. Prepare and Run Flyway](upgrade.single_node.configuration.flyway.php)</dt>
+<dt>[10.3\. Prepare and Run Flyway](upgrade.single_node.configuration.flyway)</dt>
 
-<dt>[10.4\. Configuration Changes](upgrade.single_node.configuration.config_all__nodes.php)</dt>
+<dt>[10.4\. Configuration Changes](upgrade.single_node.configuration.config_all__nodes)</dt>
 
-<dt>[10.5\. Software Upgrade](upgrade.single_node.configuration.software_upgrade.php)</dt>
+<dt>[10.5\. Software Upgrade](upgrade.single_node.configuration.software_upgrade)</dt>
 
-<dt>[10.6\. Update Web UI Configuration](upgrade.single_node.configuration.webui.php)</dt>
+<dt>[10.6\. Update Web UI Configuration](upgrade.single_node.configuration.webui)</dt>
 
-<dt>[10.7\. Start Services](upgrade.single_node.configuration.start_services.php)</dt>
+<dt>[10.7\. Start Services](upgrade.single_node.configuration.start_services)</dt>
 
-<dt>[10.8\. Complete the Software Set Up](upgrade.single_node.complete_setup.php)</dt>
+<dt>[10.8\. Complete the Software Set Up](upgrade.single_node.complete_setup)</dt>
 
-<dt>[10.9\. Next Steps](upgrade.single_node.configuration.next_steps.php)</dt>
+<dt>[10.9\. Next Steps](upgrade.single_node.configuration.next_steps)</dt>
 
 </dl>
 
 ### Warning
 
-**The installation and upgrade instructions in Chapters 8 through 11 are only applicable in their entirety for Momentum 4.x releases prior to 4.2.28.**                                                                                                                                                 For release 4.2.28 and beyond, please refer to the installation and upgrade PDF documents available under the desired release's folder on the Message Systems Support website's [Downloads page](https://support.messagesystems.com/start.php/). If you are uncertain as to which document is applicable to your situation, please contact your technical support representative.
+**The installation and upgrade instructions in Chapters 8 through 11 are only applicable in their entirety for Momentum 4.x releases prior to 4.2.28.**                                                                                                                                                 For release 4.2.28 and beyond, please refer to the installation and upgrade PDF documents available under the desired release's folder on the Message Systems Support website's [Downloads page](https://support.messagesystems.com/start/). If you are uncertain as to which document is applicable to your situation, please contact your technical support representative.
 
 <a class="indexterm" name="idp1218512"></a>
 
@@ -56,7 +56,7 @@ Perform the following steps to prepare for the Momentum upgrade and to upgrade C
 
 ### 10.1.1. Prepare the Node
 
-1.  Ensure that you have downloaded and installed the software on the node. For more information, refer to [Chapter 7, *Download the Software Bundle and Prepare*](download_bundle.php "Chapter 7. Download the Software Bundle and Prepare") .
+1.  Ensure that you have downloaded and installed the software on the node. For more information, refer to [Chapter 7, *Download the Software Bundle and Prepare*](download_bundle "Chapter 7. Download the Software Bundle and Prepare") .
 
 2.  Untar/unzip the bundle.
 

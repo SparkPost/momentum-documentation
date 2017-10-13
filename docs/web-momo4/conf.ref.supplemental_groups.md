@@ -30,4 +30,4 @@ Supplemental_Groups is valid in the security scope.
 <a name="idp26789056"></a>
 ## See Also
 
-[security](conf.ref.security.php "security"), [capabilities](conf.ref.capabilities.php "capabilities"), [user](conf.ref.user.php "user"), and [chroot](conf.ref.chroot.php "chroot")
+[security](conf.ref.security "security"), [capabilities](conf.ref.capabilities.php "capabilities"), [user](conf.ref.user.php "user"), and [chroot](conf.ref.chroot.php "chroot")

@@ -28,4 +28,4 @@ print(o); -- { "name": "value" }
 <a name="idp16560720"></a>
 ## See Also
 
-[json.strerror](lua.ref.json.strerror.php "json.strerror") and [json.decode](lua.ref.json.decode.php "json.decode")
+[json.strerror](lua.ref.json.strerror "json.strerror") and [json.decode](lua.ref.json.decode.php "json.decode")

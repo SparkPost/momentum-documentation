@@ -29,7 +29,7 @@ The POODLE (Padding Oracle On Downgraded Legacy Encryption) vulnerability attack
 
 **Disable SSLv3 (GNUTLS)**
 
-If you access the REST APIs via NGINX, enable GNUTLS in the TLS_Engine and disable SSLv3 to protect SMTP traffic. To do this, set the [tls_ciphers](config.tls_ciphers.php "tls_ciphers") configuration option to disable SSLv3 in your `ecelerity.conf` file:
+If you access the REST APIs via NGINX, enable GNUTLS in the TLS_Engine and disable SSLv3 to protect SMTP traffic. To do this, set the [tls_ciphers](config.tls_ciphers "tls_ciphers") configuration option to disable SSLv3 in your `ecelerity.conf` file:
 
 `TLS_Ciphers = "NORMAL:-VERS-SSL3.0"`
 
@@ -37,6 +37,6 @@ For more information, see the [GNUTLS website](http://www.gnutls.org/security.ht
 
 **Disable SSLv3 (OpenSSL)**
 
-To fix this vulnerability in OpenSSL, make sure you are running Momentum 4.1.0.2 or later and set the [tls_protocols](config.tls_protocols.php "tls_protocols") configuration option to disable SSLv3 in your `ecelerity.conf` file:
+To fix this vulnerability in OpenSSL, make sure you are running Momentum 4.1.0.2 or later and set the [tls_protocols](config.tls_protocols "tls_protocols") configuration option to disable SSLv3 in your `ecelerity.conf` file:
 
 `TLS_Protocols = "+ALL:-SSLv3"`

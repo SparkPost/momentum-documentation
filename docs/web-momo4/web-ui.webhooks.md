@@ -4,15 +4,15 @@
 
 <dl class="toc">
 
-<dt>[60.1\. Viewing Your Webhooks](web-ui.webhooks.php#web-ui.webhooks.viewing)</dt>
+<dt>[60.1\. Viewing Your Webhooks](web-ui.webhooks#web-ui.webhooks.viewing)</dt>
 
-<dt>[60.2\. Creating a Webhook](web-ui.webhooks.create.php)</dt>
+<dt>[60.2\. Creating a Webhook](web-ui.webhooks.create)</dt>
 
-<dt>[60.3\. Testing Your Webhook](web-ui.webhooks.test.php)</dt>
+<dt>[60.3\. Testing Your Webhook](web-ui.webhooks.test)</dt>
 
-<dt>[60.4\. Updating Your Webhook](web-ui.webhooks.update.php)</dt>
+<dt>[60.4\. Updating Your Webhook](web-ui.webhooks.update)</dt>
 
-<dt>[60.5\. Deleting a Webhook](web-ui.webhooks.delete.php)</dt>
+<dt>[60.5\. Deleting a Webhook](web-ui.webhooks.delete)</dt>
 
 </dl>
 
@@ -40,7 +40,7 @@ The Webhooks tab displays details about your existing webhooks. The following in
 
 *   Event types the webhook will receive
 
-[Figure 60.1, “Webhooks List”](web-ui.webhooks.php#figure_webhooks_list "Figure 60.1. Webhooks List") shows two example webhooks. The all_events_webhook will receive all event types on *`yourtargetURL.com`*; while the message_events_webhook will receive only Delivery, Policy Rejection, and Out-of-Band events on *`mytargetURL.com`*.
+[Figure 60.1, “Webhooks List”](web-ui.webhooks#figure_webhooks_list "Figure 60.1. Webhooks List") shows two example webhooks. The all_events_webhook will receive all event types on *`yourtargetURL.com`*; while the message_events_webhook will receive only Delivery, Policy Rejection, and Out-of-Band events on *`mytargetURL.com`*.
 
 <a name="figure_webhooks_list"></a>
 

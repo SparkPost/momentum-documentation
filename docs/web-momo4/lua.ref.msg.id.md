@@ -18,4 +18,4 @@ Enable this function with the statement `require('msys.extended.message');`.
 <a name="idp16624976"></a>
 ## See Also
 
-[msg.batch_id](lua.ref.msg.batch_id.php "msg.batch_id")
+[msg.batch_id](lua.ref.msg.batch_id "msg.batch_id")

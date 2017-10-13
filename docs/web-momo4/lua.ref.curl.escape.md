@@ -21,9 +21,9 @@ URL encode a string; useful when building an URL.
 
 `print(curl.escape("abcd$%^&*()"))`
 
-[Example 70.17, “curl.escape example”](lua.ref.curl.escape.php#lua.ref.curl.escape.example "Example 70.17. curl.escape example") outputs the following:
+[Example 70.17, “curl.escape example”](lua.ref.curl.escape#lua.ref.curl.escape.example "Example 70.17. curl.escape example") outputs the following:
 
 `abcd%24%25%5E%26%2A%28%29`<a name="idp15656992"></a>
 ### See Also
 
-[curl.unescape](lua.ref.curl.unescape.php "curl.unescape")
+[curl.unescape](lua.ref.curl.unescape "curl.unescape")

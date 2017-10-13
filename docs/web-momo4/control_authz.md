@@ -1,8 +1,8 @@
 ## 17.4. Control_Listener Authorization
 
-The authorization subsystem allows you to restrict the ability to run console commands based on the role of the user. The role membership of the user is determined based on the authenticated username. Pluggable authorization modules provide the means to map the username to a number of roles (or groups) that can then be matched against the rules defined in the Authorization stanza. The Authorization stanza is only in effect in the scope where the `enable_authorization` is set to `true`. For more information about the Authorization stanza, see [authorization](conf.ref.authorization.php "authorization").
+The authorization subsystem allows you to restrict the ability to run console commands based on the role of the user. The role membership of the user is determined based on the authenticated username. Pluggable authorization modules provide the means to map the username to a number of roles (or groups) that can then be matched against the rules defined in the Authorization stanza. The Authorization stanza is only in effect in the scope where the `enable_authorization` is set to `true`. For more information about the Authorization stanza, see [authorization](conf.ref.authorization "authorization").
 
-Logging of authorization events is controlled by the `Enable_Authorization` option. If it is enabled, authorization is turned on, triggering the authorization logging hook. To capture the information, you must configure an account log logging module. Set the `acctlog` option in an [ec_logger](modules.ec_logger.php "71.30. EC_logger – Momentum-Style Logging") module in your configuration or build your own custom accounting logger. For `acctlog` format, see [Section 35.1, “`acctlog`”](log_formats.php#log_formats.acctlog "35.1. acctlog").
+Logging of authorization events is controlled by the `Enable_Authorization` option. If it is enabled, authorization is turned on, triggering the authorization logging hook. To capture the information, you must configure an account log logging module. Set the `acctlog` option in an [ec_logger](modules.ec_logger "71.30. EC_logger – Momentum-Style Logging") module in your configuration or build your own custom accounting logger. For `acctlog` format, see [Section 35.1, “`acctlog`”](log_formats.php#log_formats.acctlog "35.1. acctlog").
 
 The following is an example configuration with authorization enabled:
 
@@ -152,4 +152,4 @@ If account logging is configured, an attempt to execute an unauthorized command 
 
 `1242133558@Z@127.0.0.1:2025@127.0.0.1:49440@john@0@summary`
 
-The last three fields indicate a failed execution of the summary command by the user `john`. For a description of the meaning of all the fields, see [Section 35.1, “`acctlog`”](log_formats.php#log_formats.acctlog "35.1. acctlog").
+The last three fields indicate a failed execution of the summary command by the user `john`. For a description of the meaning of all the fields, see [Section 35.1, “`acctlog`”](log_formats#log_formats.acctlog "35.1. acctlog").

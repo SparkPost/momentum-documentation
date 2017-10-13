@@ -24,4 +24,4 @@ use_sendfile is valid in the global scope.
 <a name="idp27349408"></a>
 ## See Also
 
-[use_mmap](conf.ref.use_mmap.php "use_mmap")
+[use_mmap](conf.ref.use_mmap "use_mmap")

@@ -48,4 +48,4 @@ Enable this function with the statement `require('msys.pcre')`.
 <a name="idp18278736"></a>
 ## See Also
 
-[msys.pcre.match](lua.ref.msys.pcre.match.php "msys.pcre.match"), [msys.pcre.replace](lua.ref.msys.pcre.replace.php "msys.pcre.replace")
+[msys.pcre.match](lua.ref.msys.pcre.match "msys.pcre.match"), [msys.pcre.replace](lua.ref.msys.pcre.replace.php "msys.pcre.replace")

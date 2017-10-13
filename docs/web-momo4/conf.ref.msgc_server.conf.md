@@ -4,13 +4,13 @@ The `msgc_server.conf` file contains the configuration relevant to the cluster m
 
 ### Note
 
-Restart [Section 15.1.3, “Configuration Management (**ecconfigd**)”](conf.overview.php#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)") after making extensive changes to `msgc_server.conf`, such as adding multiple nodes. Use the command **`/etc/init.d/ecconfigd restart`**         .
+Restart [Section 15.1.3, “Configuration Management (**ecconfigd**)”](conf.overview#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)") after making extensive changes to `msgc_server.conf`, such as adding multiple nodes. Use the command **`/etc/init.d/ecconfigd restart`**         .
 
-For a discussion of scopes and fallbacks, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback").
+For a discussion of scopes and fallbacks, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback").
 
-For a summary of all the non-module specific configuration options, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For a summary of all the non-module specific configuration options, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
-Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
+Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
 The following are the modules configured in the `msgc_server.conf` file:
 
@@ -36,7 +36,7 @@ The msgc_client module connects to msgc_server in order to participate in the cl
 
 <dd>
 
-The msgcserver_listener mediates between msgc_servers and between msgc_servers and their clients. See [Section 16.5.2, “Msgcserver_Listener Configuration”](cluster.listeners.php#msgcserver_listener "16.5.2. Msgcserver_Listener Configuration").
+The msgcserver_listener mediates between msgc_servers and between msgc_servers and their clients. See [Section 16.5.2, “Msgcserver_Listener Configuration”](cluster.listeners#msgcserver_listener "16.5.2. Msgcserver_Listener Configuration").
 
 </dd>
 

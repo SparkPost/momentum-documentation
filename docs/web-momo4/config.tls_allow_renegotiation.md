@@ -48,4 +48,4 @@ The default value is `true`.
 <a name="idp26932416"></a>
 ## See Also
 
-[tls](config.ref.tls.php "tls")
+[tls](config.ref.tls "tls")

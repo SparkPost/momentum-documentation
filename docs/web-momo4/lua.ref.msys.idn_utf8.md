@@ -39,4 +39,4 @@ This function wil help facilitate the translation of international characters to
 <a name="idp16192784"></a>
 ## See Also
 
-[msys.idn.to_idn](lua.ref.msys.idn.php "msys.idn.to_idn")
+[msys.idn.to_idn](lua.ref.msys.idn "msys.idn.to_idn")

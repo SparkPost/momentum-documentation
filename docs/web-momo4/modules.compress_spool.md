@@ -6,7 +6,7 @@ One of the principle bottlenecks in handling a large amount of inbound mail is w
 
 ### Warning
 
-This module will fail to load if you set the configuration option `Use_MMAP` to `true`. For more information about this option, see [use_mmap](conf.ref.use_mmap.php "use_mmap").
+This module will fail to load if you set the configuration option `Use_MMAP` to `true`. For more information about this option, see [use_mmap](conf.ref.use_mmap "use_mmap").
 
 ### 71.21.1. Configuration
 

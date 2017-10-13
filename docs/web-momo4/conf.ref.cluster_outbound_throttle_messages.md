@@ -18,7 +18,7 @@ If a single integer parameter is provided, Momentum will ensure that no more tha
 
 ### Note
 
-For best results, a throttle in the same scope and with the same values should also be defined using [cluster_outbound_throttle_connections](conf.ref.cluster_outbound_throttle_connections.php "cluster_outbound_throttle_connections")
+For best results, a throttle in the same scope and with the same values should also be defined using [cluster_outbound_throttle_connections](conf.ref.cluster_outbound_throttle_connections "cluster_outbound_throttle_connections")
 
 The cluster module must be configured with the outbound throttle parameters.
 

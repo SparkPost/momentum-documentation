@@ -4,7 +4,7 @@
 
 The ec_logger and event_hydrant modules provide full disposition status of every message that goes through Momentum. However, it is often convenient to view status of only bounced messages. The bounce_logger module writes only inband (or protocol-time) and out-of-band bounces to a single log file.
 
-For details about the bouncelog file format, see [Section 35.3, “`bouncelog`”](log_formats.bouncelog.php "35.3. bouncelog").
+For details about the bouncelog file format, see [Section 35.3, “`bouncelog`”](log_formats.bouncelog "35.3. bouncelog").
 
 ### 71.13.1. Configuration
 
@@ -41,9 +41,9 @@ log_transient_failures = <on|off:  default on>
 
 The `log_transient_failures` option creates a log entry of type ‘`T`’ in the bounce log along with the actual bounce log line. Apart from the type identifier, the log entry for a transient failure is the same as other bounce log entries. Note that bounce log entries differ in format from ec_logger entries. The default value for this option is `on`.
 
-The bounce_logger relies on additional global configuration options: [bounce_domains](conf.ref.bounce_domains.php "bounce_domains"), [bounce_behavior](conf.ref.bounce_behavior.php "bounce_behavior"), [bounce_suppress_list](conf.ref.bounce_suppress_list.php "bounce_suppress_list") and [bounce_pattern](conf.ref.bounce_pattern.php "bounce_pattern").
+The bounce_logger relies on additional global configuration options: [bounce_domains](conf.ref.bounce_domains "bounce_domains"), [bounce_behavior](conf.ref.bounce_behavior.php "bounce_behavior"), [bounce_suppress_list](conf.ref.bounce_suppress_list.php "bounce_suppress_list") and [bounce_pattern](conf.ref.bounce_pattern.php "bounce_pattern").
 
-The default log file created by this logger is rotated by the utility script **ec_rotate**. For more information, see [ec_rotate](executable.ec_rotate.php "ec_rotate").
+The default log file created by this logger is rotated by the utility script **ec_rotate**. For more information, see [ec_rotate](executable.ec_rotate "ec_rotate").
 
 ### 71.13.2. Configuration of Aggregated Cluster Node Logging
 
@@ -61,11 +61,11 @@ bounce_logger "bounce_logger_cluster" {
 }
 ```
 
-For a detailed explanation of setting up cluster-wide consolidated logging, see [Section 71.30.2, “Configuration of Aggregated Cluster Node Logging”](modules.ec_logger.php#modules.ec_logger.cluster "71.30.2. Configuration of Aggregated Cluster Node Logging").
+For a detailed explanation of setting up cluster-wide consolidated logging, see [Section 71.30.2, “Configuration of Aggregated Cluster Node Logging”](modules.ec_logger#modules.ec_logger.cluster "71.30.2. Configuration of Aggregated Cluster Node Logging").
 
 ### 71.13.3. Configuration for the Cluster Manager
 
-The bounce_logger module can also be used to configure log events that occur on the cluster manager. Configuration is similar to [Section 71.13.1, “Configuration”](modules.bounce_logger.php#modules.bounce_logger.node "71.13.1. Configuration") with the exception that the bounce_logger module is loaded in the `eccluster.conf` file.
+The bounce_logger module can also be used to configure log events that occur on the cluster manager. Configuration is similar to [Section 71.13.1, “Configuration”](modules.bounce_logger#modules.bounce_logger.node "71.13.1. Configuration") with the exception that the bounce_logger module is loaded in the `eccluster.conf` file.
 
 ### 71.13.4. Console Commands
 

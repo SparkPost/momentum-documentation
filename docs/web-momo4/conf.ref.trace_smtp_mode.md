@@ -24,4 +24,4 @@ The default value is `0640`.
 <a name="idp27169952"></a>
 ## See Also
 
-[trace smtp](console_commands.trace_smtp.php "trace smtp")
+[trace smtp](console_commands.trace_smtp "trace smtp")

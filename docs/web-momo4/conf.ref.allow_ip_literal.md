@@ -24,4 +24,4 @@ allow_ip_literal is valid in the global, listener, listen, peer, pathway, and pa
 <a name="idp23500720"></a>
 ## See Also
 
-[allow_null_envelope_sender](conf.ref.allow_null_envelope_sender.php "allow_null_envelope_sender")
+[allow_null_envelope_sender](conf.ref.allow_null_envelope_sender "allow_null_envelope_sender")

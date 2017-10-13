@@ -4,9 +4,9 @@
 
 <dl class="toc">
 
-<dt>[E.1\. Acknowledgements](copyrights.php#copyright.ack)</dt>
+<dt>[E.1\. Acknowledgements](copyrights#copyright.ack)</dt>
 
-<dt>[E.2\. Disclaimers for Redistributed Third-Party Software](copyright.3rdparty-disclaimer.php)</dt>
+<dt>[E.2\. Disclaimers for Redistributed Third-Party Software](copyright.3rdparty-disclaimer)</dt>
 
 </dl>
 

@@ -8,7 +8,7 @@ Riak uses the following ports:
 
 *   `TCP 8087` – Defines an alternative "Protocol Buffers" interface for querying Riak. This is not used by Message Systems and is disabled in our default packaging.
 
-*   `TCP 4369` – In a cluster configuration Riak uses the Erlang Port Mapper daemon (epmd) to resolve node identifiers. By default epmd binds to port 4369\. For more information, see [the section called “Erlang and Firewalls”](operations.riak.ports.php#operations.riak.ports.erlang "Erlang and Firewalls").
+*   `TCP 4369` – In a cluster configuration Riak uses the Erlang Port Mapper daemon (epmd) to resolve node identifiers. By default epmd binds to port 4369\. For more information, see [the section called “Erlang and Firewalls”](operations.riak.ports#operations.riak.ports.erlang "Erlang and Firewalls").
 
 None of these ports should be exposed to the public Internet; we strongly recommend that access to these ports from untrusted networks be blocked by a firewall.
 

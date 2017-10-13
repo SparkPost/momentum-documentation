@@ -16,7 +16,7 @@ For this tutorial, you will need a web browser to access the UI. The UI supports
 
 Follow these steps to view reports in the UI:
 
-Open the UI by pointing your web browser at the appropriate IP address and log in using your credentials. If you do not know the IP address, contact your system administrator. Your UI opens in the Summary section under Reports [Figure 56.1, “User Interface”](reporting_ui.php#figure_summary "Figure 56.1. User Interface").
+Open the UI by pointing your web browser at the appropriate IP address and log in using your credentials. If you do not know the IP address, contact your system administrator. Your UI opens in the Summary section under Reports [Figure 56.1, “User Interface”](reporting_ui#figure_summary "Figure 56.1. User Interface").
 
 <a name="figure_summary"></a>
 
@@ -26,7 +26,7 @@ Open the UI by pointing your web browser at the appropriate IP address and log i
 
 In the METRICS area of the Summary section, the UI reports how many of your messages were successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). This data is displayed based on time in the corresponding graph.
 
-The Reports tab consists of six sections. Use the drop-down list shown in [Figure 56.2, “Navigating the UI”](reporting_ui.php#figure_navigation "Figure 56.2. Navigating the UI") to navigate the UI.
+The Reports tab consists of six sections. Use the drop-down list shown in [Figure 56.2, “Navigating the UI”](reporting_ui#figure_navigation "Figure 56.2. Navigating the UI") to navigate the UI.
 
 <a name="figure_navigation"></a>
 
@@ -36,6 +36,6 @@ The Reports tab consists of six sections. Use the drop-down list shown in [Figur
 
 To create your custom reports, begin in theSummary section by selecting your metrics and filters. Next, view the summary report provided in the Summary section and the detailed reports provided in the Bounces, Rejections, Accepted, and Delayed sections to evaluate your deliverability and performance. The Engagement section includes a specialized report enabling you to drill down to the level of a link within your campaign.
 
-See [Chapter 57, *Reports and Engagement Tracking in the UI*                                  ](web-ui.reports.php "Chapter 57. Reports and Engagement Tracking in the UI") for detailed information about the six reports including screen captures, descriptions of the various metrics, and instructions to create custom reports.
+See [Chapter 57, *Reports and Engagement Tracking in the UI*                                  ](web-ui.reports "Chapter 57. Reports and Engagement Tracking in the UI") for detailed information about the six reports including screen captures, descriptions of the various metrics, and instructions to create custom reports.
 
 Congratulations! You have successfully logged into Momentum's UI. You can create custom reports in the UI by selecting the metrics and filters for your specific reporting needs. Become familiar with the UI and explore its capabilities.

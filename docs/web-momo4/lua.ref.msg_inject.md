@@ -22,4 +22,4 @@ Enable this function with the statement `require('msys.extended.message');`.
 <a name="idp16814592"></a>
 ## See Also
 
-[msg:build](lua.ref.msg_build.php "msg:build")
+[msg:build](lua.ref.msg_build "msg:build")

@@ -20,4 +20,4 @@ The ellipsis (...) in the parameter list indicate that this function has any num
 <a name="idp16849216"></a>
 ## See Also
 
-[msg:makeContainer](lua.ref.msg_makeContainer.php "msg:makeContainer")
+[msg:makeContainer](lua.ref.msg_makeContainer "msg:makeContainer")

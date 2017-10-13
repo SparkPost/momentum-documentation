@@ -42,4 +42,4 @@ The default value for `max_retries` is "auto" so be sure to change it to a posit
 <a name="idp25444688"></a>
 ## See Also
 
-[message_expiration](conf.ref.message_expiration.php "message_expiration") and [max_retry_interval](conf.ref.max_retry_interval.php "max_retry_interval")
+[message_expiration](conf.ref.message_expiration "message_expiration") and [max_retry_interval](conf.ref.max_retry_interval.php "max_retry_interval")

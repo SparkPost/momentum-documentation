@@ -10,7 +10,7 @@ jlog_change_endian — change the endianness of a jlog
 <a name="idp13218416"></a>
 ## Description
 
-This command creates an exact copy of a jlog with the opposite endianness of the original. If it detects a problem in the source jlog, it will print an error message and not create the copy. For this reason, you should run [jlog_sanity_check](executable.jlog_sanity_check.php "jlog_sanity_check") on the source jlog first, to make sure it is error-free. This command should be run as `ecuser`.
+This command creates an exact copy of a jlog with the opposite endianness of the original. If it detects a problem in the source jlog, it will print an error message and not create the copy. For this reason, you should run [jlog_sanity_check](executable.jlog_sanity_check "jlog_sanity_check") on the source jlog first, to make sure it is error-free. This command should be run as `ecuser`.
 
 The first argument is the path to the jlog you want to convert.
 

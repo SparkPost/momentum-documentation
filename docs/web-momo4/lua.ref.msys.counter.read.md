@@ -58,9 +58,9 @@ end
 msys.registerModule("counter", mod);
 ```
 
-You can also use the [counter](console_commands.counter.php "counter") console command to display and manipulate counters.
+You can also use the [counter](console_commands.counter "counter") console command to display and manipulate counters.
 
 <a name="idp17858608"></a>
 ## See Also
 
-[msys.counter.open](lua.ref.msys.counter.open.php "msys.counter.open"), [msys.counter.add](lua.ref.msys.counter.add.php "msys.counter.add"), [msys.counter.reset](lua.ref.msys.counter.reset.php "msys.counter.reset"), [msys.counter.unlink](lua.ref.msys.counter.unlink.php "msys.counter.unlink"), [msys.counter.inc](lua.ref.msys.counter.inc.php "msys.counter.inc")
+[msys.counter.open](lua.ref.msys.counter.open "msys.counter.open"), [msys.counter.add](lua.ref.msys.counter.add.php "msys.counter.add"), [msys.counter.reset](lua.ref.msys.counter.reset.php "msys.counter.reset"), [msys.counter.unlink](lua.ref.msys.counter.unlink.php "msys.counter.unlink"), [msys.counter.inc](lua.ref.msys.counter.inc.php "msys.counter.inc")

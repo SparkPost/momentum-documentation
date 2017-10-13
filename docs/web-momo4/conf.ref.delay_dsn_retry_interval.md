@@ -14,7 +14,7 @@ The base retry period in seconds for sending warning messages (delivery status n
 
 ### Note
 
-To use this feature the [delay_dsn](modules.delay_dsn.php "71.26. delay_dsn – Delay DSN Generation") module must be loaded.
+To use this feature the [delay_dsn](modules.delay_dsn "71.26. delay_dsn – Delay DSN Generation") module must be loaded.
 
 The default value for this option is `3600`.
 
@@ -26,4 +26,4 @@ The default value for this option is `3600`.
 <a name="idp24234976"></a>
 ## See Also
 
-[generate_delay_dsn](conf.ref.generate_delay_dsn.php "generate_delay_dsn"), [delay_dsn_max_retry_interval](conf.ref.delay_dsn_max_retry_interval.php "delay_dsn_max_retry_interval")
+[generate_delay_dsn](conf.ref.generate_delay_dsn "generate_delay_dsn"), [delay_dsn_max_retry_interval](conf.ref.delay_dsn_max_retry_interval.php "delay_dsn_max_retry_interval")

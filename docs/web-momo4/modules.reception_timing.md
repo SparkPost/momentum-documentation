@@ -27,7 +27,7 @@ The `chunk_logger` module must be loaded and configured. This module is used to 
     }
     ```
 
-You may also wish to add the chunk_logger log file to `ec_rotate.conf`, to ensure that it is rotated daily. For more information, see [Section 71.15, “chunk_logger Module”](modules.chunk_logger.php "71.15. chunk_logger Module") and [ec_rotate](executable.ec_rotate.php "ec_rotate").
+You may also wish to add the chunk_logger log file to `ec_rotate.conf`, to ensure that it is rotated daily. For more information, see [Section 71.15, “chunk_logger Module”](modules.chunk_logger "71.15. chunk_logger Module") and [ec_rotate](executable.ec_rotate.php "ec_rotate").
 
 ### Note
 

@@ -16,7 +16,7 @@ options: table
 <a name="idp18595184"></a>
 ## Description
 
-This function signs a message using a DomainKey signature. This function requires the [`dk_sign`](modules.domainkeys.php "71.28. domainkeys – Yahoo! DomainKeys") module.
+This function signs a message using a DomainKey signature. This function requires the [`dk_sign`](modules.domainkeys "71.28. domainkeys – Yahoo! DomainKeys") module.
 
 Enable this function with the statement `require('msys.sign.dk');`.
 
@@ -32,7 +32,7 @@ It requires the following parameters:
 
     *   `selector` – default signing selector
 
-    *   `keyfile` – default signing key file (which may be parameterized as defined in [Section 71.50, “opendkim – Open Source DKIM”](modules.opendkim.php "71.50. opendkim – Open Source DKIM"))
+    *   `keyfile` – default signing key file (which may be parameterized as defined in [Section 71.50, “opendkim – Open Source DKIM”](modules.opendkim "71.50. opendkim – Open Source DKIM"))
 
     *   `keybuf` – default signing key
 
@@ -45,4 +45,4 @@ This function should only be invoked from the core_final_validation hook.
 <a name="idp18612160"></a>
 ## See Also
 
-[msys.validate.dk.get_responsible_domain](lua.ref.msys.validate.dk.get_responsible_domain.php "msys.validate.dk.get_responsible_domain")
+[msys.validate.dk.get_responsible_domain](lua.ref.msys.validate.dk.get_responsible_domain "msys.validate.dk.get_responsible_domain")

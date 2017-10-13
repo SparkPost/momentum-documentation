@@ -24,4 +24,4 @@ The default value for this option is `none`.
 <a name="idp26258528"></a>
 ## See Also
 
-[rfc2822_max_line_length](conf.ref.rfc2822_max_line_length.php "rfc2822_max_line_length")
+[rfc2822_max_line_length](conf.ref.rfc2822_max_line_length "rfc2822_max_line_length")

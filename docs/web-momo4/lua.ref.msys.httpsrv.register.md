@@ -25,7 +25,7 @@ msys.httpsrv.register(“GET”, “/somepath”, my_endpoint)
 msys.httpsrv.register(“POST”, “/somepath”, my_endpoint)
 ```
 
-A Lua function registered in this way has access to the HTTP session object. For a description of the session object, see [ec_httpsrv_session](https://support.messagesystems.com/docs/web-c-api/structs.ec_httpsrv_session.php).
+A Lua function registered in this way has access to the HTTP session object. For a description of the session object, see [ec_httpsrv_session](https://support.messagesystems.com/docs/web-c-api/structs.ec_httpsrv_session).
 
 The `function_name` Lua function is called when a HTTP request is made matching the `method` HTTP method and `endpoint` base URI path.
 
@@ -76,9 +76,9 @@ msys.registerModule("example", mod)
 
 ### Note
 
-The `rsrc_setup` hook provides a safer way to register resources against new [config](console_commands.config.php "config") actions. Note that this example shows how to register an ec_console command as well as a custom HTTP endpoint. In Momentum 4, use the code shown here rather than the code shown in the [msys.registerControl](lua.ref.msys.registerControl.php "msys.registerControl") example.
+The `rsrc_setup` hook provides a safer way to register resources against new [config](console_commands.config "config") actions. Note that this example shows how to register an ec_console command as well as a custom HTTP endpoint. In Momentum 4, use the code shown here rather than the code shown in the [msys.registerControl](lua.ref.msys.registerControl.php "msys.registerControl") example.
 
 <a name="idp16158512"></a>
 ## See Also
 
-[session:request_url_get](lua.ref.session_request_url_get.php "session:request_url_get") and [session:response_status_set_std](lua.ref.session_response_status_set_std.php "session:response_status_set_std")
+[session:request_url_get](lua.ref.session_request_url_get "session:request_url_get") and [session:response_status_set_std](lua.ref.session_response_status_set_std.php "session:response_status_set_std")

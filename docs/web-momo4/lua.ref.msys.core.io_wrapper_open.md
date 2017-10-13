@@ -46,14 +46,14 @@ msys.runInPool('LUA_TXT_LOGS', function()
   end, true);
 ```
 
-The code shown in [Example 70.29, “msys.core.io_wrapper_open”](lua.ref.msys.core.io_wrapper_open.php#lua.ref.msys.core.io_wrapper_open.example "Example 70.29. msys.core.io_wrapper_open") assumes that a separate threadpool has been configured in `ecelerity.conf` in the following way:
+The code shown in [Example 70.29, “msys.core.io_wrapper_open”](lua.ref.msys.core.io_wrapper_open#lua.ref.msys.core.io_wrapper_open.example "Example 70.29. msys.core.io_wrapper_open") assumes that a separate threadpool has been configured in `ecelerity.conf` in the following way:
 
 ```
 # Thread pool for Lua custom logs
 threadpool "LUA_TXT_LOGS" { concurrency = 10 }
 ```
 
-For more information about threadpools see [threadpool](conf.ref.threadpool.php "threadpool").
+For more information about threadpools see [threadpool](conf.ref.threadpool "threadpool").
 
 **Bitwise Operators**
 
@@ -76,4 +76,4 @@ To make it easier to work with libraries that use bitmasks as part of their API,
 <a name="idp16037136"></a>
 ## See Also
 
-[msys.runInPool](lua.ref.msys.runinpool.php "msys.runInPool")
+[msys.runInPool](lua.ref.msys.runinpool "msys.runInPool")

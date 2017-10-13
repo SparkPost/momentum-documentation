@@ -18,7 +18,7 @@ By setting `keep_message_dicts_in_memory` to `true`, Momentum will retain the va
 
 ### Warning
 
-In some circumstances, using the Lua function [msg:routing_domain](lua.ref.msg_routing_domain.php "msg:routing_domain") may cause Momentum to "watchdog" (i.e., to become unresponsive and restart). To alleviate this, set `keep_message_dicts_in_memory` to `true`.
+In some circumstances, using the Lua function [msg:routing_domain](lua.ref.msg_routing_domain "msg:routing_domain") may cause Momentum to "watchdog" (i.e., to become unresponsive and restart). To alleviate this, set `keep_message_dicts_in_memory` to `true`.
 
 If you change this option you must restart the ecelerity process for the change to take effect. Invoking **`config reload`**         from the system console is not sufficient.
 
@@ -34,4 +34,4 @@ keep_message_dicts_in_memory is valid in the global scope.
 <a name="idp25058368"></a>
 ## See Also
 
-[exclude_vctx_conn](conf.ref.exclude_vctx_conn.php "exclude_vctx_conn"), [exclude_vctx_mess](conf.ref.exclude_vctx_mess.php "exclude_vctx_mess")
+[exclude_vctx_conn](conf.ref.exclude_vctx_conn "exclude_vctx_conn"), [exclude_vctx_mess](conf.ref.exclude_vctx_mess.php "exclude_vctx_mess")

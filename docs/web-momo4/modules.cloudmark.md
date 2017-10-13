@@ -6,7 +6,7 @@
 
 The cloudmark module provides message diagnosis via the Cloudmark Authority® spam and phishing protection technology.
 
-If you intend to use this module, be sure to choose it during installation. For more information, see [Section 12.1, “Installing Partner Modules”](post_installation.php#install.additional.packages "12.1. Installing Partner Modules").
+If you intend to use this module, be sure to choose it during installation. For more information, see [Section 12.1, “Installing Partner Modules”](post_installation#install.additional.packages "12.1. Installing Partner Modules").
 
 ### Note
 
@@ -43,7 +43,7 @@ cloudmark {
 
 ### Note
 
-This module is a singleton and is declared without an instance name. Also, you must load this module with `enabled` set to `false` (as shown in [Example 71.29, “cloudmark Configuration”](modules.cloudmark.php#example.cloudmark.3.2 "Example 71.29. cloudmark Configuration")) and use policy scripts to scan mail. Messages will not be scanned by default.
+This module is a singleton and is declared without an instance name. Also, you must load this module with `enabled` set to `false` (as shown in [Example 71.29, “cloudmark Configuration”](modules.cloudmark#example.cloudmark.3.2 "Example 71.29. cloudmark Configuration")) and use policy scripts to scan mail. Messages will not be scanned by default.
 
 The following configuration options are available:
 
@@ -165,7 +165,7 @@ The Cloudmark subcategory name
 
 ### 71.18.4. Lua Functions
 
-This module makes the Lua functions `msys.cloudmark.score` and `msys.cloudmark.analyze` available. For a description of how these functions are used, see [msys.cloudmark.score](lua.ref.msys.cloudmark.score.php "msys.cloudmark.score") and [msys.cloudmark.analyze](lua.ref.msys.cloudmark.analyze.php "msys.cloudmark.analyze").
+This module makes the Lua functions `msys.cloudmark.score` and `msys.cloudmark.analyze` available. For a description of how these functions are used, see [msys.cloudmark.score](lua.ref.msys.cloudmark.score "msys.cloudmark.score") and [msys.cloudmark.analyze](lua.ref.msys.cloudmark.analyze.php "msys.cloudmark.analyze").
 
 ### 71.18.5. Console Commands
 
@@ -192,7 +192,7 @@ CmaeCartridgeVersion = "3046.2.0.23"
 
 This describes how you can configure Momentum to communicate with the Cloudmark ActiveFilter MSI.
 
-1.  Configure Momentum's [maildir](modules.maildir.php "71.46. maildir – Maildir Delivery Support") module. The Cloudmark ActiveFilter MSI consumes this maildir.
+1.  Configure Momentum's [maildir](modules.maildir "71.46. maildir – Maildir Delivery Support") module. The Cloudmark ActiveFilter MSI consumes this maildir.
 
     <a name="example.cloudmark.activefilter"></a>
 
@@ -259,17 +259,17 @@ This describes how you can configure Momentum to communicate with the Cloudmark 
 
 4.  Set the AF mode by invoking one of the following functions:
 
-    *   [msys.cloudmark.set_af_mode_discard](lua.ref.msys.cloudmark.set_af_mode_discard.php "msys.cloudmark.set_af_mode_discard")
+    *   [msys.cloudmark.set_af_mode_discard](lua.ref.msys.cloudmark.set_af_mode_discard "msys.cloudmark.set_af_mode_discard")
 
-    *   [msys.cloudmark.set_af_mode_keep](lua.ref.msys.cloudmark.set_af_mode_keep.php "msys.cloudmark.set_af_mode_keep")
+    *   [msys.cloudmark.set_af_mode_keep](lua.ref.msys.cloudmark.set_af_mode_keep "msys.cloudmark.set_af_mode_keep")
 
-    *   [msys.cloudmark.set_af_mode_movemsg](lua.ref.msys.cloudmark.set_af_mode_movemsg.php "msys.cloudmark.set_af_mode_movemsg")
+    *   [msys.cloudmark.set_af_mode_movemsg](lua.ref.msys.cloudmark.set_af_mode_movemsg "msys.cloudmark.set_af_mode_movemsg")
 
-5.  Set the address for the ActiveFilter MSI Messages using the [msys.cloudmark.set_af_msi_address](lua.ref.msys.cloudmark.set_af_msi_address.php "msys.cloudmark.set_af_msi_address") function. This should correspond to the maildir defined in the `maildir` module declaration.
+5.  Set the address for the ActiveFilter MSI Messages using the [msys.cloudmark.set_af_msi_address](lua.ref.msys.cloudmark.set_af_msi_address "msys.cloudmark.set_af_msi_address") function. This should correspond to the maildir defined in the `maildir` module declaration.
 
-6.  Set any required custom values using the [msys.cloudmark.add_af_data](lua.ref.msys.cloudmark.add_af_data.php "msys.cloudmark.add_af_data") function; for example, the actual account name that you may have queried from a directory. By default, Momentum uses the recipient address if a custom value is not set.
+6.  Set any required custom values using the [msys.cloudmark.add_af_data](lua.ref.msys.cloudmark.add_af_data "msys.cloudmark.add_af_data") function; for example, the actual account name that you may have queried from a directory. By default, Momentum uses the recipient address if a custom value is not set.
 
-7.  Set the ActiveFilter score threshold using the [msys.cloudmark.score_af](lua.ref.msys.cloudmark.score_af.php "msys.cloudmark.score_af") function. If a message is originally marked as "not spam" and the message fingerprint exceeds this score, then it will trigger an ActiveFilter update. Similarly, ActiveFilter will be updated if a message is marked as spam but is later re-classified as "not spam." see .
+7.  Set the ActiveFilter score threshold using the [msys.cloudmark.score_af](lua.ref.msys.cloudmark.score_af "msys.cloudmark.score_af") function. If a message is originally marked as "not spam" and the message fingerprint exceeds this score, then it will trigger an ActiveFilter update. Similarly, ActiveFilter will be updated if a message is marked as spam but is later re-classified as "not spam." see .
 
     ### Note
 

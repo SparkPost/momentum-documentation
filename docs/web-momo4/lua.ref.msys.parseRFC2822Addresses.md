@@ -38,4 +38,4 @@ Because this function is in the `msys` namespace, an explicit `require` is not n
 <a name="idp16232928"></a>
 ## See Also
 
-[msg:address_header](lua.ref.msg_address_header.php "msg:address_header")
+[msg:address_header](lua.ref.msg_address_header "msg:address_header")

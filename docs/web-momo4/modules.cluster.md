@@ -291,7 +291,7 @@ Similar to `Replicate "inbound_cidr" {}`, specifying `Replicate "outbound_cidr" 
 
 Replicate outbound domains
 
-This option is included in the default `ecelerity-cluster.conf` file. For details, see [outbound_cidr](modules.cluster.php#option.outbound_cidr) .
+This option is included in the default `ecelerity-cluster.conf` file. For details, see [outbound_cidr](modules.cluster#option.outbound_cidr) .
 
 </dd>
 
@@ -379,7 +379,7 @@ There is no default value for this option.
 
 <dd>
 
-Replication type, as listed in [Replication Types](modules.cluster.php#modules.replication.types "Replication Types"). There is no default value for this option.
+Replication type, as listed in [Replication Types](modules.cluster#modules.replication.types "Replication Types"). There is no default value for this option.
 
 </dd>
 
@@ -427,7 +427,7 @@ In practice this isn't used much, if at all.
 
 </dl>
 
-For additional information about using the Replication scope, see [Chapter 28, *Data Replication*](cluster.config.replication.php "Chapter 28. Data Replication") 
+For additional information about using the Replication scope, see [Chapter 28, *Data Replication*](cluster.config.replication "Chapter 28. Data Replication") 
 
 ### 71.19.3. DuraVIP™ Network Topology
 
@@ -472,7 +472,7 @@ When bringing an IP address online, you must also know the netmask it will be us
 
 </dl>
 
-For additional details about DuraVIP™, see [Chapter 27, *DuraVIP™: IP Fail over*](cluster.config.duravip.php "Chapter 27. DuraVIP™: IP Fail over") .
+For additional details about DuraVIP™, see [Chapter 27, *DuraVIP™: IP Fail over*](cluster.config.duravip "Chapter 27. DuraVIP™: IP Fail over") .
 
 ### 71.19.4. Cluster Module-specific Console Commands
 
@@ -511,7 +511,7 @@ Resolve the MAC addresses of the cluster. Sample output follows.
 
 <dd>
 
-The only safe way to do a duravip move is using a **broadcast cluster duravip move**                      command from within the `eccmgr` service. For details, see [broadcast cluster duravip move *`from_host`* *`to_host`*](cluster.config.operations.eccmgr.console.php#cluster.config.operations.eccmgr.console.broadcast.cluster) .
+The only safe way to do a duravip move is using a **broadcast cluster duravip move**                      command from within the `eccmgr` service. For details, see [broadcast cluster duravip move *`from_host`* *`to_host`*](cluster.config.operations.eccmgr.console#cluster.config.operations.eccmgr.console.broadcast.cluster) .
 
 </dd>
 

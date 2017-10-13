@@ -61,4 +61,4 @@ The row detailing the totals represents the totals across *all* domains on the g
 <a name="idp7771344"></a>
 ## See Also
 
-[binding active](console_commands.binding_active.php "binding active")
+[binding active](console_commands.binding_active "binding active")

@@ -4,17 +4,17 @@
 
 <dl class="toc">
 
-<dt>[48.1\. Viewing Your Templates](web-ui.templates.php#web-ui.templates.view)</dt>
+<dt>[48.1\. Viewing Your Templates](web-ui.templates#web-ui.templates.view)</dt>
 
-<dt>[48.2\. Creating a Template](web-ui.templates.create.php)</dt>
+<dt>[48.2\. Creating a Template](web-ui.templates.create)</dt>
 
-<dt>[48.3\. Previewing and Testing Your Template](web-ui.templates.preview.php)</dt>
+<dt>[48.3\. Previewing and Testing Your Template](web-ui.templates.preview)</dt>
 
-<dt>[48.4\. Updating Your Template](web-ui.update.template.php)</dt>
+<dt>[48.4\. Updating Your Template](web-ui.update.template)</dt>
 
-<dt>[48.5\. Publishing Your Template](web-ui.templates.publish.php)</dt>
+<dt>[48.5\. Publishing Your Template](web-ui.templates.publish)</dt>
 
-<dt>[48.6\. Deleting a Template](web-ui.templates.delete.php)</dt>
+<dt>[48.6\. Deleting a Template](web-ui.templates.delete)</dt>
 
 </dl>
 
@@ -26,7 +26,7 @@ You can manage your templates using the Templates API or the Templates section i
 
 ## 48.1. Viewing Your Templates
 
-The Templates tab provides a tabular view of your existing templates, as shown in [Figure 48.1, “Templates Table”](web-ui.templates.php#figure_templates_list "Figure 48.1. Templates Table"). The following information is displayed in the table for each template:
+The Templates tab provides a tabular view of your existing templates, as shown in [Figure 48.1, “Templates Table”](web-ui.templates#figure_templates_list "Figure 48.1. Templates Table"). The following information is displayed in the table for each template:
 
 *   Label - Label specified when you created the template
 

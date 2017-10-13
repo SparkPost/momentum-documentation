@@ -26,4 +26,4 @@ cluster_server_max_outbound_connections is valid in the binding, binding_group, 
 <a name="idp24009024"></a>
 ## See Also
 
-[server_max_outbound_connections](conf.ref.server_max_outbound_connections.php "server_max_outbound_connections")
+[server_max_outbound_connections](conf.ref.server_max_outbound_connections "server_max_outbound_connections")

@@ -22,4 +22,4 @@ The default value is `100`.
 <a name="idp26704592"></a>
 ## See Also
 
-[async_bounce_rendering](conf.ref.async_bounce_rendering.php "async_bounce_rendering")
+[async_bounce_rendering](conf.ref.async_bounce_rendering "async_bounce_rendering")

@@ -61,9 +61,9 @@ You should also note that each thread requires its own stack space; creating too
 
 ### Note
 
-If you use the [Section 71.23, “csapi – Symantec CSAPI Antivirus Support”](modules.csapi.php "71.23. csapi – Symantec CSAPI Antivirus Support"), be sure to set the concurrency of the CPU threadpool to a value that is less than the max_concurrency of the csapi module.
+If you use the [Section 71.23, “csapi – Symantec CSAPI Antivirus Support”](modules.csapi "71.23. csapi – Symantec CSAPI Antivirus Support"), be sure to set the concurrency of the CPU threadpool to a value that is less than the max_concurrency of the csapi module.
 
-The concurrency of a pool can be changed at runtime. The values for `concurrency` shown in [the section called “Description”](conf.ref.threadpool.php#conf.ref.threadpool.description "Description") are the default values.
+The concurrency of a pool can be changed at runtime. The values for `concurrency` shown in [the section called “Description”](conf.ref.threadpool#conf.ref.threadpool.description "Description") are the default values.
 
 </dd>
 
@@ -91,7 +91,7 @@ To mitigate this risk, we put a limit on the maximum length of the queue; if pus
 
 If you find that you need to change the Backlog size for the Unlink pool, you should investigate why your disks cannot keep up; make sure that you aren't logging to the same spindles as your spool, and examine the tuning options for those filesystems.
 
-When using the custom_logger module, it may be necessary to create a thread pool so you can explicitly define its backlog option. For more information, see [Section 71.25, “custom_logger – User-defined Logging”](modules.custom_logger.php "71.25. custom_logger – User-defined Logging").
+When using the custom_logger module, it may be necessary to create a thread pool so you can explicitly define its backlog option. For more information, see [Section 71.25, “custom_logger – User-defined Logging”](modules.custom_logger "71.25. custom_logger – User-defined Logging").
 
 The backlog cannot be changed at runtime.
 
@@ -107,4 +107,4 @@ ThreadPool is valid in the global scope.
 <a name="idp26866592"></a>
 ## See Also
 
-[domain](conf.ref.domain.php "domain"), [host](conf.ref.host.php "host"), [threads](console_commands.threads.php "threads")
+[domain](conf.ref.domain "domain"), [host](conf.ref.host.php "host"), [threads](console_commands.threads.php "threads")

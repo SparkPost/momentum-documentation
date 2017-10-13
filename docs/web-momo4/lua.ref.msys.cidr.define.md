@@ -40,7 +40,7 @@ This code defines a named CIDR object. A CIDR object is used to efficiently trac
 
 `options` is a table that can provide additional parameters and control the type of CIDR being created. Its elements are as follows:
 
-*   `type` can be `datasource`, `rbldnsd` or `empty`. For a detailed discussion see [the section called “CIDR Types”](lua.ref.msys.cidr.define.php#lua.ref.msys.cidr.define.type "CIDR Types").
+*   `type` can be `datasource`, `rbldnsd` or `empty`. For a detailed discussion see [the section called “CIDR Types”](lua.ref.msys.cidr.define#lua.ref.msys.cidr.define.type "CIDR Types").
 
 *   `interpolate` when true, any dollar sign placeholders in the returned data will be replaced by the IP address of the connected peer. This is because it is common practice for RBL files to use this syntax as a shortcut to represent the peer IP.
 
@@ -106,4 +106,4 @@ This value creates an empty CIDR that you can populate for yourself.
 <a name="idp17704256"></a>
 ## See Also
 
-[Section 71.16, “cidrdb – CIDRDB”](modules.cidrdb.php "71.16. cidrdb – CIDRDB"), [msys.cidr.reload](lua.ref.msys.cidr.reload.php "msys.cidr.reload"), [msys.cidr.query](lua.ref.msys.cidr.query.php "msys.cidr.query")
+[Section 71.16, “cidrdb – CIDRDB”](modules.cidrdb "71.16. cidrdb – CIDRDB"), [msys.cidr.reload](lua.ref.msys.cidr.reload.php "msys.cidr.reload"), [msys.cidr.query](lua.ref.msys.cidr.query.php "msys.cidr.query")

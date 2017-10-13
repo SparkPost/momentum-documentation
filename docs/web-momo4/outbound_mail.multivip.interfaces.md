@@ -10,11 +10,11 @@ Many ISPs enforce policies on an IP level. This means that if a message from IP 
 
 Setting up a MultiVIP© interface is a two-step process:
 
-1.  In your configuration file, use the `bindings` stanza to declare the interfaces to bind to (called "Bindings"). A binding declaration is required for every interface to which you want to bind messages. For details, see [binding](conf.ref.binding.php "binding").
+1.  In your configuration file, use the `bindings` stanza to declare the interfaces to bind to (called "Bindings"). A binding declaration is required for every interface to which you want to bind messages. For details, see [binding](conf.ref.binding "binding").
 
-2.  Set the rules or "policy" to inform Momentum as to which messages should transit which bindings. For details, see [Chapter 62, *Implementing Policy with Momentum*](policy.php "Chapter 62. Implementing Policy with Momentum") .
+2.  Set the rules or "policy" to inform Momentum as to which messages should transit which bindings. For details, see [Chapter 62, *Implementing Policy with Momentum*](policy "Chapter 62. Implementing Policy with Momentum") .
 
-Messages that are not assigned to a specific binding will fallback to the `default` binding. Ensure that this fallback binding meets your needs. For details, see [the section called “`default` Binding”](conf.ref.binding.php#conf.ref.binding.default "default Binding").
+Messages that are not assigned to a specific binding will fallback to the `default` binding. Ensure that this fallback binding meets your needs. For details, see [the section called “`default` Binding”](conf.ref.binding#conf.ref.binding.default "default Binding").
 
 ### Warning
 
@@ -30,8 +30,8 @@ When you are removing a binding that is in use, do the following:
 
 1.  Examine the binding assignment to determine if there are any policy settings associated with the binding.
 
-2.  If there are no policy settings, suspend the binding and apply the configuration changes. For information about suspending a binding, see [suspend_delivery](conf.ref.suspend_delivery.php "suspend_delivery").
+2.  If there are no policy settings, suspend the binding and apply the configuration changes. For information about suspending a binding, see [suspend_delivery](conf.ref.suspend_delivery "suspend_delivery").
 
-3.  Examine the mail queue. If there is mail for the suspended binding, reassign it to another binding. If the queued messages are not reassigned to another binding, they will go to the `default` binding. For more information, see [showqueue](console_commands.showqueue.php "showqueue") and [reroute queue](console_commands.reroute_queue.php "reroute queue").
+3.  Examine the mail queue. If there is mail for the suspended binding, reassign it to another binding. If the queued messages are not reassigned to another binding, they will go to the `default` binding. For more information, see [showqueue](console_commands.showqueue "showqueue") and [reroute queue](console_commands.reroute_queue.php "reroute queue").
 
 4.  Once all reassigned messages are out of the queue, restart ecelerity to fully remove the binding from the configuration.

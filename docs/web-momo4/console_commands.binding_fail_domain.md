@@ -35,4 +35,4 @@ unresolvableproblems.com purged, 62415 messages failed.
 <a name="idp14278576"></a>
 ## See Also
 
-[binding fail domain quiet](console_commands.binding_fail_domain_quiet.php "binding fail domain quiet")
+[binding fail domain quiet](console_commands.binding_fail_domain_quiet "binding fail domain quiet")

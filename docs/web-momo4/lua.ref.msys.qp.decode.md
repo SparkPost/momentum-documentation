@@ -22,4 +22,4 @@ Enable this function with the statement `require('msys.qp');`.
 <a name="idp18348320"></a>
 ## See Also
 
-[msys.qp.encode](lua.ref.msys.qp.encode.php "msys.qp.encode")
+[msys.qp.encode](lua.ref.msys.qp.encode "msys.qp.encode")

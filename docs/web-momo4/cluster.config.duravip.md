@@ -4,13 +4,13 @@
 
 <dl class="toc">
 
-<dt>[27.1\. IP Addresses and `duravip_follow`](cluster.config.duravip.php#cluster.config.duravip_follow)</dt>
+<dt>[27.1\. IP Addresses and `duravip_follow`](cluster.config.duravip#cluster.config.duravip_follow)</dt>
 
-<dt>[27.2\. `duravip_follow` and the #mmove Binding](cluster.config.mmove.php)</dt>
+<dt>[27.2\. `duravip_follow` and the #mmove Binding](cluster.config.mmove)</dt>
 
-<dt>[27.3\. Address Resolution Protocol (ARP) traffic](cluster.config.arp_all_hosts.php)</dt>
+<dt>[27.3\. Address Resolution Protocol (ARP) traffic](cluster.config.arp_all_hosts)</dt>
 
-<dt>[27.4\. DuraVIP™ Configuration Conflicts and Ambiguities](cluster.duravip.conflict.php)</dt>
+<dt>[27.4\. DuraVIP™ Configuration Conflicts and Ambiguities](cluster.duravip.conflict)</dt>
 
 </dl>
 
@@ -39,7 +39,7 @@ cluster {
 
 This informs the node that any DuraVIP™ enabled IP address in the 10.1.1.0/24 network block should be attached to the interface named "eth1" with a mask of 32\. The cidrmask should almost always be set to 32, otherwise the DuraVIP™ controlled IP alias will not function correctly. (You may omit the cidrmask line completely; it defaults to 32).
 
-If you have a more complex environment where the node has DuraVIP™ managed IP addresses on multiple network blocks you will need to specify a separate Topology stanza for each network block that you have DuraVIP™s for. For additional details, see [Section 71.19.3, “DuraVIP™ Network Topology”](modules.cluster.php#modules.cluster.duravip "71.19.3. DuraVIP™ Network Topology").
+If you have a more complex environment where the node has DuraVIP™ managed IP addresses on multiple network blocks you will need to specify a separate Topology stanza for each network block that you have DuraVIP™s for. For additional details, see [Section 71.19.3, “DuraVIP™ Network Topology”](modules.cluster#modules.cluster.duravip "71.19.3. DuraVIP™ Network Topology").
 
 Once configured with the Topology hints, you may then annotate your binding and/or listeners stanzas to indicate which IPs are DuraVIP™ enabled:
 
@@ -75,9 +75,9 @@ When bindings move between nodes, the system will also need to move the mail que
 
 ### Note
 
-When injecting messages take care that you do not unduly increase traffic between nodes. For more information see [Section 27.2, “`duravip_follow` and the #mmove Binding”](cluster.config.mmove.php "27.2. duravip_follow and the #mmove Binding").
+When injecting messages take care that you do not unduly increase traffic between nodes. For more information see [Section 27.2, “`duravip_follow` and the #mmove Binding”](cluster.config.mmove "27.2. duravip_follow and the #mmove Binding").
 
-If you are using a large number of DuraVIP™s you may need to enable [use_iflist_cache](conf.ref.use_iflist_cache.php "use_iflist_cache").
+If you are using a large number of DuraVIP™s you may need to enable [use_iflist_cache](conf.ref.use_iflist_cache "use_iflist_cache").
 
 Performing a DuraVIP™ move causes a re-evaluate of the binding assignment for all messages in the queue; in some circumstances this can be a very resource-intensive operation. To avoid possibly exhausting resources, you can check with support to see if setting the cluster configuration option, `unconditional_rebind` to `false` might be required.
 
@@ -105,7 +105,7 @@ The above configuration will cause the IP ownership election to favor the node n
 
 ### Note
 
-In a cluster configuration, suspension of a binding can result in excessive "#mmoves" between nodes. To avoid this possibility, always assign a `duravip_preference` for any bindings used with the Adaptive Delivery module. For more information about the Adaptive Delivery module, see [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery").
+In a cluster configuration, suspension of a binding can result in excessive "#mmoves" between nodes. To avoid this possibility, always assign a `duravip_preference` for any bindings used with the Adaptive Delivery module. For more information about the Adaptive Delivery module, see [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery").
 
 Some deployments do not always inject on the same IP as the IP that they intend to use for binding assignment and will want to preserve association between the listener IP and the binding IP. The primary motivation for this is to avoid having the cluster perform an internal message move, as excessive internal message moves can have a negative impact on the performance of the cluster.
 

@@ -20,4 +20,4 @@ spoolbase — set the base directory for the spool
 <a name="idp26736272"></a>
 ## See Also
 
-[spool_mode](conf.ref.spool_mode.php "spool_mode")
+[spool_mode](conf.ref.spool_mode "spool_mode")

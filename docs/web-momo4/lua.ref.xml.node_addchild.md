@@ -27,9 +27,9 @@ child:contents("I am a child node.");
 print(node:tostring());
 ```
 
-You can also pass a node object to this function, the return value of [node:children](lua.ref.xml.node_children.php "node:children"), for example. When the parameter is an existing node object, it is added as a child node and the "new" node is the return value of the function.
+You can also pass a node object to this function, the return value of [node:children](lua.ref.xml.node_children "node:children"), for example. When the parameter is an existing node object, it is added as a child node and the "new" node is the return value of the function.
 
 <a name="idp19398032"></a>
 ### See Also
 
-[doc:root](lua.ref.xml.doc_root.php "doc:root")
+[doc:root](lua.ref.xml.doc_root "doc:root")

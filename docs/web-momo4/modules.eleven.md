@@ -2,7 +2,7 @@
 
 <a class="indexterm" name="idp21656432"></a>
 
-The eleven module implements the spam filter and e-mail categorization service available from [http://www.eleven.de/](http://www.eleven.de/). If you intend to use this module be sure to choose it during installation. For more information, see [Section 12.1, “Installing Partner Modules”](post_installation.php#install.additional.packages "12.1. Installing Partner Modules").
+The eleven module implements the spam filter and e-mail categorization service available from [http://www.eleven.de/](http://www.eleven.de/). If you intend to use this module be sure to choose it during installation. For more information, see [Section 12.1, “Installing Partner Modules”](post_installation#install.additional.packages "12.1. Installing Partner Modules").
 
 ### 71.31.1. Configuration
 
@@ -73,7 +73,7 @@ Location of temporary files created by this module. Default value is `/var/tmp`.
 
 ### 71.31.2. Lua Functions
 
-This module makes the Lua function `msys.expurgate.scan` available. For a description of how this function is used, see [msys.expurgate.scan](lua.ref.msys.expurgate.scan.php "msys.expurgate.scan").
+This module makes the Lua function `msys.expurgate.scan` available. For a description of how this function is used, see [msys.expurgate.scan](lua.ref.msys.expurgate.scan "msys.expurgate.scan").
 
 **Scores**
 

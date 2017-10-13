@@ -22,4 +22,4 @@ pcre_cache_size is valid in the global scope.
 <a name="idp25838832"></a>
 ## See Also
 
-[pcre_cache_ttl](conf.ref.pcre_cache_ttl.php "pcre_cache_ttl")
+[pcre_cache_ttl](conf.ref.pcre_cache_ttl "pcre_cache_ttl")

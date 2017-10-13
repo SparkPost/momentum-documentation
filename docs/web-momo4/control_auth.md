@@ -30,7 +30,7 @@ Control_Listener {
 
 The usual fallback semantics apply to the `Enable_Authentication` option. In the example, access to the control listener via TCP requires authentication because the fallback value of "Enable_Authentication" is "true". On the other hand, authentication is disabled for access via a Unix domain socket because `Enable_Authentication` is set to `false` in the scope defined by `Listen "/tmp/2025"`. The `Enable_Authorization` option is used in the same way as the `Enable_Authentication` option.
 
-The `uri = "ecauth://"` inside both `AuthDigestMD5Parameters` and `AuthorizationParameters` references an authentication scheme named "`ecauth`" defined in an auth_ds module. This scheme is created during installation. For more information on the `ecauth` scheme, see [Section 17.4.1, “Authorization Using the `ecauth` Scheme”](control_authz.php#control_authz.ecauth "17.4.1. Authorization Using the ecauth Scheme").
+The `uri = "ecauth://"` inside both `AuthDigestMD5Parameters` and `AuthorizationParameters` references an authentication scheme named "`ecauth`" defined in an auth_ds module. This scheme is created during installation. For more information on the `ecauth` scheme, see [Section 17.4.1, “Authorization Using the `ecauth` Scheme”](control_authz#control_authz.ecauth "17.4.1. Authorization Using the ecauth Scheme").
 
 ### 17.2.1. DIGEST-MD5 Authentication
 
@@ -47,7 +47,7 @@ Control_Listener {
 }
 ```
 
-The digest file, referenced by the `uri` parameter, can be created and updated using the [ec_md5passwd](executable.ec_md5passwd.php "ec_md5passwd") tool.
+The digest file, referenced by the `uri` parameter, can be created and updated using the [ec_md5passwd](executable.ec_md5passwd "ec_md5passwd") tool.
 
 The `digest://` auth storage scheme references the path to an htdigest compatible password file. Lines starting with a ‘`#`’ are treated as comments and are ignored. The lines are divided into three fields separated by ‘`:`’ characters; e.g. `user:realm:password`.
 
@@ -81,7 +81,7 @@ Control_Listener {
 }
 ```
 
-With the socket file permission set to `0666`, every user who can log in to the system can use **ec_console** to connect to the server. When using system level authentication on a Unix domain socket, all authentication and authorization events on that connection will be logged to the accounting subsystem. Note that you need to configure a location to log accounting information; you can find more details on the configuration of the accounting log in [Section 71.30, “EC_logger – Momentum-Style Logging”](modules.ec_logger.php "71.30. EC_logger – Momentum-Style Logging").
+With the socket file permission set to `0666`, every user who can log in to the system can use **ec_console** to connect to the server. When using system level authentication on a Unix domain socket, all authentication and authorization events on that connection will be logged to the accounting subsystem. Note that you need to configure a location to log accounting information; you can find more details on the configuration of the accounting log in [Section 71.30, “EC_logger – Momentum-Style Logging”](modules.ec_logger "71.30. EC_logger – Momentum-Style Logging").
 
 ### 17.2.4. Overriding Authentication
 

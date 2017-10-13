@@ -4,7 +4,7 @@ In the New Template form, you can specify your template details, enter your temp
 
 ### 48.2.1. Specifying Your Template Details
 
-To open the New Template form, click the New Template icon in the upper-right corner of the Templates tab. The New Template form is shown in [Figure 48.2, “New Template”](web-ui.templates.create.php#figure_new_template "Figure 48.2. New Template").
+To open the New Template form, click the New Template icon in the upper-right corner of the Templates tab. The New Template form is shown in [Figure 48.2, “New Template”](web-ui.templates.create#figure_new_template "Figure 48.2. New Template").
 
 <a name="figure_new_template"></a>
 
@@ -40,11 +40,11 @@ The precedence for engagement tracking options, from highest to lowest is as fol
 
 For example, if click tracking is not specified at the transmission level, the Track Clicks option at the template level is used. If the template level is also not specified, the setting of the configuration option in the msg_gen module is used.
 
-If you want to disable engagement tracking globally, change the configuration option in the msg_gen module. See [Section 71.48, “msg_gen – Message Generation”](modules.msg_gen.php "71.48. msg_gen – Message Generation").
+If you want to disable engagement tracking globally, change the configuration option in the msg_gen module. See [Section 71.48, “msg_gen – Message Generation”](modules.msg_gen "71.48. msg_gen – Message Generation").
 
 You can use substitution in the top-level header of your template (i.e. "Subject", "From", and "Reply-To"). The UI supports the same substitution features available in the API. For details about using substitution in your templates, see the Substitution Reference available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.htmlv1_index.html).
 
-[Figure 48.3, “Template Details”](web-ui.templates.create.php#figure_template_details "Figure 48.3. Template Details") shows an example of a simple template. This example uses a simple form of direct substitution in "Subject" and "From". When the email is built, *`{{company}}`* and *`{{name}}`* will be replaced by the values you specify for a given recipient. Note that all details can be edited after the template has been created with the exception of the ID.
+[Figure 48.3, “Template Details”](web-ui.templates.create#figure_template_details "Figure 48.3. Template Details") shows an example of a simple template. This example uses a simple form of direct substitution in "Subject" and "From". When the email is built, *`{{company}}`* and *`{{name}}`* will be replaced by the values you specify for a given recipient. Note that all details can be edited after the template has been created with the exception of the ID.
 
 <a name="figure_template_details"></a>
 
@@ -56,7 +56,7 @@ You can use substitution in the top-level header of your template (i.e. "Subject
 
 In the New Template form, you can enter HTML content for the email’s text/html MIME part and text content for the email’s text/plain MIME part. Click Edit, select the appropriate tab, and type your content using the online editor. You can also use substitution in the message body of your template, enabling you to create personalized messages for every recipient.
 
-An example of HTML content is shown in [Figure 48.4, “HTML Content”](web-ui.templates.create.php#figure_html_content "Figure 48.4. HTML Content"). This example uses a simple form of direct substitution. When the email is built, *`{{subject}}`* and *`{{name}}`* will be replaced by the values you specify for a given recipient.
+An example of HTML content is shown in [Figure 48.4, “HTML Content”](web-ui.templates.create#figure_html_content "Figure 48.4. HTML Content"). This example uses a simple form of direct substitution. When the email is built, *`{{subject}}`* and *`{{name}}`* will be replaced by the values you specify for a given recipient.
 
 <a name="figure_html_content"></a>
 
@@ -64,7 +64,7 @@ An example of HTML content is shown in [Figure 48.4, “HTML Content”](web-ui
 
 ![HTML Content](images/html_content.png)
 
-An example of plain text content is shown in [Figure 48.5, “Text Content”](web-ui.templates.create.php#figure_text_content "Figure 48.5. Text Content").
+An example of plain text content is shown in [Figure 48.5, “Text Content”](web-ui.templates.create#figure_text_content "Figure 48.5. Text Content").
 
 <a name="figure_text_content"></a>
 

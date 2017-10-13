@@ -26,7 +26,7 @@ This option can be set to the following:
 
 ### Note
 
-For custom behavior create a C module that uses the [outbound_smtp_tls_verify_callback](https://support.messagesystems.com/docs/web-c-api/hooks.core.outbound_smtp_tls_verify_callback.php) and [inbound_smtp_tls_verify_callback](https://support.messagesystems.com/docs/web-c-api/hooks.core.inbound_smtp_tls_verify_callback.php) hooks.
+For custom behavior create a C module that uses the [outbound_smtp_tls_verify_callback](https://support.messagesystems.com/docs/web-c-api/hooks.core.outbound_smtp_tls_verify_callback) and [inbound_smtp_tls_verify_callback](https://support.messagesystems.com/docs/web-c-api/hooks.core.inbound_smtp_tls_verify_callback.php) hooks.
 
 The default value is `no`.
 

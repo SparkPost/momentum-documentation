@@ -54,11 +54,11 @@ msys.registerModule("convert", mod);
 
 ### Note
 
-When a message fails, you can use the generic_delivery_msg_dispose callout and reroute the message to another channel. Use the [msg:get_delivery_method](lua.ref.msg_get_delivery_method.php "msg:get_delivery_method") function to determine the protocol of the message.
+When a message fails, you can use the generic_delivery_msg_dispose callout and reroute the message to another channel. Use the [msg:get_delivery_method](lua.ref.msg_get_delivery_method "msg:get_delivery_method") function to determine the protocol of the message.
 
 Enable this function with the statement `require('msys.gcm');`.
 
 <a name="idp18192640"></a>
 ## See Also
 
-[Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/) and [msys.apn.apn_status_classifier](lua.ref.msys.apn.apn_status_classifier.php "msys.apn.apn_status_classifier")
+[Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/) and [msys.apn.apn_status_classifier](lua.ref.msys.apn.apn_status_classifier "msys.apn.apn_status_classifier")

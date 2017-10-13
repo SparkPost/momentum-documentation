@@ -75,8 +75,8 @@ mxip
   # Note that the TTL of the "fake" hostnames respects
   # the Min_DNS_TTL and Max_DNS_TTL options. See:
   #
-  # <https://support.messagesystems.com/docs/web/conf.ref.min_dns_ttl.php>
-  # <https://support.messagesystems.com/docs/web/conf.ref.max_dns_ttl.php>
+  # <https://support.messagesystems.com/docs/web/conf.ref.min_dns_ttl>
+  # <https://support.messagesystems.com/docs/web/conf.ref.max_dns_ttl>
   #
   # TTL = "600"
 }

@@ -1,6 +1,6 @@
 ## 35.7. `mainlog`
 
-The `mainlog` logs reception, delivery, transient failure, permanent failure, and heartbeat events. It is configured in the [ec_logger](modules.ec_logger.php "71.30. EC_logger – Momentum-Style Logging").
+The `mainlog` logs reception, delivery, transient failure, permanent failure, and heartbeat events. It is configured in the [ec_logger](modules.ec_logger "71.30. EC_logger – Momentum-Style Logging").
 
 Every event is written to the `mainlog` file as a single line. Fixed position codes signify whether the log line represents a reception (`R`), delivery (`D`), transient failure (`T`), or permanent failure (`P`). The log entry format differs depending upon the event type.
 
@@ -130,7 +130,7 @@ Number of bytes of data transferred before the failure occurred
  |
 | 7 | group-a | MultiVIP® binding group to which the message was assigned |
 | 8 | binding-a | MultiVIP® binding to which the message was assigned |
-| 9 | 15 | Stage of the message (See [Section 35.11, “Connection Stages”](log_formats.connection.stages.php "35.11. Connection Stages").) |
+| 9 | 15 | Stage of the message (See [Section 35.11, “Connection Stages”](log_formats.connection.stages "35.11. Connection Stages").) |
 | 10 | 0 | 
 
 Number of times the message has been retried
@@ -174,7 +174,7 @@ Number of bytes of data transferred before the failure occurred
  |
 | 7 | group-a | MultiVIP® binding group to which the message was assigned |
 | 8 | binding-a | MultiVIP® binding to which the message was assigned |
-| 9 | 5 | Stage of the message (See [Section 35.11, “Connection Stages”](log_formats.connection.stages.php "35.11. Connection Stages").) |
+| 9 | 5 | Stage of the message (See [Section 35.11, “Connection Stages”](log_formats.connection.stages "35.11. Connection Stages").) |
 | 10 | 1 | Number of times the message has been retried |
 | 11 | 3.89 | Amount of time, in seconds, between reception and the time of permanent failure |
 | 12 | 10.0.0.1 | IP address of the server that rejected the message |

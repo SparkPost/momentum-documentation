@@ -42,4 +42,4 @@ msys.registerModule("test_bc", mod);
 <a name="idp17617072"></a>
 ## See Also
 
-[Section 71.12, “bounce_classifier_override – Override/Augment Bounce Classifications”](modules.bounce_classifier_override.php "71.12. bounce_classifier_override – Override/Augment Bounce Classifications"), [msys.bounce.classify](lua.ref.msys.bounce.classify.php "msys.bounce.classify")
+[Section 71.12, “bounce_classifier_override – Override/Augment Bounce Classifications”](modules.bounce_classifier_override "71.12. bounce_classifier_override – Override/Augment Bounce Classifications"), [msys.bounce.classify](lua.ref.msys.bounce.classify.php "msys.bounce.classify")

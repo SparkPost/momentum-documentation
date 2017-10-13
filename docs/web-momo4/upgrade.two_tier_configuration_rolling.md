@@ -4,45 +4,45 @@
 
 <dl class="toc">
 
-<dt>[11.1\. Overview](upgrade.two_tier_configuration_rolling.php#upgrade.two_tier.preparation_rolling)</dt>
+<dt>[11.1\. Overview](upgrade.two_tier_configuration_rolling#upgrade.two_tier.preparation_rolling)</dt>
 
-<dt>[11.2\. Before You Begin the Upgrade](upgrade.two_tier.preparation.prepare_all_nodes_rolling.php)</dt>
+<dt>[11.2\. Before You Begin the Upgrade](upgrade.two_tier.preparation.prepare_all_nodes_rolling)</dt>
 
-<dt>[11.3\. Perform a Cassandra Snapshot](upgrade.two_tier.preparation.snapshot_cassandra_rolling.php)</dt>
+<dt>[11.3\. Perform a Cassandra Snapshot](upgrade.two_tier.preparation.snapshot_cassandra_rolling)</dt>
 
-<dt>[11.4\. Upgrade Cassandra on the Platform Nodes](upgrade.two_tier.preparation.upgrade_cassandra_rolling.php)</dt>
+<dt>[11.4\. Upgrade Cassandra on the Platform Nodes](upgrade.two_tier.preparation.upgrade_cassandra_rolling)</dt>
 
-<dt>[11.5\. Stop Transmissions to the First Platform Node](upgrade.two_tier.preparation.stop_generations_rolling.php)</dt>
+<dt>[11.5\. Stop Transmissions to the First Platform Node](upgrade.two_tier.preparation.stop_generations_rolling)</dt>
 
-<dt>[11.6\. Upgrade Ecelerity and the Cassandra Schema on the First Platform Node](upgrade.two_tier.preparation.ecelerity_rolling.php)</dt>
+<dt>[11.6\. Upgrade Ecelerity and the Cassandra Schema on the First Platform Node](upgrade.two_tier.preparation.ecelerity_rolling)</dt>
 
-<dt>[11.7\. Restore Transmissions to the First Platform Node and Stop Transmissions to all other Platform Nodes](upgrade.two_tier.preparation.stop_transmissions_rolling.php)</dt>
+<dt>[11.7\. Restore Transmissions to the First Platform Node and Stop Transmissions to all other Platform Nodes](upgrade.two_tier.preparation.stop_transmissions_rolling)</dt>
 
-<dt>[11.8\. Upgrade Ecelerity on the Remaining Platform Nodes](upgrade.two_tier.preparation.upgrade_ecelerity_rolling.php)</dt>
+<dt>[11.8\. Upgrade Ecelerity on the Remaining Platform Nodes](upgrade.two_tier.preparation.upgrade_ecelerity_rolling)</dt>
 
-<dt>[11.9\. Restore Transmissions to the Remaining Platform Nodes](upgrade.two_tier.preparation.restore_tranmissions_rolling.php)</dt>
+<dt>[11.9\. Restore Transmissions to the Remaining Platform Nodes](upgrade.two_tier.preparation.restore_tranmissions_rolling)</dt>
 
-<dt>[11.10\. Upgrade Vertica on the Analytics Nodes](upgrade.two_tier.preparation.upgrade_vertica_rolling.php)</dt>
+<dt>[11.10\. Upgrade Vertica on the Analytics Nodes](upgrade.two_tier.preparation.upgrade_vertica_rolling)</dt>
 
-<dt>[11.11\. Prepare and Run Flyway](upgrade.two_tier.configuration.flyway_rolling.php)</dt>
+<dt>[11.11\. Prepare and Run Flyway](upgrade.two_tier.configuration.flyway_rolling)</dt>
 
-<dt>[11.12\. Upgrade Remaining RPMs on Analytics Nodes](upgrade.two_tier.preparation.rpms_rolling.php)</dt>
+<dt>[11.12\. Upgrade Remaining RPMs on Analytics Nodes](upgrade.two_tier.preparation.rpms_rolling)</dt>
 
-<dt>[11.13\. Configuration Changes](upgrade.two_tier.configuration.config_all_nodes_rolling.php)</dt>
+<dt>[11.13\. Configuration Changes](upgrade.two_tier.configuration.config_all_nodes_rolling)</dt>
 
-<dt>[11.14\. Install the Adaptive Delivery API](upgrade.two_tier.configuration.software_upgrade_rolling.php)</dt>
+<dt>[11.14\. Install the Adaptive Delivery API](upgrade.two_tier.configuration.software_upgrade_rolling)</dt>
 
-<dt>[11.15\. Update the Web UI Configuration](upgrade.two_tier.configuration.webui_rolling.php)</dt>
+<dt>[11.15\. Update the Web UI Configuration](upgrade.two_tier.configuration.webui_rolling)</dt>
 
-<dt>[11.16\. Start Services](upgrade.two_tier.configuration.start_services_rolling.php)</dt>
+<dt>[11.16\. Start Services](upgrade.two_tier.configuration.start_services_rolling)</dt>
 
-<dt>[11.17\. Complete the Software Set Up](upgrade.two_tier.complete_setup_rolling.php)</dt>
+<dt>[11.17\. Complete the Software Set Up](upgrade.two_tier.complete_setup_rolling)</dt>
 
 </dl>
 
 ### Warning
 
-**The installation and upgrade instructions in Chapters 8 through 11 are only applicable in their entirety for Momentum 4.x releases prior to 4.2.28.**                                                                                                                                                 For release 4.2.28 and beyond, please refer to the installation and upgrade PDF documents available under the desired release's folder on the Message Systems Support website's [Downloads page](https://support.messagesystems.com/start.php/). If you are uncertain as to which document is applicable to your situation, please contact your technical support representative.
+**The installation and upgrade instructions in Chapters 8 through 11 are only applicable in their entirety for Momentum 4.x releases prior to 4.2.28.**                                                                                                                                                 For release 4.2.28 and beyond, please refer to the installation and upgrade PDF documents available under the desired release's folder on the Message Systems Support website's [Downloads page](https://support.messagesystems.com/start/). If you are uncertain as to which document is applicable to your situation, please contact your technical support representative.
 
 <a class="indexterm" name="idp1149792"></a>
 
@@ -90,4 +90,4 @@ An overview of the rolling upgrade process is shown below.
 
 ### Note
 
-Be sure to read the [Release Notes](https://support.messagesystems.com/start.php) for the version of Momentum that you are installing.
+Be sure to read the [Release Notes](https://support.messagesystems.com/start) for the version of Momentum that you are installing.

@@ -28,4 +28,4 @@ c:perform();
 <a name="idp15670528"></a>
 ### See Also
 
-[c:close](lua.ref.curl.c_close.php "c:close")
+[c:close](lua.ref.curl.c_close "c:close")

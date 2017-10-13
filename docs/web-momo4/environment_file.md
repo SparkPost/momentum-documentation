@@ -1,6 +1,6 @@
 ## Chapter 31. Configuring the Environment File
 
-Environment variables should be set or adjusted on startup. If Momentum is started up using the [ec_ctl](executable.ec_ctl.php "ec_ctl") script, any environment variables included in the `environment` file will be set.
+Environment variables should be set or adjusted on startup. If Momentum is started up using the [ec_ctl](executable.ec_ctl "ec_ctl") script, any environment variables included in the `environment` file will be set.
 
 Environment variables can be set in the `/opt/msys/ecelerity/etc/environment` file. The variables that can be set are as follows:
 
@@ -12,11 +12,11 @@ Environment variables can be set in the `/opt/msys/ecelerity/etc/environment` fi
 
     This parameter should match what you have configured for your Control_Listener in `ecelerity.conf`.
 
-*   `EC_CONF_SEARCH_PATH` – this value defines the search path used by [**ecconfigd**](conf.overview.php#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)") to determine the applicable configuration file
+*   `EC_CONF_SEARCH_PATH` – this value defines the search path used by [**ecconfigd**](conf.overview#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)") to determine the applicable configuration file
 
     Add this variable to the environment file if you wish to change the search order.
 
-*   `EC_DIGEST_REALM` – MD5 digest realm (see [ec_md5passwd](executable.ec_md5passwd.php "ec_md5passwd").)
+*   `EC_DIGEST_REALM` – MD5 digest realm (see [ec_md5passwd](executable.ec_md5passwd "ec_md5passwd").)
 
 *   `ECELERITY_DNS_BACKEND` – the variable for setting the DNS resolver.
 
@@ -40,9 +40,9 @@ Environment variables can be set in the `/opt/msys/ecelerity/etc/environment` fi
 
 *   `EXTRA_ARGS` – additional parameters to pass to Momentum
 
-*   `HTTPS_PROXY_PASSWORD` – for use with Adaptive Delivery (see [Using a Proxy Server](https://support.messagesystems.com/docs/web-ad/ad.adaptive.automated.proxy.php).)
+*   `HTTPS_PROXY_PASSWORD` – for use with Adaptive Delivery (see [Using a Proxy Server](https://support.messagesystems.com/docs/web-ad/ad.adaptive.automated.proxy).)
 
-*   `HTTPS_PROXY_USERNAME` – for use with Adaptive Delivery (see [Using a Proxy Server](https://support.messagesystems.com/docs/web-ad/ad.adaptive.automated.proxy.php).)
+*   `HTTPS_PROXY_USERNAME` – for use with Adaptive Delivery (see [Using a Proxy Server](https://support.messagesystems.com/docs/web-ad/ad.adaptive.automated.proxy).)
 
 *   `LD_LIBRARY_PATH` – in case the ld path needs to be augmented
 
@@ -56,7 +56,7 @@ Environment variables can be set in the `/opt/msys/ecelerity/etc/environment` fi
 
 *   `TRY` – number of times to loop waiting for Momentum to start up
 
-    For examples of usage, see [ec_ctl](executable.ec_ctl.php "ec_ctl") and [ecconfigd_ctl](executable.ecconfigd_ctl.php "ecconfigd_ctl").
+    For examples of usage, see [ec_ctl](executable.ec_ctl "ec_ctl") and [ecconfigd_ctl](executable.ecconfigd_ctl.php "ecconfigd_ctl").
 
 ### Note
 

@@ -24,4 +24,4 @@ If you are logged in as a user named `tom` who belongs to the group `users`, you
 <a name="idp14045664"></a>
 ## See Also
 
-[authz roles list](console_commands.authz_roles_list.php "authz roles list")
+[authz roles list](console_commands.authz_roles_list "authz roles list")

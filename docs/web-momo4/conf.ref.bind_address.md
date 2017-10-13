@@ -36,4 +36,4 @@ bind_address is valid in the global, binding_group, and binding scopes.
 <a name="idp12612912"></a>
 ## See Also
 
-[binding](conf.ref.binding.php "binding")
+[binding](conf.ref.binding "binding")

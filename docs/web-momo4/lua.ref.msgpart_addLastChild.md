@@ -67,4 +67,4 @@ msys.registerModule("myValid", mod);
 <a name="idp17036768"></a>
 ## See Also
 
-[msgpart:addFirstChild](lua.ref.msgpart_addFirstChild.php "msgpart:addFirstChild")
+[msgpart:addFirstChild](lua.ref.msgpart_addFirstChild "msgpart:addFirstChild")

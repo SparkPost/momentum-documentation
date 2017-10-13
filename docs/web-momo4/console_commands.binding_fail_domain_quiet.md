@@ -26,4 +26,4 @@ All domains purged.  62415 messages failed.
 <a name="idp13184256"></a>
 ## See Also
 
-[binding fail domain](console_commands.binding_fail_domain.php "binding fail domain")
+[binding fail domain](console_commands.binding_fail_domain "binding fail domain")

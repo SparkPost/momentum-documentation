@@ -4,19 +4,19 @@
 
 <dl class="toc">
 
-<dt>[25.1\. Routing Mail](outbound_mail.php#outbound_mail.routing.mail)</dt>
+<dt>[25.1\. Routing Mail](outbound_mail#outbound_mail.routing.mail)</dt>
 
-<dt>[25.2\. Prohibited_Hosts](outbound_mail.prohibited.hosts.php)</dt>
+<dt>[25.2\. Prohibited_Hosts](outbound_mail.prohibited.hosts)</dt>
 
-<dt>[25.3\. MultiVIP© Interfaces](outbound_mail.multivip.interfaces.php)</dt>
+<dt>[25.3\. MultiVIP© Interfaces](outbound_mail.multivip.interfaces)</dt>
 
-<dt>[25.4\. Throttling and Traffic Shaping](outbound_mail.traffic.shaping.php)</dt>
+<dt>[25.4\. Throttling and Traffic Shaping](outbound_mail.traffic.shaping)</dt>
 
-<dt>[25.5\. Outbound TLS](tls_option.php)</dt>
+<dt>[25.5\. Outbound TLS](tls_option)</dt>
 
-<dt>[25.6\. Outbound XCLIENT support](outbound_mail.outbound.xclient.php)</dt>
+<dt>[25.6\. Outbound XCLIENT support](outbound_mail.outbound.xclient)</dt>
 
-<dt>[25.7\. Outbound Email Relay](outbound_mail.relay_hosts.php)</dt>
+<dt>[25.7\. Outbound Email Relay](outbound_mail.relay_hosts)</dt>
 
 </dl>
 

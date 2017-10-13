@@ -6,17 +6,17 @@ Momentum's antivirus framework currently ships with support for CSAPI and ClamAV
 
 The following modules are controlled by the antivirus module. For information specific to the individual antivirus engines, follow the links provided.
 
-*   [`ClamAV`](modules.clamav.php "71.17. clamav – ClamAV")
+*   [`ClamAV`](modules.clamav "71.17. clamav – ClamAV")
 
-*   [`Content Scanning API`](modules.csapi.php "71.23. csapi – Symantec CSAPI Antivirus Support")
+*   [`Content Scanning API`](modules.csapi "71.23. csapi – Symantec CSAPI Antivirus Support")
 
 In addition, the antivirus framework supports other antivirus products by allowing third party vendors, including:
 
-*   [`Brightmail`](modules.brightmail.php "71.14. brightmail – Symantec Brightmail™ Content Scanning Support")
+*   [`Brightmail`](modules.brightmail "71.14. brightmail – Symantec Brightmail™ Content Scanning Support")
 
-*   [`BEIK`](modules.beik.php "71.10. beik – Symantec Brightmail™ Engine Integration Kit")
+*   [`BEIK`](modules.beik "71.10. beik – Symantec Brightmail™ Engine Integration Kit")
 
-*   [`eleven`](modules.eleven.php "71.31. eleven – Eleven eXpurgate Content Scanning")
+*   [`eleven`](modules.eleven "71.31. eleven – Eleven eXpurgate Content Scanning")
 
 ### Note
 
@@ -74,7 +74,7 @@ Size of the virus hash cache. Once a virus is present in the cache, matching is 
 
 Name of the context variable that will be set in the event of a positive match. If no value is assigned to `context_variable`, it defaults to *`engine name`*      _status. For example, it defaults to `clamav_status` for the ClamAV module. If *`engine name`*      _status is set to a value, this also sets another context variable named *`engine name`*      _status_info, which usually contains the virus name.
 
-If the `context_variable` option *is* assigned a value, the name of the context variable is the value to which it is set. This context variable will only be set if a virus is found or an error occurs. Additionally, a second variable *`context_variable`*_info is also set. You can access this context variable from a Lua script using the [msg:context_get](lua.ref.msg_context_get.php "msg:context_get") function.
+If the `context_variable` option *is* assigned a value, the name of the context variable is the value to which it is set. This context variable will only be set if a virus is found or an error occurs. Additionally, a second variable *`context_variable`*_info is also set. You can access this context variable from a Lua script using the [msg:context_get](lua.ref.msg_context_get "msg:context_get") function.
 
 ### Note
 
@@ -102,11 +102,11 @@ Path that the Momentum process can write temporary files into before scanning. L
 
 <dd>
 
-Each antivirus engine runs in a default [threadpool](conf.ref.threadpool.php "threadpool") (see individual documentation for your AV engine for details). By setting `max_concurrency` to a non-zero value, you can limit how many antivirus threads will be run simultaneously. Default value is `0`, which means as many threads as are available in the threadpool. To change the thread pool used by a given engine, you may use the `pool` option.
+Each antivirus engine runs in a default [threadpool](conf.ref.threadpool "threadpool") (see individual documentation for your AV engine for details). By setting `max_concurrency` to a non-zero value, you can limit how many antivirus threads will be run simultaneously. Default value is `0`, which means as many threads as are available in the threadpool. To change the thread pool used by a given engine, you may use the `pool` option.
 
 ### Note
 
-If you use the [csapi](modules.csapi.php "71.23. csapi – Symantec CSAPI Antivirus Support") module, be sure to set the concurrency of the [CPU threadpool](conf.ref.threadpool.php "threadpool") to a value that is less than the max_concurrency of the csapi module.
+If you use the [csapi](modules.csapi "71.23. csapi – Symantec CSAPI Antivirus Support") module, be sure to set the concurrency of the [CPU threadpool](conf.ref.threadpool.php "threadpool") to a value that is less than the max_concurrency of the csapi module.
 
 </dd>
 
@@ -130,7 +130,7 @@ Mark as viruses mails that appear to have been constructed to bypass virus check
 
 <dd>
 
-Run all antivirus scans out of a dedicated threadpool. AV scanners that run in-process default to the `CPU` pool and scanners that call an external process default to the `IO` pool. See [threadpool](conf.ref.threadpool.php "threadpool") for details on creating custom threadpools.
+Run all antivirus scans out of a dedicated threadpool. AV scanners that run in-process default to the `CPU` pool and scanners that call an external process default to the `IO` pool. See [threadpool](conf.ref.threadpool "threadpool") for details on creating custom threadpools.
 
 </dd>
 
@@ -166,23 +166,23 @@ If use_wire_rep = `false`, then a dot-unstuffed representation of the message wi
 
 The antivirus module make the following Lua functions available:
 
-*   [msys.av.engines](lua.ref.msys.av.engines.php "msys.av.engines")
+*   [msys.av.engines](lua.ref.msys.av.engines "msys.av.engines")
 
-*   [msys.av.scan](lua.ref.msys.av.scan.php "msys.av.scan")
+*   [msys.av.scan](lua.ref.msys.av.scan "msys.av.scan")
 
-*   [msys.av.scan_part](lua.ref.msys.av.scan_part.php "msys.av.scan_part")
+*   [msys.av.scan_part](lua.ref.msys.av.scan_part "msys.av.scan_part")
 
-*   [msys.brightmail.scan](lua.ref.msys.brightmail.scan.php "msys.brightmail.scan")
+*   [msys.brightmail.scan](lua.ref.msys.brightmail.scan "msys.brightmail.scan")
 
-*   [msys.cloudmark.analyze](lua.ref.msys.cloudmark.analyze.php "msys.cloudmark.analyze")
+*   [msys.cloudmark.analyze](lua.ref.msys.cloudmark.analyze "msys.cloudmark.analyze")
 
-*   [msys.cloudmark.score](lua.ref.msys.cloudmark.score.php "msys.cloudmark.score")
+*   [msys.cloudmark.score](lua.ref.msys.cloudmark.score "msys.cloudmark.score")
 
-*   [msys.commtouch.diagnose](lua.ref.msys.commtouch.diagnose.php "msys.commtouch.diagnose")
+*   [msys.commtouch.diagnose](lua.ref.msys.commtouch.diagnose "msys.commtouch.diagnose")
 
-*   [msys.expurgate.scan](lua.ref.msys.expurgate.scan.php "msys.expurgate.scan")
+*   [msys.expurgate.scan](lua.ref.msys.expurgate.scan "msys.expurgate.scan")
 
-*   [msys.symantec_beik.scan](lua.ref.msys.symantec_beik.scan.php "msys.symantec_beik.scan")
+*   [msys.symantec_beik.scan](lua.ref.msys.symantec_beik.scan "msys.symantec_beik.scan")
 
 ### 71.6.3. Console Commands
 

@@ -6,15 +6,15 @@ The EC_logger module is used for tracking messages from generation through deliv
 
 This module provides up to five logs, depending upon its configuration. For details about the format of each log, follow the corresponding link:
 
-*   [main log](log_formats.mainlog.php "35.7. mainlog") - logs message disposition including reception, delivery, transient failure, and permanent failure events
+*   [main log](log_formats.mainlog "35.7. mainlog") - logs message disposition including reception, delivery, transient failure, and permanent failure events
 
-*   [paniclog](log_formats.paniclog.php "35.8. paniclog") - aids in debugging system errors by logging system events
+*   [paniclog](log_formats.paniclog "35.8. paniclog") - aids in debugging system errors by logging system events
 
-*   [rejectlog](log_formats.rejectlog.php "35.9. rejectlog") - logs records of inbound messages that are rejected by Momentum, either due to policy or protocol deviations
+*   [rejectlog](log_formats.rejectlog "35.9. rejectlog") - logs records of inbound messages that are rejected by Momentum, either due to policy or protocol deviations
 
-*   [acctlog](log_formats.php#log_formats.acctlog "35.1. acctlog") - logs both authentication entries and authorization entries for the ESMTP_Listener and Control_Listener
+*   [acctlog](log_formats#log_formats.acctlog "35.1. acctlog") - logs both authentication entries and authorization entries for the ESMTP_Listener and Control_Listener
 
-*   [importlog](log_formats.importlog.php "35.6. importlog") - logs outcome of spool imports (By default, no log rotation is performed for this log.)
+*   [importlog](log_formats.importlog "35.6. importlog") - logs outcome of spool imports (By default, no log rotation is performed for this log.)
 
 ### 71.30.1. Configuration
 
@@ -41,9 +41,9 @@ This configuration instructs Momentum to write a `mainlog` file to `/var/log/ece
 
 The `paniclog` file is written to `/var/log/ecelerity/paniclog.ec`. This log file is used to debug errors in your system. Under normal circumstances, this log should be empty, excepting informational startup messages. It is recommended that you periodically check your `paniclog.ec` (or schedule a cron job to do it for you) to look for any anomalous events. This log file is included in the default configuration.
 
-The `acctlog` file is an accounting log and is written to `/var/log/ecelerity/acctlog.ec`. Configure this log if you are using authentication or authorization for the ESMTP_Listener or Control_Listener. This log file is included in the default configuration. For additional details, see [Section 19.5.5, “Logging SMTP Authentication Events”](inbound_smtp.php#inbound_smtp.logging.auth "19.5.5. Logging SMTP Authentication Events") and [Section 17.4, “Control_Listener Authorization”](control_authz.php "17.4. Control_Listener Authorization").
+The `acctlog` file is an accounting log and is written to `/var/log/ecelerity/acctlog.ec`. Configure this log if you are using authentication or authorization for the ESMTP_Listener or Control_Listener. This log file is included in the default configuration. For additional details, see [Section 19.5.5, “Logging SMTP Authentication Events”](inbound_smtp#inbound_smtp.logging.auth "19.5.5. Logging SMTP Authentication Events") and [Section 17.4, “Control_Listener Authorization”](control_authz.php "17.4. Control_Listener Authorization").
 
-The `importlog` file is written to `/var/log/ecelerity/importlog.ec`. This log records the outcome of a spool import operation. This log file is not included in the default configuration. For more information, see [spool import](console_commands.spool_import.php "spool import").
+The `importlog` file is written to `/var/log/ecelerity/importlog.ec`. This log records the outcome of a spool import operation. This log file is not included in the default configuration. For more information, see [spool import](console_commands.spool_import "spool import").
 
 The `heartbeat` option sets the interval at which "heartbeat" entries will be written to the logs. Default value is `60`. The heartbeat entries in the logs are essential for proper operation of the real time stats pieces, and changing the default value of `heartbeat` is not recommended unless advised to do so by Message Systems support.
 
@@ -74,7 +74,7 @@ log_errors = <true|false:  default true>
 
 Typically, you will want to log deliveries, receptions, and errors.
 
-The default log files created by this logger are rotated by the utility script **ec_rotate**. For more information, see [ec_rotate](executable.ec_rotate.php "ec_rotate").
+The default log files created by this logger are rotated by the utility script **ec_rotate**. For more information, see [ec_rotate](executable.ec_rotate "ec_rotate").
 
 ### 71.30.2. Configuration of Aggregated Cluster Node Logging
 
@@ -117,11 +117,11 @@ If there were no subscribers, items in the log could be deleted immediately. Nor
 
 The jlog files created on a node by lines such as `mainlog = "cluster:///var/log/ecelerity/mainlog.cluster=>master"` in the ec_logger module, are processed by `eccmgr` to create a text file on the log aggregator.
 
-Creating this logger causes the node to produce logs in the durable journalled jlog format. On its own, this causes logs to accumulate on disk. For them to find their way to the log aggregator, the `logs` dictionary within the cluster module needs to be configured to publish those jlogs. For details, see [logs](modules.cluster.php#option.logs.dictionary) .
+Creating this logger causes the node to produce logs in the durable journalled jlog format. On its own, this causes logs to accumulate on disk. For them to find their way to the log aggregator, the `logs` dictionary within the cluster module needs to be configured to publish those jlogs. For details, see [logs](modules.cluster#option.logs.dictionary) .
 
 ### 71.30.3. Configuration for the Cluster Manager
 
-The ec_logger module can also be used to configure log events that occur on the cluster manager. Configuration is similar to [Section 71.30.1, “Configuration”](modules.ec_logger.php#modules.ec_logger.node "71.30.1. Configuration") with the exception that the ec_logger module is loaded in the `eccluster.conf` file.
+The ec_logger module can also be used to configure log events that occur on the cluster manager. Configuration is similar to [Section 71.30.1, “Configuration”](modules.ec_logger#modules.ec_logger.node "71.30.1. Configuration") with the exception that the ec_logger module is loaded in the `eccluster.conf` file.
 
 The default `eccluster.conf` file defines the following loggers:
 

@@ -38,4 +38,4 @@ Enable this function with the statement `require('msys.audit');`.
 <a name="idp17312640"></a>
 ## See Also
 
-[Section 71.41, “inbound_audit – Inbound traffic analytics”](modules.inbound_audit.php "71.41. inbound_audit – Inbound traffic analytics"), [Section 71.16, “cidrdb – CIDRDB”](modules.cidrdb.php "71.16. cidrdb – CIDRDB"), [msys.audit.connections](lua.ref.msys.audit.connections.php "msys.audit.connections"), [msys.audit.rejections](lua.ref.msys.audit.rejections.php "msys.audit.rejections")
+[Section 71.41, “inbound_audit – Inbound traffic analytics”](modules.inbound_audit "71.41. inbound_audit – Inbound traffic analytics"), [Section 71.16, “cidrdb – CIDRDB”](modules.cidrdb.php "71.16. cidrdb – CIDRDB"), [msys.audit.connections](lua.ref.msys.audit.connections.php "msys.audit.connections"), [msys.audit.rejections](lua.ref.msys.audit.rejections.php "msys.audit.rejections")

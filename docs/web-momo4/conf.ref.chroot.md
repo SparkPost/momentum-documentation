@@ -26,4 +26,4 @@ chroot is valid in the security scope.
 <a name="idp23850048"></a>
 ## See Also
 
-[security](conf.ref.security.php "security"), [capabilities](conf.ref.capabilities.php "capabilities"), [user](conf.ref.user.php "user"), and [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups")
+[security](conf.ref.security "security"), [capabilities](conf.ref.capabilities.php "capabilities"), [user](conf.ref.user.php "user"), and [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups")

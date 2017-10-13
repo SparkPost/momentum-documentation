@@ -37,4 +37,4 @@ Esmtp_Listener {
 
 ### Note
 
-Hosts specified by the `relay_hosts` option are not subject to any SMTP authentication you may have implemented. Likewise when `open_relay` is set to `true`. For more information, see [relay_hosts](conf.ref.relay_hosts.php "relay_hosts").
+Hosts specified by the `relay_hosts` option are not subject to any SMTP authentication you may have implemented. Likewise when `open_relay` is set to `true`. For more information, see [relay_hosts](conf.ref.relay_hosts "relay_hosts").

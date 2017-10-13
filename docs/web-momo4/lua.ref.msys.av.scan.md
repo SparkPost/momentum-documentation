@@ -18,7 +18,7 @@ validate_context: userdata, validate_context type, optional
 
 Use this function with AV engines that depend on the AV module, such as the clamav module.
 
-This function performs a virus scan. The scan is done using the specified engine or, if no engine is specified, any installed engines that are supported by the AV module. If a virus is detected by an engine, the function will skip the remaining engines and return. For a list of these engines, see [Section 71.6, “antivirus – Antivirus”](modules.antivirus.php "71.6. antivirus – Antivirus").
+This function performs a virus scan. The scan is done using the specified engine or, if no engine is specified, any installed engines that are supported by the AV module. If a virus is detected by an engine, the function will skip the remaining engines and return. For a list of these engines, see [Section 71.6, “antivirus – Antivirus”](modules.antivirus "71.6. antivirus – Antivirus").
 
 Enable this function with the statement `require('msys.av');`.
 
@@ -44,11 +44,11 @@ This function returns four values:
 
     *   msys.av.EC_AV_NOT_SUITABLE_FOR_STREAMING – AV engine cannot scan the message that was passed in as a stream.
 
-    *   msys.av.EC_AV_ERROR – A runtime error occurred. For clamav-specific information, see [Section 71.17.1.1, “clamav Runtime Usage”](modules.clamav.php#modules.clamav.runtime "71.17.1.1. clamav Runtime Usage").
+    *   msys.av.EC_AV_ERROR – A runtime error occurred. For clamav-specific information, see [Section 71.17.1.1, “clamav Runtime Usage”](modules.clamav#modules.clamav.runtime "71.17.1.1. clamav Runtime Usage").
 
     *   msys.av.EC_AV_CLEAN – Meaning of this status depends on the AV engine.
 
-    *   msys.av.EC_AV_INFECTED – Meaning of this status depends on the AV engine. For engine-specific information, see [Section 71.23.2, “Context Variables”](modules.csapi.php#modules.csapi.context.variables "71.23.2. Context Variables") and [Section 71.17.1.1, “clamav Runtime Usage”](modules.clamav.php#modules.clamav.runtime "71.17.1.1. clamav Runtime Usage").
+    *   msys.av.EC_AV_INFECTED – Meaning of this status depends on the AV engine. For engine-specific information, see [Section 71.23.2, “Context Variables”](modules.csapi#modules.csapi.context.variables "71.23.2. Context Variables") and [Section 71.17.1.1, “clamav Runtime Usage”](modules.clamav.php#modules.clamav.runtime "71.17.1.1. clamav Runtime Usage").
 
     *   msys.av.EC_AV_UNSCANNABLE – Message could not be scanned.
 
@@ -56,7 +56,7 @@ This function returns four values:
 
 *   The *name of the AV engine*                  that detected the virus or `nil` if no virus was detected.
 
-*   The *engine scan code*           or `nil` if no engine scan code is available. The scan code returned is specific to the engine reporting the error. For engine-specific information, see [Section 71.23.2, “Context Variables”](modules.csapi.php#modules.csapi.context.variables "71.23.2. Context Variables") and [Section 71.17.1.1, “clamav Runtime Usage”](modules.clamav.php#modules.clamav.runtime "71.17.1.1. clamav Runtime Usage").
+*   The *engine scan code*           or `nil` if no engine scan code is available. The scan code returned is specific to the engine reporting the error. For engine-specific information, see [Section 71.23.2, “Context Variables”](modules.csapi#modules.csapi.context.variables "71.23.2. Context Variables") and [Section 71.17.1.1, “clamav Runtime Usage”](modules.clamav.php#modules.clamav.runtime "71.17.1.1. clamav Runtime Usage").
 
 <a name="lua.ref.msys.av.scan.example"></a>
 
@@ -108,4 +108,4 @@ require("msys.av");
 <a name="idp17516416"></a>
 ## See Also
 
-[msys.av.scan_part](lua.ref.msys.av.scan_part.php "msys.av.scan_part")
+[msys.av.scan_part](lua.ref.msys.av.scan_part "msys.av.scan_part")

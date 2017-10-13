@@ -38,9 +38,9 @@ The fbl module can be used in conjunction with the jlog module to enable real-ti
 
 `Log_Path = "jlog:///var/log/ecelerity/fbllog.rt=>master"`
 
-For more information about the jlog module see [Section 71.43, “jlog – jlog-Formatted Logging”](modules.jlog.php "71.43. jlog – jlog-Formatted Logging").
+For more information about the jlog module see [Section 71.43, “jlog – jlog-Formatted Logging”](modules.jlog "71.43. jlog – jlog-Formatted Logging").
 
-For details about the fbllog file format, see [Section 35.4, “`fbllog`”](log_formats.fbllog.php "35.4. fbllog").
+For details about the fbllog file format, see [Section 35.4, “`fbllog`”](log_formats.fbllog "35.4. fbllog").
 
 The following are options valid in the fbl scope:
 
@@ -52,11 +52,11 @@ The following are options valid in the fbl scope:
 
 List of one or more regular expressions defining the mailboxes for receiving FBL reports
 
-In order to be processed, these addresses must be added to the [relay_domains](conf.ref.relay_domains.php "relay_domains") option.
+In order to be processed, these addresses must be added to the [relay_domains](conf.ref.relay_domains "relay_domains") option.
 
 ### Warning
 
-If a domain in this list also appears in the [bounce_domains](conf.ref.bounce_domains.php "bounce_domains") list, then the incoming FBL complaint message destined to that domain will be logged to **both** [bouncelog](log_formats.bouncelog.php "35.3. bouncelog") and [fbllog](log_formats.fbllog.php "35.4. fbllog").
+If a domain in this list also appears in the [bounce_domains](conf.ref.bounce_domains "bounce_domains") list, then the incoming FBL complaint message destined to that domain will be logged to **both** [bouncelog](log_formats.bouncelog.php "35.3. bouncelog") and [fbllog](log_formats.fbllog.php "35.4. fbllog").
 
 </dd>
 
@@ -66,7 +66,7 @@ If a domain in this list also appears in the [bounce_domains](conf.ref.bounce_do
 
 Whether or not to log to the default log file. Default value is `false`.
 
-In order for header insertion to work, this option must be set to `true` and the [enable_fbl_header_insertion](conf.ref.enable_fbl_header_insertion.php "enable_fbl_header_insertion") option must be enabled.
+In order for header insertion to work, this option must be set to `true` and the [enable_fbl_header_insertion](conf.ref.enable_fbl_header_insertion "enable_fbl_header_insertion") option must be enabled.
 
 </dd>
 
@@ -98,9 +98,9 @@ On inbound processing, the MTA will look for the `header` and extract the data. 
 
 Defines the log file. Default value is `/var/log/ecelerity/fbllog.ec`.
 
-If you want to aggregate fbl logs on the cluster manager, add `fbllog = "/var/log/ecelerity/fbllog.cluster"` to the `logs` dictionary of the cluster module. For details, see [logs](modules.cluster.php#option.logs.dictionary) .
+If you want to aggregate fbl logs on the cluster manager, add `fbllog = "/var/log/ecelerity/fbllog.cluster"` to the `logs` dictionary of the cluster module. For details, see [logs](modules.cluster#option.logs.dictionary) .
 
-For an sample configuration see [Section 26.2, “Centralized Logging Example”](cluster.config.logging.centalized.logging.php "26.2. Centralized Logging Example").
+For an sample configuration see [Section 26.2, “Centralized Logging Example”](cluster.config.logging.centalized.logging "26.2. Centralized Logging Example").
 
 </dd>
 
@@ -152,4 +152,4 @@ Binding "foo" {
 
 **Lua Scripts**
 
-With Lua, FBL scripting is typically implemented by the adaptive module. For more information see [Sweep Rules – Configuring Bounce and FBL Behavior](https://support.messagesystems.com/docs/web-ad/ad.rules.sweep.rules.php).
+With Lua, FBL scripting is typically implemented by the adaptive module. For more information see [Sweep Rules – Configuring Bounce and FBL Behavior](https://support.messagesystems.com/docs/web-ad/ad.rules.sweep.rules).

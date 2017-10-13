@@ -38,9 +38,9 @@ Enable this function with the statement `require('msys.extended.message');`.
 
 ### Note
 
-During reception, you will likely want to set the code by using [vctx:set_code](lua.ref.vctx_set_code.php "vctx:set_code").
+During reception, you will likely want to set the code by using [vctx:set_code](lua.ref.vctx_set_code "vctx:set_code").
 
 <a name="idp15764656"></a>
 ## See Also
 
-[vctx:set_code](lua.ref.vctx_set_code.php "vctx:set_code")
+[vctx:set_code](lua.ref.vctx_set_code "vctx:set_code")

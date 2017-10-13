@@ -18,7 +18,7 @@ mode: string (optional)
 
 ### Warning
 
-This Lua function may not give expected results for multi-part MIME messages such as an MCMT message. It will behave as expected in the first MIME part. Consider using [msgpart:header](lua.ref.msgpart_header.php "msgpart:header").
+This Lua function may not give expected results for multi-part MIME messages such as an MCMT message. It will behave as expected in the first MIME part. Consider using [msgpart:header](lua.ref.msgpart_header "msgpart:header").
 
 <a name="idp15816912"></a>
 ## Description
@@ -70,4 +70,4 @@ In this case the return value of the `msg:header` function is also a boolean.
 <a name="idp15840240"></a>
 ## See Also
 
-[msg:body](lua.ref.msg_body.php "msg:body") and [msgpart:header](lua.ref.msgpart_header.php "msgpart:header").
+[msg:body](lua.ref.msg_body "msg:body") and [msgpart:header](lua.ref.msgpart_header.php "msgpart:header").

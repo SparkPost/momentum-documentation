@@ -32,4 +32,4 @@ print(node:attr("name")) -- prints the value of the "name" attribute
 <a name="idp19414192"></a>
 ### See Also
 
-[xml.parsexml](lua.ref.xml.parsexml.php "xml.parsexml")
+[xml.parsexml](lua.ref.xml.parsexml "xml.parsexml")

@@ -11,7 +11,7 @@ domainkeys — enable or disable domainkeys signing
 <a name="idp24486480"></a>
 ## Description
 
-This directive instructs Momentum to enable (or disable) signing messages with a DomainKeys signature globally, on a specific domain, binding, or domain within a binding. To use this directive, you must also configure the [`dk_sign`](modules.domainkeys.php "71.28. domainkeys – Yahoo! DomainKeys") module. When the dk_sign module is loaded, signing occurs for all messages by default. This is the same as setting `domainkeys = "enabled"` at the global scope.
+This directive instructs Momentum to enable (or disable) signing messages with a DomainKeys signature globally, on a specific domain, binding, or domain within a binding. To use this directive, you must also configure the [`dk_sign`](modules.domainkeys "71.28. domainkeys – Yahoo! DomainKeys") module. When the dk_sign module is loaded, signing occurs for all messages by default. This is the same as setting `domainkeys = "enabled"` at the global scope.
 
 <a name="idp24489936"></a>
 ## Scope

@@ -15,9 +15,9 @@ Resets the given counter object or counter associated with the given path to `0`
 
 Enable this function with the statement `require('msys.counter');`.
 
-You can also use the [counter](console_commands.counter.php "counter") console command to display and manipulate counters.
+You can also use the [counter](console_commands.counter "counter") console command to display and manipulate counters.
 
 <a name="idp17873904"></a>
 ## See Also
 
-[msys.counter.inc](lua.ref.msys.counter.inc.php "msys.counter.inc"), [msys.counter.add](lua.ref.msys.counter.add.php "msys.counter.add"), [msys.counter.open](lua.ref.msys.counter.open.php "msys.counter.open"), [msys.counter.unlink](lua.ref.msys.counter.unlink.php "msys.counter.unlink")
+[msys.counter.inc](lua.ref.msys.counter.inc "msys.counter.inc"), [msys.counter.add](lua.ref.msys.counter.add.php "msys.counter.add"), [msys.counter.open](lua.ref.msys.counter.open.php "msys.counter.open"), [msys.counter.unlink](lua.ref.msys.counter.unlink.php "msys.counter.unlink")

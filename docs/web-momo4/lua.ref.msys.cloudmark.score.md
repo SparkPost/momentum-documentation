@@ -26,7 +26,7 @@ Use this function to scan mail. It can be invoked at the data, spool, or each_rc
 
 *   `vctx` – Validation context
 
-You must load and correctly configure the cloudmark module before using this function. Be sure to set the cloudmark module option `Enabled` to `false`. For details, see [Section 71.18, “cloudmark – Cloudmark Authority® Content Scanning”](modules.cloudmark.php "71.18. cloudmark – Cloudmark Authority® Content Scanning").
+You must load and correctly configure the cloudmark module before using this function. Be sure to set the cloudmark module option `Enabled` to `false`. For details, see [Section 71.18, “cloudmark – Cloudmark Authority® Content Scanning”](modules.cloudmark "71.18. cloudmark – Cloudmark Authority® Content Scanning").
 
 This function returns a table is returned with the following key/value pairs. These name value pairs are also set within the validation context (VCTX_MESS):
 
@@ -73,4 +73,4 @@ Do not use `pcall` with this function.
 <a name="idp15043776"></a>
 ## See Also
 
-[msys.cloudmark.analyze](lua.ref.msys.cloudmark.analyze.php "msys.cloudmark.analyze")
+[msys.cloudmark.analyze](lua.ref.msys.cloudmark.analyze "msys.cloudmark.analyze")

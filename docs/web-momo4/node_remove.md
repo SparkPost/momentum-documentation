@@ -267,7 +267,7 @@ These instructions are based on the assumption that you are reducing the size of
 
 ### 13.2.5. Move the Spool Files
 
-Move the spool files to a functional Platform node. For more information, see [spool import](console_commands.spool_import.php "spool import").
+Move the spool files to a functional Platform node. For more information, see [spool import](console_commands.spool_import "spool import").
 
 ### 13.2.6. Final Steps
 

@@ -6,7 +6,7 @@ The engagement_tracker module handles the creation of open-tracked and click-tra
 
 ### 71.32.1. Configuration
 
-The [msg_gen](modules.msg_gen.php "71.48. msg_gen – Message Generation") module requires the engagement_tracker module and will autoload it in the `msg_gen.conf` file that is created during installation. The following is the default configuration:
+The [msg_gen](modules.msg_gen "71.48. msg_gen – Message Generation") module requires the engagement_tracker module and will autoload it in the `msg_gen.conf` file that is created during installation. The following is the default configuration:
 
 <a name="modules.engage_tracker.configuration.example"></a>
 

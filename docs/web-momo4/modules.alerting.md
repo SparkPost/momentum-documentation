@@ -2,13 +2,13 @@
 
 <a class="indexterm" name="idp19664624"></a>
 
-The alerting module provides the ability to send alerting emails when a script examines data. If you intend to create scripts using the [`scriptlet`](modules.scriptlet.php "71.60. scriptlet - Lua Policy Scripts") module, you must have the alerting module loaded.
+The alerting module provides the ability to send alerting emails when a script examines data. If you intend to create scripts using the [`scriptlet`](modules.scriptlet "71.60. scriptlet - Lua Policy Scripts") module, you must have the alerting module loaded.
 
-It is especially important to load this module when you are using [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery"). You will not receive adaptive alerts if this module is not loaded.
+It is especially important to load this module when you are using [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery"). You will not receive adaptive alerts if this module is not loaded.
 
 ### 71.4.1. Configuration
 
-The alerting module is a singleton, so it does not have an instance name. To use this module, you must also load the [inbound_audit](modules.inbound_audit.php "71.41. inbound_audit – Inbound traffic analytics") module. The following is an example configuration:
+The alerting module is a singleton, so it does not have an instance name. To use this module, you must also load the [inbound_audit](modules.inbound_audit "71.41. inbound_audit – Inbound traffic analytics") module. The following is an example configuration:
 
 <a name="example.alerting"></a>
 

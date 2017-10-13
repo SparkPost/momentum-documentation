@@ -21,7 +21,7 @@ After all `setopt` calls have been made, perform a file transfer.
 
 ```
 c = curl.new();
-c:setopt(curl.OPT_URL, "http://example.com/index.php");
+c:setopt(curl.OPT_URL, "http://example.com/index");
 c:setopt(curl.OPT_WRITEFUNCTION, function(userdata, datastring) print(datastring); »
   return string.len(datastring); end);
 c:perform();
@@ -30,4 +30,4 @@ c:perform();
 <a name="idp15425232"></a>
 ### See Also
 
-See [c:setopt](lua.ref.curl.c_setopt.php "c:setopt") for an explanation of the parameters passed to `setopt`.
+See [c:setopt](lua.ref.curl.c_setopt "c:setopt") for an explanation of the parameters passed to `setopt`.

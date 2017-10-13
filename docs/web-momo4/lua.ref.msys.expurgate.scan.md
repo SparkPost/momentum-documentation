@@ -16,7 +16,7 @@ vctx: userdata, validate_context type
 <a name="idp18027728"></a>
 ## Description
 
-Use this function to scan the mail. You must load and correctly configure the eleven module before using this function. Be sure to set the eleven module option `Enabled` to `false`. For details, see [Section 71.31, “eleven – Eleven eXpurgate Content Scanning”](modules.eleven.php "71.31. eleven – Eleven eXpurgate Content Scanning").
+Use this function to scan the mail. You must load and correctly configure the eleven module before using this function. Be sure to set the eleven module option `Enabled` to `false`. For details, see [Section 71.31, “eleven – Eleven eXpurgate Content Scanning”](modules.eleven "71.31. eleven – Eleven eXpurgate Content Scanning").
 
 It can be invoked at the data, spool, or each_rcpt phases where there is a complete message. It will not work at the connect, ehlo, mailfrom, or rcptto phases.
 

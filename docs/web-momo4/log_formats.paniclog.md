@@ -1,8 +1,8 @@
 ## 35.8. `paniclog`
 
-The `paniclog` is a debugging log in which system events are logged depending on the level of Debug_Flags set in your configuration. It is configured in the [ec_logger](modules.ec_logger.php "71.30. EC_logger – Momentum-Style Logging").
+The `paniclog` is a debugging log in which system events are logged depending on the level of Debug_Flags set in your configuration. It is configured in the [ec_logger](modules.ec_logger "71.30. EC_logger – Momentum-Style Logging").
 
-Under normal circumstances, Debug_Flags should be empty or should be omitted from the `ecelerity.conf` file. For debugging purposes, set up Debug_Flags as described in [debug_flags](conf.ref.debug_flags.php "debug_flags"). When a problem event occurs and it is within the logging level set by the `Debug_Flags` option, the event is written to the `paniclog`. Excepting informational startup messages, the `paniclog` should be empty under normal circumstances. It is recommended that you periodically check your `paniclog` to look for any anomalous events.
+Under normal circumstances, Debug_Flags should be empty or should be omitted from the `ecelerity.conf` file. For debugging purposes, set up Debug_Flags as described in [debug_flags](conf.ref.debug_flags "debug_flags"). When a problem event occurs and it is within the logging level set by the `Debug_Flags` option, the event is written to the `paniclog`. Excepting informational startup messages, the `paniclog` should be empty under normal circumstances. It is recommended that you periodically check your `paniclog` to look for any anomalous events.
 
 In addition, Momentum logs entries to the `paniclog` when the `log_requests_to_paniclog` option is enabled in the HTTP_Listener and its nested scopes.
 

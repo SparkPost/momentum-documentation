@@ -79,11 +79,11 @@ local rowset, row, err;
 
 ### Note
 
-The data cache used in the preceding example must be defined in your configuration file. For more information, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core.php "71.29. ds_core - Datasource Query Core").
+The data cache used in the preceding example must be defined in your configuration file. For more information, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core "71.29. ds_core - Datasource Query Core").
 
 Each iteration over the returned rowset yields a table with string keys corresponding to the names of the columns from the row. If the driver does not return names, the values are indexed by their ordinal position instead, with the first column at ordinal position `1`. For drivers that can return multiple values for a given named column (such as LDAP), the values may in turn be tables indexed by ordinal position of the sub-value.
 
 <a name="idp17989696"></a>
 ## See Also
 
-[msys.db.fetch_row](lua.ref.msys.db.fetch_row.php "msys.db.fetch_row"), [msys.db.execute](lua.ref.msys.db.execute.php "msys.db.execute"), [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets")
+[msys.db.fetch_row](lua.ref.msys.db.fetch_row "msys.db.fetch_row"), [msys.db.execute](lua.ref.msys.db.execute.php "msys.db.execute"), [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets")

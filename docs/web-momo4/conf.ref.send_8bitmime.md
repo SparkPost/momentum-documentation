@@ -32,4 +32,4 @@ For RFC 1652 compliance you should set `Send_8BitMime` to `ifavailable` and `Tra
 <a name="idp26504960"></a>
 ## See Also
 
-[transform_8bitmime_content](conf.ref.transform_8bitmime_content.php "transform_8bitmime_content")
+[transform_8bitmime_content](conf.ref.transform_8bitmime_content "transform_8bitmime_content")

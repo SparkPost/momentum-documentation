@@ -10,7 +10,7 @@ fingerprint rejection summary — display details related to the current inbound
 <a name="idp14254112"></a>
 ## Description
 
-In order to use this command, you must have the Policy Tools suite installed. Passive OS fingerprinting is installed as part of the Policy Tools suite. This functionality yields information about inbound connections. For more information about installing the Policy Tools suite see [Section 12.1, “Installing Partner Modules”](post_installation.php#install.additional.packages "12.1. Installing Partner Modules").
+In order to use this command, you must have the Policy Tools suite installed. Passive OS fingerprinting is installed as part of the Policy Tools suite. This functionality yields information about inbound connections. For more information about installing the Policy Tools suite see [Section 12.1, “Installing Partner Modules”](post_installation#install.additional.packages "12.1. Installing Partner Modules").
 
 This command displays the genre, detail, receptions and rejections related to the current inbound connection.
 
@@ -19,4 +19,4 @@ Passive operating system fingerprinting runs as a daemon that Momentum communica
 <a name="idp14260096"></a>
 ## See Also
 
-[fingerprint cache summary](console_commands.fingerprint_cache_summary.php "fingerprint cache summary")
+[fingerprint cache summary](console_commands.fingerprint_cache_summary "fingerprint cache summary")

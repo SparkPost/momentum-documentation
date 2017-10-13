@@ -67,11 +67,11 @@ The accepted convention is to require that, in circumstances where a configurati
 
 You **cannot** view the contents of the `ecelerity-cluster.conf` file using the console from the cluster manager. You can only view the contents of this file from a cluster node because it is included from the `ecelerity.conf` file.
 
-For a discussion of scopes and fallbacks, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback").
+For a discussion of scopes and fallbacks, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback").
 
-For a summary of all the non-module specific configuration options, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For a summary of all the non-module specific configuration options, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
-Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
+Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
 The following sections provide an overview of the configuration commonly defined in the `ecelerity-cluster.conf` file.
 
@@ -83,7 +83,7 @@ The following sections provide an overview of the configuration commonly defined
 
 The definition of the `Security` stanza in the `ecelerity-cluster.conf` file applies to the cluster nodes only and usually differs from the configuration found in the `eccluster.conf` file.
 
-For a discussion of the `Security` stanza options, see [security](conf.ref.security.php "security").
+For a discussion of the `Security` stanza options, see [security](conf.ref.security "security").
 
 </dd>
 
@@ -91,7 +91,7 @@ For a discussion of the `Security` stanza options, see [security](conf.ref.secur
 
 <dd>
 
-For a discussion of the `ECCluster_Listener` stanza, see [Section 16.5.1, “ECCluster_Listener Configuration”](cluster.listeners.php#eccluster_listener "16.5.1. ECCluster_Listener Configuration").
+For a discussion of the `ECCluster_Listener` stanza, see [Section 16.5.1, “ECCluster_Listener Configuration”](cluster.listeners#eccluster_listener "16.5.1. ECCluster_Listener Configuration").
 
 </dd>
 
@@ -99,9 +99,9 @@ For a discussion of the `ECCluster_Listener` stanza, see [Section 16.5.1, “EC
 
 <dd>
 
-For a discussion of using the ec_logger module in aggregated logging, see [Section 71.30.2, “Configuration of Aggregated Cluster Node Logging”](modules.ec_logger.php#modules.ec_logger.cluster "71.30.2. Configuration of Aggregated Cluster Node Logging").
+For a discussion of using the ec_logger module in aggregated logging, see [Section 71.30.2, “Configuration of Aggregated Cluster Node Logging”](modules.ec_logger#modules.ec_logger.cluster "71.30.2. Configuration of Aggregated Cluster Node Logging").
 
-For a discussion of using the bounce_logger module in aggregated logging, see [Section 71.13.2, “Configuration of Aggregated Cluster Node Logging”](modules.bounce_logger.php#modules.bounce_logger.cluster "71.13.2. Configuration of Aggregated Cluster Node Logging").
+For a discussion of using the bounce_logger module in aggregated logging, see [Section 71.13.2, “Configuration of Aggregated Cluster Node Logging”](modules.bounce_logger#modules.bounce_logger.cluster "71.13.2. Configuration of Aggregated Cluster Node Logging").
 
 </dd>
 
@@ -109,7 +109,7 @@ For a discussion of using the bounce_logger module in aggregated logging, see [S
 
 <dd>
 
-For details about the cluster module, see [Section 71.19, “cluster – Cluster”](modules.cluster.php "71.19. cluster – Cluster").
+For details about the cluster module, see [Section 71.19, “cluster – Cluster”](modules.cluster "71.19. cluster – Cluster").
 
 </dd>
 

@@ -19,11 +19,11 @@ This function provides a "stream" for statvfs updates. It guarantees minimal blo
 
 `statvfs_record = msys.os.statvfs_subscribe("/tmp", 10)`
 
-This function is discussed in more detail in [msys.os.statvfs_read](lua.ref.msys.os.statvfs_read.php "msys.os.statvfs_read").
+This function is discussed in more detail in [msys.os.statvfs_read](lua.ref.msys.os.statvfs_read "msys.os.statvfs_read").
 
 Enable this function with the statement `require('msys.os');`.
 
 <a name="idp18334992"></a>
 ## See Also
 
-[msys.os.statvfs_read](lua.ref.msys.os.statvfs_read.php "msys.os.statvfs_read") and [ec_statvfs](https://support.messagesystems.com/docs/web-c-api/structs.ec_statvfs.php)
+[msys.os.statvfs_read](lua.ref.msys.os.statvfs_read "msys.os.statvfs_read") and [ec_statvfs](https://support.messagesystems.com/docs/web-c-api/structs.ec_statvfs.php)

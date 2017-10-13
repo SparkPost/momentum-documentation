@@ -39,9 +39,9 @@ This function outputs the entire document as shown in the following:
 
 ### Note
 
-The `print` function will automatically convert a document to string so the use of `doc:tostring` in [Example 70.74, “doc:tostring example”](lua.ref.xml.doc_tostring.php#lua.ref.xml.doc_tostring.example "Example 70.74. doc:tostring example") is not strictly necessary.
+The `print` function will automatically convert a document to string so the use of `doc:tostring` in [Example 70.74, “doc:tostring example”](lua.ref.xml.doc_tostring#lua.ref.xml.doc_tostring.example "Example 70.74. doc:tostring example") is not strictly necessary.
 
 <a name="idp19367104"></a>
 ### See Also
 
-[node:doc](lua.ref.xml.node_doc.php "node:doc") and [xml.parsexml](lua.ref.xml.parsexml.php "xml.parsexml")
+[node:doc](lua.ref.xml.node_doc "node:doc") and [xml.parsexml](lua.ref.xml.parsexml.php "xml.parsexml")

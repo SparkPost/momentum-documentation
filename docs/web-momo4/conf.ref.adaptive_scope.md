@@ -12,7 +12,7 @@ adaptive_scope — define the scope applicable to adaptive delivery (AD)
 
 ### Note
 
-This directive is only valid if the Momentum adaptive module is loaded. See [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery").
+This directive is only valid if the Momentum adaptive module is loaded. See [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery").
 
 This option controls the scope of adaptive delivery, making it local to the node or cluster-wide (i.e., global). It can be be set to `local`, `global`, or `auto`. When it is set to `auto`, the scope will be global if the binding is DuraVIP™ enabled and local for all other cases.
 
@@ -26,7 +26,7 @@ When it is set to `global` for a binding::domain:
 
 *Note*: If `adaptive_scope` evaluates to "global" for a binding::domain combination, it does not imply that it will also evaluate to the same value for that binding alone.
 
-If `adaptive_scope` evaluates to "global" for a [binding](conf.ref.binding.php "binding") scope, the age set for that binding through the warmup action will be applied to the binding across the whole cluster.
+If `adaptive_scope` evaluates to "global" for a [binding](conf.ref.binding "binding") scope, the age set for that binding through the warmup action will be applied to the binding across the whole cluster.
 
 The following use cases apply to the `adaptive_scope` option:
 
@@ -48,4 +48,4 @@ adaptive_scope is valid in the binding, binding_group, domain, and global scopes
 <a name="idp23419600"></a>
 ## See Also
 
-[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery"), [adaptive_enabled](conf.ref.adaptive_enabled.php "adaptive_enabled")
+[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery"), [adaptive_enabled](conf.ref.adaptive_enabled.php "adaptive_enabled")

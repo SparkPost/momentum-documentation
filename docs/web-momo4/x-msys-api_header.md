@@ -1,10 +1,10 @@
 ## 41.2. Using the X-MSYS-API Header for Engagement Tracking
 
-The X-MSYS-API header can be used to override the configuration option to enable or disable engagement tracking for a specific message. Also, you can specify engagement tracking data in the header fields. For details about engagement tracking for SMTP injections, see [Chapter 41, *Tracking Engagement for SMTP*](engagement_tracking_smtp.php "Chapter 41. Tracking Engagement for SMTP") .
+The X-MSYS-API header can be used to override the configuration option to enable or disable engagement tracking for a specific message. Also, you can specify engagement tracking data in the header fields. For details about engagement tracking for SMTP injections, see [Chapter 41, *Tracking Engagement for SMTP*](engagement_tracking_smtp "Chapter 41. Tracking Engagement for SMTP") .
 
 **X-MSYS-API Header Attributes** 
 
-The X-MSYS-API header must be a JSON object serialized as a string that holds the various attributes for the message. [Table 41.1, “X-MSYS-API Header Attributes”](x-msys-api_header.php#x-msys-api-header-table "Table 41.1. X-MSYS-API Header Attributes") lists the fields supported in the JSON object.
+The X-MSYS-API header must be a JSON object serialized as a string that holds the various attributes for the message. [Table 41.1, “X-MSYS-API Header Attributes”](x-msys-api_header#x-msys-api-header-table "Table 41.1. X-MSYS-API Header Attributes") lists the fields supported in the JSON object.
 
 <a name="x-msys-api-header-table"></a>
 
@@ -13,11 +13,11 @@ The X-MSYS-API header must be a JSON object serialized as a string that holds th
 | Field | Type | Description | Required | Notes |
 | --- | --- | --- | --- | --- |
 | campaign_id | string | Name of the campaign to associate with the SMTP message | no | Campaign ID is available during engagement events. Maximum length - 64 bytes |
-| metadata | JSON object | JSON key value pairs associated with the SMTP message | no | Metadata is available during engagement events based on a configuration option. See [Section 71.32, “engagement_tracker – HTTP Engagement Tracking”](modules.engage_tracker.php "71.32. engagement_tracker – HTTP Engagement Tracking"). A maximum of 200 bytes is available. |
+| metadata | JSON object | JSON key value pairs associated with the SMTP message | no | Metadata is available during engagement events based on a configuration option. See [Section 71.32, “engagement_tracker – HTTP Engagement Tracking”](modules.engage_tracker "71.32. engagement_tracker – HTTP Engagement Tracking"). A maximum of 200 bytes is available. |
 | options | JSON object | JSON object in which engagement tracking options are enabled or disabled | no | For a full description, see the Options Attributes. |
 | tags | JSON object | Array of text labels associated with the SMTP message | no | Tags are available during engagement events. Maximum number of tags = 10 per recipient, 100 system wide. Any tags over the limits are ignored. |
 
-[Table 41.2, “Options Attributes”](x-msys-api_header.php#x-msys-api-options-table "Table 41.2. Options Attributes") lists the fields supported in the "options" JSON object.
+[Table 41.2, “Options Attributes”](x-msys-api_header#x-msys-api-options-table "Table 41.2. Options Attributes") lists the fields supported in the "options" JSON object.
 
 <a name="x-msys-api-options-table"></a>
 
@@ -25,8 +25,8 @@ The X-MSYS-API header must be a JSON object serialized as a string that holds th
 
 | Field | Type | Description | Required | Notes |
 | --- | --- | --- | --- | --- |
-| click_tracking | boolean | Whether click tracking is enabled or disabled for the SMTP message | no | If specified, this field takes precedence over the configuration option. For the order of precedence, see [Section 71.67.3, “Enabling Engagement Tracking”](modules.smtpapi.php#modules.smtpapi.enable "71.67.3. Enabling Engagement Tracking"). |
-| open_tracking | boolean | Whether open tracking is enabled or disabled for the SMTP message | no | If specified, this field takes precedence over the configuration option. For the order of precedence, see [Section 71.67.3, “Enabling Engagement Tracking”](modules.smtpapi.php#modules.smtpapi.enable "71.67.3. Enabling Engagement Tracking"). |
+| click_tracking | boolean | Whether click tracking is enabled or disabled for the SMTP message | no | If specified, this field takes precedence over the configuration option. For the order of precedence, see [Section 71.67.3, “Enabling Engagement Tracking”](modules.smtpapi#modules.smtpapi.enable "71.67.3. Enabling Engagement Tracking"). |
+| open_tracking | boolean | Whether open tracking is enabled or disabled for the SMTP message | no | If specified, this field takes precedence over the configuration option. For the order of precedence, see [Section 71.67.3, “Enabling Engagement Tracking”](modules.smtpapi#modules.smtpapi.enable "71.67.3. Enabling Engagement Tracking"). |
 
 ### Note
 
@@ -43,7 +43,7 @@ There are no X-MSYS-API header fallbacks for the following:
 | tracking_domain | smtpapi_tracking_domain |
 | tracking_link_expiry | smtpapi_tracking_link_expiry |
 
-You must specify the configuration options or the context variables in Lua policy. This is especially important for `tracking_domain`, as the default value of `"localhost:8080"` is not appropriate for production environments. See [Section 71.67.4, “Configuration Options for Engagement Tracking”](modules.smtpapi.php#modules.smtpapi.config.options "71.67.4. Configuration Options for Engagement Tracking") or [Section 41.3, “Using Policy for Engagement Tracking”](engagement_tracking_smtp.policy.php "41.3. Using Policy for Engagement Tracking"), respectively.
+You must specify the configuration options or the context variables in Lua policy. This is especially important for `tracking_domain`, as the default value of `"localhost:8080"` is not appropriate for production environments. See [Section 71.67.4, “Configuration Options for Engagement Tracking”](modules.smtpapi#modules.smtpapi.config.options "71.67.4. Configuration Options for Engagement Tracking") or [Section 41.3, “Using Policy for Engagement Tracking”](engagement_tracking_smtp.policy.php "41.3. Using Policy for Engagement Tracking"), respectively.
 
 **X-MSYS-API Header Line Length** 
 

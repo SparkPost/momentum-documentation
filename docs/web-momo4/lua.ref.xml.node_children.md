@@ -28,4 +28,4 @@ end
 <a name="idp19427632"></a>
 ### See Also
 
-[xml.parsexml](lua.ref.xml.parsexml.php "xml.parsexml")
+[xml.parsexml](lua.ref.xml.parsexml "xml.parsexml")

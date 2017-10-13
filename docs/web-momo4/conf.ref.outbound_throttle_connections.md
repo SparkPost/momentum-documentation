@@ -16,7 +16,7 @@ This allows you to limit the rate at which Momentum will attempt to establish TC
 
 If a single integer parameter is provided, Momentum will ensure that no more than the specified number of connections are initiated in a given second. If a proper fraction parameter is provided, Momentum will limit the number of connections to the number specified in the numerator over the time window in seconds specified by the denominator. By default this option is not set, indicating an unlimited number of connections.
 
-Where throttles are concerned, Momentum's fallback behavior differs. For more information, see [the section called “Throttles and Fallback”](conf.ref.outbound_throttle_messages.php#conf.ref.outbound_throttle_messages.fallback "Throttles and Fallback").
+Where throttles are concerned, Momentum's fallback behavior differs. For more information, see [the section called “Throttles and Fallback”](conf.ref.outbound_throttle_messages#conf.ref.outbound_throttle_messages.fallback "Throttles and Fallback").
 
 ### Note
 

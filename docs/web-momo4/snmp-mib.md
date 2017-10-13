@@ -4,11 +4,11 @@
 
 <dl class="toc">
 
-<dt>[B.1\. 1.3.6.1.4.1.19552.1.2 – Per-domain Metrics](snmp-mib.php#snmp-mib-per-domain-metrics)</dt>
+<dt>[B.1\. 1.3.6.1.4.1.19552.1.2 – Per-domain Metrics](snmp-mib#snmp-mib-per-domain-metrics)</dt>
 
-<dt>[B.2\. Per-group (binding) Metrics, 1.3.6.1.4.1.19552.1.3](snmp-mib.pergroup.php)</dt>
+<dt>[B.2\. Per-group (binding) Metrics, 1.3.6.1.4.1.19552.1.3](snmp-mib.pergroup)</dt>
 
-<dt>[B.3\. The `OMNITI-SNMP-MIB.txt` file](snmp-mib.omniti.php)</dt>
+<dt>[B.3\. The `OMNITI-SNMP-MIB.txt` file](snmp-mib.omniti)</dt>
 
 </dl>
 

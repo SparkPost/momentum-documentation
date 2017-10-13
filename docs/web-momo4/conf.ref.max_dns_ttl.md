@@ -22,4 +22,4 @@ max_dns_ttl is valid in the global scope.
 <a name="idp25307904"></a>
 ## See Also
 
-[min_dns_ttl](conf.ref.min_dns_ttl.php "min_dns_ttl")
+[min_dns_ttl](conf.ref.min_dns_ttl "min_dns_ttl")

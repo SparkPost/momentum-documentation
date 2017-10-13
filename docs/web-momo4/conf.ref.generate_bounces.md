@@ -24,4 +24,4 @@ generate_bounces is valid in the binding, binding_group, domain and global scope
 <a name="idp24762400"></a>
 ## See Also
 
-[bounce_behavior](conf.ref.bounce_behavior.php "bounce_behavior")
+[bounce_behavior](conf.ref.bounce_behavior "bounce_behavior")

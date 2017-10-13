@@ -4,7 +4,7 @@
 
 <dl class="toc">
 
-<dt>[1\. Typographical Conventions Used in This Document](preface.php#typographical)</dt>
+<dt>[1\. Typographical Conventions Used in This Document](preface#typographical)</dt>
 
 </dl>
 

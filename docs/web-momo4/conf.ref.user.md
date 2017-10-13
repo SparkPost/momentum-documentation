@@ -42,4 +42,4 @@ user and group are valid in the security scope.
 <a name="idp27372592"></a>
 ## See Also
 
-[security](conf.ref.security.php "security"), [capabilities](conf.ref.capabilities.php "capabilities"), [chroot](conf.ref.chroot.php "chroot"), and [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups")
+[security](conf.ref.security "security"), [capabilities](conf.ref.capabilities.php "capabilities"), [chroot](conf.ref.chroot.php "chroot"), and [supplemental_groups](conf.ref.supplemental_groups.php "supplemental_groups")

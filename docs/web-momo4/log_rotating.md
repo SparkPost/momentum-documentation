@@ -4,13 +4,13 @@
 
 <dl class="toc">
 
-<dt>[34.1\. `ec_rotate.conf` File](log_rotating.php#conf.ref.ec_rotate.conf)</dt>
+<dt>[34.1\. `ec_rotate.conf` File](log_rotating#conf.ref.ec_rotate.conf)</dt>
 
 </dl>
 
 Momentum provides a utility script **ec_rotate** that you can use to rotate and compress logs that Momentum writes. It is recommended that you run this script daily from your system's crontab (`/etc/cron.d/msys-ecelerity-core`).
 
-To invoke ec_rotate, execute **ec_rotate** as the root user. By default, this command will rotate the files specified in the `ec_rotate.conf` file, compress them using `bzip`, and keep seven days of logs on disk. For details about this script, including options to change its behavior, see [ec_rotate](executable.ec_rotate.php "ec_rotate"). For the default configuration, see [Section 34.1, “`ec_rotate.conf` File”](log_rotating.php#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File").
+To invoke ec_rotate, execute **ec_rotate** as the root user. By default, this command will rotate the files specified in the `ec_rotate.conf` file, compress them using `bzip`, and keep seven days of logs on disk. For details about this script, including options to change its behavior, see [ec_rotate](executable.ec_rotate "ec_rotate"). For the default configuration, see [Section 34.1, “`ec_rotate.conf` File”](log_rotating.php#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File").
 
 The following logfiles are **not** rotated by **ec_rotate**:
 
@@ -30,7 +30,7 @@ Set up log rotation for these logfiles using a tool of your choice.
 
 ## 34.1. `ec_rotate.conf` File
 
-The `ec_rotate.conf` file is the configuration file for the utility script [ec_rotate](executable.ec_rotate.php "ec_rotate"). You do not need to edit this file unless you wish to change the default values.
+The `ec_rotate.conf` file is the configuration file for the utility script [ec_rotate](executable.ec_rotate "ec_rotate"). You do not need to edit this file unless you wish to change the default values.
 
 A sample `ec_rotate.conf` file is found in the `/opt/msys/ecelerity/etc/sample-configs/` directory. To change the default `ec_rotate.conf` file, make the required changes to the sample file and then move it to the `/opt/msys/ecelerity/etc/` directory.
 

@@ -44,7 +44,7 @@ domain "mm7.example.com" {
 }
 ```
 
-For a detailed description of configuring Momentum for push notifications, see [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/). To configure MM7, see [Mobile Momentum MM7](https://support.messagesystems.com/docs/web-mobility/mobility.mm7.php).
+For a detailed description of configuring Momentum for push notifications, see [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/). To configure MM7, see [Mobile Momentum MM7](https://support.messagesystems.com/docs/web-mobility/mobility.mm7).
 
 <a name="idp24988784"></a>
 ## Scope

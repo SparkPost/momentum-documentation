@@ -20,4 +20,4 @@ Enable this function with the statement `require('msys.extended.message');`.
 <a name="idp16638256"></a>
 ## See Also
 
-[msys.parseRFC2822Addresses](lua.ref.msys.parseRFC2822Addresses.php "msys.parseRFC2822Addresses")
+[msys.parseRFC2822Addresses](lua.ref.msys.parseRFC2822Addresses "msys.parseRFC2822Addresses")

@@ -133,7 +133,7 @@ Momentum supports the generation of SNMPv2 Traps for certain global conditions. 
 
 *   Total Failed Messages - generated when the total messages failed exceeds the specified limit.
 
-Momentum trap definitions are contained in the MIB file `OMNITI-SNMP-MIB.txt` found in the `/opt/msys/ecelerity/docs/` directory. This file is reproduced in [Appendix B, *MIB Files*](snmp-mib.php "Appendix B. MIB Files") .
+Momentum trap definitions are contained in the MIB file `OMNITI-SNMP-MIB.txt` found in the `/opt/msys/ecelerity/docs/` directory. This file is reproduced in [Appendix B, *MIB Files*](snmp-mib "Appendix B. MIB Files") .
 
 A configuration directive similar to the one shown below is used to enable and configure generation of SNMP traps. The directive consists of the outer `SNMP_TRAPS` stanza which encloses several global option settings, one or more `Destination` stanzas and a single `Watch_Variable` stanza.
 

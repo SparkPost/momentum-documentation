@@ -20,4 +20,4 @@ ecstream_timeout is valid in the binding, binding_group, domain, and global scop
 <a name="idp24533856"></a>
 ## See Also
 
-[ecstream_port](conf.ref.ecstream_port.php "ecstream_port")
+[ecstream_port](conf.ref.ecstream_port "ecstream_port")

@@ -45,4 +45,4 @@ Once sufficient debugging information has been collected, the debugging can be d
 Removed smtp tracer #1
 ```
 
-To set the permissions of smtp trace files see [trace_smtp_mode](conf.ref.trace_smtp_mode.php "trace_smtp_mode").
+To set the permissions of smtp trace files see [trace_smtp_mode](conf.ref.trace_smtp_mode "trace_smtp_mode").

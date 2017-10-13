@@ -26,9 +26,9 @@ WHERE from_address = ?", {orig_domain});
 
 ### Warning
 
-In some circumstances, using this function or simply requiring it in your policy can cause performance issues, such as causing Momentum to become unresponsive and restart or causing additional overhead per message. To alleviate this, set [keep_message_dicts_in_memory](conf.ref.keep_message_dicts_in_memory.php "keep_message_dicts_in_memory") to `true`.
+In some circumstances, using this function or simply requiring it in your policy can cause performance issues, such as causing Momentum to become unresponsive and restart or causing additional overhead per message. To alleviate this, set [keep_message_dicts_in_memory](conf.ref.keep_message_dicts_in_memory "keep_message_dicts_in_memory") to `true`.
 
-The data cache used in the preceding example must be defined in your configuration file. For more information, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core.php "71.29. ds_core - Datasource Query Core").
+The data cache used in the preceding example must be defined in your configuration file. For more information, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core "71.29. ds_core - Datasource Query Core").
 
 Enable this function with the statement `require('msys.extended.message_routing');`.
 

@@ -29,4 +29,4 @@ prohibited_hosts is valid in the global scope.
 <a name="idp25899296"></a>
 ## See Also
 
-[skip_hosts](conf.ref.skip_hosts.php "skip_hosts")
+[skip_hosts](conf.ref.skip_hosts "skip_hosts")

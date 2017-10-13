@@ -28,4 +28,4 @@ The cluster module must be configured with the outbound throttle parameters.
 <a name="idp23950112"></a>
 ## See Also
 
-[cluster_outbound_throttle_messages](conf.ref.cluster_outbound_throttle_messages.php "cluster_outbound_throttle_messages")
+[cluster_outbound_throttle_messages](conf.ref.cluster_outbound_throttle_messages "cluster_outbound_throttle_messages")

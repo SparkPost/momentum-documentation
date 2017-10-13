@@ -21,7 +21,7 @@ To accept mail for the domain `example.com` and all subdomains under it, specify
 `relay_domains = ( example.com *.example.com )`
 ### Note
 
-Any addresses set in the `addresses` option of the [Section 71.35, “fbl - Feedback Loop”](modules.fbl.php "71.35. fbl - Feedback Loop") must be set in the `relay_domains` option.
+Any addresses set in the `addresses` option of the [Section 71.35, “fbl - Feedback Loop”](modules.fbl "71.35. fbl - Feedback Loop") must be set in the `relay_domains` option.
 
 <a name="idp25948464"></a>
 ## Scope
@@ -31,4 +31,4 @@ Any addresses set in the `addresses` option of the [Section 71.35, “fbl - Fee
 <a name="idp25951728"></a>
 ## See Also
 
-[relay_hosts](conf.ref.relay_hosts.php "relay_hosts"), [only_use_best_mx_for_relay_domains](conf.ref.only_use_best_mx_for_relay_domains.php "only_use_best_mx_for_relay_domains")
+[relay_hosts](conf.ref.relay_hosts "relay_hosts"), [only_use_best_mx_for_relay_domains](conf.ref.only_use_best_mx_for_relay_domains.php "only_use_best_mx_for_relay_domains")

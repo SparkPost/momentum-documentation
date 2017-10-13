@@ -26,4 +26,4 @@ reserve_maintenance_interval is valid in the global scope.
 <a name="idp26021312"></a>
 ## See Also
 
-[server_max_outbound_connections](conf.ref.server_max_outbound_connections.php "server_max_outbound_connections")
+[server_max_outbound_connections](conf.ref.server_max_outbound_connections "server_max_outbound_connections")

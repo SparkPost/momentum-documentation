@@ -76,9 +76,9 @@ The following is an example:
 
 ### Note
 
-The data cache used in the preceding example must be defined in your configuration file. For more information, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core.php "71.29. ds_core - Datasource Query Core").
+The data cache used in the preceding example must be defined in your configuration file. For more information, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core "71.29. ds_core - Datasource Query Core").
 
 <a name="idp17939888"></a>
 ## See Also
 
-[msys.db.query](lua.ref.msys.db.query.php "msys.db.query"), [msys.db.execute](lua.ref.msys.db.execute.php "msys.db.execute"), [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets")
+[msys.db.query](lua.ref.msys.db.query "msys.db.query"), [msys.db.execute](lua.ref.msys.db.execute.php "msys.db.execute"), [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets")

@@ -22,4 +22,4 @@ Enable this function with the statement `require('msys.extended.vctx');`.
 <a name="idp19286960"></a>
 ## See Also
 
-[Example 70.69, “vctx_add_recipient example”](lua.ref.vctx_add_recipient.php#lua.ref.vctx_add_recipient.example "Example 70.69. vctx_add_recipient example")
+[Example 70.69, “vctx_add_recipient example”](lua.ref.vctx_add_recipient#lua.ref.vctx_add_recipient.example "Example 70.69. vctx_add_recipient example")

@@ -47,7 +47,7 @@ binding "default" {
 }
 ```
 
-For more information on the default binding, see [the section called “`default` Binding”](conf.ref.binding.php#conf.ref.binding.default "default Binding").
+For more information on the default binding, see [the section called “`default` Binding”](conf.ref.binding#conf.ref.binding.default "default Binding").
 
 <a name="idp26812432"></a>
 ## Scope
@@ -57,4 +57,4 @@ For more information on the default binding, see [the section called “`default
 <a name="idp26814736"></a>
 ## See Also
 
-[binding](conf.ref.binding.php "binding"), [Section 27.2, “`duravip_follow` and the #mmove Binding”](cluster.config.mmove.php "27.2. duravip_follow and the #mmove Binding"), [default_binding](conf.ref.default_binding.php "default_binding")
+[binding](conf.ref.binding "binding"), [Section 27.2, “`duravip_follow` and the #mmove Binding”](cluster.config.mmove.php "27.2. duravip_follow and the #mmove Binding"), [default_binding](conf.ref.default_binding.php "default_binding")

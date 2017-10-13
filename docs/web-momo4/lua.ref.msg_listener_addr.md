@@ -42,4 +42,4 @@ msys.registerModule("myMod", mod);
 <a name="idp15861216"></a>
 ## See Also
 
-[msg:reception_peer](lua.ref.msg_reception_peer.php "msg:reception_peer")
+[msg:reception_peer](lua.ref.msg_reception_peer "msg:reception_peer")

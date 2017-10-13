@@ -1,6 +1,6 @@
 ## 60.2. Creating a Webhook
 
-In the Webhooks tab, click the New Webhook icon in the upper-right corner to open the Create New Webhook form, as shown in [Figure 60.2, “Create New Webhook”](web-ui.webhooks.create.php#figure_create_webhook "Figure 60.2. Create New Webhook").
+In the Webhooks tab, click the New Webhook icon in the upper-right corner to open the Create New Webhook form, as shown in [Figure 60.2, “Create New Webhook”](web-ui.webhooks.create#figure_create_webhook "Figure 60.2. Create New Webhook").
 
 <a name="figure_create_webhook"></a>
 
@@ -18,7 +18,7 @@ Enter the following information:
 
     Use this token in your target application to confirm that data is coming from your webhook.
 
-To receive all event types on the webhook, click the Send all event types option. If you want only select event types, click the Let me choose event types option and select from the list displayed. Events are categorized as Message, Generation, or Engagement , as shown in [Figure 60.3, “Event Types”](web-ui.webhooks.create.php#figure_event_types "Figure 60.3. Event Types").
+To receive all event types on the webhook, click the Send all event types option. If you want only select event types, click the Let me choose event types option and select from the list displayed. Events are categorized as Message, Generation, or Engagement , as shown in [Figure 60.3, “Event Types”](web-ui.webhooks.create#figure_event_types "Figure 60.3. Event Types").
 
 <a name="figure_event_types"></a>
 

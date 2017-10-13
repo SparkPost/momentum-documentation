@@ -15,4 +15,4 @@ This command takes a single argument in the form of a message id and will immedi
 <a name="idp303376"></a>
 ## See Also
 
-[message fail](console_commands.message_fail.php "message fail")
+[message fail](console_commands.message_fail "message fail")

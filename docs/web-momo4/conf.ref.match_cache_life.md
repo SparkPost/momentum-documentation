@@ -20,4 +20,4 @@ match_cache_life — set the maximum number of seconds that the match cache will
 <a name="idp25257536"></a>
 ## See Also
 
-[match_cache_size](conf.ref.match_cache_size.php "match_cache_size"), [domain](conf.ref.domain.php "domain")
+[match_cache_size](conf.ref.match_cache_size "match_cache_size"), [domain](conf.ref.domain.php "domain")

@@ -16,7 +16,7 @@ vctx: userdata, validate_context type
 <a name="idp17626272"></a>
 ## Description
 
-Use this function to scan the mail. You must load and correctly configure the brightmail module before using this function. Be sure to set the brightmail module option `sieve_mode` to `on`. For details, see [Section 71.14, “brightmail – Symantec Brightmail™ Content Scanning Support”](modules.brightmail.php "71.14. brightmail – Symantec Brightmail™ Content Scanning Support").
+Use this function to scan the mail. You must load and correctly configure the brightmail module before using this function. Be sure to set the brightmail module option `sieve_mode` to `on`. For details, see [Section 71.14, “brightmail – Symantec Brightmail™ Content Scanning Support”](modules.brightmail "71.14. brightmail – Symantec Brightmail™ Content Scanning Support").
 
 This function can be invoked at the data, spool, or each_rcpt phases, and it will not work at the connect, ehlo, mailfrom, or rcptto phases.
 

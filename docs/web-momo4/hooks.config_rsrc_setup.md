@@ -14,9 +14,9 @@ config_rsrc_setup — Register a resource
 `ec_config_header *<var class="pdparam">transaction</var>`;<a name="idp7213264"></a>
 ## Description
 
-This hook point is suitable for registering resources using the `[ec_config_rsrc_get](apis.ec_config_rsrc_get.php "ec_config_rsrc_get")` function with the `EC_CFG_RSRC_REGISTERING` flag. This hook **must** be used by non-singleton modules to register their resources and can optionally be used by singleton modules.
+This hook point is suitable for registering resources using the `[ec_config_rsrc_get](apis.ec_config_rsrc_get "ec_config_rsrc_get")` function with the `EC_CFG_RSRC_REGISTERING` flag. This hook **must** be used by non-singleton modules to register their resources and can optionally be used by singleton modules.
 
-This hook allows resources to be set up within the current configuration transaction. If this hook is not used, then resources may "disappear" when a configuration option is changed with **config set**     or **config unset** . For documentation of these console commands, see [config](console_commands.config.php "config").
+This hook allows resources to be set up within the current configuration transaction. If this hook is not used, then resources may "disappear" when a configuration option is changed with **config set**     or **config unset** . For documentation of these console commands, see [config](console_commands.config "config").
 
 **Parameters**
 
@@ -34,7 +34,7 @@ Pointer to the closure
 
 <dd>
 
-For a description of this data type, see [ec_config_header](https://support.messagesystems.com/docs/web-c-api/structs.ec_config_header.php).
+For a description of this data type, see [ec_config_header](https://support.messagesystems.com/docs/web-c-api/structs.ec_config_header).
 
 </dd>
 
@@ -50,4 +50,4 @@ This hook will be called in any thread.
 
 **See Also**
 
-[ec_httpsrv_register_auth](apis.ec_httpsrv_register_auth.php "ec_httpsrv_register_auth"), [ec_httpsrv_register](https://support.messagesystems.com/docs/web-c-api/apis.ec_httpsrv_register.php), [ec_control_register_command3](https://support.messagesystems.com/docs/web-c-api/apis.ec_control_register_command3.php)
+[ec_httpsrv_register_auth](apis.ec_httpsrv_register_auth "ec_httpsrv_register_auth"), [ec_httpsrv_register](https://support.messagesystems.com/docs/web-c-api/apis.ec_httpsrv_register.php), [ec_control_register_command3](https://support.messagesystems.com/docs/web-c-api/apis.ec_control_register_command3.php)

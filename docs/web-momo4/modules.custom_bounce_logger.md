@@ -23,4 +23,4 @@ custom_bounce_logger custom_bounce_logger1 {
 
 ### 71.24.2. See Also
 
-[Section 71.13, “bounce_logger – Momentum-Style Bounce Logging”](modules.bounce_logger.php "71.13. bounce_logger – Momentum-Style Bounce Logging")
+[Section 71.13, “bounce_logger – Momentum-Style Bounce Logging”](modules.bounce_logger "71.13. bounce_logger – Momentum-Style Bounce Logging")

@@ -52,4 +52,4 @@ Enable this function with the statements `require('msys.timer');` and `require("
 <a name="idp18569744"></a>
 ## See Also
 
-[msys.timer.at](lua.ref.msys.timer.at.php "msys.timer.at"), [msys.timer.after](lua.ref.msys.timer.after.php "msys.timer.after")
+[msys.timer.at](lua.ref.msys.timer.at "msys.timer.at"), [msys.timer.after](lua.ref.msys.timer.after.php "msys.timer.after")

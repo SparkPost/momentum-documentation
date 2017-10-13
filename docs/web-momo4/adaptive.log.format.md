@@ -1,6 +1,6 @@
 ## 35.2. `adaptive` Log
 
-The `adaptive` log is configured in the [adaptive](modules.adaptive.php "71.3. adaptive – Adaptive Delivery") module. The adaptive log entry is an `@` delimited string, such as the following:
+The `adaptive` log is configured in the [adaptive](modules.adaptive "71.3. adaptive – Adaptive Delivery") module. The adaptive log entry is an `@` delimited string, such as the following:
 
 12345679@1@G@default@hotmail.com@NOTICE@ retry_interval *`from`* -> *`to`*
 
@@ -17,5 +17,5 @@ The following is a description of the fields:
 | 2 | G | Record type identifier (single ASCII character currently set to ‘`G`’ for "generic") |
 | 3 | default | Binding name, only included in ‘`G`’ record types (may be empty) |
 | 4 | hotmail.com | Domain name, only included in ‘`G`’ record types (may be empty) |
-| 5 | NOTICE | Log level name, only included in ‘`G`’ record types (see [debug_flags](conf.ref.debug_flags.php "debug_flags") for a list of valid names.) |
+| 5 | NOTICE | Log level name, only included in ‘`G`’ record types (see [debug_flags](conf.ref.debug_flags "debug_flags") for a list of valid names.) |
 | 6 | retry_interval *`from`* -> *`to`* | Free-form string, only included in ‘`G`’ record types (this string may include additional ‘`@`’ signs; typically, it will show how an option has changed.) |

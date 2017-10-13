@@ -20,4 +20,4 @@ memory_hwm is valid in the global scope.
 <a name="idp25522992"></a>
 ## See Also
 
-[memory_goal](conf.ref.memory_goal.php "memory_goal")
+[memory_goal](conf.ref.memory_goal "memory_goal")

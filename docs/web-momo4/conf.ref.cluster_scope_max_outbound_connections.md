@@ -34,4 +34,4 @@ cluster_scope_max_outbound_connections is valid in the global, binding, binding_
 <a name="idp23991392"></a>
 ## See Also
 
-[scope_max_outbound_connections](conf.ref.scope_max_outbound_connections.php "scope_max_outbound_connections"), [cluster_max_outbound_connections](conf.ref.cluster_max_outbound_connections.php "cluster_max_outbound_connections"), [cluster_server_max_outbound_connections](conf.ref.cluster_server_max_outbound_connections.php "cluster_server_max_outbound_connections")
+[scope_max_outbound_connections](conf.ref.scope_max_outbound_connections "scope_max_outbound_connections"), [cluster_max_outbound_connections](conf.ref.cluster_max_outbound_connections.php "cluster_max_outbound_connections"), [cluster_server_max_outbound_connections](conf.ref.cluster_server_max_outbound_connections.php "cluster_server_max_outbound_connections")

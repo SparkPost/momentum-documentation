@@ -4,9 +4,9 @@
 
 <dl class="toc">
 
-<dt>[14.1\. Adding an Analytics Node](add_remove_analytics_nodes.php#node_add_analytics)</dt>
+<dt>[14.1\. Adding an Analytics Node](add_remove_analytics_nodes#node_add_analytics)</dt>
 
-<dt>[14.2\. Removing an Analytics Node](node_remove_analytics.php)</dt>
+<dt>[14.2\. Removing an Analytics Node](node_remove_analytics)</dt>
 
 </dl>
 

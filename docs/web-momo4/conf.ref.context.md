@@ -20,4 +20,4 @@ context is valid in the esmtp_listener, listen, pathway, pathway_group, and peer
 <a name="idp24066240"></a>
 ## See Also
 
-[Section 62.1, “Validation and the Validation Context”](policy.php#policy.validation "62.1. Validation and the Validation Context")
+[Section 62.1, “Validation and the Validation Context”](policy#policy.validation "62.1. Validation and the Validation Context")

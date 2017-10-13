@@ -25,4 +25,4 @@ The `CONFFILE` and the `CONTROL` variables also have a bearing on **ec_ctl**.
 <a name="idp14661840"></a>
 ## See Also
 
-[ecelerity](executable.ecelerity.php "ecelerity"), [Chapter 31, *Configuring the Environment File*](environment_file.php "Chapter 31. Configuring the Environment File") , [Section 36.1, “Startup Scripts”](conf.starting.php#startup.scripts "36.1. Startup Scripts")
+[ecelerity](executable.ecelerity "ecelerity"), [Chapter 31, *Configuring the Environment File*](environment_file.php "Chapter 31. Configuring the Environment File") , [Section 36.1, “Startup Scripts”](conf.starting.php#startup.scripts "36.1. Startup Scripts")

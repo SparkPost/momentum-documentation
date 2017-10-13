@@ -4,15 +4,15 @@
 
 <dl class="toc">
 
-<dt>[26.1\. Configuring Log Aggregation](log_aggregation.php#log_aggregation.configuration)</dt>
+<dt>[26.1\. Configuring Log Aggregation](log_aggregation#log_aggregation.configuration)</dt>
 
-<dt>[26.2\. Centralized Logging Example](cluster.config.logging.centalized.logging.php)</dt>
+<dt>[26.2\. Centralized Logging Example](cluster.config.logging.centalized.logging)</dt>
 
-<dt>[26.3\. Complex Centralized Logging Deployments](cluster.config.logging.complex.php)</dt>
+<dt>[26.3\. Complex Centralized Logging Deployments](cluster.config.logging.complex)</dt>
 
-<dt>[26.4\. Redundant Logs](cluster.config.logging.redundancy.php)</dt>
+<dt>[26.4\. Redundant Logs](cluster.config.logging.redundancy)</dt>
 
-<dt>[26.5\. Decommissioning a Log Aggregator](cluster.config.logging.decommissioning.php)</dt>
+<dt>[26.5\. Decommissioning a Log Aggregator](cluster.config.logging.decommissioning)</dt>
 
 </dl>
 
@@ -24,10 +24,10 @@ There is no requirement that log aggregation be enabled. These logs are gathered
 
 The following elements are required in order to aggregate log files on the log aggregator:
 
-*   Define logger modules in `ecelerity-cluster.conf`. See [Aggregated Cluster Node Logging](conf.ref.ecelerity_cluster.conf.php#conf.ref.ecelerity_cluster.conf.logging) .
+*   Define logger modules in `ecelerity-cluster.conf`. See [Aggregated Cluster Node Logging](conf.ref.ecelerity_cluster.conf#conf.ref.ecelerity_cluster.conf.logging) .
 
-*   Define the `logs` dictionary within the cluster module scope in `ecelerity-cluster.conf` See [logs](modules.cluster.php#option.logs.dictionary) .
+*   Define the `logs` dictionary within the cluster module scope in `ecelerity-cluster.conf` See [logs](modules.cluster#option.logs.dictionary) .
 
     You can view the configuration by issuing the console command **config show cluster**              from the console on a cluster node.
 
-*   Define the `Logs` stanza in `eccluster.conf`. See [Log Aggregation](conf.ref.eccluster.conf.php#conf.ref.eccluster.conf.logs) .
+*   Define the `Logs` stanza in `eccluster.conf`. See [Log Aggregation](conf.ref.eccluster.conf#conf.ref.eccluster.conf.logs) .

@@ -15,4 +15,4 @@ eccmgr_ctl — start, stop, or restart the Momentum Cluster Manager
 <a name="idp12213664"></a>
 ## See Also
 
-[eccmgr](executable.eccmgr.php "eccmgr")
+[eccmgr](executable.eccmgr "eccmgr")

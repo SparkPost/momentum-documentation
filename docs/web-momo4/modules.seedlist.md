@@ -82,7 +82,7 @@ Identifies a PostgreSQL schema. Default value is `seedlist`. There should be no 
 
 <dd>
 
-Sets the path to the file containing the list of *seed* email addresses to which to send copies. This file should contain the destination addresses, one per line. It is recommended practice to store the seedlist file in the repository. You can add arbitrary files to the repository in exactly the same way that configuration files are added. For more information, see [Section 15.1.5, “Adding Configuration Files”](conf.overview.php#conf.adding.configuration.files "15.1.5. Adding Configuration Files").
+Sets the path to the file containing the list of *seed* email addresses to which to send copies. This file should contain the destination addresses, one per line. It is recommended practice to store the seedlist file in the repository. You can add arbitrary files to the repository in exactly the same way that configuration files are added. For more information, see [Section 15.1.5, “Adding Configuration Files”](conf.overview#conf.adding.configuration.files "15.1.5. Adding Configuration Files").
 
 </dd>
 

@@ -4,13 +4,13 @@
 
 The domainkeys module, comprised of dk_sign and dk_validate, add Yahoo! DomainKeys capabilities to Momentum. Together, these modules implement the DomainKeys standard, providing for conditionally signing outbound messages and validating DomainKeys signatures for inbound messages.
 
-DomainKeys is a technology proposal that can bring "yes or no" back to the decision process by giving email providers a mechanism for verifying both the domain of each email sender and the integrity of the messages sent (i.e,. that they were not altered during transit). For a general overview of DomainKeys signing and validation, as well as how to generate DomainKeys public and private keypairs, see [Chapter 22, *Using Yahoo! DomainKeys*](using_domainkeys.php "Chapter 22. Using Yahoo! DomainKeys") .
+DomainKeys is a technology proposal that can bring "yes or no" back to the decision process by giving email providers a mechanism for verifying both the domain of each email sender and the integrity of the messages sent (i.e,. that they were not altered during transit). For a general overview of DomainKeys signing and validation, as well as how to generate DomainKeys public and private keypairs, see [Chapter 22, *Using Yahoo! DomainKeys*](using_domainkeys "Chapter 22. Using Yahoo! DomainKeys") .
 
 ### 71.28.1. Signing Configuration
 
 The dk_sign module provides the ability to conditionally attach DomainKeys signatures to emails that are submitted into the MTA.
 
-In your `ecelerity.conf` file, set [domainkeys](conf.ref.domainkeys.php "domainkeys") in the appropriate scope and configure the dk_sign module. The following is an example configuration:
+In your `ecelerity.conf` file, set [domainkeys](conf.ref.domainkeys "domainkeys") in the appropriate scope and configure the dk_sign module. The following is an example configuration:
 
 <a name="example.dk_sign.3"></a>
 
@@ -122,7 +122,7 @@ Specifies the DomainKeys selector to be used for signing. The selector is requir
 
 <dd>
 
-Specifies which validation context variable must exist as a predicate to signing messages. When an SMTP client performs an SMTP AUTH action, the [auth_user](policy.context.variables.php#predefined-context-conn-global "Table 63.1. Global Predefined Connection Context Variables") connection context variable will be set to the username used during authorization. When an SMTP client is allowed to relay through Momentum because of an entry in [relay_hosts](conf.ref.relay_hosts.php "relay_hosts") option or a `relaying` declaration in an ESMTP_Listener IP access control list, the [can_relay](policy.context.variables.php#predefined-context-conn-global "Table 63.1. Global Predefined Connection Context Variables") connection context variable is set to "true."
+Specifies which validation context variable must exist as a predicate to signing messages. When an SMTP client performs an SMTP AUTH action, the [auth_user](policy.context.variables#predefined-context-conn-global "Table 63.1. Global Predefined Connection Context Variables") connection context variable will be set to the username used during authorization. When an SMTP client is allowed to relay through Momentum because of an entry in [relay_hosts](conf.ref.relay_hosts.php "relay_hosts") option or a `relaying` declaration in an ESMTP_Listener IP access control list, the [can_relay](policy.context.variables.php#predefined-context-conn-global "Table 63.1. Global Predefined Connection Context Variables") connection context variable is set to "true."
 
 In most corporate environments, `sign_condition` should be `auth_user`. In large sending architectures where the relaying SMTP clients are implicitly trusted, `sign_condition` should be `can_relay`. In highly-structured sending architectures where ecstream injection is the only method, this option can be omitted entirely, with the result that any message for which a key exists will be signed.
 
@@ -181,9 +181,9 @@ Returns the domain key status, which can have one of the following values:
 
 Loading the domainkeys module exposes the following Lua functions:
 
-*   [msys.validate.dk.get_responsible_domain](lua.ref.msys.validate.dk.get_responsible_domain.php "msys.validate.dk.get_responsible_domain")
+*   [msys.validate.dk.get_responsible_domain](lua.ref.msys.validate.dk.get_responsible_domain "msys.validate.dk.get_responsible_domain")
 
-*   [msys.validate.dk.sign](lua.ref.msys.validate.dk.sign.php "msys.validate.dk.sign")
+*   [msys.validate.dk.sign](lua.ref.msys.validate.dk.sign "msys.validate.dk.sign")
 
 ### 71.28.5. Console Commands
 

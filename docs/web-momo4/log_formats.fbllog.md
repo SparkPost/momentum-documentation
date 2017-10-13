@@ -1,6 +1,6 @@
 ## 35.4. `fbllog`
 
-When a user selects "Mark as Spam", the ISP generates a notification email and sends it to one of the recipients defined by the `Addresses` option in the [fbl](modules.fbl.php "71.35. fbl - Feedback Loop") module. When Momentum receives the message, it extracts the X-MSFBL header, decodes it, and then logs it.
+When a user selects "Mark as Spam", the ISP generates a notification email and sends it to one of the recipients defined by the `Addresses` option in the [fbl](modules.fbl "71.35. fbl - Feedback Loop") module. When Momentum receives the message, it extracts the X-MSFBL header, decodes it, and then logs it.
 
 ### 35.4.1. fbl Records
 

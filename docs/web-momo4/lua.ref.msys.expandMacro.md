@@ -26,6 +26,6 @@ end
 msys.registerModule("ehlo_phase", mod);
 ```
 
-The parameter passed to `msys.expandMacro` expands the built-in validation context variable, `ehlo_string`. For a list of these variables, see [Section 63.1, “Connection Context Variables”](policy.context.variables.php#policy.predefined-context-conn "63.1. Connection Context Variables"). *Note*: Not all variables are available in all callouts.
+The parameter passed to `msys.expandMacro` expands the built-in validation context variable, `ehlo_string`. For a list of these variables, see [Section 63.1, “Connection Context Variables”](policy.context.variables#policy.predefined-context-conn "63.1. Connection Context Variables"). *Note*: Not all variables are available in all callouts.
 
 Because this function is in the `msys` namespace, an explicit `require` is not necessary.

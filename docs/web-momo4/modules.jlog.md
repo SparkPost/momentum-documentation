@@ -6,11 +6,11 @@ jlog-formatted logs are binary logs with independent producers, which write the 
 
 Momentum produces jlogs in the following:
 
-*   Aggregated cluster node logging (see [Section 16.3, “`ecelerity-cluster.conf` File”](conf.ref.ecelerity_cluster.conf.php "16.3. ecelerity-cluster.conf File"))
+*   Aggregated cluster node logging (see [Section 16.3, “`ecelerity-cluster.conf` File”](conf.ref.ecelerity_cluster.conf "16.3. ecelerity-cluster.conf File"))
 
-*   event_hydrant module used for tracking messages (see [Section 71.33, “event_hydrant – Message Tracking”](modules.event_hydrant.php "71.33. event_hydrant – Message Tracking"))
+*   event_hydrant module used for tracking messages (see [Section 71.33, “event_hydrant – Message Tracking”](modules.event_hydrant "71.33. event_hydrant – Message Tracking"))
 
-*   Custom deployments configured to log data to jlog files for consumption by another application, such as Perl scripts. In turn, these scripts may push the data elsewhere, e.g.: to a database. (see [Section 71.25, “custom_logger – User-defined Logging”](modules.custom_logger.php "71.25. custom_logger – User-defined Logging"))
+*   Custom deployments configured to log data to jlog files for consumption by another application, such as Perl scripts. In turn, these scripts may push the data elsewhere, e.g.: to a database. (see [Section 71.25, “custom_logger – User-defined Logging”](modules.custom_logger "71.25. custom_logger – User-defined Logging"))
 
 ### Warning
 
@@ -28,17 +28,17 @@ If your system is generating jlogs, ensure that they are being consumed. Otherwi
 
 The following executable commands are used for analyzing and maintaining jlog files:
 
-*   [jlog_change_endian](executable.jlog_change_endian.php "jlog_change_endian")
+*   [jlog_change_endian](executable.jlog_change_endian "jlog_change_endian")
 
-*   [jlog_sanity_check](executable.jlog_sanity_check.php "jlog_sanity_check")
+*   [jlog_sanity_check](executable.jlog_sanity_check "jlog_sanity_check")
 
-*   [jlogctl](executable.jlogctl.php "jlogctl")
+*   [jlogctl](executable.jlogctl "jlogctl")
 
 ### 71.43.2. Using JLog::Reader
 
 Using the JLog::Reader module that ships with Momentum, you can read your jlog files with a Perl script. This module is found in the `/opt/msys/3rdParty/lib/perl5/vendor_perl/5.16.3/x86_64-linux-thread-multi/JLog` directory on any Momentum node.
 
-A common use case is to process the jlog files created by a custom_logger module. In [Example 71.68, “custom_logger”](modules.jlog.php#modules.jlog.reader.custom_logger.example "Example 71.68. custom_logger"), a jlog is created at `/var/log/ecelerity/delivery_log_rt` with a subscriber name `my_subscriber`.
+A common use case is to process the jlog files created by a custom_logger module. In [Example 71.68, “custom_logger”](modules.jlog#modules.jlog.reader.custom_logger.example "Example 71.68. custom_logger"), a jlog is created at `/var/log/ecelerity/delivery_log_rt` with a subscriber name `my_subscriber`.
 
 <a name="modules.jlog.reader.custom_logger.example"></a>
 

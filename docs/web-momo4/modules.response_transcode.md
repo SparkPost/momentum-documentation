@@ -23,7 +23,7 @@ response_transcode {
 
 ### Note
 
-You can transcode "[internal]" transient failures but you cannot transcode "[internal]" permanent failures. For a listing of "[internal]" failures see [Appendix A, *Message Responses*](message_responses.php "Appendix A. Message Responses") .
+You can transcode "[internal]" transient failures but you cannot transcode "[internal]" permanent failures. For a listing of "[internal]" failures see [Appendix A, *Message Responses*](message_responses "Appendix A. Message Responses") .
 
 The following configuration options are available:
 
@@ -33,7 +33,7 @@ The following configuration options are available:
 
 <dd>
 
-For more information, see [response_transcode_pattern](conf.ref.response_transcode_pattern.php "response_transcode_pattern").
+For more information, see [response_transcode_pattern](conf.ref.response_transcode_pattern "response_transcode_pattern").
 
 </dd>
 
@@ -41,7 +41,7 @@ For more information, see [response_transcode_pattern](conf.ref.response_transco
 
 <dd>
 
-For more information, see [response_transcode_replace](conf.ref.response_transcode_replace.php "response_transcode_replace").
+For more information, see [response_transcode_replace](conf.ref.response_transcode_replace "response_transcode_replace").
 
 </dd>
 

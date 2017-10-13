@@ -32,4 +32,4 @@ Because this function is in the `msys.core` namespace, an explicit `require('msy
 <a name="idp15993408"></a>
 ## See Also
 
-[msg:context_get](lua.ref.msg_context_get.php "msg:context_get")
+[msg:context_get](lua.ref.msg_context_get "msg:context_get")

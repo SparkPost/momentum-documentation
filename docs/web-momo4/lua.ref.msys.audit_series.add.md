@@ -31,11 +31,11 @@ If `options` is not a table, then it is assumed to be the value for the key para
 
 For a CIDR series, the key is interpreted as an IP specifying the address of interest. If `accept_construct` is used as the key, the remote IP of the accept construct is used. If not specified, the current connected IP is assumed. For string series, the key is the string key to associate the count with. If it is not specified, an error is thrown.
 
-For a code example see [msys.audit_series.define](lua.ref.msys.audit_series.define.php "msys.audit_series.define").
+For a code example see [msys.audit_series.define](lua.ref.msys.audit_series.define "msys.audit_series.define").
 
 Enable this function with the statement `require('msys.audit_series');`.
 
 <a name="idp17364688"></a>
 ## See Also
 
-[msys.audit_series.count](lua.ref.msys.audit_series.count.php "msys.audit_series.count"), [msys.audit_series.define](lua.ref.msys.audit_series.define.php "msys.audit_series.define"), [msys.audit_series.remove_item](lua.ref.msys.audit_series.remove_item.php "msys.audit_series.remove_item"), [use_ipv6](conf.ref.use_ipv6.php "use_ipv6"), [Section 71.41, “inbound_audit – Inbound traffic analytics”](modules.inbound_audit.php "71.41. inbound_audit – Inbound traffic analytics")
+[msys.audit_series.count](lua.ref.msys.audit_series.count "msys.audit_series.count"), [msys.audit_series.define](lua.ref.msys.audit_series.define.php "msys.audit_series.define"), [msys.audit_series.remove_item](lua.ref.msys.audit_series.remove_item.php "msys.audit_series.remove_item"), [use_ipv6](conf.ref.use_ipv6.php "use_ipv6"), [Section 71.41, “inbound_audit – Inbound traffic analytics”](modules.inbound_audit.php "71.41. inbound_audit – Inbound traffic analytics")

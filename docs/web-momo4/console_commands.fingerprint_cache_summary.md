@@ -10,7 +10,7 @@ fingerprint cache summary — display the current cache size
 <a name="idp13063904"></a>
 ## Description
 
-In order to use this command, you must have the Policy Tools suite installed. Passive OS fingerprinting is installed as part of the Policy Tools suite. This functionality yields information about inbound connections. For more information about installing the Policy Tools suite see [Section 12.1, “Installing Partner Modules”](post_installation.php#install.additional.packages "12.1. Installing Partner Modules").
+In order to use this command, you must have the Policy Tools suite installed. Passive OS fingerprinting is installed as part of the Policy Tools suite. This functionality yields information about inbound connections. For more information about installing the Policy Tools suite see [Section 12.1, “Installing Partner Modules”](post_installation#install.additional.packages "12.1. Installing Partner Modules").
 
 This console command displays the current fingerprint cache usage.
 
@@ -19,4 +19,4 @@ Passive operating system fingerprinting runs as a daemon that Momentum communica
 <a name="idp13069568"></a>
 ## See Also
 
-[fingerprint rejection summary](console_commands.fingerprint_rejection_summary.php "fingerprint rejection summary")
+[fingerprint rejection summary](console_commands.fingerprint_rejection_summary "fingerprint rejection summary")

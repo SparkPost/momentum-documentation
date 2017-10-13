@@ -32,4 +32,4 @@ Please consult with support before reconfiguring Momentum as described here. The
 <a name="idp9327392"></a>
 ## See Also
 
-[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery")
+[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery")

@@ -27,4 +27,4 @@ print(doc:tostring());
 <a name="idp19456512"></a>
 ### See Also
 
-[doc:tostring](lua.ref.xml.doc_tostring.php "doc:tostring") and [xml.parsexml](lua.ref.xml.parsexml.php "xml.parsexml")
+[doc:tostring](lua.ref.xml.doc_tostring "doc:tostring") and [xml.parsexml](lua.ref.xml.parsexml.php "xml.parsexml")

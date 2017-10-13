@@ -22,7 +22,7 @@ Without options, list all bound keys, and the editor command to which each is bo
 
 *   `-r` - Remove a key's binding.
 
-*   `-s` - *`command`* is taken as a literal string and treated as terminal input when *`key`* is typed. Bound keys in *`command`* are themselves reinterpreted, and this continues for ten levels of interpretation. *`command`* may be one of the commands documented in [Section D.1, “Editor Commands”](libedit.php#libedit.emacs.editor "D.1. Editor Commands").
+*   `-s` - *`command`* is taken as a literal string and treated as terminal input when *`key`* is typed. Bound keys in *`command`* are themselves reinterpreted, and this continues for ten levels of interpretation. *`command`* may be one of the commands documented in [Section D.1, “Editor Commands”](libedit#libedit.emacs.editor "D.1. Editor Commands").
 
 *   `-v` - Bind all keys to the standard vi(1) -like bindings.
 

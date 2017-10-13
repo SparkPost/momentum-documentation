@@ -24,4 +24,4 @@ local_changes_only is valid in the global scope.
 <a name="idp25157824"></a>
 ## See Also
 
-[local_changes_file](conf.ref.local_changes_file.php "local_changes_file")
+[local_changes_file](conf.ref.local_changes_file "local_changes_file")

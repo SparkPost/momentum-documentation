@@ -76,7 +76,7 @@ end
 msys.registerModule("test_ac_auth", mod)
 ```
 
-To implement any action, you must load the Lua script that hooks `ac_auth_perform_auth` or `ac_auth_log_auth_failure`; e.g., [Example 71.1, “"ac_auth" in ecelerity.conf”](modules.ac_auth.php#example.ac_auth.ref "Example 71.1. "ac_auth" in ecelerity.conf").
+To implement any action, you must load the Lua script that hooks `ac_auth_perform_auth` or `ac_auth_log_auth_failure`; e.g., [Example 71.1, “"ac_auth" in ecelerity.conf”](modules.ac_auth#example.ac_auth.ref "Example 71.1. "ac_auth" in ecelerity.conf").
 
 In the `ac_auth_perform_auth` hook, you can access the validate context from Lua as in the following example:
 

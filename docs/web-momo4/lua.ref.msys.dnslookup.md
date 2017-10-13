@@ -79,4 +79,4 @@ end
 
 ### Note
 
-Results of `msys.dnsLookup()` invocations in your policy scripts can also be queried from the system console by using [dns_cache stats](console_commands.dns_cache.php "dns_cache").
+Results of `msys.dnsLookup()` invocations in your policy scripts can also be queried from the system console by using [dns_cache stats](console_commands.dns_cache "dns_cache").

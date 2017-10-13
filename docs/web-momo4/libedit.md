@@ -4,9 +4,9 @@
 
 <dl class="toc">
 
-<dt>[D.1\. Editor Commands](libedit.php#libedit.emacs.editor)</dt>
+<dt>[D.1\. Editor Commands](libedit#libedit.emacs.editor)</dt>
 
-<dt>[D.2\. Extended Commands](libedit.extended.php)</dt>
+<dt>[D.2\. Extended Commands](libedit.extended)</dt>
 
 </dl>
 

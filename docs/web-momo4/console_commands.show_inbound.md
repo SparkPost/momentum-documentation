@@ -20,4 +20,4 @@ This command shows all inbound connections. In the following example, the output
 <a name="idp12037856"></a>
 ## See Also
 
-[show outbound](console_commands.show_outbound.php "show outbound")
+[show outbound](console_commands.show_outbound "show outbound")

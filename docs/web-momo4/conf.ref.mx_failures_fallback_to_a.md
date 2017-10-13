@@ -20,4 +20,4 @@ mx_failures_fallback_to_a is valid in the domain and global scopes.
 <a name="idp25595856"></a>
 ## See Also
 
-[dns_failures_to_purge](conf.ref.dns_failures_to_purge.php "dns_failures_to_purge")
+[dns_failures_to_purge](conf.ref.dns_failures_to_purge "dns_failures_to_purge")

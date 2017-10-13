@@ -22,4 +22,4 @@ address_metrics_lifetime is valid in the global scope.
 <a name="idp23461104"></a>
 ## See Also
 
-[address_metrics_cleanse_interval](conf.ref.address_metrics_cleanse_interval.php "address_metrics_cleanse_interval")
+[address_metrics_cleanse_interval](conf.ref.address_metrics_cleanse_interval "address_metrics_cleanse_interval")

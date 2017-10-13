@@ -4,7 +4,7 @@
 
 <dl class="toc">
 
-<dt>[50.1\. Managing Recipient Lists using the UI](stored_list.php#manage_list_ui)</dt>
+<dt>[50.1\. Managing Recipient Lists using the UI](stored_list#manage_list_ui)</dt>
 
 </dl>
 
@@ -22,9 +22,9 @@ This section provides instructions to create a stored recipient list using the R
 
 ### Note
 
-This tutorial assumes that you have completed the tutorial in [Chapter 45, *Generating a Transmission*](message_gen.php "Chapter 45. Generating a Transmission") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
+This tutorial assumes that you have completed the tutorial in [Chapter 45, *Generating a Transmission*](message_gen "Chapter 45. Generating a Transmission") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
 
-You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey.php "Chapter 43. Creating an API Key") .
+You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey "Chapter 43. Creating an API Key") .
 
 Follow these steps to create a stored recipient list:
 
@@ -128,4 +128,4 @@ Congratulations! You have created your first stored recipient list using Momentu
 
 **Configuration Change. ** Version 4.2 and later support managing your recipient lists using the UI.
 
-You can also create and manage your recipient lists using the web-based UI. For detailed instructions, see [Section 55.1, “Recipient Lists”](web-ui.php#web-ui.recipients "55.1. Recipient Lists").
+You can also create and manage your recipient lists using the web-based UI. For detailed instructions, see [Section 55.1, “Recipient Lists”](web-ui#web-ui.recipients "55.1. Recipient Lists").

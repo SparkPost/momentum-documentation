@@ -16,7 +16,7 @@ charset: string, optional
 <a name="idp17177536"></a>
 ## Description
 
-This function has the same semantics and purpose as the Message equivalent (see [msg:text](lua.ref.msg_text.php "msg:text")), except that it is scoped to the message part currently being referenced instead of the entire message.
+This function has the same semantics and purpose as the Message equivalent (see [msg:text](lua.ref.msg_text "msg:text")), except that it is scoped to the message part currently being referenced instead of the entire message.
 
 This function does not always return a string. It can return `nil` on message parts where there is no body content.
 

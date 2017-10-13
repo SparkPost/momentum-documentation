@@ -2,7 +2,7 @@
 
 Message context variables yield information about the current message. These variables are predefined, either in a global context or within a module. The following tables list the global and module-specific variables.
 
-It is also possible to define context variables using configuration options. These variables are discussed in [Section 63.2.3, “Message Context Variables Defined Within a Module”](policy.context-mess.php#policy.context-mess.module.defined "63.2.3. Message Context Variables Defined Within a Module").
+It is also possible to define context variables using configuration options. These variables are discussed in [Section 63.2.3, “Message Context Variables Defined Within a Module”](policy.context-mess#policy.context-mess.module.defined "63.2.3. Message Context Variables Defined Within a Module").
 
 ### 63.2.1. Predefined Global Message Context Variables
 
@@ -16,7 +16,7 @@ This table lists all message context variables that are predefined globally by M
 | --- | --- |
 | #8bitmime – For internal use | 
 
-This variable is set during message parsing if the message contains 8-bit content. It is used at send time to determine whether to negotiate 8-bit MIME support with the recipient or to transform the message as per the Send_8BitMime and Transform_8BitMime configuration options. For more information about these options, see [send_8bitmime](conf.ref.send_8bitmime.php "send_8bitmime") and [transform_8bitmime_content](conf.ref.transform_8bitmime_content.php "transform_8bitmime_content").
+This variable is set during message parsing if the message contains 8-bit content. It is used at send time to determine whether to negotiate 8-bit MIME support with the recipient or to transform the message as per the Send_8BitMime and Transform_8BitMime configuration options. For more information about these options, see [send_8bitmime](conf.ref.send_8bitmime "send_8bitmime") and [transform_8bitmime_content](conf.ref.transform_8bitmime_content.php "transform_8bitmime_content").
 
  |
 | #batch_ids – For internal use | 
@@ -48,17 +48,17 @@ Available as of the `validate_mailfrom` callout.
 
 Modules that support predefined module-specific message context variables are listed below:
 
-*   [brightmail](modules.brightmail.php#modules.brightmail.context.variables "71.14.2. Message Context Variables")
+*   [brightmail](modules.brightmail#modules.brightmail.context.variables "71.14.2. Message Context Variables")
 
-*   [cloudmark](modules.cloudmark.php#modules.cloudmark.context.variables "71.18.3. Message Context Variables")
+*   [cloudmark](modules.cloudmark#modules.cloudmark.context.variables "71.18.3. Message Context Variables")
 
-*   [commtouch_ctasd](modules.commtouch.php#modules.commtouch.context.variables "71.20.2. Message Context Variables")
+*   [commtouch_ctasd](modules.commtouch#modules.commtouch.context.variables "71.20.2. Message Context Variables")
 
-*   [domainkeys](modules.domainkeys.php#modules.domainkeys.context.variables "71.28.3. Message Context Variables")
+*   [domainkeys](modules.domainkeys#modules.domainkeys.context.variables "71.28.3. Message Context Variables")
 
-*   [seedlist](modules.seedlist.php#modules.seedlist.runtime.usage "71.62.2. Runtime Usage")
+*   [seedlist](modules.seedlist#modules.seedlist.runtime.usage "71.62.2. Runtime Usage")
 
-*   [smtp_cbv](modules.smtp_cbv.php#modules.smtp_cbv.context.variables "71.65.2. Message Context Variables")
+*   [smtp_cbv](modules.smtp_cbv#modules.smtp_cbv.context.variables "71.65.2. Message Context Variables")
 
 ### 63.2.3. Message Context Variables Defined Within a Module
 
@@ -72,7 +72,7 @@ In some modules, it is possible to define context variables using configuration 
 | --- | --- | --- |
 | 
 
-[antivirus](modules.antivirus.php "71.6. antivirus – Antivirus")
+[antivirus](modules.antivirus "71.6. antivirus – Antivirus")
 
  | 
 
@@ -85,7 +85,7 @@ In some modules, it is possible to define context variables using configuration 
  |
 | 
 
-[antivirus](modules.antivirus.php "71.6. antivirus – Antivirus")
+[antivirus](modules.antivirus "71.6. antivirus – Antivirus")
 
  | 
 
@@ -98,7 +98,7 @@ skip_virus_check
  |
 | 
 
-[spf](modules.spf.php "71.68. spf Modules – spf_macros, spf_v1, and senderid (SPF v2)")
+[spf](modules.spf "71.68. spf Modules – spf_macros, spf_v1, and senderid (SPF v2)")
 
  | 
 
@@ -111,7 +111,7 @@ spf_status
  |
 | 
 
-[spf](modules.spf.php "71.68. spf Modules – spf_macros, spf_v1, and senderid (SPF v2)")
+[spf](modules.spf "71.68. spf Modules – spf_macros, spf_v1, and senderid (SPF v2)")
 
  | 
 

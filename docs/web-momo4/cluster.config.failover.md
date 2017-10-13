@@ -4,11 +4,11 @@ Momentum's architecture supports fault-tolerant configurations. This means that 
 
 Components that support high availability and fault tolerance include the following:
 
-*   [`ecconfigd`](conf.overview.php#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)")
+*   [`ecconfigd`](conf.overview#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)")
 
-*   [DuraVIP™ bindings](cluster.config.duravip.php "Chapter 27. DuraVIP™: IP Fail over")
+*   [DuraVIP™ bindings](cluster.config.duravip "Chapter 27. DuraVIP™: IP Fail over")
 
-*   [Centralized logging and Aggregration](log_aggregation.php "Chapter 26. Log Aggregation")
+*   [Centralized logging and Aggregration](log_aggregation "Chapter 26. Log Aggregation")
 
 *   Per-node data
 
@@ -16,6 +16,6 @@ Components that support high availability and fault tolerance include the follow
 
     On the SAN, the paths to directories should be unique per node and each node should be able to mount the SAN directory at its unique location.
 
-*   [cidr_server](cluster.cidr_server.php "Chapter 39. CIDR Server") and [as_logger](modules.as_logger.php "71.7. as_logger – Audit Series Logger")
+*   [cidr_server](cluster.cidr_server "Chapter 39. CIDR Server") and [as_logger](modules.as_logger.php "71.7. as_logger – Audit Series Logger")
 
     The **cidr_server** queries the data created by an as_logger module and displays the result in the cluster console. The **cidr_server** and as_logger can be configured to log data to a SAN. Locking semantics must be checked.

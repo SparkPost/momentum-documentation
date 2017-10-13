@@ -20,7 +20,7 @@ You will use the cURL command line tool to send an HTTP request. cURL provides a
 
 This tutorial is intended for beginners. However, a general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
 
-You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey.php "Chapter 43. Creating an API Key") .
+You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey "Chapter 43. Creating an API Key") .
 
 Follow these steps to create a simple transmission:
 
@@ -75,6 +75,6 @@ Follow these steps to create a simple transmission:
 
 3.  Confirm your email delivery.
 
-    Verify that your recipient received the email, then open the UI and confirm that your message was successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui.php "Chapter 56. Using the UI for Reporting") .
+    Verify that your recipient received the email, then open the UI and confirm that your message was successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui "Chapter 56. Using the UI for Reporting") .
 
 Congratulations! You have sent your first email using Momentum's Transmissions API and a simple inline template. In addition to the POST method used in this example, the Transmissions API supports the GET method to retrieve or list details about your transmissions. You can find more information in the Transmissions API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).

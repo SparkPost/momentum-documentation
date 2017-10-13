@@ -94,4 +94,4 @@ max_outbound_connections is valid in the binding, binding_group, domain, global,
 <a name="idp25342672"></a>
 ## See Also
 
-[host](conf.ref.host.php "host"), [Section 25.3, “MultiVIP© Interfaces”](outbound_mail.multivip.interfaces.php "25.3. MultiVIP© Interfaces"), [server_max_outbound_connections](conf.ref.server_max_outbound_connections.php "server_max_outbound_connections"), [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback"), [scope_max_outbound_connections](conf.ref.scope_max_outbound_connections.php "scope_max_outbound_connections")
+[host](conf.ref.host "host"), [Section 25.3, “MultiVIP© Interfaces”](outbound_mail.multivip.interfaces.php "25.3. MultiVIP© Interfaces"), [server_max_outbound_connections](conf.ref.server_max_outbound_connections.php "server_max_outbound_connections"), [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback"), [scope_max_outbound_connections](conf.ref.scope_max_outbound_connections.php "scope_max_outbound_connections")

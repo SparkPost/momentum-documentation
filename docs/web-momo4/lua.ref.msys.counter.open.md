@@ -35,13 +35,13 @@ If a counter value is updated mostly in a single thread on one processor then th
 
 ![Counter semantics](images/counter.png)
 
-**Note about [Figure 70.1, “Counter semantics”](lua.ref.msys.counter.open.php#fig.console_command.counter "Figure 70.1. Counter semantics"). ** In this figure `update` refers to increment and add operations. The sample machine used two Intel® Xeon® CPU E5530 at 2.4GHz with four cores each.
+**Note about [Figure 70.1, “Counter semantics”](lua.ref.msys.counter.open#fig.console_command.counter "Figure 70.1. Counter semantics"). ** In this figure `update` refers to increment and add operations. The sample machine used two Intel® Xeon® CPU E5530 at 2.4GHz with four cores each.
 
-For a code example see [Example 70.54, “msys.counter.read example”](lua.ref.msys.counter.read.php#lua.ref.msys.counter.read.example "Example 70.54. msys.counter.read example").
+For a code example see [Example 70.54, “msys.counter.read example”](lua.ref.msys.counter.read#lua.ref.msys.counter.read.example "Example 70.54. msys.counter.read example").
 
 Enable this function with the statement `require('msys.counter');`.
 
 <a name="idp17840368"></a>
 ## See Also
 
-[msys.counter.reset](lua.ref.msys.counter.reset.php "msys.counter.reset"), [msys.counter.add](lua.ref.msys.counter.add.php "msys.counter.add"), [msys.counter.inc](lua.ref.msys.counter.inc.php "msys.counter.inc"), [msys.counter.unlink](lua.ref.msys.counter.unlink.php "msys.counter.unlink")
+[msys.counter.reset](lua.ref.msys.counter.reset "msys.counter.reset"), [msys.counter.add](lua.ref.msys.counter.add.php "msys.counter.add"), [msys.counter.inc](lua.ref.msys.counter.inc.php "msys.counter.inc"), [msys.counter.unlink](lua.ref.msys.counter.unlink.php "msys.counter.unlink")

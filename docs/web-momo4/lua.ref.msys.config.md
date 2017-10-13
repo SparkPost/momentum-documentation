@@ -15,7 +15,7 @@ parameters: string
 <a name="idp16058160"></a>
 ## Description
 
-Corresponds to the [config](console_commands.config.php "config") system console command, and can be used to get or set configuration values. For example:
+Corresponds to the [config](console_commands.config "config") system console command, and can be used to get or set configuration values. For example:
 
 ```
 local mob, tmob = msys.config("get", "max_outbound_connections");

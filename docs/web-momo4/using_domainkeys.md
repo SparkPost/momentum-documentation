@@ -4,15 +4,15 @@
 
 <dl class="toc">
 
-<dt>[22.1\. DomainKeys Signing](using_domainkeys.php#using_domainkeys.signing)</dt>
+<dt>[22.1\. DomainKeys Signing](using_domainkeys#using_domainkeys.signing)</dt>
 
-<dt>[22.2\. DomainKeys Validation](using_domainkeys.validation.php)</dt>
+<dt>[22.2\. DomainKeys Validation](using_domainkeys.validation)</dt>
 
 </dl>
 
 DomainKeys is a technology proposal that can bring "yes or no" back to the decision process by giving email providers a mechanism for verifying both the domain of each email sender and the integrity of the messages sent (i.e,. that they were not altered during transit). And, once the domain can be verified, it can be compared to the domain used by the sender in the "From" field of the message to detect forgeries. If it's a forgery, then it's spam or fraud, and it can be dropped without impact to the user. If it's not a forgery, then the domain is known, and a persistent reputation profile can be established for that sending domain that can be tied into anti-spam policy systems, shared between service providers, and even exposed to the user.
 
-[Figure 22.1, “DomainKeys schematic”](using_domainkeys.php#figure_domainkeys_schematic "Figure 22.1. DomainKeys schematic") gives a graphical view of how DKIM works.
+[Figure 22.1, “DomainKeys schematic”](using_domainkeys#figure_domainkeys_schematic "Figure 22.1. DomainKeys schematic") gives a graphical view of how DKIM works.
 
 <a name="figure_domainkeys_schematic"></a>
 
@@ -50,17 +50,17 @@ Enabling DomainKeys signing in Momentum is a two-step process:
 
 1.  Generate public and private keys for each signing domain and create the public key DNS records for those domains.
 
-    *   For instructions, see [Section 22.1.1, “Generating DomainKeys”](using_domainkeys.php#using_domainkeys.generating "22.1.1. Generating DomainKeys")
+    *   For instructions, see [Section 22.1.1, “Generating DomainKeys”](using_domainkeys#using_domainkeys.generating "22.1.1. Generating DomainKeys")
 
-    *   For instructions, see [Section 22.1.2, “Publishing a Signing Policy”](using_domainkeys.php#using_domainkeys.publishing "22.1.2. Publishing a Signing Policy")
+    *   For instructions, see [Section 22.1.2, “Publishing a Signing Policy”](using_domainkeys#using_domainkeys.publishing "22.1.2. Publishing a Signing Policy")
 
 2.  Configure Momentum to conditionally attach DomainKeys signatures to emails that are submitted into the MTA.
 
-    *   Load the dk_sign module. For details, see [Section 71.28, “domainkeys – Yahoo! DomainKeys”](modules.domainkeys.php "71.28. domainkeys – Yahoo! DomainKeys").
+    *   Load the dk_sign module. For details, see [Section 71.28, “domainkeys – Yahoo! DomainKeys”](modules.domainkeys "71.28. domainkeys – Yahoo! DomainKeys").
 
-    *   Set the `domainkeys` option to `enabled` in the appropriate scope to enable DomainKeys signing on a global, per domain, per binding, or per binding-per domain basis. For details, see [domainkeys](conf.ref.domainkeys.php "domainkeys").
+    *   Set the `domainkeys` option to `enabled` in the appropriate scope to enable DomainKeys signing on a global, per domain, per binding, or per binding-per domain basis. For details, see [domainkeys](conf.ref.domainkeys "domainkeys").
 
-To control how DomainKeys signing statistics are recorded, see [signing_stats](conf.ref.signing_stats.php "signing_stats"). The console command [signing_stats](console_commands.signing_stats.php "signing_stats") is used to examine signing statistics and [signing_stats reset](console_commands.signing_stats_reset.php "signing_stats reset") resets statistics.
+To control how DomainKeys signing statistics are recorded, see [signing_stats](conf.ref.signing_stats "signing_stats"). The console command [signing_stats](console_commands.signing_stats.php "signing_stats") is used to examine signing statistics and [signing_stats reset](console_commands.signing_stats_reset.php "signing_stats reset") resets statistics.
 
 ### 22.1.1. Generating DomainKeys
 

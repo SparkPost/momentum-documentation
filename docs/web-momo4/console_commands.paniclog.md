@@ -10,7 +10,7 @@ paniclog — show last several entries written to paniclog
 <a name="idp11465552"></a>
 ## Description
 
-Momentum maintains, in memory, the last several messages that were written to the paniclog. This command will display the last 10 messages seen on each log level (see the [debug_flags](conf.ref.debug_flags.php "debug_flags") for details).
+Momentum maintains, in memory, the last several messages that were written to the paniclog. This command will display the last 10 messages seen on each log level (see the [debug_flags](conf.ref.debug_flags "debug_flags") for details).
 
 ```
 10:47:35 /tmp/2025> paniclog

@@ -4,7 +4,7 @@
 
 The Content Scanning Application Programming Interface (CSAPI) module provides integration to Symantec's suite of content scanners. This module runs in an external process (`/opt/msys/ecelerity/sbin/ec_avscan`) initiated by Momentum during startup.
 
-If you intend to use this module, be sure to choose it during installation. For more information, see [Section 12.1, “Installing Partner Modules”](post_installation.php#install.additional.packages "12.1. Installing Partner Modules").
+If you intend to use this module, be sure to choose it during installation. For more information, see [Section 12.1, “Installing Partner Modules”](post_installation#install.additional.packages "12.1. Installing Partner Modules").
 
 The following is a listing of operating system/architecture combinations and the version of CSAPI that they support:
 
@@ -18,7 +18,7 @@ The following is a listing of operating system/architecture combinations and the
 
 ### 71.23.1. Configuration
 
-You must load the antivirus module in order to run the csapi module. For more information, see [Section 71.6, “antivirus – Antivirus”](modules.antivirus.php "71.6. antivirus – Antivirus").
+You must load the antivirus module in order to run the csapi module. For more information, see [Section 71.6, “antivirus – Antivirus”](modules.antivirus "71.6. antivirus – Antivirus").
 
 The following is an example configuration:
 
@@ -45,7 +45,7 @@ antivirus "antivirus1" {
 
 ### Warning
 
-In order to use this module, you must configure it in the global scope **and** also within the antivirus scope as shown in [Example 71.38, “csapi Configuration”](modules.csapi.php#modules.csapi.example3.1 "Example 71.38. csapi Configuration").
+In order to use this module, you must configure it in the global scope **and** also within the antivirus scope as shown in [Example 71.38, “csapi Configuration”](modules.csapi#modules.csapi.example3.1 "Example 71.38. csapi Configuration").
 
 The csapi module is a singleton in the global scope but a non-singleton within the antivirus scope. In the global scope, this module only supports the `enabled` and `debug_level` options.
 
@@ -61,7 +61,7 @@ Specifies the maximum number of threads the external scanner should use. This se
 
 ### Note
 
-Be sure to set the concurrency of the [CPU threadpool](conf.ref.threadpool.php "threadpool") to a value that is less than the `max_concurrency` of the csapi module.
+Be sure to set the concurrency of the [CPU threadpool](conf.ref.threadpool "threadpool") to a value that is less than the `max_concurrency` of the csapi module.
 
 </dd>
 
@@ -161,7 +161,7 @@ During testing, it has been noted that some viruses avoid detection when use_wir
 
 </dl>
 
-For a list of the configuration options that this module shares with other antivirus modules, see [Section 71.6.1, “Configuration”](modules.antivirus.php#modules.antivirus.configuration "71.6.1. Configuration"). For the csapi module, the default value for the `context_variable` is `csapi_status`.
+For a list of the configuration options that this module shares with other antivirus modules, see [Section 71.6.1, “Configuration”](modules.antivirus#modules.antivirus.configuration "71.6.1. Configuration"). For the csapi module, the default value for the `context_variable` is `csapi_status`.
 
 ### 71.23.2. Context Variables
 
@@ -189,11 +189,11 @@ If the *`engine_name`*_status context variable is set, this also sets another co
 
 </dl>
 
-See [Section 71.6.1, “Configuration”](modules.antivirus.php#modules.antivirus.configuration "71.6.1. Configuration") for more information about antivirus context variables.
+See [Section 71.6.1, “Configuration”](modules.antivirus#modules.antivirus.configuration "71.6.1. Configuration") for more information about antivirus context variables.
 
 ### 71.23.3. Lua Functions
 
-This module supports the [msys.av.scan](lua.ref.msys.av.scan.php "msys.av.scan") and [msys.av.scan_part](lua.ref.msys.av.scan_part.php "msys.av.scan_part") Lua functions.
+This module supports the [msys.av.scan](lua.ref.msys.av.scan "msys.av.scan") and [msys.av.scan_part](lua.ref.msys.av.scan_part.php "msys.av.scan_part") Lua functions.
 
 This function returns four values:
 

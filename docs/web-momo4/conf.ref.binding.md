@@ -12,21 +12,21 @@ binding "example" {
 }
 ```
 
-Use the `binding` stanza to define per-binding configuration options. You can nest `domain` and `host` stanzas inside `binding` stanzas to create per-binding per-domain or per-binding per-host configurations. For additional details, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback").
+Use the `binding` stanza to define per-binding configuration options. You can nest `domain` and `host` stanzas inside `binding` stanzas to create per-binding per-domain or per-binding per-host configurations. For additional details, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback").
 
 Apart from the `domain` and `host` options, the following options are commonly specified in a `binding` stanza:
 
-*   [bind_address](conf.ref.bind_address.php "bind_address")
+*   [bind_address](conf.ref.bind_address "bind_address")
 
-*   [connect_timeout](conf.ref.connect_timeout.php "connect_timeout")
+*   [connect_timeout](conf.ref.connect_timeout "connect_timeout")
 
-*   [ehlo_hostname](conf.ref.ehlo_hostname.php "ehlo_hostname")
+*   [ehlo_hostname](conf.ref.ehlo_hostname "ehlo_hostname")
 
-*   [generate_bounces](conf.ref.generate_bounces.php "generate_bounces")
+*   [generate_bounces](conf.ref.generate_bounces "generate_bounces")
 
-*   [message_expiration](conf.ref.message_expiration.php "message_expiration")
+*   [message_expiration](conf.ref.message_expiration "message_expiration")
 
-For a complete list of options valid in the binding scope, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For a complete list of options valid in the binding scope, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
 The following is an example of a `binding` stanza:
 
@@ -61,7 +61,7 @@ You should ensure that all messages are dealt with in some way. For example, you
 
 Even if you do not assign messages to bindings, youy can use the `default` binding to alter default behavior by setting the values of options in the `default` binding scope.
 
-The `default` binding is not explicitly defined. You can confirm its existence by issuing the ec_console command [binding summary](console_commands.binding_summary.php "binding summary"). You should see `Summary Statistics For Binding default` along with any other bindings you defined.
+The `default` binding is not explicitly defined. You can confirm its existence by issuing the ec_console command [binding summary](console_commands.binding_summary "binding summary"). You should see `Summary Statistics For Binding default` along with any other bindings you defined.
 
 Defining and using the `default` binding is required any time you want to change the behavior of any message not assigned to some other binding. You can explicitly define the `default` binding scope and set options in that scope in your configuration file or at runtime using Lua.
 
@@ -73,18 +73,18 @@ binding "default" {
 }
 ```
 
-Setting the `default` binding from a script is done in exactly the same way as setting any other binding. For an example of setting a binding, see [msg:binding](lua.ref.msg_binding.php "msg:binding").
+Setting the `default` binding from a script is done in exactly the same way as setting any other binding. For an example of setting a binding, see [msg:binding](lua.ref.msg_binding "msg:binding").
 
-In a cluster configuration, if you wish to set an option to different values within the `default` binding scope, you can explicitly define the `default` binding in the node-specific configuration file and then define options within that scope. You can create a node-specific configuration file by manually creating it, as described in [Section 15.1.5, “Adding Configuration Files”](conf.overview.php#conf.adding.configuration.files "15.1.5. Adding Configuration Files").
+In a cluster configuration, if you wish to set an option to different values within the `default` binding scope, you can explicitly define the `default` binding in the node-specific configuration file and then define options within that scope. You can create a node-specific configuration file by manually creating it, as described in [Section 15.1.5, “Adding Configuration Files”](conf.overview#conf.adding.configuration.files "15.1.5. Adding Configuration Files").
 
 <a name="idp23599344"></a>
 ## Scope and Valid Options
 
 `binding` is valid in the global scope and in the binding_group scope.
 
-For a complete list of options valid in the binding scope, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For a complete list of options valid in the binding scope, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
 <a name="idp23602720"></a>
 ## See Also
 
-[binding_group](conf.ref.binding_group.php "binding_group"), [domain](conf.ref.domain.php "domain"), [host](conf.ref.host.php "host")
+[binding_group](conf.ref.binding_group "binding_group"), [domain](conf.ref.domain.php "domain"), [host](conf.ref.host.php "host")

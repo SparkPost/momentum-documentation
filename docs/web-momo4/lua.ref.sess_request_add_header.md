@@ -18,11 +18,11 @@ replace: boolean
 <a name="idp15261808"></a>
 ## Description
 
-Set the header of an HTTP session. Use `header` for the header identifier and `value` for its value. If you are replacing an existing header, set `repace` to `1`. Otherwise set it to `0`. You must call [sess:request_finalize](lua.ref.sess_request_finalize.php "sess:request_finalize") after invoking this function.
+Set the header of an HTTP session. Use `header` for the header identifier and `value` for its value. If you are replacing an existing header, set `repace` to `1`. Otherwise set it to `0`. You must call [sess:request_finalize](lua.ref.sess_request_finalize "sess:request_finalize") after invoking this function.
 
-For a code example see [http_request_eval](https://support.messagesystems.com/docs/web-push/push.http_request_eval.php).
+For a code example see [http_request_eval](https://support.messagesystems.com/docs/web-push/push.http_request_eval).
 
 <a name="idp15267824"></a>
 ## See Also
 
-[sess:request_set_body](lua.ref.sess_request_set_body.php "sess:request_set_body") and [sess:request_finalize](lua.ref.sess_request_finalize.php "sess:request_finalize")
+[sess:request_set_body](lua.ref.sess_request_set_body "sess:request_set_body") and [sess:request_finalize](lua.ref.sess_request_finalize.php "sess:request_finalize")

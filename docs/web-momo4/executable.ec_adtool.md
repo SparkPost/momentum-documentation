@@ -18,7 +18,7 @@ In earlier versions of Momentum, adaptive parameters are stored in a SQLite data
 
 ### Note
 
-You only need use this tool when the adaptive module is loaded. For more information see [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery").
+You only need use this tool when the adaptive module is loaded. For more information see [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery").
 
 The options common to all commands are listed below:
 
@@ -114,4 +114,4 @@ Move parameters from a global to a local scope by reversing the positions of the
 <a name="idp11087392"></a>
 ## See Also
 
-[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery"), [Chapter 30, *Riak*](riak.php "Chapter 30. Riak")
+[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery"), [Chapter 30, *Riak*](riak.php "Chapter 30. Riak")

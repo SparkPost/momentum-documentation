@@ -4,17 +4,17 @@
 
 <dl class="toc">
 
-<dt>[15.1\. Configuration Files](conf.overview.php#conf.files)</dt>
+<dt>[15.1\. Configuration Files](conf.overview#conf.files)</dt>
 
-<dt>[15.2\. Configuration Options](conf.options.php)</dt>
+<dt>[15.2\. Configuration Options](conf.options)</dt>
 
-<dt>[15.3\. Configuration Scopes and Fallback](ecelerity.conf.fallback.php)</dt>
+<dt>[15.3\. Configuration Scopes and Fallback](ecelerity.conf.fallback)</dt>
 
-<dt>[15.4\. Listeners](listeners.php)</dt>
+<dt>[15.4\. Listeners](listeners)</dt>
 
-<dt>[15.5\. Modules](module_config.php)</dt>
+<dt>[15.5\. Modules](module_config)</dt>
 
-<dt>[15.6\. `ecelerity.conf` File](conf.ref.ecelerity.conf.php)</dt>
+<dt>[15.6\. `ecelerity.conf` File](conf.ref.ecelerity.conf)</dt>
 
 </dl>
 
@@ -26,19 +26,19 @@ Momentum's configuration is defined in multiple configuration files. The install
 
 The `ecelerity.conf` file is the master configuration file for Momentum; while other configuration files are specific to a given function or feature. For information about each configuration file, follow the links below:
 
-*   [`eccluster.conf`](conf.ref.eccluster.conf.php "16.2. eccluster.conf File") - Momentum Cluster Manager configuration file
+*   [`eccluster.conf`](conf.ref.eccluster.conf "16.2. eccluster.conf File") - Momentum Cluster Manager configuration file
 
-*   [`ecelerity.conf`](conf.ref.ecelerity.conf.php "15.6. ecelerity.conf File") - Master Momentum configuration file
+*   [`ecelerity.conf`](conf.ref.ecelerity.conf "15.6. ecelerity.conf File") - Master Momentum configuration file
 
-*   [`ecelerity_cluster.con`](conf.ref.ecelerity_cluster.conf.php "16.3. ecelerity-cluster.conf File") - Cluster-specific configuration file included from within `ecelerity.conf`
+*   [`ecelerity_cluster.con`](conf.ref.ecelerity_cluster.conf "16.3. ecelerity-cluster.conf File") - Cluster-specific configuration file included from within `ecelerity.conf`
 
-*   [`ec_rotate.conf`](log_rotating.php#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File") - Configuration file for the utility script **ec_rotate**
+*   [`ec_rotate.conf`](log_rotating#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File") - Configuration file for the utility script **ec_rotate**
 
-*   [`msg_gen.conf`](conf.ref.msg_gen.conf.php "20.2. msg_gen.conf File") - Message Generation configuration file included from within `ecelerity.conf`
+*   [`msg_gen.conf`](conf.ref.msg_gen.conf "20.2. msg_gen.conf File") - Message Generation configuration file included from within `ecelerity.conf`
 
-*   [`msgc_server.conf`](conf.ref.msgc_server.conf.php "16.4. msgc_server.conf File") - Momentum cluster messaging bus configuration file
+*   [`msgc_server.conf`](conf.ref.msgc_server.conf "16.4. msgc_server.conf File") - Momentum cluster messaging bus configuration file
 
-If you make changes to a configuration file, be sure to use the [Momentum Configuration Server](conf.overview.php#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)") to commit your changes.
+If you make changes to a configuration file, be sure to use the [Momentum Configuration Server](conf.overview#conf.ecconfigd "15.1.3. Configuration Management (ecconfigd)") to commit your changes.
 
 ### 15.1.1. Comments and Whitespace
 
@@ -72,7 +72,7 @@ include "/opt/msys/ecelerity/etc/config.d"
 
 When the referenced path is a directory, all the files within that directory are included in alphabetical order. Hidden files (those whose names begin with a single period) are not included. Sub-directories are not automatically processed.
 
-The `readonly_include` directive also supports making online changes to the configuration with the [config set](console_commands.config.php "config") and [config unset](console_commands.config.php "config") commands.
+The `readonly_include` directive also supports making online changes to the configuration with the [config set](console_commands.config "config") and [config unset](console_commands.config.php "config") commands.
 
 When making an online change, Momentum must decide to which configuration file to save online changes. This decision is controlled by the following factors:
 
@@ -86,7 +86,7 @@ When making an online change, Momentum must decide to which configuration file t
 
 The `Local_Changes_File` option sets the name of a configuration file that must be writable and that is implicitly loaded after all other configuration files, regardless of its placement in the configuration file. Since it must be writable and files included twice are read-only, the `Local_Changes_File` option cannot point to the same file as any `include` directive, and it cannot point to the main configuration file. Since `Local_Changes_File` is effectively loaded at the end of the main configuration file, options set in it are able to override any setting in any other configuration file. If it were loaded at some other point, options set after that point could not be overridden by it.
 
-If the `Local_Changes_File` option is not defined and the main configuration file is writable, changes are written to the main configuration file. If `Local_Changes_File` is not defined and the main configuration file is read-only, a virtual file not associated with any real path is used to hold changes; in this case, the [config writeback](console_commands.config.php "config") command will issue a warning stating that not all portions of the configuration could be saved and show the contents of the virtual file. This issue can be fixed by setting the `Local_Changes_File` to a valid path and issuing the **config writeback**           command again, at which point changes in the virtual file will be saved to the newly configured location.
+If the `Local_Changes_File` option is not defined and the main configuration file is writable, changes are written to the main configuration file. If `Local_Changes_File` is not defined and the main configuration file is read-only, a virtual file not associated with any real path is used to hold changes; in this case, the [config writeback](console_commands.config "config") command will issue a warning stating that not all portions of the configuration could be saved and show the contents of the virtual file. This issue can be fixed by setting the `Local_Changes_File` to a valid path and issuing the **config writeback**           command again, at which point changes in the virtual file will be saved to the newly configured location.
 
 The `Local_Changes_Only` option defaults to `false`. If it is `true`, the `Local_Changes_File` option must be defined and all changes are saved to the `Local_Changes_File`. If it is `false`, changes are distributed as described below:
 
@@ -120,11 +120,11 @@ Any configuration files included with the `readonly_include` directive are read-
 
 ### 15.1.3. Configuration Management (ecconfigd)
 
-Both single-node and clustered installations take advantage of Momentum's revision control system for configuration files. Any configuration changes should be committed to the Momentum Configuration Server **ecconfigd**, henceforth referred to as the configuration server. On start up, the script in the `/etc/init.d` directory runs the **ecconfigd** as a service on the node designated as Manager. For details about the configuration server, see [ecconfigd](executable.ecconfigd.php "ecconfigd"). For details about the **ecconfigd** service in a cluster configuration, see [Section 16.1.1, “Cluster-specific Configuration Management”](cluster.php#cluster.config_files.mgmt "16.1.1. Cluster-specific Configuration Management").
+Both single-node and clustered installations take advantage of Momentum's revision control system for configuration files. Any configuration changes should be committed to the Momentum Configuration Server **ecconfigd**, henceforth referred to as the configuration server. On start up, the script in the `/etc/init.d` directory runs the **ecconfigd** as a service on the node designated as Manager. For details about the configuration server, see [ecconfigd](executable.ecconfigd "ecconfigd"). For details about the **ecconfigd** service in a cluster configuration, see [Section 16.1.1, “Cluster-specific Configuration Management”](cluster.php#cluster.config_files.mgmt "16.1.1. Cluster-specific Configuration Management").
 
-Use **ecconfigd_ctl** to start, stop, or restart the configuration server. For details about this command, see [ecconfigd_ctl](executable.ecconfigd_ctl.php "ecconfigd_ctl").
+Use **ecconfigd_ctl** to start, stop, or restart the configuration server. For details about this command, see [ecconfigd_ctl](executable.ecconfigd_ctl "ecconfigd_ctl").
 
-Momentum's version control management tool is **eccfg**. It is used to track and update configuration file changes. For details about using this tool, see [eccfg](executable.eccfg.php "eccfg").
+Momentum's version control management tool is **eccfg**. It is used to track and update configuration file changes. For details about using this tool, see [eccfg](executable.eccfg "eccfg").
 
 **15.1.3.1. Repository Working Copy for Single Node**
 
@@ -144,15 +144,15 @@ By default the order is:
 
 Directories are separated by the standard path separator.
 
-If you wish to change the search order, set the environment variable `EC_CONF_SEARCH_PATH`. For more information about `EC_CONF_SEARCH_PATH`, see [Chapter 31, *Configuring the Environment File*](environment_file.php "Chapter 31. Configuring the Environment File") .
+If you wish to change the search order, set the environment variable `EC_CONF_SEARCH_PATH`. For more information about `EC_CONF_SEARCH_PATH`, see [Chapter 31, *Configuring the Environment File*](environment_file "Chapter 31. Configuring the Environment File") .
 
-For details about the working copy of the repository in a cluster configuration, see [Section 16.1.1.1, “Repository Working Copy for Cluster”](cluster.php#cluster.config_files.mgmt.cluster "16.1.1.1. Repository Working Copy for Cluster").
+For details about the working copy of the repository in a cluster configuration, see [Section 16.1.1.1, “Repository Working Copy for Cluster”](cluster#cluster.config_files.mgmt.cluster "16.1.1.1. Repository Working Copy for Cluster").
 
 ### 15.1.4. Changing Configuration Files
 
 Since the configuration files are under revision control, it is important to take steps to avoid conflicts with changes made elsewhere in the system and to be able to track changes. For this reason, perform the following actions when editing any configuration files or script files:
 
-1.  Familiarize yourself with the Momentum repository management tool [eccfg](executable.eccfg.php "eccfg").
+1.  Familiarize yourself with the Momentum repository management tool [eccfg](executable.eccfg "eccfg").
 
 2.  Navigate to the appropriate directory:
 
@@ -167,7 +167,7 @@ Since the configuration files are under revision control, it is important to tak
     eccfg pull --username *`name`* --password *`passwd`*
 4.  Make the necessary changes to the configuration file using the text editor of your choice.
 
-5.  Test the validity of your changes using the [validate_config](executable.validate_config.php "validate_config") script:
+5.  Test the validity of your changes using the [validate_config](executable.validate_config "validate_config") script:
 
     `/opt/msys/ecelerity/bin/validate_config`
 6.  Check that your changes are valid by reloading the configuration before committing it. Issue the following command:
@@ -201,7 +201,7 @@ Since the configuration files are under revision control, it is important to tak
 
         Some configuration changes require restarting the ecelerity process, as documented throughout this guide. Running the **`config reload`**         command will not suffice.
 
-    *   For a node-specific configuration, use the [ec_ctl](executable.ec_ctl.php "ec_ctl") command to restart the ecelerity process. The **`config reload`**         command will not load configuration changes.
+    *   For a node-specific configuration, use the [ec_ctl](executable.ec_ctl "ec_ctl") command to restart the ecelerity process. The **`config reload`**         command will not load configuration changes.
 
 ### Warning
 
@@ -209,9 +209,9 @@ Avoid leaving uncommitted changes pending, especially in the working copy on a n
 
 ### 15.1.5. Adding Configuration Files
 
-As discussed in [Section 15.1.2, “Using the `include` and `readonly_include` Directives”](conf.overview.php#conf.files.includes "15.1.2. Using the include and readonly_include Directives"), you can split your Momentum configuration into any number of configuration files. However, if you add new configuration files you must also add them to the repository. Follow these steps:
+As discussed in [Section 15.1.2, “Using the `include` and `readonly_include` Directives”](conf.overview#conf.files.includes "15.1.2. Using the include and readonly_include Directives"), you can split your Momentum configuration into any number of configuration files. However, if you add new configuration files you must also add them to the repository. Follow these steps:
 
-1.  Familiarize yourself with the Momentum repository management tool [eccfg](executable.eccfg.php "eccfg").
+1.  Familiarize yourself with the Momentum repository management tool [eccfg](executable.eccfg "eccfg").
 
 2.  Navigate to the appropriate directory for the changes you intend to make. You will save your files to a different directory on a different node depending upon how narrowly or widely your configuration applies.
 
@@ -228,7 +228,7 @@ As discussed in [Section 15.1.2, “Using the `include` and `readonly_include` 
 
 5.  Open the appropriate configuration file and include the new file using the `include` directive.
 
-6.  Test the validity of your changes using the [validate_config](executable.validate_config.php "validate_config") script:
+6.  Test the validity of your changes using the [validate_config](executable.validate_config "validate_config") script:
 
     `/opt/msys/ecelerity/bin/validate_config`
 7.  Check that your changes are valid by reloading the configuration before committing it. Issue the following command:
@@ -262,4 +262,4 @@ As discussed in [Section 15.1.2, “Using the `include` and `readonly_include` 
 
         Some configuration changes require restarting the ecelerity process, as documented throughout this guide. Running the **`config reload`**         command will not suffice.
 
-    *   For a node-specific configuration, use the [ec_ctl](executable.ec_ctl.php "ec_ctl") command to restart the ecelerity process. The **`config reload`**         command will not load configuration changes.
+    *   For a node-specific configuration, use the [ec_ctl](executable.ec_ctl "ec_ctl") command to restart the ecelerity process. The **`config reload`**         command will not load configuration changes.

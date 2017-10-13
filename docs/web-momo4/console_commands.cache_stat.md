@@ -10,7 +10,7 @@ cache stat — show detailed cache statistics for the specified cache
 <a name="idp13017696"></a>
 ## Description
 
-This command shows statistics for the specified cache. Use the [cache list](console_commands.cache_list.php "cache list") command to determine the available caches.
+This command shows statistics for the specified cache. Use the [cache list](console_commands.cache_list "cache list") command to determine the available caches.
 
 Find sample output below:
 
@@ -36,9 +36,9 @@ Workload (R/W):  51.94%
   Writes      : 18949
 ```
 
-This command shows much more detail than the [cache stats](console_commands.cache_stats.php "cache stats") command.
+This command shows much more detail than the [cache stats](console_commands.cache_stats "cache stats") command.
 
 <a name="idp13022352"></a>
 ## See Also
 
-[cache list](console_commands.cache_list.php "cache list"), [cache stats](console_commands.cache_stats.php "cache stats"), [match_cache_life](conf.ref.match_cache_life.php "match_cache_life")
+[cache list](console_commands.cache_list "cache list"), [cache stats](console_commands.cache_stats.php "cache stats"), [match_cache_life](conf.ref.match_cache_life.php "match_cache_life")

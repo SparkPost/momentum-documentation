@@ -32,4 +32,4 @@ local child = node:addchild("item")
 <a name="idp19521504"></a>
 ### See Also
 
-[doc:root](lua.ref.xml.doc_root.php "doc:root")
+[doc:root](lua.ref.xml.doc_root "doc:root")

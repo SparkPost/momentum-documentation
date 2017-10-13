@@ -29,4 +29,4 @@ The options in this scope replace the `backing_store_connect_timeout` and the `b
 <a name="idp23356352"></a>
 ## See Also
 
-[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery") and [adaptive_backstore_leveldb](conf.ref.adaptive_backstore_leveldb.php "adaptive_backstore_leveldb")
+[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery") and [adaptive_backstore_leveldb](conf.ref.adaptive_backstore_leveldb.php "adaptive_backstore_leveldb")

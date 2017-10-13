@@ -2,7 +2,7 @@
 
 **Introduction**
 
-In the tutorial in [Chapter 45, *Generating a Transmission*](message_gen.php "Chapter 45. Generating a Transmission") , you sent emails using an "inline" template. While in-line templates might be best for one-off transmissions, it is more efficient to create stored templates for high-volume message campaigns. Using stored templates enables you to control the look-and-feel of your messages across all your campaigns, while focusing on providing recipient-specific content for each transmission.
+In the tutorial in [Chapter 45, *Generating a Transmission*](message_gen "Chapter 45. Generating a Transmission") , you sent emails using an "inline" template. While in-line templates might be best for one-off transmissions, it is more efficient to create stored templates for high-volume message campaigns. Using stored templates enables you to control the look-and-feel of your messages across all your campaigns, while focusing on providing recipient-specific content for each transmission.
 
 When you send a transmission using a stored template, you reference the identifier of the template and provide the dynamic content for that specific transmission. Momentum performs the substitution to create personalized messages for each recipient. By default, the published version of the template is used. However, you can submit a transmission that uses a draft template by setting the appropriate field in the transmission.
 
@@ -12,9 +12,9 @@ In this section, you will learn how to send an email using the simple stored tem
 
 ### Note
 
-This tutorial assumes that you have completed the tutorial in [Chapter 47, *Creating Stored Templates*](stored_template.php "Chapter 47. Creating Stored Templates") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
+This tutorial assumes that you have completed the tutorial in [Chapter 47, *Creating Stored Templates*](stored_template "Chapter 47. Creating Stored Templates") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
 
-You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey.php "Chapter 43. Creating an API Key") .
+You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey "Chapter 43. Creating an API Key") .
 
 Follow these steps to send an email using a stored template:
 
@@ -53,7 +53,7 @@ Follow these steps to send an email using a stored template:
        }
     }
 
-    This example uses the transmission from the tutorial in [Chapter 46, *Using Substitution Data*                  ](substitution_data.php "Chapter 46. Using Substitution Data") as a starting point and replaces the "content" object in the transmission with the identifier that you specified when you created your stored template:
+    This example uses the transmission from the tutorial in [Chapter 46, *Using Substitution Data*                  ](substitution_data "Chapter 46. Using Substitution Data") as a starting point and replaces the "content" object in the transmission with the identifier that you specified when you created your stored template:
 
     `"template_id": "simple_template"`
 
@@ -86,6 +86,6 @@ Follow these steps to send an email using a stored template:
 
 3.  Confirm your email delivery.
 
-    Verify that each recipient received a personalized email, then open the UI and confirm that two messages were successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui.php "Chapter 56. Using the UI for Reporting") .
+    Verify that each recipient received a personalized email, then open the UI and confirm that two messages were successfully injected into Momentum (Targeted) and accepted by the ISP (Accepted). For instructions to view reports in the UI, see [Chapter 56, *Using the UI for Reporting*](reporting_ui "Chapter 56. Using the UI for Reporting") .
 
 Congratulations! You have successfully sent an email using a stored template. To learn more about using the Transmissions API, see the Transmission API documentation available at [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html).

@@ -4,23 +4,23 @@
 
 <dl class="toc">
 
-<dt>[1\. Components](components.php)</dt>
+<dt>[1\. Components](components)</dt>
 
-<dt>[2\. Life of A Message](loam.php)</dt>
+<dt>[2\. Life of A Message](loam)</dt>
 
-<dt>[3\. Roles and Behaviors](roles_behaviors.php)</dt>
+<dt>[3\. Roles and Behaviors](roles_behaviors)</dt>
 
-<dt>[4\. Licensed Features](licensed_features.php)</dt>
+<dt>[4\. Licensed Features](licensed_features)</dt>
 
 <dd>
 
 <dl>
 
-<dt>[4.1\. Message Generation](licensed_features.php#licensed_features.message.generation)</dt>
+<dt>[4.1\. Message Generation](licensed_features#licensed_features.message.generation)</dt>
 
-<dt>[4.2\. Adaptive Delivery](licensed_features.adaptive.delivery.php)</dt>
+<dt>[4.2\. Adaptive Delivery](licensed_features.adaptive.delivery)</dt>
 
-<dt>[4.3\. Supercharger](licensed_features.supercharger.php)</dt>
+<dt>[4.3\. Supercharger](licensed_features.supercharger)</dt>
 
 </dl>
 

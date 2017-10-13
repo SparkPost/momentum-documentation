@@ -20,4 +20,4 @@ The maximum amount of time in seconds a message will remain undelivered in the s
 <a name="idp25539152"></a>
 ## See Also
 
-[never_attempt_expired_messages](conf.ref.never_attempt_expired_messages.php "never_attempt_expired_messages"), [retry_interval](conf.ref.retry_interval.php "retry_interval") and [max_retries](conf.ref.max_retries.php "max_retries")
+[never_attempt_expired_messages](conf.ref.never_attempt_expired_messages "never_attempt_expired_messages"), [retry_interval](conf.ref.retry_interval.php "retry_interval") and [max_retries](conf.ref.max_retries.php "max_retries")

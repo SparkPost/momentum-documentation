@@ -26,4 +26,4 @@ server_reserve_outbound_connections is valid in the global scope.
 <a name="idp26560528"></a>
 ## See Also
 
-[server_max_outbound_connections](conf.ref.server_max_outbound_connections.php "server_max_outbound_connections")
+[server_max_outbound_connections](conf.ref.server_max_outbound_connections "server_max_outbound_connections")

@@ -61,7 +61,7 @@ Valid attributes are [capacity,entries,utilization,loads,stores,hits,misses,
  forced,expired,lru,hit-rate,workload,query-rate]
 ```
 
-The **cache list**      command is useful for determining the cache names to use with the [cache stat](console_commands.cache_stat.php "cache stat") command.
+The **cache list**      command is useful for determining the cache names to use with the [cache stat](console_commands.cache_stat "cache stat") command.
 
 The optional cache attribute parameters are:
 
@@ -166,4 +166,4 @@ CAPACITY    ENTRIES     USED    HT/TL   RD/WR CACHE
 <a name="idp7330528"></a>
 ## See Also
 
-[cache stat](console_commands.cache_stat.php "cache stat"), [cache stats](console_commands.cache_stats.php "cache stats"), [match_cache_life](conf.ref.match_cache_life.php "match_cache_life")
+[cache stat](console_commands.cache_stat "cache stat"), [cache stats](console_commands.cache_stats.php "cache stats"), [match_cache_life](conf.ref.match_cache_life.php "match_cache_life")

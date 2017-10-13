@@ -22,4 +22,4 @@ There is no default value for this option.
 <a name="idp24906992"></a>
 ## See Also
 
-[delivery_method](conf.ref.delivery_method.php "delivery_method"), [http_basic_auth](conf.ref.http_basic_auth.php "http_basic_auth"), [http_method](conf.ref.http_method.php "http_method"), [http_version](conf.ref.http_version.php "http_version"), and [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/)
+[delivery_method](conf.ref.delivery_method "delivery_method"), [http_basic_auth](conf.ref.http_basic_auth.php "http_basic_auth"), [http_method](conf.ref.http_method.php "http_method"), [http_version](conf.ref.http_version.php "http_version"), and [Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/)

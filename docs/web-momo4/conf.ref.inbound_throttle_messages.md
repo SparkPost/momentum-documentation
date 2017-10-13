@@ -16,7 +16,7 @@ This allows you to limit the rate at which Momentum will accept messages from th
 
 If a single integer parameter is provided, Momentum will ensure that no more than the specified number of messages are received in a given second of time. If a proper fraction parameter is provided, Momentum will limit the number of received message to the number specified in the numerator over the time window in seconds specified by the denominator.
 
-For a discussion of throttles and fallback see [the section called “Throttles and Fallback”](conf.ref.outbound_throttle_messages.php#conf.ref.outbound_throttle_messages.fallback "Throttles and Fallback").
+For a discussion of throttles and fallback see [the section called “Throttles and Fallback”](conf.ref.outbound_throttle_messages#conf.ref.outbound_throttle_messages.fallback "Throttles and Fallback").
 
 <a name="idp25003680"></a>
 ## Scope

@@ -28,4 +28,4 @@ inline_transfail_processing is valid in the global scope.
 <a name="idp25035536"></a>
 ## See Also
 
-[transfail_drain_rate](conf.ref.transfail_drain_rate.php "transfail_drain_rate") and [max_resident_transfails](conf.ref.max_resident_transfails.php "max_resident_transfails")
+[transfail_drain_rate](conf.ref.transfail_drain_rate "transfail_drain_rate") and [max_resident_transfails](conf.ref.max_resident_transfails.php "max_resident_transfails")

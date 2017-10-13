@@ -11,7 +11,7 @@ msg:get_delivery_method — Return the delivery method for a message
 <a name="idp16786256"></a>
 ## Description
 
-Return the [delivery method](conf.ref.delivery_method.php "delivery_method") for a message, for example "gcm".
+Return the [delivery method](conf.ref.delivery_method "delivery_method") for a message, for example "gcm".
 
 <a name="lua.ref.msg_get_delivery_method.example"></a>
 

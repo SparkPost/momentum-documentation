@@ -1,6 +1,6 @@
 ## 25.4. Throttling and Traffic Shaping
 
-Momentum provides a variety of options that allows you to control its network traffic profile, such as the rate at which outbound connections are established, the rate at which messages are transmitted, and the number of connections that are established to a given domain. These options can be set per-binding and per-domain, following the usual fall-back rules allowing a great deal of flexibility. (see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback"))
+Momentum provides a variety of options that allows you to control its network traffic profile, such as the rate at which outbound connections are established, the rate at which messages are transmitted, and the number of connections that are established to a given domain. These options can be set per-binding and per-domain, following the usual fall-back rules allowing a great deal of flexibility. (see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback"))
 
 The following is an example configuration in the `ecelerity.conf` file:
 

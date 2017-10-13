@@ -8,7 +8,7 @@ Engagement describes how a recipient interacts with your message. An engagement 
 
 ### Note
 
-If you want to disable engagement tracking globally, change the configuration option in the msg_gen module. See [Section 71.48, “msg_gen – Message Generation”](modules.msg_gen.php "71.48. msg_gen – Message Generation").
+If you want to disable engagement tracking globally, change the configuration option in the msg_gen module. See [Section 71.48, “msg_gen – Message Generation”](modules.msg_gen "71.48. msg_gen – Message Generation").
 
 When you create your recipient lists and transmissions, you specify various attributes including metadata using the [Momentum 4 REST API](https://support.messagesystems.com/docs/web-rest/v1_index.html). This data is included in the tracked URLs for each message. For open tracking, Momentum inserts an open-tracked image into the message. For click tracking, Momentum converts the target link into a click-tracked link. By default, metadata is included for open and click tracking, if specified.
 
@@ -16,7 +16,7 @@ When you create your recipient lists and transmissions, you specify various attr
 
 ### Note
 
-If you want to exclude metadata from click tracking, change the configuration option in the [Section 71.32, “engagement_tracker – HTTP Engagement Tracking”](modules.engage_tracker.php "71.32. engagement_tracker – HTTP Engagement Tracking") module.
+If you want to exclude metadata from click tracking, change the configuration option in the [Section 71.32, “engagement_tracker – HTTP Engagement Tracking”](modules.engage_tracker "71.32. engagement_tracker – HTTP Engagement Tracking") module.
 
 Tracked links include an expiry time of 1 year. After that time, engagement events will not be reported for that specific message.
 
@@ -30,15 +30,15 @@ This section provides instructions to send an email using an inline template wit
 
 Engagement events are emitted by Message Generation, which is licensed separately from the core Momentum platform. For this tutorial, you must have Message Generation.
 
-This tutorial assumes that you have completed the tutorial in [Chapter 45, *Generating a Transmission*](message_gen.php "Chapter 45. Generating a Transmission") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
+This tutorial assumes that you have completed the tutorial in [Chapter 45, *Generating a Transmission*](message_gen "Chapter 45. Generating a Transmission") . A general knowledge of command line tools, JSON, HTTP protocol, and templating languages is required.
 
-You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey.php "Chapter 43. Creating an API Key") .
+You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey "Chapter 43. Creating an API Key") .
 
 Follow these steps to create a transmission with a link in the message body:
 
 1.  Specify your input data.
 
-    This example uses the simple inline template from the tutorial in [Chapter 45, *Generating a Transmission*               ](message_gen.php "Chapter 45. Generating a Transmission") as a starting point and adds a link in the message body.
+    This example uses the simple inline template from the tutorial in [Chapter 45, *Generating a Transmission*               ](message_gen "Chapter 45. Generating a Transmission") as a starting point and adds a link in the message body.
 
     Using your text editor, create the following JSON file named `sample_link.json`. Be sure to use your sender and recipient addresses.
 
@@ -122,7 +122,7 @@ Follow these steps to view your engagement data:
 
     Verify that your recipient received the email. Open the email and click the link included in the message body.
 
-2.  Open the UI and navigate to the Engagement report. In the Engagement report, confirm that your message was successfully injected into Momentum (Targeted), accepted by the ISP (Accepted), and opened (Unique Confirmed Opens) and that the link was clicked (Unique Clicks), as shown in [Figure 61.1, “Engagement Report”](engagement_tracking_http.php#figure_engagement "Figure 61.1. Engagement Report").
+2.  Open the UI and navigate to the Engagement report. In the Engagement report, confirm that your message was successfully injected into Momentum (Targeted), accepted by the ISP (Accepted), and opened (Unique Confirmed Opens) and that the link was clicked (Unique Clicks), as shown in [Figure 61.1, “Engagement Report”](engagement_tracking_http#figure_engagement "Figure 61.1. Engagement Report").
 
     <a name="figure_engagement"></a>
 
@@ -130,4 +130,4 @@ Follow these steps to view your engagement data:
 
     ![Engagement Report](images/engagement.png)
 
-Congratulations! You have successfully sent an email with a link and tracked the engagement of your message in the UI. To learn more about using the Engagement report, see [Section 57.4, “Evaluating Your Campaign Performance”](web-ui.reports.evaluating.campaign.performance.php "57.4. Evaluating Your Campaign Performance").
+Congratulations! You have successfully sent an email with a link and tracked the engagement of your message in the UI. To learn more about using the Engagement report, see [Section 57.4, “Evaluating Your Campaign Performance”](web-ui.reports.evaluating.campaign.performance "57.4. Evaluating Your Campaign Performance").

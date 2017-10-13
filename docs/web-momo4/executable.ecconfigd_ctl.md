@@ -19,4 +19,4 @@ If the `EXTRA_ARGS` environment variable is set, its contents will be passed as 
 <a name="idp11881392"></a>
 ## See Also
 
-[ecconfigd](executable.ecconfigd.php "ecconfigd"), [Chapter 31, *Configuring the Environment File*](environment_file.php "Chapter 31. Configuring the Environment File") 
+[ecconfigd](executable.ecconfigd "ecconfigd"), [Chapter 31, *Configuring the Environment File*](environment_file.php "Chapter 31. Configuring the Environment File") 

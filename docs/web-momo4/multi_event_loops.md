@@ -8,20 +8,20 @@ The platforms that support multiple event loops are Red Hat Enterprise Linux 5 (
 
 Configuring Momentum for multi-core CPUs requires an additional Supercharger license. This license specifies a maximum number of event loops. When configuring an event loop, the `concurrency` option cannot exceed the licensed number of event loops.
 
-To enable the multiple event loop feature for SMTP and HTTP injection, add the following options to your [`ecelerity.conf`](conf.ref.ecelerity.conf.php "15.6. ecelerity.conf File") file:
+To enable the multiple event loop feature for SMTP and HTTP injection, add the following options to your [`ecelerity.conf`](conf.ref.ecelerity.conf "15.6. ecelerity.conf File") file:
 
-1.  Define a new [eventloop](config.ref.eventloop.php "eventloop") pool called "events_pool" and set the concurrency (i.e. number of event loops) to 75% of the number of available CPUs.
+1.  Define a new [eventloop](config.ref.eventloop "eventloop") pool called "events_pool" and set the concurrency (i.e. number of event loops) to 75% of the number of available CPUs.
 
     eventloop "events_pool" {
       concurrency = *`75%_of_available_CPUs`*
     }
-2.  Associate email delivery with the new eventloop pool by assigning the eventloop name to [delivery_pool](config.ref.delivery_pool.php "delivery_pool").
+2.  Associate email delivery with the new eventloop pool by assigning the eventloop name to [delivery_pool](config.ref.delivery_pool "delivery_pool").
 
     `delivery_pool = "events_pool"`
-3.  Associate mail queues, DNS lookup, and module events with the new eventloop pool by assigning the eventloop name to [maintainer_pool](config.ref.maintainer_pool.php "maintainer_pool").
+3.  Associate mail queues, DNS lookup, and module events with the new eventloop pool by assigning the eventloop name to [maintainer_pool](config.ref.maintainer_pool "maintainer_pool").
 
     `maintainer_pool = "events_pool"`
-4.  Associate the SMTP listener with the new eventloop pool by assigning the eventloop name to [event_loop](config.ref.event_loop.php "event_loop") inside the listener scope.
+4.  Associate the SMTP listener with the new eventloop pool by assigning the eventloop name to [event_loop](config.ref.event_loop "event_loop") inside the listener scope.
 
     ```
     ESMTP_Listener {
@@ -33,7 +33,7 @@ To enable the multiple event loop feature for SMTP and HTTP injection, add the f
     }
     ```
 
-5.  Associate the HTTP listener with the new eventloop pool by assigning the eventloop name to [event_loop](config.ref.event_loop.php "event_loop") inside the listener scope.
+5.  Associate the HTTP listener with the new eventloop pool by assigning the eventloop name to [event_loop](config.ref.event_loop "event_loop") inside the listener scope.
 
     ```
     HTTP_Listener {
@@ -42,4 +42,4 @@ To enable the multiple event loop feature for SMTP and HTTP injection, add the f
     }
     ```
 
-After you edit your ecelerity.conf file, you must restart the ecelerity process using **/opt/msys/ecelerity/bin/ec_ctl** — issuing the ec_console command **config reload**        will not suffice. See [ec_ctl](executable.ec_ctl.php "ec_ctl").
+After you edit your ecelerity.conf file, you must restart the ecelerity process using **/opt/msys/ecelerity/bin/ec_ctl** — issuing the ec_console command **config reload**        will not suffice. See [ec_ctl](executable.ec_ctl "ec_ctl").

@@ -27,4 +27,4 @@ Use this function in the `http_response_eval` callout.
 <a name="idp15331728"></a>
 ## See Also
 
-[Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/), [msys.gcm.gcm_classify_error](lua.ref.msys.gcm.gcm_classify_error.php "msys.gcm.gcm_classify_error") and [msys.apn.apn_status_classifier](lua.ref.msys.apn.apn_status_classifier.php "msys.apn.apn_status_classifier").
+[Momentum for Mobile Push Notifications](https://support.messagesystems.com/docs/web-push/), [msys.gcm.gcm_classify_error](lua.ref.msys.gcm.gcm_classify_error "msys.gcm.gcm_classify_error") and [msys.apn.apn_status_classifier](lua.ref.msys.apn.apn_status_classifier.php "msys.apn.apn_status_classifier").

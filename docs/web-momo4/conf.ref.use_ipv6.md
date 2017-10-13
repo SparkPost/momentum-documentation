@@ -16,7 +16,7 @@ When set to false, Momentum will ignore `AAAA` records in the list of hosts reso
 
 The default is `false`.
 
-For a discussion of using IPv6 addresses with listeners, see [Section 15.4.5, “Listeners and IPv6 Addresses”](listeners.php#listeners.ipv6 "15.4.5. Listeners and IPv6 Addresses").
+For a discussion of using IPv6 addresses with listeners, see [Section 15.4.5, “Listeners and IPv6 Addresses”](listeners#listeners.ipv6 "15.4.5. Listeners and IPv6 Addresses").
 
 <a name="idp27312464"></a>
 ## Scope

@@ -26,4 +26,4 @@ growbuf_size is valid in the global scope.
 <a name="idp24815360"></a>
 ## See Also
 
-[large_message_threshold](conf.ref.large_message_threshold.php "large_message_threshold")
+[large_message_threshold](conf.ref.large_message_threshold "large_message_threshold")

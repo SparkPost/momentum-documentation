@@ -13,7 +13,7 @@ msg:binding — Set or get the message binding
 
 Set the binding to the specified parameter. When you set a binding, the binding name is also the return value of this function. This function returns `nil` if the binding parameter is invalid. The binding you set must exist in your `ecelerity.conf` file. When no parameter is passed, this function returns the binding name or `nil` if the message is not associated with a binding. *This will only take a single string binding name* .
 
-You can use this function to set the binding to the `default` binding. For more information see [the section called “`default` Binding”](conf.ref.binding.php#conf.ref.binding.default "default Binding").
+You can use this function to set the binding to the `default` binding. For more information see [the section called “`default` Binding”](conf.ref.binding#conf.ref.binding.default "default Binding").
 
 ### Warning
 
@@ -49,4 +49,4 @@ msys.registerModule("validate_set_binding", mod);
 <a name="idp16658640"></a>
 ## See Also
 
-[msg:binding_group](lua.ref.msg_binding_group.php "msg:binding_group")
+[msg:binding_group](lua.ref.msg_binding_group "msg:binding_group")

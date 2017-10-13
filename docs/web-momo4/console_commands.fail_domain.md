@@ -24,4 +24,4 @@ Usually, the command is immediately proceded or followed by "blackholing" the do
 `10:47:35 /tmp/2025> config set domain unresolvableproblems.com blackhole inline`<a name="idp9130912"></a>
 ## See Also
 
-[fail domain quiet](console_commands.fail_domain_quiet.php "fail domain quiet")
+[fail domain quiet](console_commands.fail_domain_quiet "fail domain quiet")

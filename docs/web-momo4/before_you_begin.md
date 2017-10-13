@@ -4,41 +4,41 @@
 
 <dl class="toc">
 
-<dt>[6.1\. Momentum License](before_you_begin.php#byb.msg.gen.license)</dt>
+<dt>[6.1\. Momentum License](before_you_begin#byb.msg.gen.license)</dt>
 
-<dt>[6.2\. Operating System](byb.os.php)</dt>
+<dt>[6.2\. Operating System](byb.os)</dt>
 
-<dt>[6.3\. Redundancy](byb.redundancy.php)</dt>
+<dt>[6.3\. Redundancy](byb.redundancy)</dt>
 
-<dt>[6.4\. Load Balancing](byb.load_balancing.php)</dt>
+<dt>[6.4\. Load Balancing](byb.load_balancing)</dt>
 
-<dt>[6.5\. Disable SELinux](byb.disable_selinux.php)</dt>
+<dt>[6.5\. Disable SELinux](byb.disable_selinux)</dt>
 
-<dt>[6.6\. Enable Network Time Protocol (NTP)](byb.ntp.php)</dt>
+<dt>[6.6\. Enable Network Time Protocol (NTP)](byb.ntp)</dt>
 
-<dt>[6.7\. Adjusting `/etc/sysctl.conf`](byb.sysctl.conf.php)</dt>
+<dt>[6.7\. Adjusting `/etc/sysctl.conf`](byb.sysctl.conf)</dt>
 
-<dt>[6.8\. Setting Hostnames](byb.set_hostnames.php)</dt>
+<dt>[6.8\. Setting Hostnames](byb.set_hostnames)</dt>
 
-<dt>[6.9\. Java Runtime Environment (JRE)](byb.jre.php)</dt>
+<dt>[6.9\. Java Runtime Environment (JRE)](byb.jre)</dt>
 
-<dt>[6.10\. Creating `root` and `vertica_dba` Accounts](byb.root_and_vertica_dba.php)</dt>
+<dt>[6.10\. Creating `root` and `vertica_dba` Accounts](byb.root_and_vertica_dba)</dt>
 
-<dt>[6.11\. Redefining Ephemeral Ports](byb.redefine_ephemeral_ports.php)</dt>
+<dt>[6.11\. Redefining Ephemeral Ports](byb.redefine_ephemeral_ports)</dt>
 
-<dt>[6.12\. Configuring Locale](byb.config_vertica_services.php)</dt>
+<dt>[6.12\. Configuring Locale](byb.config_vertica_services)</dt>
 
-<dt>[6.13\. Configuring SSH and SSHD](byb.config_SSH_and_SSHD.php)</dt>
+<dt>[6.13\. Configuring SSH and SSHD](byb.config_SSH_and_SSHD)</dt>
 
-<dt>[6.14\. Basic Required Packages](byb.basic_packages.php)</dt>
+<dt>[6.14\. Basic Required Packages](byb.basic_packages)</dt>
 
-<dt>[6.15\. Riak Provisioning](byb.riak_provisioning.php)</dt>
+<dt>[6.15\. Riak Provisioning](byb.riak_provisioning)</dt>
 
-<dt>[6.16\. Separate Vertica Partition](byb.vertica_partition.php)</dt>
+<dt>[6.16\. Separate Vertica Partition](byb.vertica_partition)</dt>
 
-<dt>[6.17\. Disable Postfix and QPIDD](byb.disable_postfix.php)</dt>
+<dt>[6.17\. Disable Postfix and QPIDD](byb.disable_postfix)</dt>
 
-<dt>[6.18\. Verifying Analytics Node Requirements](byb.analytics_reqs.php)</dt>
+<dt>[6.18\. Verifying Analytics Node Requirements](byb.analytics_reqs)</dt>
 
 </dl>
 

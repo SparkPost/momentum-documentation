@@ -16,7 +16,7 @@ vctx: userdata, validate_context type, optional
 <a name="idp17755168"></a>
 ## Description
 
-This function provides diagnosis of a message's virus or spam status. You must load and correctly configure the commtouch_ctasd module before using this function. For details, see [Section 71.20, “commtouch_ctasd – Commtouch Spam Protection”](modules.commtouch.php "71.20. commtouch_ctasd – Commtouch Spam Protection").
+This function provides diagnosis of a message's virus or spam status. You must load and correctly configure the commtouch_ctasd module before using this function. For details, see [Section 71.20, “commtouch_ctasd – Commtouch Spam Protection”](modules.commtouch "71.20. commtouch_ctasd – Commtouch Spam Protection").
 
 It can be invoked at the data, spool, or each_rcpt phases, and it will not work at the connect, ehlo, mailfrom, or rcptto phases.
 

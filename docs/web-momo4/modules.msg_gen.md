@@ -10,7 +10,7 @@ To use the msg_gen module, you must be licensed for Message Generation support.
 
 ### 71.48.1. Configuration
 
-The msg_gen module is configured in the `msg_gen.conf` file that is created during installation. See [Section 20.2, “`msg_gen.conf` File”](conf.ref.msg_gen.conf.php "20.2. msg_gen.conf File"). The following is an example configuration:
+The msg_gen module is configured in the `msg_gen.conf` file that is created during installation. See [Section 20.2, “`msg_gen.conf` File”](conf.ref.msg_gen.conf "20.2. msg_gen.conf File"). The following is an example configuration:
 
 <a name="modules.msg_gen.configuration.example"></a>
 
@@ -84,7 +84,7 @@ Identify the Platform node that is used for engagement tracking. This option is 
 
 <dd>
 
-Define the thread count used for message generation. Default value is `2`. This option is valid in the msg_gen module and [node](modules.msg_gen.php#modules.msg_gen.node) scopes. When set to `0` within the node scope, it indicates that the particular node cannot generate messages but can participate in voting for quorum. If this option is changed at runtime, you must restart the ecelerity process.
+Define the thread count used for message generation. Default value is `2`. This option is valid in the msg_gen module and [node](modules.msg_gen#modules.msg_gen.node) scopes. When set to `0` within the node scope, it indicates that the particular node cannot generate messages but can participate in voting for quorum. If this option is changed at runtime, you must restart the ecelerity process.
 
 </dd>
 
@@ -94,11 +94,11 @@ Define the thread count used for message generation. Default value is `2`. This 
 
 Configure the transactional thread pool used to handle small (single-recipient) non-scheduled transmissions submitted to this node. It may be zero or a positive number.
 
-When set to a positive number, `n`, the `msg_gen` module creates a thread pool with `n` threads to handle transactional (single-recipient) transmissions (see [Transactional Message](glossary.php#gloss.transactional "Transactional Message")). The database will not be used while generating non-scheduled single-recipient messages, as the transmission API provides all required data about transmission, template, and recipients. No database access is needed to generate these messages, and so the processing burden is reduced. However, database access is still required to store and access tags and to generate scheduled transmissions.
+When set to a positive number, `n`, the `msg_gen` module creates a thread pool with `n` threads to handle transactional (single-recipient) transmissions (see [Transactional Message](glossary#gloss.transactional "Transactional Message")). The database will not be used while generating non-scheduled single-recipient messages, as the transmission API provides all required data about transmission, template, and recipients. No database access is needed to generate these messages, and so the processing burden is reduced. However, database access is still required to store and access tags and to generate scheduled transmissions.
 
 If `gen_transactional_threads` is set to `0`, then the transactional thread pool is disabled and the thread pool specified by `gen_count` is used to interact with the database to generate transactional mailings.
 
-The default value is `2`, and is only applicable when `gen_count` is set to a value greater than zero. This option is valid in the msg_gen module and [node](modules.msg_gen.php#modules.msg_gen.node) scopes.
+The default value is `2`, and is only applicable when `gen_count` is set to a value greater than zero. This option is valid in the msg_gen module and [node](modules.msg_gen#modules.msg_gen.node) scopes.
 
 ### Note
 
@@ -112,7 +112,7 @@ If this option is changed at runtime, you must restart the ecelerity process.
 
 The msg_gen module contains a `node` stanza for each Platform node. The options within this scope should not typically be altered.
 
-The node names within the node stanzas must match the names used in the peers stanza in [Section 71.47.1, “msgc_server Module”](modules.msgc.php#modules.msgc.msgc_server "71.47.1. msgc_server Module").
+The node names within the node stanzas must match the names used in the peers stanza in [Section 71.47.1, “msgc_server Module”](modules.msgc#modules.msgc.msgc_server "71.47.1. msgc_server Module").
 
 </dd>
 

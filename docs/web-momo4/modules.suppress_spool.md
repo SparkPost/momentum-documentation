@@ -10,7 +10,7 @@ In this case, an administrator can gain considerable performance benefit from de
 
 *   The configured threshold of retries in the suppress_spool module is reached.
 
-*   A memory based policy decision (notably [max_resident_active_queue](conf.ref.max_resident_active_queue.php "max_resident_active_queue")) causes a forced spool write.
+*   A memory based policy decision (notably [max_resident_active_queue](conf.ref.max_resident_active_queue "max_resident_active_queue")) causes a forced spool write.
 
 ### 71.70.1. Configuration
 

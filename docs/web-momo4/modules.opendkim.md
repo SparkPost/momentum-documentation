@@ -2,11 +2,11 @@
 
 The opendkim module adds OpenDKIM capabilities to Momentum. It implements the DKIM standard and provides for signing email messages on a global, per domain, per binding, or per binding-per domain basis. You can choose to sign messages through module configuration settings or do so at runtime using Lua functions. Validation of DKIM messages with the opendkim module is driven only through Lua policy.
 
-OpenDKIM is an open source implementation of the Domain Keys Identified Mail (DKIM) sender authentication system that implements the DKIM service. For a full description, see [OpenDKIM.org](http://www.opendkim.org/). For a general overview of DKIM signing and validation, as well as how to generate DKIM public and private keypairs, see [Chapter 23, *Using DomainKeys Identified Mail (DKIM) Signatures*](using_dkim.php "Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures") .
+OpenDKIM is an open source implementation of the Domain Keys Identified Mail (DKIM) sender authentication system that implements the DKIM service. For a full description, see [OpenDKIM.org](http://www.opendkim.org/). For a general overview of DKIM signing and validation, as well as how to generate DKIM public and private keypairs, see [Chapter 23, *Using DomainKeys Identified Mail (DKIM) Signatures*](using_dkim "Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures") .
 
 ### 71.50.1. Configuration
 
-In your `ecelerity.conf` file, set [opendkim_sign](conf.ref.opendkim_sign.php "opendkim_sign") in the appropriate scope and configure the opendkim module. The following is an example configuration:
+In your `ecelerity.conf` file, set [opendkim_sign](conf.ref.opendkim_sign "opendkim_sign") in the appropriate scope and configure the opendkim module. The following is an example configuration:
 
 <a name="modules.opendkim.example"></a>
 
@@ -226,7 +226,7 @@ Specifies the DKIM selector to be used for signing. During verification, the `se
 
 <dd>
 
-Specifies which validation context variable must exist as a predicate to signing messages. When an SMTP client performs an SMTP AUTH action, the [auth_user](policy.context.variables.php#predefined-context-conn-global "Table 63.1. Global Predefined Connection Context Variables") context key will be set to the username used during authorization. When an SMTP client is allowed to relay through Momentum because of an entry in the [relay_hosts](conf.ref.relay_hosts.php "relay_hosts") option or a `relaying` declaration in an ESMTP_Listener IP access control list, the [can_relay](policy.context.variables.php#predefined-context-conn-global "Table 63.1. Global Predefined Connection Context Variables") context key is set to `true`.
+Specifies which validation context variable must exist as a predicate to signing messages. When an SMTP client performs an SMTP AUTH action, the [auth_user](policy.context.variables#predefined-context-conn-global "Table 63.1. Global Predefined Connection Context Variables") context key will be set to the username used during authorization. When an SMTP client is allowed to relay through Momentum because of an entry in the [relay_hosts](conf.ref.relay_hosts.php "relay_hosts") option or a `relaying` declaration in an ESMTP_Listener IP access control list, the [can_relay](policy.context.variables.php#predefined-context-conn-global "Table 63.1. Global Predefined Connection Context Variables") context key is set to `true`.
 
 In most corporate environments, `sign_condition` should be `auth_user`. In large sending architectures where the relaying SMTP clients are implicitly trusted, `sign_condition` should be `can_relay`. There is no default value for this option.
 
@@ -236,7 +236,7 @@ In most corporate environments, `sign_condition` should be `auth_user`. In large
 
 <dd>
 
-Array of the headers that will be skipped. For more information about headers, see [headerlist](modules.opendkim.php#modules.opendkim.headerlist) . There is no default value for this option.
+Array of the headers that will be skipped. For more information about headers, see [headerlist](modules.opendkim#modules.opendkim.headerlist) . There is no default value for this option.
 
 </dd>
 
@@ -252,37 +252,37 @@ Set this option to `true` if you are not in a production environment. Default va
 
 ### 71.50.2. Lua Functions
 
-You can sign OpenDKIM domains using module configuration settings or at runtime using Lua functions. The Lua APIs mirror the OpenDKIM API. In order to sign at runtime, you must create a Lua policy script and reference it from the [scriptlet](modules.scriptlet.php "71.60. scriptlet - Lua Policy Scripts") module as shown in [Example 71.74, “opendkim Configuration”](modules.opendkim.php#modules.opendkim.example "Example 71.74. opendkim Configuration").
+You can sign OpenDKIM domains using module configuration settings or at runtime using Lua functions. The Lua APIs mirror the OpenDKIM API. In order to sign at runtime, you must create a Lua policy script and reference it from the [scriptlet](modules.scriptlet "71.60. scriptlet - Lua Policy Scripts") module as shown in [Example 71.74, “opendkim Configuration”](modules.opendkim.php#modules.opendkim.example "Example 71.74. opendkim Configuration").
 
 Verification of DKIM messages is only driven through Lua policy.
 
 Loading the opendkim module exposes the following Lua functions:
 
-*   [msys.validate.opendkim.get_num_sigs](lua.ref.msys.validate.opendkim.get_num_sigs.php "msys.validate.opendkim.get_num_sigs")
+*   [msys.validate.opendkim.get_num_sigs](lua.ref.msys.validate.opendkim.get_num_sigs "msys.validate.opendkim.get_num_sigs")
 
-*   [msys.validate.opendkim.get_sig](lua.ref.msys.validate.opendkim.get_sig.php "msys.validate.opendkim.get_sig")
+*   [msys.validate.opendkim.get_sig](lua.ref.msys.validate.opendkim.get_sig "msys.validate.opendkim.get_sig")
 
-*   [msys.validate.opendkim.get_sig_canons](lua.ref.msys.validate.opendkim.get_sig_canons.php "msys.validate.opendkim.get_sig_canons")
+*   [msys.validate.opendkim.get_sig_canons](lua.ref.msys.validate.opendkim.get_sig_canons "msys.validate.opendkim.get_sig_canons")
 
-*   [msys.validate.opendkim.get_sig_domain](lua.ref.msys.validate.opendkim.get_sig_domain.php "msys.validate.opendkim.get_sig_domain")
+*   [msys.validate.opendkim.get_sig_domain](lua.ref.msys.validate.opendkim.get_sig_domain "msys.validate.opendkim.get_sig_domain")
 
-*   [msys.validate.opendkim.get_sig_errorstr](lua.ref.msys.validate.opendkim.get_sig_errorstr.php "msys.validate.opendkim.get_sig_errorstr")
+*   [msys.validate.opendkim.get_sig_errorstr](lua.ref.msys.validate.opendkim.get_sig_errorstr "msys.validate.opendkim.get_sig_errorstr")
 
-*   [msys.validate.opendkim.get_sig_flags](lua.ref.msys.validate.opendkim.get_sig_flags.php "msys.validate.opendkim.get_sig_flags")
+*   [msys.validate.opendkim.get_sig_flags](lua.ref.msys.validate.opendkim.get_sig_flags "msys.validate.opendkim.get_sig_flags")
 
-*   [msys.validate.opendkim.get_sig_hdrsigned](lua.ref.msys.validate.opendkim.get_sig_hdrsigned.php "msys.validate.opendkim.get_sig_hdrsigned")
+*   [msys.validate.opendkim.get_sig_hdrsigned](lua.ref.msys.validate.opendkim.get_sig_hdrsigned "msys.validate.opendkim.get_sig_hdrsigned")
 
-*   [msys.validate.opendkim.get_sig_identity](lua.ref.msys.validate.opendkim.get_sig_identity.php "msys.validate.opendkim.get_sig_identity")
+*   [msys.validate.opendkim.get_sig_identity](lua.ref.msys.validate.opendkim.get_sig_identity "msys.validate.opendkim.get_sig_identity")
 
-*   [msys.validate.opendkim.get_sig_keysize](lua.ref.msys.validate.opendkim.get_sig_keysize.php "msys.validate.opendkim.get_sig_keysize")
+*   [msys.validate.opendkim.get_sig_keysize](lua.ref.msys.validate.opendkim.get_sig_keysize "msys.validate.opendkim.get_sig_keysize")
 
-*   [msys.validate.opendkim.get_sig_selector](lua.ref.msys.validate.opendkim.get_sig_selector.php "msys.validate.opendkim.get_sig_selector")
+*   [msys.validate.opendkim.get_sig_selector](lua.ref.msys.validate.opendkim.get_sig_selector "msys.validate.opendkim.get_sig_selector")
 
-*   [msys.validate.opendkim.get_sig_signalg](lua.ref.msys.validate.opendkim.get_sig_signalg.php "msys.validate.opendkim.get_sig_signalg")
+*   [msys.validate.opendkim.get_sig_signalg](lua.ref.msys.validate.opendkim.get_sig_signalg "msys.validate.opendkim.get_sig_signalg")
 
-*   [msys.validate.opendkim.sign](lua.ref.msys.validate.opendkim.sign.php "msys.validate.opendkim.sign")
+*   [msys.validate.opendkim.sign](lua.ref.msys.validate.opendkim.sign "msys.validate.opendkim.sign")
 
-*   [msys.validate.opendkim.verify](lua.ref.msys.validate.opendkim.verify.php "msys.validate.opendkim.verify")
+*   [msys.validate.opendkim.verify](lua.ref.msys.validate.opendkim.verify "msys.validate.opendkim.verify")
 
 The following OpenDKIM objects are passed in to or returned by these functions:
 

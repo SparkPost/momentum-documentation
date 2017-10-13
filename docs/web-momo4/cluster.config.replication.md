@@ -4,13 +4,13 @@
 
 <dl class="toc">
 
-<dt>[28.1\. Replication Configurations](cluster.config.replication.php#cluster.replication.features)</dt>
+<dt>[28.1\. Replication Configurations](cluster.config.replication#cluster.replication.features)</dt>
 
 </dl>
 
 The clustered Replication feature provided by the Momentum clustering suite is an extensive set of data sharing and aggregation facilities for representing information across node boundaries.
 
-Replication is managed using the Replication scope within the cluster module. For details about this scope, see [Section 71.19.2, “Replication Scope”](modules.cluster.php#modules.cluster.replication "71.19.2. Replication Scope").
+Replication is managed using the Replication scope within the cluster module. For details about this scope, see [Section 71.19.2, “Replication Scope”](modules.cluster#modules.cluster.replication "71.19.2. Replication Scope").
 
 ## 28.1. Replication Configurations
 
@@ -39,7 +39,7 @@ Currently managed objects:
               outbound_domains [lazy, gauge table w/ snapshots]
 ```
 
-For a complete list of the cluster commands available from the console, see [Section 71.19.4, “Cluster Module-specific Console Commands”](modules.cluster.php#modules.cluster.console "71.19.4. Cluster Module-specific Console Commands").
+For a complete list of the cluster commands available from the console, see [Section 71.19.4, “Cluster Module-specific Console Commands”](modules.cluster#modules.cluster.console "71.19.4. Cluster Module-specific Console Commands").
 
 ### 28.1.1. Tracking inbound connections via inbound_cidr
 
@@ -114,7 +114,7 @@ lazy, snapped gauge table 'outbound_domain', view '#ec1-12137#relay-0-1'
 
 ### 28.1.4. Replicated inbound audit metrics
 
-We can use this feature with [Section 71.41, “inbound_audit – Inbound traffic analytics”](modules.inbound_audit.php "71.41. inbound_audit – Inbound traffic analytics") in order to maintain cluster-wide time series views of inbound connections, receptions, and rejections from any IP address or CIDR block.
+We can use this feature with [Section 71.41, “inbound_audit – Inbound traffic analytics”](modules.inbound_audit "71.41. inbound_audit – Inbound traffic analytics") in order to maintain cluster-wide time series views of inbound connections, receptions, and rejections from any IP address or CIDR block.
 
 ```
 cluster {
@@ -157,7 +157,7 @@ cluster {
 }
 ```
 
-With this configuration, you can use Lua to add data to a named series and specify that it be replicated. You can also obtain counts from these series. See [msys.audit_series.add](lua.ref.msys.audit_series.add.php "msys.audit_series.add") and [msys.audit_series.define](lua.ref.msys.audit_series.define.php "msys.audit_series.define").
+With this configuration, you can use Lua to add data to a named series and specify that it be replicated. You can also obtain counts from these series. See [msys.audit_series.add](lua.ref.msys.audit_series.add "msys.audit_series.add") and [msys.audit_series.define](lua.ref.msys.audit_series.define.php "msys.audit_series.define").
 
 ### 28.1.6. Replicated Caches
 
@@ -181,9 +181,9 @@ cluster {
 }
 ```
 
-Note that if you have the replicate type defined as `cache`, you must supply the `replication_name` of the cache and that name must match the cache name defined in the ds_core module. In [Example 28.1, “Replicated caches”](cluster.config.replication.php#cluster.replicatedcache.code "Example 28.1. Replicated caches"), for example, the name `mycache` referenced in the cluster stanza is defined in the Datasource scope of the ds_core module. For more information about using the ds_core module, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core.php "71.29. ds_core - Datasource Query Core").
+Note that if you have the replicate type defined as `cache`, you must supply the `replication_name` of the cache and that name must match the cache name defined in the ds_core module. In [Example 28.1, “Replicated caches”](cluster.config.replication#cluster.replicatedcache.code "Example 28.1. Replicated caches"), for example, the name `mycache` referenced in the cluster stanza is defined in the Datasource scope of the ds_core module. For more information about using the ds_core module, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core.php "71.29. ds_core - Datasource Query Core").
 
-This stanza can be repeated any number of times, specifying a unique `replication_name` for each cache. Key-value pairs can be inserted into, or retrieved from, the replicated cache at run time using Lua. See [msys.gauge_cache.define](lua.ref.msys.gauge_cache.define.php "msys.gauge_cache.define") and [msys.gauge_cache.get](lua.ref.msys.gauge_cache.get.php "msys.gauge_cache.get").
+This stanza can be repeated any number of times, specifying a unique `replication_name` for each cache. Key-value pairs can be inserted into, or retrieved from, the replicated cache at run time using Lua. See [msys.gauge_cache.define](lua.ref.msys.gauge_cache.define "msys.gauge_cache.define") and [msys.gauge_cache.get](lua.ref.msys.gauge_cache.get.php "msys.gauge_cache.get").
 
 By default, nodes that join the cluster will receive new or updated key-value pairs as they are inserted into the cache. Any pre-existing key-value pairs present on other nodes will not be populated into the cache on a new node until the key-value pair is updated. To change this behavior, snapshots can be enabled on a per-cache basis. This causes all pre-existing key-value pairs on the other nodes to be populated on a new node as soon as it joins the cluster.
 
@@ -210,7 +210,7 @@ cluster {
 
 ### 28.1.8. Shared Outbound Throttles
 
-Cluster-wide outbound connection and message throttles are supported in the MTA, using the [cluster_outbound_throttle_connections](conf.ref.cluster_outbound_throttle_connections.php "cluster_outbound_throttle_connections") and [cluster_outbound_throttle_messages](conf.ref.cluster_outbound_throttle_messages.php "cluster_outbound_throttle_messages") configuration parameters. The cluster stanza must include a `replicate` directive to enable outbound message throttles (OBTM) or outbound connection throttles (OBTC).
+Cluster-wide outbound connection and message throttles are supported in the MTA, using the [cluster_outbound_throttle_connections](conf.ref.cluster_outbound_throttle_connections "cluster_outbound_throttle_connections") and [cluster_outbound_throttle_messages](conf.ref.cluster_outbound_throttle_messages.php "cluster_outbound_throttle_messages") configuration parameters. The cluster stanza must include a `replicate` directive to enable outbound message throttles (OBTM) or outbound connection throttles (OBTC).
 
 ```
 cluster {
@@ -222,7 +222,7 @@ cluster {
 
 ### 28.1.9. Shared Gauge Caches
 
-A gauge cache is a collection of named counters (gauges), which are manipulated by increment or decrement operations. For the Lua functions, see [msys.gauge_cache.inc](lua.ref.msys.gauge_cache.inc.php "msys.gauge_cache.inc") and [msys.gauge_cache.dec](lua.ref.msys.gauge_cache.dec.php "msys.gauge_cache.dec"). When gauge cache replication is enabled, increments or decrements are broadcast to all nodes on the cluster.
+A gauge cache is a collection of named counters (gauges), which are manipulated by increment or decrement operations. For the Lua functions, see [msys.gauge_cache.inc](lua.ref.msys.gauge_cache.inc "msys.gauge_cache.inc") and [msys.gauge_cache.dec](lua.ref.msys.gauge_cache.dec.php "msys.gauge_cache.dec"). When gauge cache replication is enabled, increments or decrements are broadcast to all nodes on the cluster.
 
 ```
 cluster {

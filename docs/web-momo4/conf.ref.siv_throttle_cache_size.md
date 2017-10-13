@@ -22,4 +22,4 @@ The default value is `1000` (because Adaptive Delivery makes heavy use of thrott
 <a name="idp26595056"></a>
 ## See Also
 
-[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery")
+[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery")

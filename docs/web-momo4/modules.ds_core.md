@@ -50,7 +50,7 @@ When set to `true`, query results will not be cached. Default value is `false`.
 
 <dd>
 
-Systems with a large IO pool may run into an issue whereby Momentum maintains many idle connections to the datasource or datasources that are in use; this can potentially starve other machines of connections. By specifying the thread pool that is used, you can configure the datasource thread `pool` size independently of the IO pool size, dispatching datasource queries on a per-datasource basis. The threadpool referenced by this option must be defined. For more information about threadpools see [threadpool](conf.ref.threadpool.php "threadpool"). Default value is `IO`.
+Systems with a large IO pool may run into an issue whereby Momentum maintains many idle connections to the datasource or datasources that are in use; this can potentially starve other machines of connections. By specifying the thread pool that is used, you can configure the datasource thread `pool` size independently of the IO pool size, dispatching datasource queries on a per-datasource basis. The threadpool referenced by this option must be defined. For more information about threadpools see [threadpool](conf.ref.threadpool "threadpool"). Default value is `IO`.
 
 </dd>
 
@@ -58,7 +58,7 @@ Systems with a large IO pool may run into an issue whereby Momentum maintains ma
 
 <dd>
 
-When set to `true`, query results will be serialized and published across the cluster. This is most effective when used with queries that are expensive to run and where the results are likely to be needed on more than one node of the cluster within a short time span. To share a cache across a cluster, you also need to add a replicate stanza to the cluster module. For an example, see [Section 28.1.6, “Replicated Caches”](cluster.config.replication.php#cluster.replicatedcache "28.1.6. Replicated Caches"). Default value is `true`.
+When set to `true`, query results will be serialized and published across the cluster. This is most effective when used with queries that are expensive to run and where the results are likely to be needed on more than one node of the cluster within a short time span. To share a cache across a cluster, you also need to add a replicate stanza to the cluster module. For an example, see [Section 28.1.6, “Replicated Caches”](cluster.config.replication#cluster.replicatedcache "28.1.6. Replicated Caches"). Default value is `true`.
 
 You are encouraged to create a separate cache dedicated to this type of query, should you require it.
 
@@ -118,7 +118,7 @@ Datasource queries are run in one of the thread pools (almost always the IO thre
 
 Datasources are not modules so you cannot determine their names using the **module list**      command. Use **config locate datasource**                   instead.
 
-To set datasource options from the console, use the syntax config set datasource *`ds_name option value`* . For example, set the `cache_life` of the datasource defined in [Example 71.46, “Specifying a Datasource”](modules.ds_core.php#modules.ds_core.configuration.example "Example 71.46. Specifying a Datasource") in the following way:
+To set datasource options from the console, use the syntax config set datasource *`ds_name option value`* . For example, set the `cache_life` of the datasource defined in [Example 71.46, “Specifying a Datasource”](modules.ds_core#modules.ds_core.configuration.example "Example 71.46. Specifying a Datasource") in the following way:
 
 `07:57:51 /tmp/2025> config set datasource mssql cache_life 3500`**Character Encoding Support**
 
@@ -132,11 +132,11 @@ Datasource drivers are loaded automatically as needed and do not need to be expl
 
 For Lua scripting examples, see:
 
-*   [msys.db.execute](lua.ref.msys.db.execute.php "msys.db.execute")
+*   [msys.db.execute](lua.ref.msys.db.execute "msys.db.execute")
 
-*   [msys.db.query](lua.ref.msys.db.query.php "msys.db.query")
+*   [msys.db.query](lua.ref.msys.db.query "msys.db.query")
 
-*   [msys.db.fetch_row](lua.ref.msys.db.fetch_row.php "msys.db.fetch_row")
+*   [msys.db.fetch_row](lua.ref.msys.db.fetch_row "msys.db.fetch_row")
 
 **71.29.2.1.1. SQLite**
 
@@ -346,7 +346,7 @@ Control_Listener {
 }
 ```
 
-The Momentum LDAP driver supports a "bindname" extension for overriding the DN, user, and password used to connect to LDAP. The DN specified in the LDAP query is standard. In [Example 71.49, “Active Directory Authentication Configuration”](modules.ds_core.php#module.ds_core.ldap.authentication.example "Example 71.49. Active Directory Authentication Configuration"), you'll notice the substitutions for both `$user` and `$pass`. The only non-standard additional bit is `x-bindpw`, which is again supported by our LDAP driver.
+The Momentum LDAP driver supports a "bindname" extension for overriding the DN, user, and password used to connect to LDAP. The DN specified in the LDAP query is standard. In [Example 71.49, “Active Directory Authentication Configuration”](modules.ds_core#module.ds_core.ldap.authentication.example "Example 71.49. Active Directory Authentication Configuration"), you'll notice the substitutions for both `$user` and `$pass`. The only non-standard additional bit is `x-bindpw`, which is again supported by our LDAP driver.
 
 <h7><a name="idp21506544"></a>Limiting Access by Roles</h7>
 
@@ -416,7 +416,7 @@ Datasource "pgsql" {
 }
 ```
 
-This data source also makes use of the other configuration parameters described in [Section 71.29.1, “Configuration”](modules.ds_core.php#modules.ds_core.configuration "71.29.1. Configuration").
+This data source also makes use of the other configuration parameters described in [Section 71.29.1, “Configuration”](modules.ds_core#modules.ds_core.configuration "71.29.1. Configuration").
 
 **71.29.2.1.6. Constant Database (CDB)**<a class="indexterm" name="idp21534176"></a>
 

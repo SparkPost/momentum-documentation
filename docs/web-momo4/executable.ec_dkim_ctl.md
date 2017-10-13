@@ -103,4 +103,4 @@ Show version information.
 <a name="idp11521792"></a>
 ## See Also
 
-[Chapter 22, *Using Yahoo! DomainKeys*](using_domainkeys.php "Chapter 22. Using Yahoo! DomainKeys") , [Chapter 23, *Using DomainKeys Identified Mail (DKIM) Signatures*](using_dkim.php "Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures") 
+[Chapter 22, *Using Yahoo! DomainKeys*](using_domainkeys "Chapter 22. Using Yahoo! DomainKeys") , [Chapter 23, *Using DomainKeys Identified Mail (DKIM) Signatures*](using_dkim.php "Chapter 23. Using DomainKeys Identified Mail (DKIM) Signatures") 

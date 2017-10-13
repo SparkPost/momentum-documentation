@@ -18,4 +18,4 @@ Enable this function with the statement `require('msys.extended.message');`.
 <a name="idp17149120"></a>
 ## See Also
 
-[msgpart:insertAfter](lua.ref.msgpart_insertAfter.php "msgpart:insertAfter")
+[msgpart:insertAfter](lua.ref.msgpart_insertAfter "msgpart:insertAfter")

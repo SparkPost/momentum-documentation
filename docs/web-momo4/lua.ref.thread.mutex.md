@@ -52,4 +52,4 @@ Enable this function with the statement `require('thread');`.
 <a name="idp19233296"></a>
 ## See Also
 
-[msys.runInPool](lua.ref.msys.runinpool.php "msys.runInPool"), [msys.sleep](lua.ref.msys.sleep.php "msys.sleep"), [msys.lock](lua.ref.msys.lock.php "msys.lock"), [msys.unlock](lua.ref.msys.unlock.php "msys.unlock")
+[msys.runInPool](lua.ref.msys.runinpool "msys.runInPool"), [msys.sleep](lua.ref.msys.sleep.php "msys.sleep"), [msys.lock](lua.ref.msys.lock.php "msys.lock"), [msys.unlock](lua.ref.msys.unlock.php "msys.unlock")

@@ -8,15 +8,15 @@ The Metrics API enables you to retrieve a wide variety of reporting data using t
 
 **Reporting Data Using the Metrics API** 
 
-This section provides instructions to view the engagement data generated in the tutorial in [Chapter 61, *Tracking Engagement for HTTP*                    ](engagement_tracking_http.php "Chapter 61. Tracking Engagement for HTTP") using the REST API, instead of the UI. It introduces the Metrics API, which provides the means for retrieving the statistical, real-time data captured by Momentum.
+This section provides instructions to view the engagement data generated in the tutorial in [Chapter 61, *Tracking Engagement for HTTP*                    ](engagement_tracking_http "Chapter 61. Tracking Engagement for HTTP") using the REST API, instead of the UI. It introduces the Metrics API, which provides the means for retrieving the statistical, real-time data captured by Momentum.
 
 ### Note
 
 Engagement events are emitted by Message Generation, which is licensed separately from the core Momentum platform. For this tutorial, you must have Message Generation.
 
-This tutorial assumes that you have completed the tutorial in [Chapter 61, *Tracking Engagement for HTTP*](engagement_tracking_http.php "Chapter 61. Tracking Engagement for HTTP") . A general knowledge of command line tools, JSON, and HTTP protocol is required.
+This tutorial assumes that you have completed the tutorial in [Chapter 61, *Tracking Engagement for HTTP*](engagement_tracking_http "Chapter 61. Tracking Engagement for HTTP") . A general knowledge of command line tools, JSON, and HTTP protocol is required.
 
-You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey.php "Chapter 43. Creating an API Key") .
+You must have a valid API key to complete this tutorial. If you do not, see [Chapter 43, *Creating an API Key*](create_apikey "Chapter 43. Creating an API Key") .
 
 Follow these steps to report data using the Metrics API:
 

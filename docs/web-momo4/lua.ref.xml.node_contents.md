@@ -27,9 +27,9 @@ child:contents("I am a child node.");
 
 ### Note
 
-In the preceding example, the element node <item>, holds a child text node with the value "I am a child node". `node:contents()` will return the value of the text node of <item>. "I am a child node" is not the value of the <item> element. This is evident if you look at [Example 70.81, “node:name example”](lua.ref.xml.node_name.php#lua.ref.xml.node_name.example "Example 70.81. node:name example")".
+In the preceding example, the element node <item>, holds a child text node with the value "I am a child node". `node:contents()` will return the value of the text node of <item>. "I am a child node" is not the value of the <item> element. This is evident if you look at [Example 70.81, “node:name example”](lua.ref.xml.node_name#lua.ref.xml.node_name.example "Example 70.81. node:name example")".
 
 <a name="idp19443616"></a>
 ### See Also
 
-[xml.parsexml](lua.ref.xml.parsexml.php "xml.parsexml")
+[xml.parsexml](lua.ref.xml.parsexml "xml.parsexml")

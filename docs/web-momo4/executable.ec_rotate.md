@@ -56,7 +56,7 @@ The `ec_rotate.conf` file specifies the configuration for this command. By defau
 
 ### Note
 
-The **ec_rotate** script is hardcoded to rotate the files named above. You only need to change the default `ec_rotate.conf` file if you wish to change the location of these files, if you wish to rotate additional files, or if you wish to change the retention period. See [Example 34.1, “ec_rotate.conf”](log_rotating.php#conf.ref.ec_rotate.conf.default "Example 34.1. ec_rotate.conf").
+The **ec_rotate** script is hardcoded to rotate the files named above. You only need to change the default `ec_rotate.conf` file if you wish to change the location of these files, if you wish to rotate additional files, or if you wish to change the retention period. See [Example 34.1, “ec_rotate.conf”](log_rotating#conf.ref.ec_rotate.conf.default "Example 34.1. ec_rotate.conf").
 
 The following options change the behavor of the **ec_rotate** command:
 
@@ -82,7 +82,7 @@ Specify a configuration file for **ec_rotate** to use. Default is `ec_rotate.con
 
 <dd>
 
-If this option is specified, the script will first try to find the configuration file at `/opt/msys/ecelerity/etc/ec_rotate.conf`. If this file exists, it will use it as the configuration file. This option has the same effects as `-conf /opt/msys/ecelerity/etc/ec_rotate.conf`. Otherwise, files at their default locations will be rotated. For more information about the `ec_rotate.conf` file see [Section 34.1, “`ec_rotate.conf` File”](log_rotating.php#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File").
+If this option is specified, the script will first try to find the configuration file at `/opt/msys/ecelerity/etc/ec_rotate.conf`. If this file exists, it will use it as the configuration file. This option has the same effects as `-conf /opt/msys/ecelerity/etc/ec_rotate.conf`. Otherwise, files at their default locations will be rotated. For more information about the `ec_rotate.conf` file see [Section 34.1, “`ec_rotate.conf` File”](log_rotating#conf.ref.ec_rotate.conf "34.1. ec_rotate.conf File").
 
 </dd>
 

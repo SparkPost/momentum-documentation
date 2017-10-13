@@ -18,7 +18,7 @@ This function returns a resource list blobject from the configuration system.
 
 ### Warning
 
-When you are finished with the returned object, you must call [ec_blobject_delref](https://support.messagesystems.com/docs/web-c-api/apis.ec_blobject_delref.php) to dispose of it.
+When you are finished with the returned object, you must call [ec_blobject_delref](https://support.messagesystems.com/docs/web-c-api/apis.ec_blobject_delref) to dispose of it.
 
 When the `registering` parameter is `EC_CFG_RSRC_REGISTERING`, the configuration system will return the resource list from the currently-being-assembled configuration transaction. If the resource list does not exist in the currently-being-assembled transaction, then it will be created.
 
@@ -58,7 +58,7 @@ It can be one of the following values:
 
 **Return Values**
 
-This function returns a [ec_blobject](https://support.messagesystems.com/docs/web-c-api/structs.ec_blobject.php) or `NULL`.
+This function returns a [ec_blobject](https://support.messagesystems.com/docs/web-c-api/structs.ec_blobject) or `NULL`.
 
 **Threading**
 
@@ -67,4 +67,4 @@ This hook can be called in any thread.
 <a name="idp7808848"></a>
 ## See Also
 
-[config_rsrc_setup](hooks.config_rsrc_setup.php "config_rsrc_setup")
+[config_rsrc_setup](hooks.config_rsrc_setup "config_rsrc_setup")

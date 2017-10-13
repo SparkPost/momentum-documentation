@@ -13,11 +13,11 @@ sess:request_set_body — Set the body of an HTTP session
 `request: JSON string`<a name="idp15310640"></a>
 ## Description
 
-Set the body of an HTTP session. `request` is a JSON-formatted string. You must call [sess:request_finalize](lua.ref.sess_request_finalize.php "sess:request_finalize") after invoking this function.
+Set the body of an HTTP session. `request` is a JSON-formatted string. You must call [sess:request_finalize](lua.ref.sess_request_finalize "sess:request_finalize") after invoking this function.
 
-For a code example see [http_request_eval](https://support.messagesystems.com/docs/web-push/push.http_request_eval.php).
+For a code example see [http_request_eval](https://support.messagesystems.com/docs/web-push/push.http_request_eval).
 
 <a name="idp15314640"></a>
 ### See Also
 
-[sess:request_finalize](lua.ref.sess_request_finalize.php "sess:request_finalize") and [sess:request_add_header](lua.ref.sess_request_add_header.php "sess:request_add_header")
+[sess:request_finalize](lua.ref.sess_request_finalize "sess:request_finalize") and [sess:request_add_header](lua.ref.sess_request_add_header.php "sess:request_add_header")

@@ -19,13 +19,13 @@ binding "example" {
 }
 ```
 
-Use the `host` stanza to define per-host configuration options. You can nest `host` stanzas beneath `binding` stanzas to define binding::host configuration options. For additional details, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback").
+Use the `host` stanza to define per-host configuration options. You can nest `host` stanzas beneath `binding` stanzas to define binding::host configuration options. For additional details, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback").
 
 The following options can be specified in a `host` stanza:
 
-*   [cluster_max_outbound_connections](conf.ref.cluster_max_outbound_connections.php "cluster_max_outbound_connections")
+*   [cluster_max_outbound_connections](conf.ref.cluster_max_outbound_connections "cluster_max_outbound_connections")
 
-*   [max_outbound_connections](conf.ref.max_outbound_connections.php "max_outbound_connections")
+*   [max_outbound_connections](conf.ref.max_outbound_connections "max_outbound_connections")
 
 **Configuration Change. ** As of version 4.2, Regex is supported in the `Host` stanza.
 
@@ -95,4 +95,4 @@ To be effective, you would do this for each of the MX hosts that service Google 
 <a name="idp24853504"></a>
 ## See Also
 
-[binding](conf.ref.binding.php "binding"), [domain](conf.ref.domain.php "domain")
+[binding](conf.ref.binding "binding"), [domain](conf.ref.domain.php "domain")

@@ -14,11 +14,11 @@ ECCluster_Listener {
 }
 ```
 
-For details about the non-module specific configuration options that are valid in the ECCluster_Listener scope, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For details about the non-module specific configuration options that are valid in the ECCluster_Listener scope, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
-Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
+Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
-For general information regarding listeners, see [Section 15.4, “Listeners”](listeners.php "15.4. Listeners").
+For general information regarding listeners, see [Section 15.4, “Listeners”](listeners "15.4. Listeners").
 
 ### 16.5.2. Msgcserver_Listener Configuration
 
@@ -32,8 +32,8 @@ msgcserver_listener {
 
 As with other listeners, a `Listen` scope is defined within the msgcserver_listener. This scope defines the port on which the listener listens. By default, the msgcserver_listener listens on port 4809.
 
-For details about the non-module specific configuration options that are valid in the msgcserver_listener and its nested scopes, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For details about the non-module specific configuration options that are valid in the msgcserver_listener and its nested scopes, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
-Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
+Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
-For general information regarding listeners, see [Section 15.4, “Listeners”](listeners.php "15.4. Listeners").
+For general information regarding listeners, see [Section 15.4, “Listeners”](listeners "15.4. Listeners").

@@ -20,9 +20,9 @@ The routes option allows you to specify how you would like mail for a given doma
 
 ### Note
 
-When delivering mail via ecstream, do not use the `routes` option. Use the [gateway](conf.ref.gateway.php "gateway") option instead.
+When delivering mail via ecstream, do not use the `routes` option. Use the [gateway](conf.ref.gateway "gateway") option instead.
 
-After changing the routes array and issuing the **config reload**        command, the new configuration will not take effect until the existing domain information has reached its TTL and the domain details need to be looked up again. If you need to change the routing information immediately, use the console command [refresh domain](console_commands.refresh_domain.php "refresh domain").
+After changing the routes array and issuing the **config reload**        command, the new configuration will not take effect until the existing domain information has reached its TTL and the domain details need to be looked up again. If you need to change the routing information immediately, use the console command [refresh domain](console_commands.refresh_domain "refresh domain").
 
 At the simplest level, you can implement what other MTAs call "smarthosting" by setting the route to the hostname or IP address of the local mail routing hub. You can specify more than just a single smart host using this configuration option, which allows for a much more flexible routing arrangement.
 
@@ -40,7 +40,7 @@ A fourth option is a protocol string of the form "smtp://ip?pref=P&ttl=T&port=O&
 
 *   `T` is the effective time-to-live for the entry in seconds.
 
-*   `O` is the port number to use for that host. The default port is configured with the `Remote_SMTP_Port` configuration option. See [remote_smtp_port](conf.ref.remote_smtp_port.php "remote_smtp_port").
+*   `O` is the port number to use for that host. The default port is configured with the `Remote_SMTP_Port` configuration option. See [remote_smtp_port](conf.ref.remote_smtp_port "remote_smtp_port").
 
 *   `Y` is the type of lookup. The value may be `mx` or `a`.
 
@@ -54,7 +54,7 @@ Routes = (
          )
 ```
 
-The `routes` option is also used when the [delivery_method](conf.ref.delivery_method.php "delivery_method") is:
+The `routes` option is also used when the [delivery_method](conf.ref.delivery_method "delivery_method") is:
 
 *   `apn` – The Apple Push Notification protocol
 
@@ -62,7 +62,7 @@ The `routes` option is also used when the [delivery_method](conf.ref.delivery_me
 
 *   `mm7` – Multimedia Messaging service protocol
 
-Use `routes` specifying the protocol, the server URL, and the port. The protocol should match the [delivery_method](conf.ref.delivery_method.php "delivery_method") as in the following examples:
+Use `routes` specifying the protocol, the server URL, and the port. The protocol should match the [delivery_method](conf.ref.delivery_method "delivery_method") as in the following examples:
 
 ```
 domain "apn_example.com"{
@@ -97,4 +97,4 @@ The accepted convention is to require (in circumstances where a configuration pa
 <a name="idp26380336"></a>
 ## See Also
 
-[gateway](conf.ref.gateway.php "gateway")
+[gateway](conf.ref.gateway "gateway")

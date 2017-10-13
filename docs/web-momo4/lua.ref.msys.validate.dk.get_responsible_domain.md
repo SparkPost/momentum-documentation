@@ -15,7 +15,7 @@ vctx: userdata, validate_context type
 <a name="idp18579296"></a>
 ## Description
 
-This function returns the domain responsible for the current message. This function requires the [`dk_validate`](modules.domainkeys.php "71.28. domainkeys – Yahoo! DomainKeys") module.
+This function returns the domain responsible for the current message. This function requires the [`dk_validate`](modules.domainkeys "71.28. domainkeys – Yahoo! DomainKeys") module.
 
 Enable this function with the statement `require('msys.validate.dk');`.
 
@@ -28,4 +28,4 @@ It takes the following parameters:
 <a name="idp18586656"></a>
 ## See Also
 
-[msys.validate.dk.sign](lua.ref.msys.validate.dk.sign.php "msys.validate.dk.sign")
+[msys.validate.dk.sign](lua.ref.msys.validate.dk.sign "msys.validate.dk.sign")

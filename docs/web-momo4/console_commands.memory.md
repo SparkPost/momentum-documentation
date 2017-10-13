@@ -146,4 +146,4 @@ Percentage of memory allocations that were satisfied using mmap, when system all
 
 The System RSS represents the current resident set size as seen by the underlying operating system. Note that Momentum tracks its own RSS which can grow and shrink based on usage. On most Unix systems, memory is appropriated by extending a programs heap space using the sbrk() call and as such will never decrease in size.
 
-For more information about memory as it relates to the C API see [Memory Functions](https://support.messagesystems.com/docs/web-c-api/memory.php).
+For more information about memory as it relates to the C API see [Memory Functions](https://support.messagesystems.com/docs/web-c-api/memory).

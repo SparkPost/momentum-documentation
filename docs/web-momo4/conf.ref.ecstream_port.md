@@ -10,7 +10,7 @@ ecstream_port — configure the port for ecstream deliveries
 <a name="idp24512240"></a>
 ## Description
 
-When Momentum is set to [perform delivery via ecstream](conf.ref.delivery_method.php "delivery_method"), this option sets the *destination* port that will be used. The default value is `1825`.
+When Momentum is set to [perform delivery via ecstream](conf.ref.delivery_method "delivery_method"), this option sets the *destination* port that will be used. The default value is `1825`.
 
 <a name="conf.ref.ecstream_port.example"></a>
 
@@ -31,4 +31,4 @@ ecstream_port is valid in the binding, binding_group, domain, and global scopes.
 <a name="idp24519968"></a>
 ## See Also
 
-[delivery_method](conf.ref.delivery_method.php "delivery_method")
+[delivery_method](conf.ref.delivery_method "delivery_method")

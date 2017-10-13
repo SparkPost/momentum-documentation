@@ -68,4 +68,4 @@ The row detailing the totals represents the totals across *all* domains on the g
 <a name="idp11813424"></a>
 ## See Also
 
-[binding delayed](console_commands.binding_delayed.php "binding delayed")
+[binding delayed](console_commands.binding_delayed "binding delayed")

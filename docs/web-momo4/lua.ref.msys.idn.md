@@ -39,4 +39,4 @@ This function wil help facilitate the translation of international characters to
 <a name="idp16177488"></a>
 ## See Also
 
-[msys.idn.to_utf8](lua.ref.msys.idn_utf8.php "msys.idn.to_utf8")
+[msys.idn.to_utf8](lua.ref.msys.idn_utf8 "msys.idn.to_utf8")

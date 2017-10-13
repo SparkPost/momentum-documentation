@@ -22,4 +22,4 @@ relay_for_sending_domains is valid in the esmtp_listener, listen, pathway, pathw
 <a name="idp25927568"></a>
 ## See Also
 
-[relay_hosts](conf.ref.relay_hosts.php "relay_hosts")
+[relay_hosts](conf.ref.relay_hosts "relay_hosts")

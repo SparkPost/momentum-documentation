@@ -4,13 +4,13 @@
 
 With this module, Momentum can provide authenticated SMTP sessions via SMTP AUTH by using any supported datasource as the authentication bridge. When a user connects to Momentum, if authentication is supported, it will attempt to authenticate the user by issuing a query against the configured datasource. If the result of that query is "true", the user was successfully identified.
 
-Since the module uses the datasource layer, it can take advantage of the built-in caching mechanism to avoid putting pressure on your authentication data stores. For more information about the ds_core module and datasource drivers, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core.php "71.29. ds_core - Datasource Query Core").
+Since the module uses the datasource layer, it can take advantage of the built-in caching mechanism to avoid putting pressure on your authentication data stores. For more information about the ds_core module and datasource drivers, see [Section 71.29, “ds_core - Datasource Query Core”](modules.ds_core "71.29. ds_core - Datasource Query Core").
 
 You may define multiple authentication schemes against different datasources, and configure your listeners to use a different scheme depending on the connecting IP address.
 
 ### Note
 
-Hosts are not subject to any SMTP authentication that you may have implemented when specified by the [`relay_hosts`](conf.ref.relay_hosts.php "relay_hosts") option or when [`open_relay`](conf.ref.open_relay.php "open_relay") is set to `true`.
+Hosts are not subject to any SMTP authentication that you may have implemented when specified by the [`relay_hosts`](conf.ref.relay_hosts "relay_hosts") option or when [`open_relay`](conf.ref.open_relay.php "open_relay") is set to `true`.
 
 When a user attempts to authenticate, the SMTP listener routes the authentication attempt to the authentication module, which then uses the query that you have configured. If the results of the query are not already known, a query is run asynchronously to obtain them, and the SMTP session is suspended, allowing Momentum to continue to service other sessions. When the results come back, the first column of the first row is inspected; if it is a non-zero value, then the authentication is considered successful.
 
@@ -89,7 +89,7 @@ Datasource cache to execute the query against.
 
 Stanza enumerates all possible groups or roles.
 
-EnumGroups stanzas can be used to plug in to an external authentication system defined in an Authorization stanza. For example, the EnumGroup stanza allows you to interrogate the groups and then present those in a list for assigning permissions via an Authorization stanza. See [authorization](conf.ref.authorization.php "authorization").
+EnumGroups stanzas can be used to plug in to an external authentication system defined in an Authorization stanza. For example, the EnumGroup stanza allows you to interrogate the groups and then present those in a list for assigning permissions via an Authorization stanza. See [authorization](conf.ref.authorization "authorization").
 
 </dd>
 
@@ -115,7 +115,7 @@ Query to be executed.
 
 All the groups associated with the user.
 
-QueryGroups stanzas can be used to plug in to an external authentication system defined in an Authorization stanza. See [authorization](conf.ref.authorization.php "authorization").
+QueryGroups stanzas can be used to plug in to an external authentication system defined in an Authorization stanza. See [authorization](conf.ref.authorization "authorization").
 
 </dd>
 
@@ -292,7 +292,7 @@ ESMTP_Listener {
 
 ### Note
 
-For licensing reasons, the MySQL module does not ship with Momentum and must be downloaded separately. For instructions on downloading and installing this module, see [Section 71.29.2.1.8, “MySQL”](modules.ds_core.php#modules.ds_core.ds_mysql "71.29.2.1.8. MySQL").
+For licensing reasons, the MySQL module does not ship with Momentum and must be downloaded separately. For instructions on downloading and installing this module, see [Section 71.29.2.1.8, “MySQL”](modules.ds_core#modules.ds_core.ds_mysql "71.29.2.1.8. MySQL").
 
 ### 71.8.3. Authentication against LDAP
 

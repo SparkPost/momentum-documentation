@@ -18,4 +18,4 @@ Enable this function with the statement `require('msys.threadpool');`.
 <a name="idp18458464"></a>
 ## See Also
 
-[msys.threadpool.find](lua.ref.msys.threadpool.find.php "msys.threadpool.find"), [msys.threadpool.stat](lua.ref.msys.threadpool.stat.php "msys.threadpool.stat"), [threadpool](conf.ref.threadpool.php "threadpool")
+[msys.threadpool.find](lua.ref.msys.threadpool.find "msys.threadpool.find"), [msys.threadpool.stat](lua.ref.msys.threadpool.stat.php "msys.threadpool.stat"), [threadpool](conf.ref.threadpool.php "threadpool")

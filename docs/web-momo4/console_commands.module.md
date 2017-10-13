@@ -39,7 +39,7 @@ Module: ds_core
 ...
 ```
 
-In addition to supplying information about your configuration, the scope name and the instance name shown by the **module list**      command are required when issuing module-specific commands. For more information, see [Section 37.3, “Using Module-Specific Console Commands”](module_specific_console_commands.using.php "37.3. Using Module-Specific Console Commands").
+In addition to supplying information about your configuration, the scope name and the instance name shown by the **module list**      command are required when issuing module-specific commands. For more information, see [Section 37.3, “Using Module-Specific Console Commands”](module_specific_console_commands.using "37.3. Using Module-Specific Console Commands").
 
 The **module hooks**       command displays all the dynamic hooks in the system, along with each hook's prototype. The output should be similar to the following:
 

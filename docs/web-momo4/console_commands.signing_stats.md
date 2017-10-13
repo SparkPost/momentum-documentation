@@ -144,4 +144,4 @@ The total number of messages processed including messages that the signing algor
 <a name="idp11281376"></a>
 ## See Also
 
-[Section 71.28, “domainkeys – Yahoo! DomainKeys”](modules.domainkeys.php "71.28. domainkeys – Yahoo! DomainKeys"), [Section 71.50, “opendkim – Open Source DKIM”](modules.opendkim.php "71.50. opendkim – Open Source DKIM"), and [signing_stats reset](console_commands.signing_stats_reset.php "signing_stats reset")
+[Section 71.28, “domainkeys – Yahoo! DomainKeys”](modules.domainkeys "71.28. domainkeys – Yahoo! DomainKeys"), [Section 71.50, “opendkim – Open Source DKIM”](modules.opendkim.php "71.50. opendkim – Open Source DKIM"), and [signing_stats reset](console_commands.signing_stats_reset.php "signing_stats reset")

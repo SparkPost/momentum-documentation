@@ -23,4 +23,4 @@ The default value is `disabled`.
 <a name="idp23619456"></a>
 ## See Also
 
-[binding_auto_replumb_interval](conf.ref.binding_auto_replumb_interval.php "binding_auto_replumb_interval")
+[binding_auto_replumb_interval](conf.ref.binding_auto_replumb_interval "binding_auto_replumb_interval")

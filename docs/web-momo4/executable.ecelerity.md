@@ -65,4 +65,4 @@ Use an alternate config file.
 <a name="idp13199456"></a>
 ## See Also
 
-[ec_ctl](executable.ec_ctl.php "ec_ctl"), [Section 15.6, “`ecelerity.conf` File”](conf.ref.ecelerity.conf.php "15.6. ecelerity.conf File"), [Chapter 36, *Starting Momentum (**ecelerity**)*](conf.starting.php "Chapter 36. Starting Momentum (ecelerity)") 
+[ec_ctl](executable.ec_ctl "ec_ctl"), [Section 15.6, “`ecelerity.conf` File”](conf.ref.ecelerity.conf.php "15.6. ecelerity.conf File"), [Chapter 36, *Starting Momentum (**ecelerity**)*](conf.starting.php "Chapter 36. Starting Momentum (ecelerity)") 

@@ -2,7 +2,7 @@
 
 Momentum's module API is at the core of how it is extended. When a module is loaded, it is named based on the *`module_name`* specified in the configuration. Some modules can have multiple instances loaded with different configurations (e.g. to log different sets of information into different log files), while other modules are singletons and can only be loaded once.
 
-All modules load automatically if you use any of the options they declare or use other resources provided by them. However, the module must be explicitly loaded to set its configuration options. Note that you do not need to explicitly declare modules that do not have options (apart from the `enabled` and `debug_level` options common to all modules). To determine if the module is loaded implicitly, refer to the specific module in [Chapter 71, *Modules Reference*](modules.php "Chapter 71. Modules Reference") .
+All modules load automatically if you use any of the options they declare or use other resources provided by them. However, the module must be explicitly loaded to set its configuration options. Note that you do not need to explicitly declare modules that do not have options (apart from the `enabled` and `debug_level` options common to all modules). To determine if the module is loaded implicitly, refer to the specific module in [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 
 ### 15.5.1. Modules Configuration
 
@@ -16,7 +16,7 @@ modulename "*`instancename`*" {
   ...
 }
 
-Most modules have a module name, a scope name, and one or more instance names. However, singleton modules do not have instance names and can only be loaded once. To determine whether a module is a singleton, refer to [Chapter 65, *Modules Summary*        ](modules.summary.all.modules.php "Chapter 65. Modules Summary") or use the **module list**      command from the console. The following is an example partial output:
+Most modules have a module name, a scope name, and one or more instance names. However, singleton modules do not have instance names and can only be loaded once. To determine whether a module is a singleton, refer to [Chapter 65, *Modules Summary*        ](modules.summary.all.modules "Chapter 65. Modules Summary") or use the **module list**      command from the console. The following is an example partial output:
 
 ```
 ...
@@ -36,9 +36,9 @@ Module: ec_logger:ec_logger
 ...
 ```
 
-Whether a module is a singleton effects how module-specific console commands are invoked. For details, see [Section 37.3, “Using Module-Specific Console Commands”](module_specific_console_commands.using.php "37.3. Using Module-Specific Console Commands").
+Whether a module is a singleton effects how module-specific console commands are invoked. For details, see [Section 37.3, “Using Module-Specific Console Commands”](module_specific_console_commands.using "37.3. Using Module-Specific Console Commands").
 
-You can also set configuration options from the console at runtime. Note that you also need to know whether a module is a singleton to set options using this method. For details, see [Section 37.4, “Setting and Getting Module Options from the Console”](modules.options.console.php "37.4. Setting and Getting Module Options from the Console").
+You can also set configuration options from the console at runtime. Note that you also need to know whether a module is a singleton to set options using this method. For details, see [Section 37.4, “Setting and Getting Module Options from the Console”](modules.options.console "37.4. Setting and Getting Module Options from the Console").
 
 Some modules (typically antivirus modules) must be loaded in "passive" mode. To load a module passively, set the `enabled` option to `false`. For example, use the following syntax in the `ecelerity.conf` file:
 
@@ -83,7 +83,7 @@ The following is an example of setting the debug level of the bounce_logger modu
 
 `config set bounce_logger bounce_logger1 Debug_Level DEBUG`
 
-The debug level is set in the same way as any other module option. For a list of all the debug levels, see [Table 72.1, “Debug levels”](conf.ref.debug_flags.php#conf.ref.debug.levels "Table 72.1. Debug levels").
+The debug level is set in the same way as any other module option. For a list of all the debug levels, see [Table 72.1, “Debug levels”](conf.ref.debug_flags#conf.ref.debug.levels "Table 72.1. Debug levels").
 
 Be sure to turn off debugging when you are finished, otherwise log files can become excessively large.
 
@@ -105,7 +105,7 @@ The examples in this file are trivial but demonstrate best-practice coding parad
     shell> chmod +x /opt/msys/ecelerity/libexec/lua/lua_sample.so
     ```
 
-To run the example, create the following Lua script using the instructions given at [Section 62.2.4, “Creating Policy Scripts”](implementing.policy.scriptlets.php#policy.best.practices "62.2.4. Creating Policy Scripts"):
+To run the example, create the following Lua script using the instructions given at [Section 62.2.4, “Creating Policy Scripts”](implementing.policy.scriptlets#policy.best.practices "62.2.4. Creating Policy Scripts"):
 
 ```
 require("lua_sample");
@@ -133,4 +133,4 @@ scriptlet "scriptlet" {
 }
 ```
 
-For detailed information about how Lua is implemented in Momentum, see [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet.php "71.60. scriptlet - Lua Policy Scripts") and [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets").
+For detailed information about how Lua is implemented in Momentum, see [Section 71.60, “scriptlet - Lua Policy Scripts”](modules.scriptlet "71.60. scriptlet - Lua Policy Scripts") and [Section 62.2, “Policy Scriptlets”](implementing.policy.scriptlets.php "62.2. Policy Scriptlets").

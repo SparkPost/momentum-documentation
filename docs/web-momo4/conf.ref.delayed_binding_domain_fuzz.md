@@ -22,4 +22,4 @@ delayed_binding_domain_fuzz is valid in the global, binding, and binding_group s
 <a name="idp24249264"></a>
 ## See Also
 
-[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery")
+[Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery")

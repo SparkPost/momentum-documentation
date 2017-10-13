@@ -4,7 +4,7 @@
 
 <dl class="toc">
 
-<dt>[18.1\. ECStream_Listener Configuration](ecstream_listener.php#ecstream_listener.config)</dt>
+<dt>[18.1\. ECStream_Listener Configuration](ecstream_listener#ecstream_listener.config)</dt>
 
 </dl>
 
@@ -27,10 +27,10 @@ In the example, `ECStream_Idle_Time` is the number of seconds of inactivity befo
 
 ### Note
 
-Use [gateway](conf.ref.gateway.php "gateway") when delivering mail via ecstream.
+Use [gateway](conf.ref.gateway "gateway") when delivering mail via ecstream.
 
-Not all listener options are valid within the ECStream_Listener or the Listen scope within an ECStream_Listener. For the valid options, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+Not all listener options are valid within the ECStream_Listener or the Listen scope within an ECStream_Listener. For the valid options, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
 Note that the `ecstream_idle_time` and `ecstream_max_batch_size` options are only valid within the ECStream scope or a listen scope within this scope. They are also the only options valid in the ECStream::Peer scope or ECStream_Listener::Listen::Peer scopes.
 
-For general information regarding listeners, see [Section 15.4, “Listeners”](listeners.php "15.4. Listeners").
+For general information regarding listeners, see [Section 15.4, “Listeners”](listeners "15.4. Listeners").

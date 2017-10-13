@@ -4,7 +4,7 @@
 
 <dl class="toc">
 
-<dt>[55.1\. Recipient Lists](web-ui.php#web-ui.recipients)</dt>
+<dt>[55.1\. Recipient Lists](web-ui#web-ui.recipients)</dt>
 
 </dl>
 
@@ -28,7 +28,7 @@ The UI supports the following browsers:
 
 It supports the current and previous major releases of these browsers on a rolling basis. Each time a new version is released, the UI will begin supporting that version and stop supporting the third most recent version. All browsers must have cookies and JavaScript enabled. The UI is viewed best with a screen resolution of at least 1200 pixels wide. When viewed at lower resolutions, the built-in responsive design ability will adjust the layout as though displaying on a tablet device.
 
-The UI opens in the Summary section under Reports, as shown in [Figure 55.1, “User Interface”](web-ui.php#figure_summary_report "Figure 55.1. User Interface"). It supports your native language by setting the rules for date format, number format, and sorting based on the language set in your browser.
+The UI opens in the Summary section under Reports, as shown in [Figure 55.1, “User Interface”](web-ui#figure_summary_report "Figure 55.1. User Interface"). It supports your native language by setting the rules for date format, number format, and sorting based on the language set in your browser.
 
 <a name="figure_summary_report"></a>
 
@@ -114,7 +114,7 @@ You can manage your recipient lists using the Recipient Lists API or the Recipie
 
 ### 55.1.1. Viewing Your Recipient Lists
 
-The Recipients tab provides a tabular view of your existing recipient lists, as shown in [Figure 55.2, “Recipient Lists Table”](web-ui.php#figure_recipient_list "Figure 55.2. Recipient Lists Table"). The following information is displayed in the table for each recipient list:
+The Recipients tab provides a tabular view of your existing recipient lists, as shown in [Figure 55.2, “Recipient Lists Table”](web-ui#figure_recipient_list "Figure 55.2. Recipient Lists Table"). The following information is displayed in the table for each recipient list:
 
 *   Label - Label specified when you created the recipient list
 
@@ -214,7 +214,7 @@ You can also download a CSV template has all the appropriate headers as well as 
 
 ### 55.1.3. Uploading a Recipient List
 
-To upload your recipient list, click the New Recipient List icon in the upper-right corner of the Recipient Lists tab to open the Upload New Recipient List form, as shown in [Figure 55.3, “Upload New Recipient List”](web-ui.php#figure_list_upload "Figure 55.3. Upload New Recipient List").
+To upload your recipient list, click the New Recipient List icon in the upper-right corner of the Recipient Lists tab to open the Upload New Recipient List form, as shown in [Figure 55.3, “Upload New Recipient List”](web-ui#figure_list_upload "Figure 55.3. Upload New Recipient List").
 
 <a name="figure_list_upload"></a>
 
@@ -232,7 +232,7 @@ Enter the following information in the Upload New Recipient List form:
 
 *   CSV File - Select the file containing the recipient list details
 
-The example shown in [Figure 55.4, “Example Recipient List Details”](web-ui.php#figure_list_details "Figure 55.4. Example Recipient List Details") uploads the recipient list specified in the file `simple_list.csv`.
+The example shown in [Figure 55.4, “Example Recipient List Details”](web-ui#figure_list_details "Figure 55.4. Example Recipient List Details") uploads the recipient list specified in the file `simple_list.csv`.
 
 <a name="figure_list_details"></a>
 
@@ -252,7 +252,7 @@ Click Upload to upload your recipient list. There are three possible outcomes:
 
 You can update either the list content or the recipient list metadata (label, ID, description).
 
-To update recipient list content, edit the previously uploaded CSV file as needed. Be sure to follow all formatting requirements. Click the New Recipient List icon in the upper-right corner of the Recipient Lists tab to open the Upload New Recipient List form, as shown in [Figure 55.5, “Update Recipient List”](web-ui.php#figure_list_update "Figure 55.5. Update Recipient List").
+To update recipient list content, edit the previously uploaded CSV file as needed. Be sure to follow all formatting requirements. Click the New Recipient List icon in the upper-right corner of the Recipient Lists tab to open the Upload New Recipient List form, as shown in [Figure 55.5, “Update Recipient List”](web-ui#figure_list_update "Figure 55.5. Update Recipient List").
 
 <a name="figure_list_update"></a>
 
@@ -268,7 +268,7 @@ To update the metadata only, do not change the recipient list content. Click the
 
 To delete a recipient list, click Delete in the Actions column of the recipient list that you want to delete.
 
-In the Delete Recipient List window, click Delete to confirm your request, as shown in [Figure 55.6, “Confirm Delete”](web-ui.php#figure_confirm_list_delete "Figure 55.6. Confirm Delete").
+In the Delete Recipient List window, click Delete to confirm your request, as shown in [Figure 55.6, “Confirm Delete”](web-ui#figure_confirm_list_delete "Figure 55.6. Confirm Delete").
 
 <a name="figure_confirm_list_delete"></a>
 

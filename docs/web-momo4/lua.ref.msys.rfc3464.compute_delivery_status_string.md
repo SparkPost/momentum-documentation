@@ -18,4 +18,4 @@ Enable this function with the statement `require('msys.rfc3464');`.
 <a name="idp18388096"></a>
 ## See Also
 
-[msys.rfc3464.compute_delivery_status](lua.ref.msys.rfc3464.compute_delivery_status.php "msys.rfc3464.compute_delivery_status")
+[msys.rfc3464.compute_delivery_status](lua.ref.msys.rfc3464.compute_delivery_status "msys.rfc3464.compute_delivery_status")

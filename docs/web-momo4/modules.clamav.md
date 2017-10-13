@@ -29,7 +29,7 @@ antivirus "antivirus1" {
 
 ### Note
 
-In order to use this module, you must install ClamAV on your server and update it as needed or desired. Configure this module in the global scope **and** also within the antivirus scope as shown in [Example 71.28, “clamav Configuration”](modules.clamav.php#example.clamav.3 "Example 71.28. clamav Configuration").
+In order to use this module, you must install ClamAV on your server and update it as needed or desired. Configure this module in the global scope **and** also within the antivirus scope as shown in [Example 71.28, “clamav Configuration”](modules.clamav#example.clamav.3 "Example 71.28. clamav Configuration").
 
 The clamav module is a singleton in the global scope but a non-singleton within the antivirus scope. In the global scope this module only supports the `enabled` and `debug_level` options.
 
@@ -49,7 +49,7 @@ The ClamAV engine connects to its external daemon over TCP/IP. This means the da
 
 </dl>
 
-For a list of the configuration options that this module shares with other antivirus modules, see [Section 71.6.1, “Configuration”](modules.antivirus.php#modules.antivirus.configuration "71.6.1. Configuration"). For the clamav module, the `context_variable` option defaults to `clamav_status`.
+For a list of the configuration options that this module shares with other antivirus modules, see [Section 71.6.1, “Configuration”](modules.antivirus#modules.antivirus.configuration "71.6.1. Configuration"). For the clamav module, the `context_variable` option defaults to `clamav_status`.
 
 **71.17.1.1. clamav Runtime Usage****Lua Functions**
 
@@ -83,4 +83,4 @@ These functions return four values:
 
 *   The *engine scan code*           or `nil` if no engine scan code is available. If the scan result is msys.av.EC_AV_CLEAN, this code will be either `OK` or `Empty file`.
 
-For additional details about these functions, see [msys.av.scan](lua.ref.msys.av.scan.php "msys.av.scan") and [msys.av.scan_part](lua.ref.msys.av.scan_part.php "msys.av.scan_part").
+For additional details about these functions, see [msys.av.scan](lua.ref.msys.av.scan "msys.av.scan") and [msys.av.scan_part](lua.ref.msys.av.scan_part.php "msys.av.scan_part").

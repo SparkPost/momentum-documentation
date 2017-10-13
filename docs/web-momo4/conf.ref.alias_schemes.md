@@ -73,4 +73,4 @@ alias_schemes is valid in the domain, global, pathway, and pathway_group scopes.
 <a name="idp23484080"></a>
 ## See Also
 
-[Section 71.5, “alias – Alias Expansion”](modules.alias.php "71.5. alias – Alias Expansion")
+[Section 71.5, “alias – Alias Expansion”](modules.alias "71.5. alias – Alias Expansion")

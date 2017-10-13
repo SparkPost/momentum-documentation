@@ -80,7 +80,7 @@ Injection-specific JSON data which is supplied to the substitution engine. Recip
 
 The concept behind "IP Warmup" is that new IPs need to build a reputation with ISPs. For example, if you send 100,000 emails from a newly acquired IP address that has no history, most large ISPs will block email from this address. IP Warmup slowly increases the send rate on new IPs so that ISPs have time to gauge customer feedback. If there are minimal spam/abuse reports then the ISP will allow an increased send rate.
 
-Sometimes an IP with a good reputation will accidentally send bad content and damage its own reputation. In such cases, it may be necessary to re-establish a good reputation by temporarily suspending sending, reducing the send rate, or by "re-warming" the IP address. With Momentum, this is achieved using the adaptive module, which automatically sets any new bindings to "zero days old" and then slowly increases the send rate unless it starts seeing negative feedback. If this happens, the adaptive module throttles or temporarily suspends the IP address according to internal rules. For more information about the adaptive module, see [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive.php "71.3. adaptive – Adaptive Delivery").
+Sometimes an IP with a good reputation will accidentally send bad content and damage its own reputation. In such cases, it may be necessary to re-establish a good reputation by temporarily suspending sending, reducing the send rate, or by "re-warming" the IP address. With Momentum, this is achieved using the adaptive module, which automatically sets any new bindings to "zero days old" and then slowly increases the send rate unless it starts seeing negative feedback. If this happens, the adaptive module throttles or temporarily suspends the IP address according to internal rules. For more information about the adaptive module, see [Section 71.3, “adaptive – Adaptive Delivery”](modules.adaptive "71.3. adaptive – Adaptive Delivery").
 
 </dd>
 
@@ -276,7 +276,7 @@ All opens that were recorded by open tracking.
 
 <dd class="glossdef">
 
-A transactional message is a message that has only one recipient. The [gen_transactional_threads](modules.msg_gen.php#modules.gen_transactional_threads) option ensures that these kinds of messages are handled efficiently by minimizing database access wherever possible.
+A transactional message is a message that has only one recipient. The [gen_transactional_threads](modules.msg_gen#modules.gen_transactional_threads) option ensures that these kinds of messages are handled efficiently by minimizing database access wherever possible.
 
 </dd>
 
@@ -292,7 +292,7 @@ A collection of messages belonging to the same organization and the same campaig
 
 <dd class="glossdef">
 
-The number of recipients that clicked on any link in the message. You're counting recipients. From the example in [Raw Clicks](glossary.php#gloss.raw.clicks "Raw Clicks"), that's 3 Unique clicks.
+The number of recipients that clicked on any link in the message. You're counting recipients. From the example in [Raw Clicks](glossary#gloss.raw.clicks "Raw Clicks"), that's 3 Unique clicks.
 
 </dd>
 

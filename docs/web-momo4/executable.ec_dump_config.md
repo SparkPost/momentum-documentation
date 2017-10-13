@@ -54,4 +54,4 @@ Global configuration error.
 <a name="idp11325600"></a>
 ## See Also
 
-[validate_config](executable.validate_config.php "validate_config")
+[validate_config](executable.validate_config "validate_config")

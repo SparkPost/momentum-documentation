@@ -19,4 +19,4 @@ Signing Statistics are reset
 <a name="idp12853296"></a>
 ## See Also
 
-[Section 71.28, “domainkeys – Yahoo! DomainKeys”](modules.domainkeys.php "71.28. domainkeys – Yahoo! DomainKeys"), [Section 71.50, “opendkim – Open Source DKIM”](modules.opendkim.php "71.50. opendkim – Open Source DKIM"), [signing_stats](conf.ref.signing_stats.php "signing_stats"), and [signing_stats](console_commands.signing_stats.php "signing_stats")
+[Section 71.28, “domainkeys – Yahoo! DomainKeys”](modules.domainkeys "71.28. domainkeys – Yahoo! DomainKeys"), [Section 71.50, “opendkim – Open Source DKIM”](modules.opendkim.php "71.50. opendkim – Open Source DKIM"), [signing_stats](conf.ref.signing_stats.php "signing_stats"), and [signing_stats](console_commands.signing_stats.php "signing_stats")

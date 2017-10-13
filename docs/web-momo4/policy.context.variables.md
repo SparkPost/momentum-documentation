@@ -4,13 +4,13 @@
 
 <dl class="toc">
 
-<dt>[63.1\. Connection Context Variables](policy.context.variables.php#policy.predefined-context-conn)</dt>
+<dt>[63.1\. Connection Context Variables](policy.context.variables#policy.predefined-context-conn)</dt>
 
-<dt>[63.2\. Message Context Variables](policy.context-mess.php)</dt>
+<dt>[63.2\. Message Context Variables](policy.context-mess)</dt>
 
 </dl>
 
-As mentioned in [Section 62.1, “Validation and the Validation Context”](policy.php#policy.validation "62.1. Validation and the Validation Context"), context variables play a significant role when policy is enforced using scripts. In addition to user-defined variables, there are predefined validation context variables accessible in both the connection context and the message context. Not all context variables will be set in all cases; some, for example, depend on TLS settings and others on which modules are loaded into Momentum. Some context variables are defined in a global scope and some in a module scope.
+As mentioned in [Section 62.1, “Validation and the Validation Context”](policy#policy.validation "62.1. Validation and the Validation Context"), context variables play a significant role when policy is enforced using scripts. In addition to user-defined variables, there are predefined validation context variables accessible in both the connection context and the message context. Not all context variables will be set in all cases; some, for example, depend on TLS settings and others on which modules are loaded into Momentum. Some context variables are defined in a global scope and some in a module scope.
 
 ## 63.1. Connection Context Variables
 
@@ -26,32 +26,32 @@ This table lists all connection context variables that are predefined globally b
 
 | Connection Context Variable | Description |
 | --- | --- |
-| [auth_name](inbound_smtp.php "19.5. ESMTP_Listener Authentication") – Type of authentication | 
+| [auth_name](inbound_smtp "19.5. ESMTP_Listener Authentication") – Type of authentication | 
 
 Description of the form of authentication that was attempted (e.g. PLAIN, LOGIN, CRAM-MD5, DIGEST-MD5).
 
-This variable is available as of the [validate_auth](https://support.messagesystems.com/docs/web-c-api/hooks.core.validate_auth.php) hook. For scripting, use the `core_validate_auth_hook` callout.
+This variable is available as of the [validate_auth](https://support.messagesystems.com/docs/web-c-api/hooks.core.validate_auth) hook. For scripting, use the `core_validate_auth_hook` callout.
 
  |
-| [auth_status](inbound_smtp.php "19.5. ESMTP_Listener Authentication") – Authentication status | 
+| [auth_status](inbound_smtp "19.5. ESMTP_Listener Authentication") – Authentication status | 
 
 When an SMTP client performs an SMTP AUTH action, `auth_status` cwill be set to one of "pass", "fail", or "error".
 
-This variable is available as of the [validate_auth](https://support.messagesystems.com/docs/web-c-api/hooks.core.validate_auth.php) hook. For scripting, use the `core_validate_auth_hook` callout.
+This variable is available as of the [validate_auth](https://support.messagesystems.com/docs/web-c-api/hooks.core.validate_auth) hook. For scripting, use the `core_validate_auth_hook` callout.
 
  |
-| [auth_user](inbound_smtp.php "19.5. ESMTP_Listener Authentication") – Authenticated username | 
+| [auth_user](inbound_smtp "19.5. ESMTP_Listener Authentication") – Authenticated username | 
 
 When an SMTP client performs an SMTP AUTH action, `auth_user` will be set to the username used during authorization.
 
-This variable is available as of the [validate_auth](https://support.messagesystems.com/docs/web-c-api/hooks.core.validate_auth.php) hook. For scripting, use the `core_validate_auth_hook` callout.
+This variable is available as of the [validate_auth](https://support.messagesystems.com/docs/web-c-api/hooks.core.validate_auth) hook. For scripting, use the `core_validate_auth_hook` callout.
 
  |
-| [can_relay](inbound_smtp.php "19.5. ESMTP_Listener Authentication") – Whether relaying is allowed | 
+| [can_relay](inbound_smtp "19.5. ESMTP_Listener Authentication") – Whether relaying is allowed | 
 
-When an SMTP client is allowed to relay through Momentum because of an entry in [`relay_hosts`](conf.ref.relay_hosts.php "relay_hosts") or a relaying declaration in an ESMTP_Listener IP access control list, `can_relay` is set to "true".
+When an SMTP client is allowed to relay through Momentum because of an entry in [`relay_hosts`](conf.ref.relay_hosts "relay_hosts") or a relaying declaration in an ESMTP_Listener IP access control list, `can_relay` is set to "true".
 
-Accessible as of the [config_get_domain_relay](https://support.messagesystems.com/docs/web-c-api/hooks.core.config_get_domain_relay.php) hook.
+Accessible as of the [config_get_domain_relay](https://support.messagesystems.com/docs/web-c-api/hooks.core.config_get_domain_relay) hook.
 
  |
 | connection_message_count – Number of messages on the connection |  |
@@ -74,13 +74,13 @@ Accessible as of the EHLO phase.
 
 Since a given message "object" can only have one recipient, multiple recipients are a property of the current session and are tracked at the connection level not the message level. This variable counts the number of RCPT TOs since the last MAIL FROM, while `connection_rcpt_count` counts the *total* number of RCPT TOs on this open connection.
 
-Accessible as of the [validate_data_spool_each_rcpt](https://support.messagesystems.com/docs/web-c-api/hooks.core.validate_data_spool_each_rcpt.php) hook.
+Accessible as of the [validate_data_spool_each_rcpt](https://support.messagesystems.com/docs/web-c-api/hooks.core.validate_data_spool_each_rcpt) hook.
 
  |
 | tls – Whether TLS is in use |   |
 | tls_cipher – Identifies the cipher in use for a TLS enabled session | 
 
-Accessible from the [outbound_tls_ciphers](https://support.messagesystems.com/docs/web-c-api/hooks.core.outbound_tls_ciphers.php) hook.
+Accessible from the [outbound_tls_ciphers](https://support.messagesystems.com/docs/web-c-api/hooks.core.outbound_tls_ciphers) hook.
 
  |
 | tls_cipher_algbits – Number of bits the algorithm is based on | 
@@ -107,6 +107,6 @@ Set to the string `yes` if the peer certificate was verified against the configu
 
 Modules that support predefined module-specific connection context variables are listed below:
 
-*   [conntrol – Fine-Grained Connection Control](modules.conntrol.php#modules.conntrol.context.variables "71.22.2. Connection Context Variables")
+*   [conntrol – Fine-Grained Connection Control](modules.conntrol#modules.conntrol.context.variables "71.22.2. Connection Context Variables")
 
-*   [mail_loop – Mail Loop Detection](modules.mail_loop.php#modules.mail_loop.context.variables "71.45.2. Connection Context Variables")
+*   [mail_loop – Mail Loop Detection](modules.mail_loop#modules.mail_loop.context.variables "71.45.2. Connection Context Variables")

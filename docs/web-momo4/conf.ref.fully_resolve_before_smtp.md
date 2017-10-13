@@ -28,4 +28,4 @@ fully_resolve_before_smtp is valid in the binding, binding_group, domain, and gl
 <a name="idp24721824"></a>
 ## See Also
 
-[relay_domains](conf.ref.relay_domains.php "relay_domains")
+[relay_domains](conf.ref.relay_domains "relay_domains")

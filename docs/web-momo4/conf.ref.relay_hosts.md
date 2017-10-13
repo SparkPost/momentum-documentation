@@ -18,7 +18,7 @@ For example, all addresses in the `loopback` space begin with 127\. The netmask 
 
 ### Note
 
-Hosts specified by this option are not subject to any SMTP authentication that you may have implemented. For more information, see [Section 19.5, “ESMTP_Listener Authentication”](inbound_smtp.php "19.5. ESMTP_Listener Authentication").
+Hosts specified by this option are not subject to any SMTP authentication that you may have implemented. For more information, see [Section 19.5, “ESMTP_Listener Authentication”](inbound_smtp "19.5. ESMTP_Listener Authentication").
 
 The `relay_hosts` option has no effect on restricting access to an HTTP_Listener.
 
@@ -38,4 +38,4 @@ The `relay_hosts` option in the global scope follows the same semantics as the r
 <a name="idp25976512"></a>
 ## See Also
 
-[open_relay](conf.ref.open_relay.php "open_relay")
+[open_relay](conf.ref.open_relay "open_relay")

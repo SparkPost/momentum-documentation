@@ -32,4 +32,4 @@ Blackhole is valid in the binding, binding_group, domain and global scopes.
 <a name="idp23684400"></a>
 ## See Also
 
-[bounce_behavior](conf.ref.bounce_behavior.php "bounce_behavior"), [generate_bounces](conf.ref.generate_bounces.php "generate_bounces")
+[bounce_behavior](conf.ref.bounce_behavior "bounce_behavior"), [generate_bounces](conf.ref.generate_bounces.php "generate_bounces")

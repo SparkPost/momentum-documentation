@@ -60,4 +60,4 @@ The pathway *option* references a pathway scope and is valid within an esmtp_lis
 <a name="idp25807760"></a>
 ## See Also
 
-[pathway_group](conf.ref.pathway_group.php "pathway_group")
+[pathway_group](conf.ref.pathway_group "pathway_group")

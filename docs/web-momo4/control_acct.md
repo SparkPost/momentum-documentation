@@ -16,6 +16,6 @@ Control_Listener {
 }
 ```
 
-Logging of authentication events is enabled by turning on `log_authentication` in the Control_Listener configuration *and* configuring an accounting log in the [Section 71.30, “EC_logger – Momentum-Style Logging”](modules.ec_logger.php "71.30. EC_logger – Momentum-Style Logging") module. You may also develop your own accounting modules by implementing a hook.
+Logging of authentication events is enabled by turning on `log_authentication` in the Control_Listener configuration *and* configuring an accounting log in the [Section 71.30, “EC_logger – Momentum-Style Logging”](modules.ec_logger "71.30. EC_logger – Momentum-Style Logging") module. You may also develop your own accounting modules by implementing a hook.
 
-More information about authentication modules can be found at [Section 71.8, “auth_ds – Datasource based SMTP Authentication”](modules.auth_ds.php "71.8. auth_ds – Datasource based SMTP Authentication").
+More information about authentication modules can be found at [Section 71.8, “auth_ds – Datasource based SMTP Authentication”](modules.auth_ds "71.8. auth_ds – Datasource based SMTP Authentication").

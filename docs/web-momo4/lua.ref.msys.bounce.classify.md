@@ -18,4 +18,4 @@ Enable this function with the statement `require('msys.bounce');`.
 <a name="idp17600272"></a>
 ## See Also
 
-[Section 71.12, “bounce_classifier_override – Override/Augment Bounce Classifications”](modules.bounce_classifier_override.php "71.12. bounce_classifier_override – Override/Augment Bounce Classifications"), [msys.bounce.classify_smtp_response](lua.ref.msys.bounce.classify_smtp_response.php "msys.bounce.classify_smtp_response")
+[Section 71.12, “bounce_classifier_override – Override/Augment Bounce Classifications”](modules.bounce_classifier_override "71.12. bounce_classifier_override – Override/Augment Bounce Classifications"), [msys.bounce.classify_smtp_response](lua.ref.msys.bounce.classify_smtp_response.php "msys.bounce.classify_smtp_response")

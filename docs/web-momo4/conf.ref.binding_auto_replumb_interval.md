@@ -22,4 +22,4 @@ The default value is `60`.
 <a name="idp23634576"></a>
 ## See Also
 
-[binding_auto_replumb](conf.ref.binding_auto_replumb.php "binding_auto_replumb")
+[binding_auto_replumb](conf.ref.binding_auto_replumb "binding_auto_replumb")

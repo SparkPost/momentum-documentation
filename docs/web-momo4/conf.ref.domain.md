@@ -18,7 +18,7 @@ binding example {
 }
 ```
 
-Use the `domain` stanza to define per-domain configuration options. You can nest `domain` stanzas beneath `binding` stanzas creating a binding:domain configuration. For additional details, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback.php "15.3. Configuration Scopes and Fallback").
+Use the `domain` stanza to define per-domain configuration options. You can nest `domain` stanzas beneath `binding` stanzas creating a binding:domain configuration. For additional details, see [Section 15.3, “Configuration Scopes and Fallback”](ecelerity.conf.fallback "15.3. Configuration Scopes and Fallback").
 
 In addition to defining `domain` stanzas using domain names, you can also use IP addresses:
 
@@ -58,16 +58,16 @@ If multiple regex domain stanzas are declared in the same container, normal doma
 
 You almost always want to anchor the start and end of your regular expressions when using them for regex domains, otherwise they will perform substring matching which might have unexpected side effects, such as matching subdomains of "bad guy" domains and routing unwanted mail via trusted interfaces.
 
-For domain naming when using Momentum Mobile, see [Multi-protocol Domain Naming](https://support.messagesystems.com/docs/web-mobility/mobility.mm7.multiprotocol.php).
+For domain naming when using Momentum Mobile, see [Multi-protocol Domain Naming](https://support.messagesystems.com/docs/web-mobility/mobility.mm7.multiprotocol).
 
 <a name="idp24470704"></a>
 ## Scope and Valid Options
 
 `domain` is valid in the binding, binding_group, and global scopes.
 
-For a complete list of options valid in the domain scope, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary.php "Chapter 66. Configuration Options Summary") .
+For a complete list of options valid in the domain scope, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 
 <a name="idp24474672"></a>
 ## See Also
 
-[binding](conf.ref.binding.php "binding"), [host](conf.ref.host.php "host"), [match_cache_life](conf.ref.match_cache_life.php "match_cache_life"), [match_cache_size](conf.ref.match_cache_size.php "match_cache_size")
+[binding](conf.ref.binding "binding"), [host](conf.ref.host.php "host"), [match_cache_life](conf.ref.match_cache_life.php "match_cache_life"), [match_cache_size](conf.ref.match_cache_size.php "match_cache_size")

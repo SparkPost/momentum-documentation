@@ -20,4 +20,4 @@ After the specified number of failed DNS lookups, a message will be failed perma
 <a name="idp24400768"></a>
 ## See Also
 
-[mx_failures_fallback_to_a](conf.ref.mx_failures_fallback_to_a.php "mx_failures_fallback_to_a")
+[mx_failures_fallback_to_a](conf.ref.mx_failures_fallback_to_a "mx_failures_fallback_to_a")
