@@ -16,5 +16,6 @@ The following elements are required in order to aggregate log files on the log a
 *   Define the `logs` dictionary within the cluster module scope in `ecelerity-cluster.conf` See [logs](modules.cluster#option.logs.dictionary) .
     You can view the configuration by issuing the console command **config show cluster**              from the console on a cluster node.
 *   Define the `Logs` stanza in `eccluster.conf`. See [Log Aggregation](conf.ref.eccluster.conf#conf.ref.eccluster.conf.logs) .
+
 | [Prev](outbound_mail.relay_hosts)  | [Up](p.configuration) |  [Next](cluster.config.logging.centalized.logging) |
 | 25.7. Outbound Email Relay  | [Table of Contents](index) |  26.2. Centralized Logging Example |
