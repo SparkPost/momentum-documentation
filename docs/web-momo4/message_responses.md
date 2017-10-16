@@ -1,25 +1,14 @@
 | [Prev](p.appendix)  | Part XI. Appendix |  [Next](snmp-mib) |
-
 ## Message Responses
-
 **Table of Contents**
 
-<dl class="toc">
-
-<dt>[A.1\. Responses Sorted By Codes](message_responses#responses-by-code)</dt>
-
-</dl>
+* [A.1\. Responses Sorted By Codes](message_responses#responses-by-code)
 
 This appendix lists the various responses that may be returned by the MTA when attempting delivery. Where applicable an explanation of the response is provided. If a response is marked "[internal]", this usually indicates that the message did not originate with an external host but from the MTA itself. Messages so marked usually appear in the transient and permanent failure logs. Responses are sorted by SMTP code and then enhanced code.
-
 ## A.1. Responses Sorted By Codes
-
 Responses are sorted by SMTP code and then enhanced code.
-
 <a name="table-code"></a>
-
 **Table A.1. Responses sorted by code**
-
 | SMTP Code | Enhanced Code | Message | Comment |
 | --- | --- | --- | --- |
 |   | 4.3.0 | Resource limitations, please try later | See message. |
@@ -126,7 +115,5 @@ Responses are sorted by SMTP code and then enhanced code.
 | 554 | 5.4.7 | [internal] exceeded max time without delivery | See message. |
 | 554 | 5.7.0 | [internal] Blackholed | "Blackhole" option is set to "internal" |
 | 554 | 5.7.0 | [internal] Message manually purged | Purged messages from the system console |
-
 | [Prev](p.appendix)  | [Up](p.appendix) |  [Next](snmp-mib) |
 | Part XI. Appendix  | [Table of Contents](index) |  Appendix B. MIB Files |
-

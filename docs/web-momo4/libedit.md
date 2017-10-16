@@ -1,25 +1,14 @@
 | [Prev](smtp-response-codes)  | Part XI. Appendix |  [Next](libedit.extended) |
-
 ## Key Binding Reference for ec_console
-
 **Table of Contents**
 
-<dl class="toc">
-
-<dt>[D.1\. Editor Commands](libedit#libedit.emacs.editor)</dt>
-
-<dt>[D.2\. Extended Commands](libedit.extended)</dt>
-
-</dl>
+* [D.1\. Editor Commands](libedit#libedit.emacs.editor)
+* [D.2\. Extended Commands](libedit.extended)
 
 ## D.1. Editor Commands
-
 **ec_console** uses the `libedit` library to provide command line editing facilities. By default, libedit starts in Emacs mode, which provides built-in commands that you can combine into macros to automate your work. You can change the default setting by configuring your `.editrc` file.
-
 <a name="emacs_and_editor_commands"></a>
-
 **Table D.1. Editor Commands**
-
 | Default Emacs Key Binding | Editor Command | Description |
 | --- | --- | --- |
 | Ctrl+@ | em-set-mark | Set the mark at cursor. |
@@ -111,7 +100,5 @@
 |  | vi-to-prev-char | Vi move up to the character specified previous. |
 |  | vi-undo | Vi undo last change. |
 |  | vi-zero | Vi move to the beginning of line. |
-
 | [Prev](smtp-response-codes)  | [Up](p.appendix) |  [Next](libedit.extended) |
 | Appendix C. SMTP Response Codes  | [Table of Contents](index) |  D.2. Extended Commands |
-
