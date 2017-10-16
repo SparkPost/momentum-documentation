@@ -29,5 +29,6 @@
 * [validate_config](executable.validate_config) — check the validity of the configuration files
 
 This chapter provides the definitions of the executable commands that are referenced in this document.
+
 | [Prev](console_commands.write_config)  | [Up](p.reference) |  [Next](executable.ad_summary) |
 | write config  | [Table of Contents](index) |  ad_summary |

@@ -19,5 +19,6 @@ The following describes the default directories and configuration related to the
     During installation there is no prompt for an alternative data storage location; instead, the system administrator may opt to partition the system such that `/var/db/riak` maps to its own set of spindles prior to installation or may choose to mount alternative storage. In the latter case, the administrator will need to edit `app.config` and change the paths that refer to `/var/db/riak` to the alternate location.
 *   `/var/log/riak` – Contains log files.
 For additional details about configuration, see [Section 16.7, “Configuring Riak in a Cluster”](cluster.riak.configuration "16.7. Configuring Riak in a Cluster").
+
 | [Prev](postgresql.migrating)  | [Up](p.configuration) |  [Next](riak.service) |
 | 29.4. Dumping and Restoring the Database  | [Table of Contents](index) |  30.2. Running the Riak Service |

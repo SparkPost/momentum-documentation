@@ -57,5 +57,6 @@ The following is a description of the fields:
 | 7 | users | Role that matched during successful authorization |
 ### Note
 The `?` type indicator denotes an unknown `acctlog` type.
+
 | [Prev](log_rotating)  | [Up](p.logs) |  [Next](adaptive.log.format) |
 | Chapter 34. Rotating Logs **ec_rotate**  | [Table of Contents](index) |  35.2. `adaptive` Log |

@@ -46,5 +46,6 @@ An overview of the rolling upgrade process is shown below.
 4.  Upgrade the Analytics nodes.
 ### Note
 Be sure to read the [Release Notes](https://support.messagesystems.com/start) for the version of Momentum that you are installing.
+
 | [Prev](upgrade.single_node.configuration.next_steps)  | [Up](p.installing) |  [Next](upgrade.two_tier.preparation.prepare_all_nodes_rolling) |
 | 10.9. Next Steps  | [Table of Contents](index) |  11.2. Before You Begin the Upgrade |

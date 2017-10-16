@@ -97,5 +97,6 @@ To filter by table entry, select a tab in the table and click the domain, bindin
 To remove any filter, click the X located to the right of the filter, as shown in [Figure 57.9, “Filter by Table Entry”](web-ui.reports#figure_filter_by_entry "Figure 57.9. Filter by Table Entry").
 ### Note
 Navigating to the Engagement section removes all filters except time period and campaign, if selected. Navigating to the Engagement section removes the binding, binding group, and node filters, if selected.
+
 | [Prev](reporting_ui)  | [Up](p.analytics) |  [Next](web-ui.reports.viewing.reports) |
 | Chapter 56. Using the UI for Reporting  | [Table of Contents](index) |  57.2. Viewing Your Reports |

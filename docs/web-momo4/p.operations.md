@@ -14,5 +14,6 @@
     * [38.2\. Console Commands for the Cluster Manager](cluster.config.operations.eccmgr.console)
 * [39\. CIDR Server](cluster.cidr_server)
     * [39.1\. `cidr_cli` Utility](cluster.cidr_server#cluster.cidr_cli)
+
 | [Prev](log_formats.connection.stages)  |   |  [Next](conf.starting) |
 | 35.11. Connection Stages  | [Table of Contents](index) |  Chapter 36. Starting Momentum (**ecelerity**) |

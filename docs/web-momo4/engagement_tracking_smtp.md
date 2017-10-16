@@ -17,5 +17,6 @@ For the order of precedence of the engagement tracking options, see [Section 71
 When engagement tracking is enabled, you can also specify engagement data for the message by including the X-MSYS-API header or by using the Lua policy context variables. This data is included in the tracked URLs for each message. For open tracking, Momentum inserts an open-tracked image into the message. For click tracking, Momentum converts the target link into a click-tracked link. By default, metadata is included for open and click tracking, if specified.
 ### Note
 If you want to exclude metadata from click tracking, change the configuration option in the engagement_tracker module. See [Section 71.32, “engagement_tracker – HTTP Engagement Tracking”](modules.engage_tracker "71.32. engagement_tracker – HTTP Engagement Tracking").
+
 | [Prev](smtp_injection)  | [Up](p.smtp_injections) |  [Next](x-msys-api_header) |
 | Chapter 40. Adjusting your Client Mail Application  | [Table of Contents](index) |  41.2. Using the X-MSYS-API Header for Engagement Tracking |

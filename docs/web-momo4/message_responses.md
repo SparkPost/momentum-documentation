@@ -115,5 +115,6 @@ Responses are sorted by SMTP code and then enhanced code.
 | 554 | 5.4.7 | [internal] exceeded max time without delivery | See message. |
 | 554 | 5.7.0 | [internal] Blackholed | "Blackhole" option is set to "internal" |
 | 554 | 5.7.0 | [internal] Message manually purged | Purged messages from the system console |
+
 | [Prev](p.appendix)  | [Up](p.appendix) |  [Next](snmp-mib) |
 | Part XI. Appendix  | [Table of Contents](index) |  Appendix B. MIB Files |

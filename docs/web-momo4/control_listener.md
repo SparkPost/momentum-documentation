@@ -24,5 +24,6 @@ For details about the non-module specific configuration options that are valid i
 Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 For general information regarding listeners, see [Section 15.4, “Listeners”](listeners "15.4. Listeners").
 The Control_Listener supports a number of extended properties including `ALWAYS-ALLOW`, `LOGIN` and `DIGEST-MD5`. For more information, see [Section 17.2, “Control_Listener Authentication”](control_auth "17.2. Control_Listener Authentication").
+
 | [Prev](cluster.riak.configuration)  | [Up](p.configuration) |  [Next](control_auth) |
 | 16.7. Configuring Riak in a Cluster  | [Table of Contents](index) |  17.2. Control_Listener Authentication |

@@ -225,5 +225,6 @@ Perform the following steps on each Analytics node in your cluster.
 2.  Ensure that the `momo_upstream.conf` and `msg_gen.conf` files were properly configured on your new node by confirming that the node is generating messages from REST transmissions.
 3.  On all original Platform nodes, the Cassandra database will have duplicate keys that have now been distributed to the added node. Run the following command on each Platform/Cassandra node:
     `/opt/msys/3rdParty/cassandra/bin/nodetool cleanup`
+
 | [Prev](install.security_considerations)  | [Up](p.installing) |  [Next](node_remove) |
 | 12.6. Security Considerations  | [Table of Contents](index) |  13.2. Removing a Platform Node |

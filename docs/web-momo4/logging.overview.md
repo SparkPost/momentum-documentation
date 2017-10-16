@@ -24,5 +24,6 @@ The following are Momentum's logging modules. For additional information about u
 Momentum can generate logs in two formats:
 *   text - entries vary based on the type of log. For the log formats, see [Chapter 35, *Log Formats*](log_formats "Chapter 35. Log Formats") .
 *   [jlog](modules.jlog "71.43. jlog – jlog-Formatted Logging") - binary, consumable logs, intended to be consumed by an application. These logs will continue to be saved until a consumer reads them.
+
 | [Prev](p.logs)  | [Up](p.logs) |  [Next](logging.configuration) |
 | Part IV. Logging  | [Table of Contents](index) |  32.2. Logging Configuration |

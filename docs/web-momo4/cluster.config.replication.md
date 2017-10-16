@@ -175,5 +175,6 @@ cluster {
   }
 }
 ```
+
 | [Prev](cluster.duravip.conflict)  | [Up](p.configuration) |  [Next](postgresql) |
 | 27.4. DuraVIP™ Configuration Conflicts and Ambiguities  | [Table of Contents](index) |  Chapter 29. PostgreSQL |

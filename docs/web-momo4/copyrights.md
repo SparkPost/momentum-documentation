@@ -66,5 +66,6 @@ This product includes software developed by Michal Zalewski <lcamtuf@coredump.cx
 This product includes software developed by Michael A. Davis <mike@datanerds.net>, Kirby Kuehl <kkuehl@cisco.com> and Kevin Currie <kcurrie@cisco.com>
 This product includes software developed by Nginx, Inc.
 This product includes software developed by RabbitMQ.
+
 | [Prev](glossary)  |   |  [Next](copyright.3rdparty-disclaimer) |
 | Glossary  | [Table of Contents](index) |  E.2. Disclaimers for Redistributed Third-Party Software |

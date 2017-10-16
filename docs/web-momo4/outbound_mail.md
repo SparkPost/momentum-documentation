@@ -24,5 +24,6 @@ Domain local.example.com {
   Delivery_Method = LMTP
 }
 ```
+
 | [Prev](multi_event_loops)  | [Up](p.configuration) |  [Next](outbound_mail.prohibited.hosts) |
 | Chapter 24. Configuring Multiple Event Loops  | [Table of Contents](index) |  25.2. Prohibited_Hosts |

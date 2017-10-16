@@ -605,5 +605,6 @@
     * [jlogctl](executable.jlogctl) — analyze and maintain jlogs
     * [lu_pull](executable.lu_pull) — update the Live Updates database
     * [validate_config](executable.validate_config) — check the validity of the configuration files
+
 | [Prev](policy.context-mess)  |   |  [Next](lua.summary_table) |
 | 63.2. Message Context Variables  | [Table of Contents](index) |  Chapter 64. Lua Functions Summary |

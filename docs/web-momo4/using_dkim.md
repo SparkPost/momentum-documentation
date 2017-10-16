@@ -88,5 +88,6 @@ Service Type. If specified, this tag should be set to "*" or "email" which repre
 Notes. If specified, the value of this tag is quoted-printable text used as a note to anyone reading the DNS text record. The tag is not interpreted by DKIM verification and should be used sparingly because of space limitations of the DNS text record.
 </dd>
 </dl>
+
 | [Prev](using_domainkeys.validation)  | [Up](p.configuration) |  [Next](using_dkim.validation) |
 | 22.2. DomainKeys Validation  | [Table of Contents](index) |  23.2. DKIM Validation |

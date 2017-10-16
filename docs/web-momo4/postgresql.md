@@ -46,5 +46,6 @@ Controls log rotation
 Default setting is `100MB`. With the default settings, a new log file will be created after 100MB have been written into a log file.
 </dd>
 </dl>
+
 | [Prev](cluster.config.replication)  | [Up](p.configuration) |  [Next](postgresql.server) |
 | Chapter 28. Data Replication  | [Table of Contents](index) |  29.2. Running the PostgreSQL Server |

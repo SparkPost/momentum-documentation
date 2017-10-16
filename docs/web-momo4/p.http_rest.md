@@ -23,5 +23,6 @@
 * [51\. Using Stored Recipient Lists](using_list)
 * [52\. Sending Emails as CC and BCC](sending_cc_bcc)
 * [53\. Using Complex Templates](complex_template)
+
 | [Prev](smtp_reporting_options)  |   |  [Next](create_apikey) |
 | Chapter 42. Reporting Options  | [Table of Contents](index) |  Chapter 43. Creating an API Key |

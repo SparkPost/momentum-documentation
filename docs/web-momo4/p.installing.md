@@ -76,5 +76,6 @@
 * [14\. Adding and Removing Analytics Nodes](add_remove_analytics_nodes)
     * [14.1\. Adding an Analytics Node](add_remove_analytics_nodes#node_add_analytics)
     * [14.2\. Removing an Analytics Node](node_remove_analytics)
+
 | [Prev](licensed_features.supercharger)  |   |  [Next](hardware.requirements) |
 | 4.3. Supercharger  | [Table of Contents](index) |  Chapter 5. Hardware Considerations |

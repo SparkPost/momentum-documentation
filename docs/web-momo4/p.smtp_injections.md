@@ -9,5 +9,6 @@
     * [41.4\. Escaping {{ and }} in SMTP Message Body](engagement_tracking_smtp.escaping)
 * [42\. Reporting Options](smtp_reporting_options)
 </dl>
+
 | [Prev](cluster.cidr_server)  |   |  [Next](smtp_injection) |
 | Chapter 39. CIDR Server  | [Table of Contents](index) |  Chapter 40. Adjusting your Client Mail Application |

@@ -24,5 +24,6 @@ The preceding line would appear unbroken in a log file but, if left as is, it wo
 Where possible, Unix command-line commands are broken using the ‘`\`’ character, making it possible to copy and paste commands. For example:
 /opt/msys/ecelerity/bin/eccfg bootstrap --clustername *`name`* --username=admin \
     --password=*`admin cluster_host`*
+
 | [Prev](index)  |   |  [Next](p.intro) |
 | Momentum 4 Reference Manual  | [Table of Contents](index) |  Part I. Introduction to Momentum |

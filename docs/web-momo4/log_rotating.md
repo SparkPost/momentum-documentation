@@ -71,5 +71,6 @@ List of log directories to be searched for files with the suffix `.log` to rotat
 Retention period in days
 </dd>
 </dl>
+
 | [Prev](log_monitoring)  | [Up](p.logs) |  [Next](log_formats) |
 | Chapter 33. Log Monitoring  | [Table of Contents](index) |  Chapter 35. Log Formats |

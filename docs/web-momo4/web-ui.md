@@ -143,5 +143,6 @@ In the Delete Recipient List window, click Delete to confirm your request, as sh
 **Figure 55.6. Confirm Delete**
 ![Confirm Delete](images/confirm_list_delete.png)
 The system will stop sending to the recipients after transmissions currently queued to be delivered using that recipients list are sent.
+
 | [Prev](http_reporting_options)  | [Up](p.analytics) |  [Next](reporting_ui) |
 | Chapter 54. Reporting Options  | [Table of Contents](index) |  Chapter 56. Using the UI for Reporting |

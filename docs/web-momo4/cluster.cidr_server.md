@@ -122,5 +122,6 @@ $VAR1 = [
 The `spam` series files appear in the directory defined by the `base_dir` parameter in the `cidr_maintain.conf` file, in this case the `/var/log/eccluster/aslogger` directory. For more information about the `cidr_maintain.conf` file, see [Section 71.7.2, “`cidr_maintain.conf` File”](modules.as_logger#module.as_logger.cidr_maintain.conf "71.7.2. cidr_maintain.conf File").
 ### Note
 There is no command to exit the `cidr` shell; use **Ctrl**+**D** .
+
 | [Prev](cluster.config.operations.eccmgr.console)  | [Up](p.operations) |  [Next](p.smtp_injections) |
 | 38.2. Console Commands for the Cluster Manager  | [Table of Contents](index) |  Part VI. SMTP Injection |

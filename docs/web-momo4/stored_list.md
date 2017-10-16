@@ -91,5 +91,6 @@ Congratulations! You have created your first stored recipient list using Momentu
 ## 50.1. Managing Recipient Lists using the UI
 **Configuration Change. ** Version 4.2 and later support managing your recipient lists using the UI.
 You can also create and manage your recipient lists using the web-based UI. For detailed instructions, see [Section 55.1, “Recipient Lists”](web-ui#web-ui.recipients "55.1. Recipient Lists").
+
 | [Prev](using_template)  | [Up](p.http_rest) |  [Next](using_list) |
 | Chapter 49. Using Stored Templates  | [Table of Contents](index) |  Chapter 51. Using Stored Recipient Lists |

@@ -48,5 +48,6 @@ When using threaded accepts for listeners, you must provision the thread pool yo
 For details about the non-module specific configuration options that are valid in the ESMTP_Listener and its nested scopes, refer to [Chapter 66, *Configuration Options Summary*](config.options.summary "Chapter 66. Configuration Options Summary") .
 Modules and their configuration options are discussed in the [Chapter 71, *Modules Reference*](modules "Chapter 71. Modules Reference") .
 For general information regarding listeners, see [Section 15.4, “Listeners”](listeners "15.4. Listeners").
+
 | [Prev](ecstream_listener)  | [Up](p.configuration) |  [Next](esmtp_listener.relay_domains) |
 | Chapter 18. Configuring Inbound Mail Service Using ECStream  | [Table of Contents](index) |  19.2. Inbound Email Relay or Gateway |

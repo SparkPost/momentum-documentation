@@ -23,5 +23,6 @@ Momentum is deployed as several distinct “roles”, each providing different f
     *   **HTTP Proxy Service**               - Supports all REST API including message generation, administration, and metrics (reporting) functions.
 ### Note
 You do not need to install all roles. Also, some sub-roles can be deployed on separate nodes. Listing all possible permutations is not feasible. Please consult with a Momentum Product Manager for more information on highly distributed deployments.
+
 | [Prev](p.installing)  | [Up](p.installing) |  [Next](hardware.config_options) |
 | Part II. Installing Momentum  | [Table of Contents](index) |  5.2. Configuration Options |

@@ -57,5 +57,6 @@ ESMTP_Listener {
 ### 62.1.2. Bypassing Validation Modules
 To bypass validation modules, add a context variable to your listener by creating a context variable with the name __bypass_*`module_name`* and setting its value to `true`. For example, to bypass the spf_v1 module create a variable called `__bypass_spf_v1` and set its value to `true`.
 To determine whether a module is a validation module, see [Chapter 65, *Modules Summary*](modules.summary.all.modules "Chapter 65. Modules Summary") .
+
 | [Prev](p.policy)  | [Up](p.policy) |  [Next](implementing.policy.scriptlets) |
 | Part IX. Writing Policy  | [Table of Contents](index) |  62.2. Policy Scriptlets |
