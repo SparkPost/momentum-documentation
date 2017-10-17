@@ -32,7 +32,7 @@ You can specify the timestamp in a **strftime()** format, as in the following ex
 <a name="example.chunk_logger.timestamp"></a>
 
 **Example 14.24. Specifying the Timestamp**
-
+{% raw %}
 ```
 chunk_logger chunk_logger1
 {
@@ -41,7 +41,7 @@ chunk_logger chunk_logger1
   add_newline = "true"
 }
 ```
-
+{% endraw %}
 ### Note
 
 **add_newline** enables you to specify whether a new line is added automatically to every item of data that is logged. It defaults to `true`.

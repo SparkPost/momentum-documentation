@@ -390,7 +390,7 @@ The custom logger gets most of its information from the message object. The mess
 *   The timestamp
 
 For example, suppose you have the following custom_logger configuration:
-
+{% raw %}
 ```
 custom_logger "custom_logger1" {
     rejection_format = "%p @ %s @ %BI @ %A @ %U @ %n @ %h{Subject} @ %r »
@@ -398,7 +398,7 @@ custom_logger "custom_logger1" {
   rejection_logfile = "/var/log/ecelerity/my_reject.log"
 }
 ```
-
+{% endraw %}
 If a message is rejected during the connect phase, the rejection log entry will resemble the following entry:
 
 ```

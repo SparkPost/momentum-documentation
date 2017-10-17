@@ -111,7 +111,7 @@ custom_logger is configured through the `ecelerity.conf` file with a stanza such
 <a name="example.operations.custom_logger.3"></a>
 
 **Example 4.5. custom_logger module**
-
+{% raw %}
 ```
 custom_logger "custom_logger1"
 {
@@ -119,7 +119,7 @@ custom_logger "custom_logger1"
   delivery_logfile = "/var/log/ecelerity/delivery_log"
 }
 ```
-
+{% endraw %}
 Detailed configuration information is available in [Section 14.24, “custom_logger – Customizable Logging”](modules.custom_logger "14.24. custom_logger – Customizable Logging").
 
 ### 4.5.5. Logging and the Web UI

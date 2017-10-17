@@ -31,14 +31,14 @@ The `reception_timing` and `reception_timing_logger` modules provide information
 The `chunk_logger` module must be loaded and configured. This module is used to log the data.
 
 *   Example configuration to load the `chunk_logger` module with a specific timestamp format:
-
+{% raw %}
     ```
     chunk_logger "chunk_logger" {
        timestamp_format = "%m:%d:%H:%M:%S"
        destination = "/var/log/ecelerity/policylog.cl" 
     }
     ```
-
+{% endraw %}
 You may also wish to add the chunk_logger log file to `ec_rotate.conf`, to ensure that it is rotated daily. For more information, see [Section 14.15, “chunk_logger – Asynchronous Logging”](modules.chunk_logger "14.15. chunk_logger – Asynchronous Logging") and [ec_rotate](executable.ec_rotate.php "ec_rotate").
 
 ### Note
