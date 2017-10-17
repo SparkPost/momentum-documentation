@@ -158,7 +158,7 @@ If you wish to change the `Logs` configuration you cannot use the web UI. You mu
 ### 7.6.4. Centralized Logging with bounce_logger and fbl
 
 This section gives an example of log aggregation when a custom_logger and an fbl module are defined. Find below a sample configuration for the custom_logger followed by a sample fbl module configuration:
-
+{% raw %}
 ```
 custom_logger "custom_logger1" {
   permanent_failure_logfile = "cluster:///var/log/ecelerity/custombounce.cluster=>master"
@@ -169,7 +169,7 @@ custom_logger "custom_logger1" {
     @%h{date}@%h{subject}@%n"
 }
 ```
-
+{% endraw %}
 *Note*: The format options in the custom_logger module above should be unbroken in your configuration file.
 
 ```

@@ -87,7 +87,7 @@ The following is an example custom_logger module configuration using the TLS log
 <a name="example.custom_logger.tls"></a>
 
 **Example 14.105. Example custom_logger Configuration**
-
+{% raw %}
 ```
 custom_logger custom_logger1 {
    log_receptions = "on"
@@ -121,7 +121,7 @@ custom_logger custom_logger1 {
    @%outbound_tls_verified@%outbound_tls_issuer@%outbound_tls_subject"
 }
 ```
-
+{% endraw %}
 For more information on the custom_logger, see [Section 14.24, “custom_logger – Customizable Logging”](modules.custom_logger "14.24. custom_logger – Customizable Logging").
 
 | [Prev](modules.syslog_io)  | [Up](modules.php) |  [Next](modules.url_ripper.php) |
