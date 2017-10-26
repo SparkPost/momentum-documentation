@@ -137,7 +137,7 @@ These instructions apply to Momentum 4.2.1.*`x`*, where `x` > or = `11`
 
 ### 14.2.3. Remove the Node from the Vertica Cluster
 
-1.  Follow [ instructions provided by HP](https://my.vertica.com/docs/7.1.x/HTML/Content/Authoring/AdministratorsGuide/ManageNodes/RemovingNodesFromADatabase.htm) to remove a Vertica node from a cluster.
+1.  Follow [instructions provided by HP](https://my.vertica.com/docs/7.1.x/HTML/Content/Authoring/AdministratorsGuide/ManageNodes/RemovingNodesFromADatabase.htm) to remove a Vertica node from a cluster.
 
 2.  Perform backups as necessary.
 
