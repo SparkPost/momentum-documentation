@@ -1,4 +1,4 @@
-| [Prev](modules.pe2_logger)  | Chapter 14. Modules Reference |  [Next](modules.pipeio.php) |
+| [Prev](modules.pe2_logger)  | Chapter 14. Modules Reference |  [Next](modules.pipeio) |
 
 ## 14.53. persist_io – Persistent IO Wrapper
 
@@ -55,5 +55,5 @@ The path to the directory that holds the cached files. The default value is `/va
 
 </dl>
 
-| [Prev](modules.pe2_logger)  | [Up](modules.php) |  [Next](modules.pipeio.php) |
+| [Prev](modules.pe2_logger)  | [Up](modules) |  [Next](modules.pipeio) |
 | 14.52. pe2_logger – Module  | [Table of Contents](index) |  14.54. pipe_io – Pipe IO Wrapper |
