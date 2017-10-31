@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.cidrdb)  | 16.2. Sieve Function Details |  [Next](sieve.ref.commtouch_scan.php) |
+| [Prev](sieve.ref.cidrdb)  | 16.2. Sieve Function Details |  [Next](sieve.ref.commtouch_scan) |
 
 <a name="sieve.ref.cloudmark_score"></a>
 ## Name
@@ -28,5 +28,5 @@ if ec_test :value "gt" :comparator "i;ascii-numeric" "${score}" "80" {
 }
 ```
 
-| [Prev](sieve.ref.cidrdb)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.commtouch_scan.php) |
+| [Prev](sieve.ref.cidrdb)  | [Up](sieve.ref.files) |  [Next](sieve.ref.commtouch_scan) |
 | cidrdb  | [Table of Contents](index) |  commtouch_scan |
