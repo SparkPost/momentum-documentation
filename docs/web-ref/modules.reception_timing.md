@@ -1,4 +1,4 @@
-| [Prev](modules.postfix_logger)  | Chapter 14. Modules Reference |  [Next](modules.response_transcode.php) |
+| [Prev](modules.postfix_logger)  | Chapter 14. Modules Reference |  [Next](modules.response_transcode) |
 
 ## 14.57. reception_timing - Reception Timing Modules
 
@@ -39,7 +39,7 @@ The `chunk_logger` module must be loaded and configured. This module is used to 
     }
     ```
 {% endraw %}
-You may also wish to add the chunk_logger log file to `ec_rotate.conf`, to ensure that it is rotated daily. For more information, see [Section 14.15, “chunk_logger – Asynchronous Logging”](modules.chunk_logger "14.15. chunk_logger – Asynchronous Logging") and [ec_rotate](executable.ec_rotate.php "ec_rotate").
+You may also wish to add the chunk_logger log file to `ec_rotate.conf`, to ensure that it is rotated daily. For more information, see [Section 14.15, “chunk_logger – Asynchronous Logging”](modules.chunk_logger "14.15. chunk_logger – Asynchronous Logging") and [ec_rotate](executable.ec_rotate "ec_rotate").
 
 ### Note
 
@@ -247,5 +247,5 @@ reception_timing_logger reception_timing_logger1 {
 
 Both parts need to be loaded; otherwise, the timing data will not be collected or logged correctly.
 
-| [Prev](modules.postfix_logger)  | [Up](modules.php) |  [Next](modules.response_transcode.php) |
+| [Prev](modules.postfix_logger)  | [Up](modules) |  [Next](modules.response_transcode) |
 | 14.56. postfix_logger – Postfix-Compatible Logging  | [Table of Contents](index) |  14.58. response_transcode – Module |
