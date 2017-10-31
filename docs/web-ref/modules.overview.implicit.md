@@ -1,4 +1,4 @@
-| [Prev](modules.overview)  | Chapter 13. Modules |  [Next](modules.summary.php) |
+| [Prev](modules.overview)  | Chapter 13. Modules |  [Next](modules.summary) |
 
 ## 13.1. Module Overview
 
@@ -22,7 +22,7 @@ Examples of modules that will typically load implicitly are:
 
 *   suppress_spool
 
-Modules are most easily configured from the web console as described in [Section 3.8.1.5, “Changing Module Configuration Options”](web3.administration#web3.module_config "3.8.1.5. Changing Module Configuration Options") but they can also be configured by manually altering the configuration file or by setting options using the system console. Use the [config](console_commands.config.php "config") command to set configuration options from the system console.
+Modules are most easily configured from the web console as described in [Section 3.8.1.5, “Changing Module Configuration Options”](web3.administration#web3.module_config "3.8.1.5. Changing Module Configuration Options") but they can also be configured by manually altering the configuration file or by setting options using the system console. Use the [config](console_commands.config "config") command to set configuration options from the system console.
 
 Some modules, typically antivirus modules, must be loaded in "passive" mode. To load a module in passive mode, use the web console to set the `Enabled` option to `false`. Use the following syntax if you are manually changing the `ecelerity.conf` file:
 
@@ -49,11 +49,11 @@ bounce_logger "bounce_logger1"
 }
 ```
 
-For a list of all the debug levels see [Table 9.28, “Debug levels”](conf.ref.debug_flags#conf.ref.debug.levels "Table 9.28. Debug levels"). Setting debug levels from the system console is described in [the section called “Setting Module-Level Debugging from the System Console”](module_specific_console_commands.using.php#modules.console.debugging "Setting Module-Level Debugging from the System Console").
+For a list of all the debug levels see [Table 9.28, “Debug levels”](conf.ref.debug_flags#conf.ref.debug.levels "Table 9.28. Debug levels"). Setting debug levels from the system console is described in [the section called “Setting Module-Level Debugging from the System Console”](module_specific_console_commands.using#modules.console.debugging "Setting Module-Level Debugging from the System Console").
 
 Be sure to turn off debugging when you are finished otherwise log files can become excessively large.
 
 If the module that you wish to debug is not explicitly loaded, then you must add it to your configuration file.
 
-| [Prev](modules.overview)  | [Up](modules.overview.php) |  [Next](modules.summary.php) |
+| [Prev](modules.overview)  | [Up](modules.overview) |  [Next](modules.summary) |
 | Chapter 13. Modules  | [Table of Contents](index) |  13.2. Summary Module Information |
