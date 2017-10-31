@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.disclaimer_add)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ds_fetch.php) |
+| [Prev](sieve.ref.disclaimer_add)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ds_fetch) |
 
 <a name="sieve.ref.ds_execute"></a>
 ## Name
@@ -14,7 +14,7 @@ ds_execute — execute a query on a datasource
 
 This function executes a query that does not return a result set. The query will be queued to the thread pool and the current Sieve script will be suspended until the query completes. While the Sieve script is suspended, Momentum will continue to schedule other events.
 
-If you need to execute a query that fetches a row or all rows from a datasource, you need to use [ds_fetch](sieve.ref.ds_fetch "ds_fetch"), [ds_fetch_hash](sieve.ref.ds_fetch_hash.php "ds_fetch_hash"). or [ds_fetch_flat](sieve.ref.ds_fetch_flat.php "ds_fetch_flat").
+If you need to execute a query that fetches a row or all rows from a datasource, you need to use [ds_fetch](sieve.ref.ds_fetch "ds_fetch"), [ds_fetch_hash](sieve.ref.ds_fetch_hash "ds_fetch_hash"). or [ds_fetch_flat](sieve.ref.ds_fetch_flat "ds_fetch_flat").
 
 ### Note
 
@@ -52,7 +52,7 @@ if size :over 1M {
 <a name="idp29018688"></a>
 ## See Also
 
-[ds_fetch](sieve.ref.ds_fetch "ds_fetch"). [ds_fetch_flat](sieve.ref.ds_fetch_flat.php "ds_fetch_flat"). [ds_fetch_hash](sieve.ref.ds_fetch_hash.php "ds_fetch_hash").
+[ds_fetch](sieve.ref.ds_fetch "ds_fetch"). [ds_fetch_flat](sieve.ref.ds_fetch_flat "ds_fetch_flat"). [ds_fetch_hash](sieve.ref.ds_fetch_hash "ds_fetch_hash").
 
-| [Prev](sieve.ref.disclaimer_add)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ds_fetch.php) |
+| [Prev](sieve.ref.disclaimer_add)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ds_fetch) |
 | disclaimer_add  | [Table of Contents](index) |  ds_fetch |
