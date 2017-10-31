@@ -45,7 +45,7 @@ There are no X-MSYS-API header fallbacks for the following:
 | tracking_domain | smtpapi_tracking_domain |
 | tracking_link_expiry | smtpapi_tracking_link_expiry |
 
-You must specify the configuration options or the context variables in Lua policy. This is especially important for `tracking_domain`, as the default value of `"localhost:8080"` is not appropriate for production environments. See [Section 71.67.4, “Configuration Options for Engagement Tracking”](modules.smtpapi#modules.smtpapi.config.options "71.67.4. Configuration Options for Engagement Tracking") or [Section 41.3, “Using Policy for Engagement Tracking”](engagement_tracking_smtp.policy "41.3. Using Policy for Engagement Tracking"), respectively.
+You must specify the configuration options or the context variables in Lua policy. This is especially important for `tracking_domain`, as the default value of **`"localhost:8080"`** is not appropriate for production environments. See [Section 71.67.4, “Configuration Options for Engagement Tracking”](modules.smtpapi#modules.smtpapi.config.options "71.67.4. Configuration Options for Engagement Tracking") or [Section 41.3, “Using Policy for Engagement Tracking”](engagement_tracking_smtp.policy "41.3. Using Policy for Engagement Tracking"), respectively.
 
 **X-MSYS-API Header Line Length** 
 
@@ -66,11 +66,11 @@ X-MSYS-API: {"options" : {"open_tracking" : false }, "campaign_id" : "my_awes
    ome_campaign" }
 ```
 
-will be unfolded with a space in the `"my_awes ome_campaign"` string:
+will be unfolded with a space in the **`"my_awes ome_campaign"`** string:
 
 `X-MSYS-API: {"options" : {"open_tracking" : false }, "campaign_id" : "my_awes ome_campaign" }`
 
-Ideally, header values should be folded on whitespace. To ensure whitespace is present in a JSON-encoded string in Perl, use the JSON module's `space_before` and `space_after` modifiers, as shown in the following example:
+Ideally, header values should be folded on whitespace. To ensure whitespace is present in a JSON-encoded string in Perl, use the JSON module's **`space_before`** and **`space_after`** modifiers, as shown in the following example:
 
 ```
 my $api_hash = {
@@ -89,7 +89,7 @@ my $x_msys_api_string = $js->encode($api_hash);
 
 **non-ASCII Characters in the X-MSYS-API Header** 
 
-If non-ASCII characters are present in the `"campaign_id"`, `"tags"`, or `"metadata"` fields, they must be escaped or rfc2047-encoded.
+If non-ASCII characters are present in the **`"campaign_id"`**, **`"tags"`**, or **`"metadata"`** fields, they must be escaped or rfc2047-encoded.
 
 For example,
 
@@ -116,18 +116,9 @@ If the X-MSYS-API header includes invalid JSON values, the SMTP message will be 
 
 | Code | Examples |
 | --- | --- |
-| 550 | 
+| 550 | 5.6.0 X-MSYS-API 'metadata' must be of type 'json object <br>5.6.0 smtpapi_campaign_id context is limited to 64 bytes</br> |
+| 421 | 4.3.3 [internal] smtpapi unable to generate unique transmission id |
 
-5.6.0 X-MSYS-API 'metadata' must be of type 'json object'
-
-5.6.0 smtpapi_campaign_id context is limited to 64 bytes
-
- |
-| 421 | 
-
-4.3.3 [internal] smtpapi unable to generate unique transmission id
-
- |
 
 | [Prev](engagement_tracking_smtp)  | [Up](engagement_tracking_smtp) |  [Next](engagement_tracking_smtp.policy) |
 | Chapter 41. Tracking Engagement for SMTP  | [Table of Contents](index) |  41.3. Using Policy for Engagement Tracking |
