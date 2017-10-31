@@ -10,7 +10,7 @@ xml.parsexml — Create an XML document object
 
 `require('xml');`
 
-`xml.parsexml(strxml, keep_blanks);`
+**`xml.parsexml(strxml, keep_blanks);`**
 
 ```
 strxml: string
@@ -19,7 +19,7 @@ keep_blanks: numeric (optional)
 <a name="idp19516464"></a>
 ## Description
 
-This function parses an XML string and returns an XML document object. The second argument, `keep_blanks` is an optional integer value. When not set or set to `0`, ignorable white spaces will be ignored, otherwise, text nodes containing those blanks will be generated in the Document Object Model (DOM) output.
+This function parses an XML string and returns an XML document object. The second argument, **`keep_blanks`** is an optional integer value. When not set or set to `0`, ignorable white spaces will be ignored, otherwise, text nodes containing those blanks will be generated in the Document Object Model (DOM) output.
 
 <a name="lua.ref.xml.parsexml.example"></a>
 
