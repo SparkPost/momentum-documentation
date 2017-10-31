@@ -1,4 +1,4 @@
-| [Prev](sieve.syntax.basic)  | Chapter 8. Sieve++ |  [Next](sieve.ecaddons.php) |
+| [Prev](sieve.syntax.basic)  | Chapter 8. Sieve++ |  [Next](sieve.ecaddons) |
 
 ## 8.3. RFC Standard Sieve Enhancements
 
@@ -147,5 +147,5 @@ if body :text :contains "some bad text" {
 }
 ```
 
-| [Prev](sieve.syntax.basic)  | [Up](sieve.php) |  [Next](sieve.ecaddons.php) |
+| [Prev](sieve.syntax.basic)  | [Up](sieve) |  [Next](sieve.ecaddons) |
 | 8.2. Sieve's Basic Syntax  | [Table of Contents](index) |  8.4. Sieve++, Momentum-specific extensions |
