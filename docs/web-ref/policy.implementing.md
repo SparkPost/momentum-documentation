@@ -1,4 +1,4 @@
-| [Prev](default.policy.scriptlets)  | Chapter 5. Implementing Policy with Momentum |  [Next](policy.context-based-on-ip.php) |
+| [Prev](default.policy.scriptlets)  | Chapter 5. Implementing Policy with Momentum |  [Next](policy.context-based-on-ip) |
 
 ## 5.4. Implementing Policy Using Sieve
 
@@ -20,7 +20,7 @@ You cannot use Sieve with multiple event loops. If you include the Sieve module 
 
 The advantage of allowing a module to perform unilateral validation is that the Momentum configuration is restricted to just the one `ecelerity.conf` file, making it conceptually a lot simpler to configure Momentum. The trade off is simplicity versus flexibility; we recommend that larger sites deploy the modules in a passive configuration and leave the final policy decisions to scripts implemented in Sieve. The `Enabled` option can be set to `false` for any module. However, the effect that this has on modules differs on a module by module basis. For some modules, it will have no effect. But, the idea is that validation modules loaded in passive mode will **not** have their validation hooks called automatically. Rather, the calls will be driven by a Sieve action associated with the module. For example, the Sieve action 'antivirus' will drive the antivirus modules such as the 'clamav' module. The rest of this chapter assumes that you are deploying such modules in a passive configuration.
 
-Once you have selected the modules that you want to use ([Section 13.2.1, “All Modules”](modules.summary#modules.summary.all.modules "13.2.1. All Modules") has a list of the available modules) you need to configure the sieve module to run your Sieve script. For example, if you're using the url_ripper module to examine the bodies of messages, you need to write a Sieve script that will run in the data phase, after the url_ripper has run. You'll want to configure `ecelerity.conf` as shown in [Example 5.7, “Configuring the url_ripper for use with Sieve”](policy.implementing.php#policy.configure.sieve "Example 5.7. Configuring the url_ripper for use with Sieve").
+Once you have selected the modules that you want to use ([Section 13.2.1, “All Modules”](modules.summary#modules.summary.all.modules "13.2.1. All Modules") has a list of the available modules) you need to configure the sieve module to run your Sieve script. For example, if you're using the url_ripper module to examine the bodies of messages, you need to write a Sieve script that will run in the data phase, after the url_ripper has run. You'll want to configure `ecelerity.conf` as shown in [Example 5.7, “Configuring the url_ripper for use with Sieve”](policy.implementing#policy.configure.sieve "Example 5.7. Configuring the url_ripper for use with Sieve").
 
 <a name="policy.configure.sieve"></a>
 
@@ -94,5 +94,5 @@ This example makes use of the Sieve counter mechanism to keep track of how you'r
 
 The convention for naming counters is to use a short category name, followed by a colon character, followed by a more descriptive name.
 
-| [Prev](default.policy.scriptlets)  | [Up](policy.php) |  [Next](policy.context-based-on-ip.php) |
+| [Prev](default.policy.scriptlets)  | [Up](policy) |  [Next](policy.context-based-on-ip) |
 | 5.3. Default Policy Scriptlets  | [Table of Contents](index) |  5.5. Setting Context Based on Connecting IP |

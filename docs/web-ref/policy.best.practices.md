@@ -1,10 +1,10 @@
-| [Prev](policy.context-based-on-ip)  | Chapter 5. Implementing Policy with Momentum |  [Next](policy.conclusion.php) |
+| [Prev](policy.context-based-on-ip)  | Chapter 5. Implementing Policy with Momentum |  [Next](policy.conclusion) |
 
 ## 5.6. Best Practices for Manually Created Policy Scripts
 
 Following best practices when manually creating policy scripts is important especially in a cluster environment when scripts are used on more than one node. Making use of the revision control system built in to Momentum is the best way to easily maintain policy scripts shared by different nodes.
 
-If you plan to create your own Sieve or Lua scripts review the documentation at [eccfg](executable.eccfg "eccfg") and [Section 2.9.1, “Basic **eccfg** Commands”](conf.adding.configuration.files.php#conf.eccfg.commands "2.9.1. Basic eccfg Commands"); these sections describe the Subversion repository management wrapper, **eccfg**. This command is used to commit changes to the repository and to pull the latest configuration. Files added to the repository can be shared by all nodes or limited to specific nodes or subclusters.
+If you plan to create your own Sieve or Lua scripts review the documentation at [eccfg](executable.eccfg "eccfg") and [Section 2.9.1, “Basic **eccfg** Commands”](conf.adding.configuration.files#conf.eccfg.commands "2.9.1. Basic eccfg Commands"); these sections describe the Subversion repository management wrapper, **eccfg**. This command is used to commit changes to the repository and to pull the latest configuration. Files added to the repository can be shared by all nodes or limited to specific nodes or subclusters.
 
 When working with files that are under revision control it is important to take steps to avoid conflicts with changes made elsewhere in the system and to be able to track changes. For this reason perform the following actions before creating any policy scripts:
 
@@ -51,5 +51,5 @@ In a cluster, if you commit before you test on the local node, you risk pushing 
 
 Once you are satisfied that your scripts function correctly, if you are adding a new script, issue the command **eccfg commit ––username *`admin_user`* ––password *`passwd`* ––add-all --message *`message here`***                                                                                             . If you are editing a script you need not use the `––add-all` option. Doing this updates the repository. In all cases, edits made to the local configuration will need to be manually applied to the node via **config reload** ; the **eccfg commit**        command will not do it for you. Reload the configuration by issuing the system console command **`/opt/msys/ecelerity/bin/ec_console /tmp/2025 config reload`**                         . Reloading the configuration also takes care of flushing the Sieve cache. If your changes affect more than one node, each node will check for an updated configuration each minute and automatically check out your changes and issue a **config reload** .
 
-| [Prev](policy.context-based-on-ip)  | [Up](policy.php) |  [Next](policy.conclusion.php) |
+| [Prev](policy.context-based-on-ip)  | [Up](policy) |  [Next](policy.conclusion) |
 | 5.5. Setting Context Based on Connecting IP  | [Table of Contents](index) |  5.7. Conclusion |

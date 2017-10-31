@@ -1,4 +1,4 @@
-| [Prev](operations.logging)  | Chapter 4. Operations |  [Next](policy.php) |
+| [Prev](operations.logging)  | Chapter 4. Operations |  [Next](policy) |
 
 ## 4.6. MultiVIP© Interfaces
 
@@ -15,7 +15,7 @@ Setting up a MultiVIP© interface is a two-step process. First you must declare 
 Binding *`BINDINGNAME`* {
   Bind_Address = <address>
  [EHLO_Hostname = <__message__|__hostname__|literal string>]
- [Max_Outbound_Connections = <number>]
+ [Max_Outbound_Connections = ```<number>```]
  [Suspend_Delivery = <true|false>]
 }
 
@@ -31,5 +31,5 @@ You should also be aware that binding names are case-sensitive.
 
 For more information about bindings, see [binding](conf.ref.binding "binding").
 
-| [Prev](operations.logging)  | [Up](operations.php) |  [Next](policy.php) |
+| [Prev](operations.logging)  | [Up](operations) |  [Next](policy) |
 | 4.5. Logging  | [Table of Contents](index) |  Chapter 5. Implementing Policy with Momentum |

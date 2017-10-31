@@ -1,4 +1,4 @@
-| [Prev](sieve)  | Chapter 8. Sieve++ |  [Next](sieve.syntax.basic.php) |
+| [Prev](sieve)  | Chapter 8. Sieve++ |  [Next](sieve.syntax.basic) |
 
 ## 8.1. The differences between Sieve and Sieve++
 
@@ -14,5 +14,5 @@ Sieve itself was designed to be extensible through the concept of a "require" bl
 
 When using the Momentum implementation of Sieve "require" blocks are *not* needed.
 
-| [Prev](sieve)  | [Up](sieve.php) |  [Next](sieve.syntax.basic.php) |
+| [Prev](sieve)  | [Up](sieve) |  [Next](sieve.syntax.basic) |
 | Chapter 8. Sieve++  | [Table of Contents](index) |  8.2. Sieve's Basic Syntax |
