@@ -1,4 +1,4 @@
-| [Prev](modules.reception_timing)  | Chapter 14. Modules Reference |  [Next](modules.sched.php) |
+| [Prev](modules.reception_timing)  | Chapter 14. Modules Reference |  [Next](modules.sched) |
 
 ## 14.58. response_transcode – Module
 
@@ -27,7 +27,7 @@ response_transcode {
 
 You can transcode "[internal]" transient failures but you cannot transcode "[internal]" permanent failures. For a listing of "[internal]" failures see [Appendix F, *Message Responses*](responses "Appendix F. Message Responses") .
 
-The module defines two options, Response_Transcode_Pattern and Response_Transcode_Replace. For more information about these options see [response_transcode_replace](conf.ref.response_transcode_replace "response_transcode_replace") and [response_transcode_pattern](conf.ref.response_transcode_pattern.php "response_transcode_pattern"). If you reference either of these options, the response_transcode module will be loaded automatically.
+The module defines two options, Response_Transcode_Pattern and Response_Transcode_Replace. For more information about these options see [response_transcode_replace](conf.ref.response_transcode_replace "response_transcode_replace") and [response_transcode_pattern](conf.ref.response_transcode_pattern "response_transcode_pattern"). If you reference either of these options, the response_transcode module will be loaded automatically.
 
-| [Prev](modules.reception_timing)  | [Up](modules.php) |  [Next](modules.sched.php) |
+| [Prev](modules.reception_timing)  | [Up](modules) |  [Next](modules.sched) |
 | 14.57. reception_timing - Reception Timing Modules  | [Table of Contents](index) |  14.59. sched – The Schedule Module |
