@@ -1,4 +1,4 @@
-| [Prev](operations.postgresql)  | Chapter 4. Operations |  [Next](operations.logging.php) |
+| [Prev](operations.postgresql)  | Chapter 4. Operations |  [Next](operations.logging) |
 
 ## 4.4. Riak
 
@@ -239,5 +239,5 @@ Consult the Riak Wiki for the riak-admin "backup" and "restore" commands to lear
 
 Note that some of the Message Systems use cases may result in a large volume of data being retained in Riak. Expect the backup files to be equally large.
 
-| [Prev](operations.postgresql)  | [Up](operations.php) |  [Next](operations.logging.php) |
+| [Prev](operations.postgresql)  | [Up](operations) |  [Next](operations.logging) |
 | 4.3. PostgreSQL  | [Table of Contents](index) |  4.5. Logging |
