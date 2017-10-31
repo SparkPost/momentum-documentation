@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.add_recipient)  | 16.2. Sieve Function Details |  [Next](sieve.ref.advertize_esmtp_capability.php) |
+| [Prev](sieve.ref.add_recipient)  | 16.2. Sieve Function Details |  [Next](sieve.ref.advertize_esmtp_capability) |
 
 <a name="sieve.ref.address"></a>
 ## Name
@@ -33,5 +33,5 @@ This function returns the first matching address as a string value. When using t
 
 [envelope](sieve.ref.envelope "envelope")
 
-| [Prev](sieve.ref.add_recipient)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.advertize_esmtp_capability.php) |
+| [Prev](sieve.ref.add_recipient)  | [Up](sieve.ref.files) |  [Next](sieve.ref.advertize_esmtp_capability) |
 | add_recipient  | [Table of Contents](index) |  advertize_esmtp_capability |
