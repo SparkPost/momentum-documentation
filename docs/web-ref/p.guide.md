@@ -1,4 +1,4 @@
-| [Prev](typographical)  |   |  [Next](install.php) |
+| [Prev](typographical)  |   |  [Next](install) |
 
 ## Part I. Configuration Guide
 **Table of Contents**
@@ -12,5 +12,5 @@
 * [7\. Clustering](cluster)
 * [8\. Sieve++](sieve)
 
-| [Prev](typographical)  |   |  [Next](install.php) |
+| [Prev](typographical)  |   |  [Next](install) |
 | 1. Typographical Conventions Used in This Document  | [Table of Contents](index) |  Chapter 1. Installation |
