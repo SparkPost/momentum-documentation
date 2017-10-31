@@ -10,12 +10,12 @@ node:tostring — Output a node as a string
 
 `require('xml');`
 
-`node:tostring();`
+**`node:tostring();`**
 
 <a name="idp19484304"></a>
 ## Description
 
-Where `node` is an XML element, this method returns a string representation of the XML source of the node and its children. This same method is also available as a __tostring metamethod, so `node:tostring()` and `tostring(node)` are equivalent.
+Where **`node`** is an XML element, this method returns a string representation of the XML source of the node and its children. This same method is also available as a __tostring metamethod, so **`node:tostring()`** and **`tostring(node)`** are equivalent.
 
 <a name="lua.ref.xml.node_tostring.example"></a>
 
@@ -39,7 +39,7 @@ In this case the output is as follows:
 
 ### Note
 
-The `print` function will automatically convert a node to string so the use of `child:tostring` in [Example 70.82, “node:tostring example”](lua.ref.xml.node_tostring#lua.ref.xml.node_tostring.example "Example 70.82. node:tostring example") is not strictly necessary.
+The **`print`** function will automatically convert a node to string so the use of **`child:tostring`** in [Example 70.82, “node:tostring example”](lua.ref.xml.node_tostring#lua.ref.xml.node_tostring.example "Example 70.82. node:tostring example") is not strictly necessary.
 
 <a name="idp19493120"></a>
 ### See Also

@@ -10,7 +10,7 @@ node:name — Return the name of a node
 
 `require('xml');`
 
-`node:name();`
+**`node:name();`**
 
 <a name="idp19466608"></a>
 ## Description
@@ -40,7 +40,7 @@ item
 text
 ```
 
-If you remove the line, `child:contents("I am a child node.");`, from [Example 70.81, “node:name example”](lua.ref.xml.node_name#lua.ref.xml.node_name.example "Example 70.81. node:name example"), `item` is all that will be output.
+If you remove the line, `child:contents("I am a child node.");`, from [Example 70.81, “node:name example”](lua.ref.xml.node_name#lua.ref.xml.node_name.example "Example 70.81. node:name example"), **`item`** is all that will be output.
 
 <a name="idp19474144"></a>
 ### See Also

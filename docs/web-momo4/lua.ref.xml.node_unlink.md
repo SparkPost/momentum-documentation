@@ -10,7 +10,7 @@ node:unlink — Unlink an XML node from its DOM container
 
 `require('xml');`
 
-`node:unlink();`
+**`node:unlink();`**
 
 <a name="idp19502656"></a>
 ## Description

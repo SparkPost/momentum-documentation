@@ -10,12 +10,12 @@ doc:root — Return the root node of an XML document
 
 `require('xml');`
 
-`doc:root();`
+**`doc:root();`**
 
 <a name="idp19343840"></a>
 ## Description
 
-Where `doc` is an XML object created using `xml.parsexml`, return the root node.
+Where `doc` is an XML object created using **`xml.parsexml`**, return the root node.
 
 <a name="lua.ref.xml.doc_root.example"></a>
 
