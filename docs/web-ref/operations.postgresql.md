@@ -1,4 +1,4 @@
-| [Prev](operations.console-commands)  | Chapter 4. Operations |  [Next](operations.riak.php) |
+| [Prev](operations.console-commands)  | Chapter 4. Operations |  [Next](operations.riak) |
 
 ## 4.3. PostgreSQL
 
@@ -173,5 +173,5 @@ Database dumps are plain-text files that contain the SQL commands and data requi
     `shell> /opt/msys/3rdParty/bin/pg_restore -c -U msyspg -d ecelerity /path/to/db.dump`
 3.  Examine any warnings that are output. You will get errors trying to drop and create some of the schemas, but they are harmless.
 
-| [Prev](operations.console-commands)  | [Up](operations.php) |  [Next](operations.riak.php) |
+| [Prev](operations.console-commands)  | [Up](operations) |  [Next](operations.riak) |
 | 4.2. Console Commands  | [Table of Contents](index) |  4.4. Riak |
