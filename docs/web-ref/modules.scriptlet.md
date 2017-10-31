@@ -1,4 +1,4 @@
-| [Prev](modules.sched)  | Chapter 14. Modules Reference |  [Next](modules.securecreds.php) |
+| [Prev](modules.sched)  | Chapter 14. Modules Reference |  [Next](modules.securecreds) |
 
 ## 14.60. scriptlet – Module
 
@@ -91,7 +91,7 @@ This option controls how often to expire spares from the spare thread cache. The
 
 <dd>
 
-In the code example [Example 14.87, “scriptlet module”](modules.scriptlet#modules.scriptlet.code "Example 14.87. scriptlet module"), "boot" is the name of the module that is provided by the script. The boot module is located in the `/opt/msys/ecelerity/libexec/scriptlets/msys` directory. It provides core product features so should always be loaded. There's a direct correlation between the name of the script stanza and the module it exports. If you are creating your own scripts, the script scope name and the name that a script is registered as must be the same. For more information see [Section 5.2, “Implementing Policy Using Scriptlets”](implementing.policy.scriptlets.php "5.2. Implementing Policy Using Scriptlets").
+In the code example [Example 14.87, “scriptlet module”](modules.scriptlet#modules.scriptlet.code "Example 14.87. scriptlet module"), "boot" is the name of the module that is provided by the script. The boot module is located in the `/opt/msys/ecelerity/libexec/scriptlets/msys` directory. It provides core product features so should always be loaded. There's a direct correlation between the name of the script stanza and the module it exports. If you are creating your own scripts, the script scope name and the name that a script is registered as must be the same. For more information see [Section 5.2, “Implementing Policy Using Scriptlets”](implementing.policy.scriptlets "5.2. Implementing Policy Using Scriptlets").
 
 Any number of script stanzas may appear within the scriptlet module. The script stanza has only one option, `source`. If you have created any Lua scripts using the policy editor, there will be a script stanza named `policyeditor` with its `source` option set to `policy.policyeditor`. This indicates that the module name is `policyeditor.lua` and that it is saved in the `policy` directory below either the `/opt/msys/ecelerity/etc/conf/default` or `/opt/msys/ecelerity/etc/conf/global` directory.
 
@@ -144,5 +144,5 @@ Restarting an MTA that uses Lua policy scripts can result in duplicate deliverie
 
 5.  Restart the ecelerity process. See [ec_ctl](executable.ec_ctl "ec_ctl"). Note that on restart any options set from ec_console will revert to their default values.
 
-| [Prev](modules.sched)  | [Up](modules.php) |  [Next](modules.securecreds.php) |
+| [Prev](modules.sched)  | [Up](modules) |  [Next](modules.securecreds) |
 | 14.59. sched – The Schedule Module  | [Table of Contents](index) |  14.61. securecreds – Module |
