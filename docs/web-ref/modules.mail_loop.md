@@ -1,4 +1,4 @@
-| [Prev](modules.live.bounce.updates)  | Chapter 14. Modules Reference |  [Next](modules.maildir.php) |
+| [Prev](modules.live.bounce.updates)  | Chapter 14. Modules Reference |  [Next](modules.maildir) |
 
 ## 14.45. mail_loop – Mail Loop Detection
 
