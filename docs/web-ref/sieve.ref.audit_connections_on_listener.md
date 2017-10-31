@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.antivirus)  | 16.2. Sieve Function Details |  [Next](sieve.ref.audit_connections_on_service.php) |
+| [Prev](sieve.ref.antivirus)  | 16.2. Sieve Function Details |  [Next](sieve.ref.audit_connections_on_service) |
 
 <a name="sieve.ref.audit_connections_on_listener"></a>
 ## Name
@@ -42,5 +42,5 @@ if ec_test :value "gt" :comparator "i;ascii-numeric" "${c_connections}" "10000" 
 }
 ```
 
-| [Prev](sieve.ref.antivirus)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.audit_connections_on_service.php) |
+| [Prev](sieve.ref.antivirus)  | [Up](sieve.ref.files) |  [Next](sieve.ref.audit_connections_on_service) |
 | antivirus  | [Table of Contents](index) |  audit_connections_on_service |
