@@ -1,4 +1,4 @@
-| [Prev](copyright.3rdparty-disclaimer)  | Part III. Appendices |  [Next](glossary.php) |
+| [Prev](copyright.3rdparty-disclaimer)  | Part III. Appendices |  [Next](glossary) |
 
 ## Appendix J. Acronyms
 
@@ -122,5 +122,5 @@ This section displays acronyms sorted alphabetically and linked to their definit
 
 *   **p0f** – [Passive operating system (OS) fingerprinting](glossary#gloss-p0f "Passive operating system (OS) fingerprinting")
 
-| [Prev](copyright.3rdparty-disclaimer)  | [Up](p.appendices.php) |  [Next](glossary.php) |
+| [Prev](copyright.3rdparty-disclaimer)  | [Up](p.appendices) |  [Next](glossary) |
 | I.2. Disclaimers for Redistributed Third-Party Software  | [Table of Contents](index) |  Glossary |
