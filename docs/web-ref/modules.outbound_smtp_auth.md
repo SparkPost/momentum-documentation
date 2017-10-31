@@ -1,4 +1,4 @@
-| [Prev](modules.outbound_audit)  | Chapter 14. Modules Reference |  [Next](modules.pe2_logger.php) |
+| [Prev](modules.outbound_audit)  | Chapter 14. Modules Reference |  [Next](modules.pe2_logger) |
 
 ## 14.51. outbound_smtp_auth – Module
 
@@ -101,5 +101,5 @@ Domain "sparkpost.com" {
 }
 ```
 
-| [Prev](modules.outbound_audit)  | [Up](modules.php) |  [Next](modules.pe2_logger.php) |
+| [Prev](modules.outbound_audit)  | [Up](modules) |  [Next](modules.pe2_logger) |
 | 14.50. outbound_audit – Outbound traffic analytics  | [Table of Contents](index) |  14.52. pe2_logger – Module |
