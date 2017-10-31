@@ -1,4 +1,5 @@
 | [Prev](typographical)  |   |  [Next](install.php) |
+
 ## Part I. Configuration Guide
 **Table of Contents**
 
