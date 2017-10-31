@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.address)  | 16.2. Sieve Function Details |  [Next](sieve.ref.antivirus.php) |
+| [Prev](sieve.ref.address)  | 16.2. Sieve Function Details |  [Next](sieve.ref.antivirus) |
 
 <a name="sieve.ref.advertize_esmtp_capability"></a>
 ## Name
@@ -24,5 +24,5 @@ Use this function to add a string to the EHLO response. This function is typical
 
 [disable_esmtp_capability](sieve.ref.disable_esmtp_capability "disable_esmtp_capability")
 
-| [Prev](sieve.ref.address)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.antivirus.php) |
+| [Prev](sieve.ref.address)  | [Up](sieve.ref.files) |  [Next](sieve.ref.antivirus) |
 | address  | [Table of Contents](index) |  antivirus |
