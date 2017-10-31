@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ds_execute)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ds_fetch_flat.php) |
+| [Prev](sieve.ref.ds_execute)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ds_fetch_flat) |
 
 <a name="sieve.ref.ds_fetch"></a>
 ## Name
@@ -55,7 +55,7 @@ You can use this action to select more than one column from a row and the orderi
 <a name="idp29058432"></a>
 ## See Also
 
-[ds_execute](sieve.ref.ds_execute "ds_execute"), [ds_fetch_hash](sieve.ref.ds_fetch_hash.php "ds_fetch_hash"), [ds_fetch_flat](sieve.ref.ds_fetch_flat.php "ds_fetch_flat")
+[ds_execute](sieve.ref.ds_execute "ds_execute"), [ds_fetch_hash](sieve.ref.ds_fetch_hash "ds_fetch_hash"), [ds_fetch_flat](sieve.ref.ds_fetch_flat "ds_fetch_flat")
 
-| [Prev](sieve.ref.ds_execute)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ds_fetch_flat.php) |
+| [Prev](sieve.ref.ds_execute)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ds_fetch_flat) |
 | ds_execute  | [Table of Contents](index) |  ds_fetch_flat |
