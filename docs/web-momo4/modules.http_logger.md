@@ -2,7 +2,7 @@
 
 ## 71.37. http_logger – HTTP Requests and Responses
 
-The http_logger module enables logging of HTTP requests and responses made by the [httpsrv Module](https://support.messagesystems.com/docs/web-rest-injector/rest.configuring).
+The http_logger module enables logging of HTTP requests and responses made by the [httpsrv Module](https://support.messagesystems.com/docs/web-rest-injector/rest.configuring.php).
 
 ### 71.37.1. Configuration
 
