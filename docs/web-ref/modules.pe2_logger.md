@@ -1,4 +1,4 @@
-| [Prev](modules.outbound_smtp_auth)  | Chapter 14. Modules Reference |  [Next](modules.persistio.php) |
+| [Prev](modules.outbound_smtp_auth)  | Chapter 14. Modules Reference |  [Next](modules.persistio) |
 
 ## 14.52. pe2_logger – Module
 
@@ -94,7 +94,7 @@ For information on using this module in a Message Central configuration, see [In
 
 ### 14.52.2. Sieve Usage
 
-If you load the module in passive mode, it will no longer log anything and you will instead need to use the Sieve functions [pe2_mark_unsubscribed](sieve.ref.pe2_mark_unsubscribed "pe2_mark_unsubscribed") and [pe2_mark_bounced](sieve.ref.pe2_mark_bounced.php "pe2_mark_bounced") to log unsubscribe and bounce events.
+If you load the module in passive mode, it will no longer log anything and you will instead need to use the Sieve functions [pe2_mark_unsubscribed](sieve.ref.pe2_mark_unsubscribed "pe2_mark_unsubscribed") and [pe2_mark_bounced](sieve.ref.pe2_mark_bounced "pe2_mark_bounced") to log unsubscribe and bounce events.
 
 The `pe2_mark_unsubscribed` Sieve action can be used to implement unsubscribe-via-email; you would configure your policy scripts to make a determination about whether the incoming message is a request to unsubscribe, and then issue a call to `pe2_mark_unsubscribed`.
 
@@ -102,5 +102,5 @@ Note that unsubscribe in this context is equivalent to marking the recipient as 
 
 When used in passive mode, you must make sure that the MTA is not one being injected into directly by the Message Central generator, as there is no way for that MTA to log deliveries.
 
-| [Prev](modules.outbound_smtp_auth)  | [Up](modules.php) |  [Next](modules.persistio.php) |
+| [Prev](modules.outbound_smtp_auth)  | [Up](modules) |  [Next](modules.persistio) |
 | 14.51. outbound_smtp_auth – Module  | [Table of Contents](index) |  14.53. persist_io – Persistent IO Wrapper |
