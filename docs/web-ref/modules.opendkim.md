@@ -1,4 +1,4 @@
-| [Prev](modules.mxip)  | Chapter 14. Modules Reference |  [Next](modules.outbound_audit.php) |
+| [Prev](modules.mxip)  | Chapter 14. Modules Reference |  [Next](modules.outbound_audit) |
 
 ## 14.49. opendkim – OpenDKIM module
 
@@ -20,13 +20,13 @@ Like the `dkim_sign` module ([Section 14.27.3, “Signing”](modules.dkim#modu
 
 In order to use the `opendkim` module for signing you must set [opendkim_sign](conf.ref.opendkim_sign "opendkim_sign") to `true` in the appropriate scope.
 
-In order to sign using a Lua script, you must create a script and reference it from the [scriptlet](modules.scriptlet "14.60. scriptlet – Module") module as shown in [Example 14.76, “opendkim example”](modules.opendkim.php#modules.opendkim.example "Example 14.76. opendkim example"). For a sample script see [msys.validate.opendkim.sign](lua.ref.msys.validate.opendkim.sign.php "msys.validate.opendkim.sign").
+In order to sign using a Lua script, you must create a script and reference it from the [scriptlet](modules.scriptlet "14.60. scriptlet – Module") module as shown in [Example 14.76, “opendkim example”](modules.opendkim#modules.opendkim.example "Example 14.76. opendkim example"). For a sample script see [msys.validate.opendkim.sign](lua.ref.msys.validate.opendkim.sign "msys.validate.opendkim.sign").
 
 ### Warning
 
 You cannot DKIM sign messages using both OpenDKIM and DKIM. You must configure either `opendkim` or `dkim_sign`. OpenDKIM is the preferred method of signing.
 
-To control how OpenDKIM signing statistics are recorded see [signing_stats](conf.ref.signing_stats "signing_stats"). The console command [signing_stats](console_commands.signing_stats.php "signing_stats") is used to examine signing statistics and [signing_stats reset](console_commands.signing_stats_reset.php "signing_stats reset") resets statistics.
+To control how OpenDKIM signing statistics are recorded see [signing_stats](conf.ref.signing_stats "signing_stats"). The console command [signing_stats](console_commands.signing_stats "signing_stats") is used to examine signing statistics and [signing_stats reset](console_commands.signing_stats_reset "signing_stats reset") resets statistics.
 
 ### 14.49.2. Validating
 
@@ -300,7 +300,7 @@ You can sign OpenDKIM domains using module configuration settings or at runtime 
 
 The OpenDKIM API is very similar to the existing DKIM API but lacks an option for the header list because the header list is a global setting; consequently, you cannot change the header list per message.
 
-In order to sign at runtime you must create a Lua script and reference it from the scriptlet module (see [Section 14.60, “scriptlet – Module”](modules.scriptlet "14.60. scriptlet – Module")) as shown in [Example 14.76, “opendkim example”](modules.opendkim.php#modules.opendkim.example "Example 14.76. opendkim example") and likewise with verification.
+In order to sign at runtime you must create a Lua script and reference it from the scriptlet module (see [Section 14.60, “scriptlet – Module”](modules.scriptlet "14.60. scriptlet – Module")) as shown in [Example 14.76, “opendkim example”](modules.opendkim#modules.opendkim.example "Example 14.76. opendkim example") and likewise with verification.
 
 Loading the `opendkim` module exposes the following Lua functions:
 
@@ -342,5 +342,5 @@ The following OpenDKIM objects are passed in to or returned by these functions:
 
 For more information about these data types see [OpenDKIM Library](http://www.opendkim.org/libopendkim/index.html).
 
-| [Prev](modules.mxip)  | [Up](modules.php) |  [Next](modules.outbound_audit.php) |
+| [Prev](modules.mxip)  | [Up](modules) |  [Next](modules.outbound_audit) |
 | 14.48. mxip - IP Addresses In MX Records  | [Table of Contents](index) |  14.50. outbound_audit – Outbound traffic analytics |
