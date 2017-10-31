@@ -1,8 +1,8 @@
-| [Prev](operations.console)  | Chapter 4. Operations |  [Next](operations.postgresql.php) |
+| [Prev](operations.console)  | Chapter 4. Operations |  [Next](operations.postgresql) |
 
 ## 4.2. Console Commands
 
-Besides the commands listed here, there are also module-specific console commands. Links to these commands are listed in [Section 13.3, “Module-Specific Console Commands”](module_specific_console_commands "13.3. Module-Specific Console Commands"). You can also create custom commands as described at [Section 4.2.12, “Custom Console Commands”](operations.console-commands.php#operations.console.lua "4.2.12. Custom Console Commands").
+Besides the commands listed here, there are also module-specific console commands. Links to these commands are listed in [Section 13.3, “Module-Specific Console Commands”](module_specific_console_commands "13.3. Module-Specific Console Commands"). You can also create custom commands as described at [Section 4.2.12, “Custom Console Commands”](operations.console-commands#operations.console.lua "4.2.12. Custom Console Commands").
 
 ### Note
 
@@ -158,5 +158,5 @@ msys.registerControl("delay_domain", delay_domain);
 
 This code creates the ec_console command: **delay_domain *`domain`***           . For instructions on inplementing Lua scripts see [Section 14.60, “scriptlet – Module”](modules.scriptlet "14.60. scriptlet – Module").
 
-| [Prev](operations.console)  | [Up](operations.php) |  [Next](operations.postgresql.php) |
+| [Prev](operations.console)  | [Up](operations) |  [Next](operations.postgresql) |
 | 4.1. The Momentum System Console  | [Table of Contents](index) |  4.3. PostgreSQL |
