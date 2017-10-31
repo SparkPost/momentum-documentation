@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.commtouch_scan)  | 16.2. Sieve Function Details |  [Next](sieve.ref.discard.php) |
+| [Prev](sieve.ref.commtouch_scan)  | 16.2. Sieve Function Details |  [Next](sieve.ref.discard) |
 
 <a name="sieve.ref.disable_esmtp_capability"></a>
 ## Name
@@ -24,5 +24,5 @@ Use this function to remove a string from the EHLO response. This function is ty
 
 [advertize_esmtp_capability](sieve.ref.advertize_esmtp_capability "advertize_esmtp_capability")
 
-| [Prev](sieve.ref.commtouch_scan)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.discard.php) |
+| [Prev](sieve.ref.commtouch_scan)  | [Up](sieve.ref.files) |  [Next](sieve.ref.discard) |
 | commtouch_scan  | [Table of Contents](index) |  discard |
