@@ -1,4 +1,4 @@
-| [Prev](modules.sieve)  | Chapter 14. Modules Reference |  [Next](modules.smtp_auth_proxy.php) |
+| [Prev](modules.sieve)  | Chapter 14. Modules Reference |  [Next](modules.smtp_auth_proxy) |
 
 ## 14.65. sievelib – The sievelib Module
 
@@ -36,5 +36,5 @@ Show the key in the specified cache.
 
 Delete the key in the specified cache.
 
-| [Prev](modules.sieve)  | [Up](modules.php) |  [Next](modules.smtp_auth_proxy.php) |
+| [Prev](modules.sieve)  | [Up](modules) |  [Next](modules.smtp_auth_proxy) |
 | 14.64. sieve – The Sieve Module  | [Table of Contents](index) |  14.66. smtp_auth_proxy - SMTP Authentication Proxy |
