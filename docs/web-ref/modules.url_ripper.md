@@ -1,4 +1,4 @@
-| [Prev](tls_macros)  | Chapter 14. Modules Reference |  [Next](lua.php) |
+| [Prev](tls_macros)  | Chapter 14. Modules Reference |  [Next](lua) |
 
 ## 14.75. url_ripper – URL Extraction
 
@@ -39,7 +39,7 @@ url_ripper "url_ripper1" {
 
 ### Note
 
-This module used to support `checklist_suppress_hostnames` and `checklist_suppress_ips` options, options dependent upon the deprecated `checklist` module. You can replace this functionality with Sieve or Lua datasource functions. For more information see [Section 14.30, “ds_core – Datasource Query Core”](modules.ds_core "14.30. ds_core – Datasource Query Core") and [msys.dp_config.whitelist](https://support.messagesystems.com/docs/web-policy/policy.default.configuration.php#policy.default.configuration.msys.dp_config.whitelist). In Momentum 3.x, Lua is preferred for the reasons outlined in [Section 5.2, “Implementing Policy Using Scriptlets”](implementing.policy.scriptlets.php "5.2. Implementing Policy Using Scriptlets").
+This module used to support `checklist_suppress_hostnames` and `checklist_suppress_ips` options, options dependent upon the deprecated `checklist` module. You can replace this functionality with Sieve or Lua datasource functions. For more information see [Section 14.30, “ds_core – Datasource Query Core”](modules.ds_core "14.30. ds_core – Datasource Query Core") and [msys.dp_config.whitelist](https://support.messagesystems.com/docs/web-policy/policy.default.configuration.php#policy.default.configuration.msys.dp_config.whitelist). In Momentum 3.x, Lua is preferred for the reasons outlined in [Section 5.2, “Implementing Policy Using Scriptlets”](implementing.policy.scriptlets "5.2. Implementing Policy Using Scriptlets").
 
 <dl class="variablelist">
 
@@ -163,5 +163,5 @@ In the example above, if `forward` was set to `false` the EHLO hostname (sender.
 
 When the sieve module is loaded passively, the **ec_url_ripper** Sieve command can be used at runtime. For more information see [ec_url_ripper](sieve.ref.ec_url_ripper "ec_url_ripper").
 
-| [Prev](tls_macros)  | [Up](modules.php) |  [Next](lua.php) |
+| [Prev](tls_macros)  | [Up](modules) |  [Next](lua) |
 | 14.74. tls_macros Module  | [Table of Contents](index) |  Chapter 15. Lua Function Reference |
