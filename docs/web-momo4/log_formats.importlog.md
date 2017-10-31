@@ -18,7 +18,7 @@ The following is a description of the fields:
 |--------|-------------------------------|--------------------------------------------------------------------------------
 |	0    |    	1064869327				 | Date of the event in Unix timestamp format (seconds since 00:00:00 Jan 1, 1970)
 |--------|-------------------------------|--------------------------------------------------------------------------------
-|	1	 |	 00/00-25004-31B987F3		 | "Message's original in-spool message-id (This is a unique value per message and corresponds with its location in the|spool being imported.)"
+|	1	 |	 00/00-25004-31B987F3		 | "Message's original in-spool message-id (This is a unique value per message and corresponds with its location in the spool being imported.)"
 |--------|------------------------------ |--------------------------------------------------------------------------------
 |	2	 |			I					 | indicates that this log line is an import event.
 |--------|-------------------------------|--------------------------------------------------------------------------------
