@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.files)  | 16.2. Sieve Function Details |  [Next](sieve.ref.address.php) |
+| [Prev](sieve.ref.files)  | 16.2. Sieve Function Details |  [Next](sieve.ref.address) |
 
 <a name="sieve.ref.add_recipient"></a>
 ## Name
@@ -29,5 +29,5 @@ if envelope :domain :is "to" "bar.com" {
 }
 ```
 
-| [Prev](sieve.ref.files)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.address.php) |
+| [Prev](sieve.ref.files)  | [Up](sieve.ref.files) |  [Next](sieve.ref.address) |
 | 16.2. Sieve Function Details  | [Table of Contents](index) |  address |
