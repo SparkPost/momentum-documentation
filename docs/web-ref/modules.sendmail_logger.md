@@ -1,4 +1,4 @@
-| [Prev](modules.seedlist)  | Chapter 14. Modules Reference |  [Next](modules.sieve.php) |
+| [Prev](modules.seedlist)  | Chapter 14. Modules Reference |  [Next](modules.sieve) |
 
 ## 14.63. sendmail_logger – Sendmail-Compatible Logging
 
@@ -21,5 +21,5 @@ sendmail_logger "sendmail_logger1" {
 }
 ```
 
-| [Prev](modules.seedlist)  | [Up](modules.php) |  [Next](modules.sieve.php) |
+| [Prev](modules.seedlist)  | [Up](modules) |  [Next](modules.sieve) |
 | 14.62. seedlist – Seedlist Integration  | [Table of Contents](index) |  14.64. sieve – The Sieve Module |
