@@ -1,4 +1,4 @@
-| [Prev](web3.automated.alerting)  | Part I. Configuration Guide |  [Next](operations.console.php) |
+| [Prev](web3.automated.alerting)  | Part I. Configuration Guide |  [Next](operations.console) |
 ## Chapter 4. Operations
 **Table of Contents**
 
@@ -9,5 +9,5 @@
 * [4.5\. Logging](operations.logging)
 * [4.6\. MultiVIP© Interfaces](operations.multivip)
 
-| [Prev](web3.automated.alerting)  | [Up](p.guide.php) |  [Next](operations.console.php) |
+| [Prev](web3.automated.alerting)  | [Up](p.guide) |  [Next](operations.console) |
 | 3.11. Automated Alerting Configuration  | [Table of Contents](index) |  4.1. The Momentum System Console |
