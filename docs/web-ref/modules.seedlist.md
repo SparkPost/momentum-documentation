@@ -1,4 +1,4 @@
-| [Prev](modules.securecreds)  | Chapter 14. Modules Reference |  [Next](modules.sendmail_logger.php) |
+| [Prev](modules.securecreds)  | Chapter 14. Modules Reference |  [Next](modules.sendmail_logger) |
 
 ## 14.62. seedlist – Seedlist Integration
 
@@ -90,5 +90,5 @@ sieve "sieve1" {
 }
 ```
 
-| [Prev](modules.securecreds)  | [Up](modules.php) |  [Next](modules.sendmail_logger.php) |
+| [Prev](modules.securecreds)  | [Up](modules) |  [Next](modules.sendmail_logger) |
 | 14.61. securecreds – Module  | [Table of Contents](index) |  14.63. sendmail_logger – Sendmail-Compatible Logging |
