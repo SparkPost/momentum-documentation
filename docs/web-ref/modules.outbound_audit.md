@@ -1,4 +1,4 @@
-| [Prev](modules.opendkim)  | Chapter 14. Modules Reference |  [Next](modules.outbound_smtp_auth.php) |
+| [Prev](modules.opendkim)  | Chapter 14. Modules Reference |  [Next](modules.outbound_smtp_auth) |
 
 ## 14.50. outbound_audit – Outbound traffic analytics
 
@@ -204,5 +204,5 @@ Zero-out all statistics.
 
 </dl>
 
-| [Prev](modules.opendkim)  | [Up](modules.php) |  [Next](modules.outbound_smtp_auth.php) |
+| [Prev](modules.opendkim)  | [Up](modules) |  [Next](modules.outbound_smtp_auth) |
 | 14.49. opendkim – OpenDKIM module  | [Table of Contents](index) |  14.51. outbound_smtp_auth – Module |
