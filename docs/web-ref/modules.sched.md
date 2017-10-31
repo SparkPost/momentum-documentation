@@ -1,4 +1,4 @@
-| [Prev](modules.response_transcode)  | Chapter 14. Modules Reference |  [Next](modules.scriptlet.php) |
+| [Prev](modules.response_transcode)  | Chapter 14. Modules Reference |  [Next](modules.scriptlet) |
 
 ## 14.59. sched – The Schedule Module
 
@@ -51,5 +51,5 @@ Run a command at the specified time expressed as a Unix timestamp.
 
 Run a command at the specified number of seconds from the current time.
 
-| [Prev](modules.response_transcode)  | [Up](modules.php) |  [Next](modules.scriptlet.php) |
+| [Prev](modules.response_transcode)  | [Up](modules) |  [Next](modules.scriptlet) |
 | 14.58. response_transcode – Module  | [Table of Contents](index) |  14.60. scriptlet – Module |
