@@ -1,4 +1,4 @@
-| [Prev](modules.smtp_cbv)  | Chapter 14. Modules Reference |  [Next](modules.spf.php) |
+| [Prev](modules.smtp_cbv)  | Chapter 14. Modules Reference |  [Next](modules.spf) |
 
 ## 14.68. smtp_rcptto_proxy - SMTP Recipient-To Proxy
 
@@ -34,5 +34,5 @@ The `smtp_rcptto_proxy` module allows validation of a Lua recipient by doing an 
 
 No information is provided if the RCPT TO fails. The system just returns "fail".
 
-| [Prev](modules.smtp_cbv)  | [Up](modules.php) |  [Next](modules.spf.php) |
+| [Prev](modules.smtp_cbv)  | [Up](modules) |  [Next](modules.spf) |
 | 14.67. smtp_cbv – SMTP Callback Verification  | [Table of Contents](index) |  14.69. spf Modules – spf_macros, spf_v1 and senderid (SPF v2) |
