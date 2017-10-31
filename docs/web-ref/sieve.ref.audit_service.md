@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.audit_series_add)  | 16.2. Sieve Function Details |  [Next](sieve.ref.brightmail.php) |
+| [Prev](sieve.ref.audit_series_add)  | 16.2. Sieve Function Details |  [Next](sieve.ref.brightmail) |
 
 <a name="sieve.ref.audit_service"></a>
 ## Name
@@ -56,5 +56,5 @@ if ec_test :value "gt" :comparator "i;ascii-numeric" "${c_connections}" "10000" 
 }
 ```
 
-| [Prev](sieve.ref.audit_series_add)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.brightmail.php) |
+| [Prev](sieve.ref.audit_series_add)  | [Up](sieve.ref.files) |  [Next](sieve.ref.brightmail) |
 | audit_series_add  | [Table of Contents](index) |  brightmail |
