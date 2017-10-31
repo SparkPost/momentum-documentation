@@ -1,4 +1,4 @@
-| [Prev](modules.smtp_rcptto_proxy)  | Chapter 14. Modules Reference |  [Next](modules.static_routes.php) |
+| [Prev](modules.smtp_rcptto_proxy)  | Chapter 14. Modules Reference |  [Next](modules.static_routes) |
 
 ## 14.69. spf Modules – spf_macros, spf_v1 and senderid (SPF v2)
 
@@ -203,23 +203,23 @@ The following macro letters are expanded:
 
 <dl class="variablelist">
 
-<dt>s = <sender></dt>
+<dt>s = ```<sender>```</dt>
 
 <dd>
 
-The "s" macro expands to the <sender> argument. It is an e-mail address with a localpart, an "@" character, and a domain.
+The "s" macro expands to the ```<sender>``` argument. It is an e-mail address with a localpart, an "@" character, and a domain.
 
 </dd>
 
-<dt>l = localpart of <sender></dt>
+<dt>l = localpart of ```<sender>```</dt>
 
 <dd>
 
-The "l" macro expands to just the localpart of the sender. Note also that if the original <sender> had no localpart, the localpart is set to "postmaster" in initial processing.
+The "l" macro expands to just the localpart of the sender. Note also that if the original ```<sender>``` had no localpart, the localpart is set to "postmaster" in initial processing.
 
 </dd>
 
-<dt>o = domain of <sender></dt>
+<dt>o = domain of ```<sender>```</dt>
 
 <dd>
 
@@ -227,7 +227,7 @@ The "o" macro expands to just the domain part of the sender.
 
 </dd>
 
-<dt>d = <domain></dt>
+<dt>d = ```<domain>```</dt>
 
 <dd>
 
@@ -249,7 +249,7 @@ For IPv6 addresses, the "i" macro expands to a dot-format address; it is intende
 
 <dd>
 
-The "p" macro expands to the validated domain name of <ip>. The procedure for finding the validated domain name is defined in Section 5.5 of the SPF specification. If the <domain> is present in the list of validated domains, it SHOULD be used. Otherwise, if a subdomain of the <domain> is present, it SHOULD be used. Otherwise, any name from the list may be used. If there are no validated domain names or if a DNS error occurs, the string "unknown" is used.
+The "p" macro expands to the validated domain name of <ip>. The procedure for finding the validated domain name is defined in Section 5.5 of the SPF specification. If the ```<domain>``` is present in the list of validated domains, it SHOULD be used. Otherwise, if a subdomain of the ```<domain>``` is present, it SHOULD be used. Otherwise, any name from the list may be used. If there are no validated domain names or if a DNS error occurs, the string "unknown" is used.
 
 </dd>
 
@@ -314,7 +314,7 @@ By default, strings are split on "." (dots). Note that no special treatment is g
 These macro examples are taken directly from the SPF specification. Note that for use in Sieve, macros should be prefixed with the spfv1: namespace.
 
 ```
-The <sender> is strong-bad@email.example.com.
+The ```<sender>``` is strong-bad@email.example.com.
       The IPv4 SMTP client IP is 192.0.2.3.
       The IPv6 SMTP client IP is 2001:DB8::CB01.
       The PTR domain name of the client IP is mx.example.org.
@@ -355,5 +355,5 @@ The <sender> is strong-bad@email.example.com.
    0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.B.D.0.1.0.0.2.ip6._spf.example.com
 ```
 
-| [Prev](modules.smtp_rcptto_proxy)  | [Up](modules.php) |  [Next](modules.static_routes.php) |
+| [Prev](modules.smtp_rcptto_proxy)  | [Up](modules) |  [Next](modules.static_routes) |
 | 14.68. smtp_rcptto_proxy - SMTP Recipient-To Proxy  | [Table of Contents](index) |  14.70. static-routes - Static Routes |
