@@ -76,5 +76,5 @@ Set to 'match', if a self-connect was detected.
 
 The mail_loop module also exposes the ec_interfaces Sieve feature. ec_interfaces is detailed in [ec_interfaces](sieve.ref.ec_interfaces "ec_interfaces").
 
-| [Prev](modules.live.bounce.updates)  | [Up](modules.php) |  [Next](modules.maildir) |
+| [Prev](modules.live.bounce.updates)  | [Up](modules) |  [Next](modules.maildir) |
 | 14.44. Live Bounce Updates – Module  | [Table of Contents](index) |  14.46. maildir – Maildir Delivery Support |
