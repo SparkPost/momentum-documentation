@@ -1,4 +1,4 @@
-| [Prev](sieve.enhancements)  | Chapter 8. Sieve++ |  [Next](p.command.ref.php) |
+| [Prev](sieve.enhancements)  | Chapter 8. Sieve++ |  [Next](p.command.ref) |
 
 ## 8.4. Sieve++, Momentum-specific extensions
 
@@ -208,7 +208,7 @@ A more general counter mechanism supporting increment, decrement and get operati
 
 **Hash tables**
 
-Hash tables can be created and manipulated in Sieve using the `ec_hash` family of functions, most notably [hash_create](sieve.ref.hash_create "hash_create") and [hash_set](sieve.ref.hash_set.php "hash_set"). A hash lookup is expressed using bracket syntax (e.g., `$hash["key"]`).
+Hash tables can be created and manipulated in Sieve using the `ec_hash` family of functions, most notably [hash_create](sieve.ref.hash_create "hash_create") and [hash_set](sieve.ref.hash_set "hash_set"). A hash lookup is expressed using bracket syntax (e.g., `$hash["key"]`).
 
 The hash keys must be strings or expressions that resolve to strings. A hash value can be any valid Sieve value (string, number, stringlist or hashes).
 
@@ -218,7 +218,7 @@ Audit series enable IP-address based events to be tracked over a rolling set of 
 
 For example, an audit series can be configured with six windows of 5 minutes each. This stores data for a half-hour leading up to the present; (every 5 minutes, the oldest window is discarded, the remaining windows shift, and a new window representing the present is created). In each window, a CIDR tree efficiently stores the IP addresses that were added and their respective counts.
 
-A Sieve script can add an IP address into an audit series using [audit_series_add](sieve.ref.audit_series_add "audit_series_add"). The script can query how many times an IP address (or aggregate total for a CIDR block) appears in the audit series using [audit_series](sieve.ref.audit_series.php "audit_series").
+A Sieve script can add an IP address into an audit series using [audit_series_add](sieve.ref.audit_series_add "audit_series_add"). The script can query how many times an IP address (or aggregate total for a CIDR block) appears in the audit series using [audit_series](sieve.ref.audit_series "audit_series").
 
 The use of numerous small windows is usually preferable to a few large windows. For example, aggregating over six 5-minute windows provides less drastic fluctuations than would two 15-minute windows. This is due to the discarding of the oldest data when the windows shift. (For example, at the moment the windows are shifted, the former series would retain the most recent 25 minutes of data, while the latter would retain only the most recent 15 minutes).
 
@@ -226,5 +226,5 @@ The use of numerous small windows is usually preferable to a few large windows. 
 
 Users of the cluster module may benefit from special replicated data types. As described in , [Section 7.7.1, “Replication Configurations”](cluster.config.replication#cluster.replication.features "7.7.1. Replication Configurations") a number of functions have special support for replicating their values across all nodes of a cluster.
 
-| [Prev](sieve.enhancements)  | [Up](sieve.php) |  [Next](p.command.ref.php) |
+| [Prev](sieve.enhancements)  | [Up](sieve) |  [Next](p.command.ref) |
 | 8.3. RFC Standard Sieve Enhancements  | [Table of Contents](index) |  Part II. Command Reference |
