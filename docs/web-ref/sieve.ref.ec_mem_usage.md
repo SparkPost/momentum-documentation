@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_maildir)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_mime_boundary_create.php) |
+| [Prev](sieve.ref.ec_maildir)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_mime_boundary_create) |
 
 <a name="sieve.ref.ec_mem_usage"></a>
 ## Name
@@ -25,5 +25,5 @@ if $megsused "ge" :comparator "i;ascii-numeric" "4096" {
 }
 ```
 
-| [Prev](sieve.ref.ec_maildir)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_mime_boundary_create.php) |
+| [Prev](sieve.ref.ec_maildir)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_mime_boundary_create) |
 | ec_maildir  | [Table of Contents](index) |  ec_mime_boundary_create |
