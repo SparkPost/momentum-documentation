@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.keep)  | 16.2. Sieve Function Details |  [Next](sieve.ref.pe2_mark_unsubscribed.php) |
+| [Prev](sieve.ref.keep)  | 16.2. Sieve Function Details |  [Next](sieve.ref.pe2_mark_unsubscribed) |
 
 <a name="sieve.ref.pe2_mark_bounced"></a>
 ## Name
@@ -40,7 +40,7 @@ if envelope :localpart :matches "to" "bounces-*" {
 <a name="idp31061568"></a>
 ## See Also
 
-[Section 14.52, “pe2_logger – Module”](modules.pe2_logger "14.52. pe2_logger – Module"), [pe2_mark_unsubscribed](sieve.ref.pe2_mark_unsubscribed.php "pe2_mark_unsubscribed")
+[Section 14.52, “pe2_logger – Module”](modules.pe2_logger "14.52. pe2_logger – Module"), [pe2_mark_unsubscribed](sieve.ref.pe2_mark_unsubscribed "pe2_mark_unsubscribed")
 
-| [Prev](sieve.ref.keep)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.pe2_mark_unsubscribed.php) |
+| [Prev](sieve.ref.keep)  | [Up](sieve.ref.files) |  [Next](sieve.ref.pe2_mark_unsubscribed) |
 | keep  | [Table of Contents](index) |  pe2_mark_unsubscribed |
