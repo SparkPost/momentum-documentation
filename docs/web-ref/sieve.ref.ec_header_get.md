@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_header_delete)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_header_postfix.php) |
+| [Prev](sieve.ref.ec_header_delete)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_header_postfix) |
 
 <a name="sieve.ref.ec_header_get"></a>
 ## Name
@@ -37,5 +37,5 @@ ec_log "The category is ${hdr}";
 
 The parameter passed to this function is case insensitive.
 
-| [Prev](sieve.ref.ec_header_delete)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_header_postfix.php) |
+| [Prev](sieve.ref.ec_header_delete)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_header_postfix) |
 | ec_header_delete  | [Table of Contents](index) |  ec_header_postfix |

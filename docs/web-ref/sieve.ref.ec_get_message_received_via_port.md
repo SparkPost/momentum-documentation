@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_get_message_received_via)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_get_message_size.php) |
+| [Prev](sieve.ref.ec_get_message_received_via)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_get_message_size) |
 
 <a name="sieve.ref.ec_get_message_received_via_port"></a>
 ## Name
@@ -27,5 +27,5 @@ if not ec_test :is "${p}" "$local_port" {
 }
 ```
 
-| [Prev](sieve.ref.ec_get_message_received_via)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_get_message_size.php) |
+| [Prev](sieve.ref.ec_get_message_received_via)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_get_message_size) |
 | ec_get_message_received_via  | [Table of Contents](index) |  ec_get_message_size |
