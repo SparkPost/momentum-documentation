@@ -1,4 +1,4 @@
-| [Prev](ecelerity-cluster.conf)  | Chapter 10. Cluster Configuration Reference |  [Next](mbus.conf.php) |
+| [Prev](ecelerity-cluster.conf)  | Chapter 10. Cluster Configuration Reference |  [Next](mbus.conf) |
 
 <a name="cluster.boot"></a>
 ## Name
@@ -122,5 +122,5 @@ The default port for the `repo` option is `2027`. You need not specify the port 
 
 </dl>
 
-| [Prev](ecelerity-cluster.conf)  | [Up](cluster.ref.php) |  [Next](mbus.conf.php) |
+| [Prev](ecelerity-cluster.conf)  | [Up](cluster.ref) |  [Next](mbus.conf) |
 | ecelerity-cluster.conf  | [Table of Contents](index) |  mbus.conf |
