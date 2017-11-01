@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_ip_connections_cluster)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_ip_receptions_cluster.php) |
+| [Prev](sieve.ref.ec_ip_connections_cluster)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_ip_receptions_cluster) |
 
 <a name="sieve.ref.ec_ip_receptions"></a>
 ## Name
@@ -100,5 +100,5 @@ if ec_test :value "gt" :comparator "i;ascii-numeric" "${count}" "10000" {
 }
 ```
 
-| [Prev](sieve.ref.ec_ip_connections_cluster)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_ip_receptions_cluster.php) |
+| [Prev](sieve.ref.ec_ip_connections_cluster)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_ip_receptions_cluster) |
 | ec_ip_connections_cluster  | [Table of Contents](index) |  ec_ip_receptions_cluster |
