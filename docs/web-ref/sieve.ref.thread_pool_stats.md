@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.stop)  | 16.2. Sieve Function Details |  [Next](sieve.ref.type.php) |
+| [Prev](sieve.ref.stop)  | 16.2. Sieve Function Details |  [Next](sieve.ref.type) |
 
 <a name="sieve.ref.thread_pool_stats"></a>
 ## Name
@@ -90,5 +90,5 @@ if ec_test :value "gt" :comparator "i;ascii-numeric" "${jqsize}" "100" {
 }
 ```
 
-| [Prev](sieve.ref.stop)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.type.php) |
+| [Prev](sieve.ref.stop)  | [Up](sieve.ref.files) |  [Next](sieve.ref.type) |
 | stop  | [Table of Contents](index) |  type |
