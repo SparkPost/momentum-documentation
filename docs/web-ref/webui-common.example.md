@@ -1,4 +1,4 @@
-| [Prev](smtp-response-codes)  | Part III. Appendices |  [Next](log_formats.php) |
+| [Prev](smtp-response-codes)  | Part III. Appendices |  [Next](log_formats) |
 
 ## Example LDAP `webui-common.conf` File
 
@@ -58,5 +58,5 @@ auth_ds {
 }
 ```
 
-| [Prev](smtp-response-codes)  | [Up](p.appendices.php) |  [Next](log_formats.php) |
+| [Prev](smtp-response-codes)  | [Up](p.appendices) |  [Next](log_formats) |
 | Appendix C. SMTP Response Codes  | [Table of Contents](index) |  Appendix E. Log Formats |
