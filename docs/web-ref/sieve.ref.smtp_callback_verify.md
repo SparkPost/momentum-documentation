@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.reverse_delim)  | 16.2. Sieve Function Details |  [Next](sieve.ref.snmp_trap.php) |
+| [Prev](sieve.ref.reverse_delim)  | 16.2. Sieve Function Details |  [Next](sieve.ref.snmp_trap) |
 
 <a name="sieve.ref.smtp_callback_verify"></a>
 ## Name
@@ -52,5 +52,5 @@ if ec_test :is "${rv}" "fail" {
 
 [Section 14.67, “smtp_cbv – SMTP Callback Verification”](modules.smtp_cbv "14.67. smtp_cbv – SMTP Callback Verification"),
 
-| [Prev](sieve.ref.reverse_delim)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.snmp_trap.php) |
+| [Prev](sieve.ref.reverse_delim)  | [Up](sieve.ref.files) |  [Next](sieve.ref.snmp_trap) |
 | reverse_delim  | [Table of Contents](index) |  snmp_trap |
