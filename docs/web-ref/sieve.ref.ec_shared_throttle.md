@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_set_routing_gateway)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_spool_space.php) |
+| [Prev](sieve.ref.ec_set_routing_gateway)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_spool_space) |
 
 <a name="sieve.ref.ec_shared_throttle"></a>
 ## Name
@@ -47,5 +47,5 @@ ec_shared_throttle_tarpit "foo";
 ...
 ```
 
-| [Prev](sieve.ref.ec_set_routing_gateway)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_spool_space.php) |
+| [Prev](sieve.ref.ec_set_routing_gateway)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_spool_space) |
 | ec_set_routing_gateway  | [Table of Contents](index) |  ec_spool_space |
