@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.hash_values)  | 16.2. Sieve Function Details |  [Next](sieve.ref.join.php) |
+| [Prev](sieve.ref.hash_values)  | 16.2. Sieve Function Details |  [Next](sieve.ref.join) |
 
 <a name="sieve.ref.is_true"></a>
 ## Name
@@ -33,5 +33,5 @@ if is_true $result {
 }
 ```
 
-| [Prev](sieve.ref.hash_values)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.join.php) |
+| [Prev](sieve.ref.hash_values)  | [Up](sieve.ref.files) |  [Next](sieve.ref.join) |
 | hash_values  | [Table of Contents](index) |  join |
