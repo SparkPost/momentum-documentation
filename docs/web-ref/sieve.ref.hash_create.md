@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.generate_mail_raw)  | 16.2. Sieve Function Details |  [Next](sieve.ref.hash_dump.php) |
+| [Prev](sieve.ref.generate_mail_raw)  | 16.2. Sieve Function Details |  [Next](sieve.ref.hash_dump) |
 
 <a name="sieve.ref.hash_create"></a>
 ## Name
@@ -29,7 +29,7 @@ ec_log "The value is ${value}";
 <a name="idp30884240"></a>
 ## See Also
 
-[hash_set](sieve.ref.hash_set "hash_set"), [hash_dump](sieve.ref.hash_dump.php "hash_dump") and [hash_get](sieve.ref.hash_get.php "hash_get").
+[hash_set](sieve.ref.hash_set "hash_set"), [hash_dump](sieve.ref.hash_dump "hash_dump") and [hash_get](sieve.ref.hash_get "hash_get").
 
-| [Prev](sieve.ref.generate_mail_raw)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.hash_dump.php) |
+| [Prev](sieve.ref.generate_mail_raw)  | [Up](sieve.ref.files) |  [Next](sieve.ref.hash_dump) |
 | generate_mail_raw  | [Table of Contents](index) |  hash_dump |
