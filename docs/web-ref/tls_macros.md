@@ -1,4 +1,4 @@
-| [Prev](modules.syslog_io)  | Chapter 14. Modules Reference |  [Next](modules.url_ripper.php) |
+| [Prev](modules.syslog_io)  | Chapter 14. Modules Reference |  [Next](modules.url_ripper) |
 
 ## 14.74. tls_macros Module
 
@@ -124,5 +124,5 @@ custom_logger custom_logger1 {
 {% endraw %}
 For more information on the custom_logger, see [Section 14.24, “custom_logger – Customizable Logging”](modules.custom_logger "14.24. custom_logger – Customizable Logging").
 
-| [Prev](modules.syslog_io)  | [Up](modules.php) |  [Next](modules.url_ripper.php) |
+| [Prev](modules.syslog_io)  | [Up](modules) |  [Next](modules.url_ripper) |
 | 14.73. syslog_io – The syslog_io Module  | [Table of Contents](index) |  14.75. url_ripper – URL Extraction |
