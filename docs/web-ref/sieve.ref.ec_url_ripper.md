@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_trunc)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_valid_binding.php) |
+| [Prev](sieve.ref.ec_trunc)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_valid_binding) |
 
 <a name="sieve.ref.ec_url_ripper"></a>
 ## Name
@@ -112,5 +112,5 @@ if anyof (
 
 [Section 14.75, “url_ripper – URL Extraction”](modules.url_ripper "14.75. url_ripper – URL Extraction")
 
-| [Prev](sieve.ref.ec_trunc)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_valid_binding.php) |
+| [Prev](sieve.ref.ec_trunc)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_valid_binding) |
 | ec_trunc  | [Table of Contents](index) |  ec_valid_binding |
