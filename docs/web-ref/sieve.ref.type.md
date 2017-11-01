@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.thread_pool_stats)  | 16.2. Sieve Function Details |  [Next](sieve.ref.vctx_conn_delete.php) |
+| [Prev](sieve.ref.thread_pool_stats)  | 16.2. Sieve Function Details |  [Next](sieve.ref.vctx_conn_delete) |
 
 <a name="sieve.ref.type"></a>
 ## Name
@@ -40,5 +40,5 @@ if type :is $opt "stringlist" {
 }
 ```
 
-| [Prev](sieve.ref.thread_pool_stats)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.vctx_conn_delete.php) |
+| [Prev](sieve.ref.thread_pool_stats)  | [Up](sieve.ref.files) |  [Next](sieve.ref.vctx_conn_delete) |
 | thread_pool_stats  | [Table of Contents](index) |  vctx_conn_delete |

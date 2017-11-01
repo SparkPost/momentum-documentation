@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.smtp_callback_verify)  | 16.2. Sieve Function Details |  [Next](sieve.ref.split.php) |
+| [Prev](sieve.ref.smtp_callback_verify)  | 16.2. Sieve Function Details |  [Next](sieve.ref.split) |
 
 <a name="sieve.ref.snmp_trap"></a>
 ## Name
@@ -117,5 +117,5 @@ if header :contains "X-Spam-Status" "Yes" {
 
 [Appendix B, *MIB Files*](snmp-mib "Appendix B. MIB Files") 
 
-| [Prev](sieve.ref.smtp_callback_verify)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.split.php) |
+| [Prev](sieve.ref.smtp_callback_verify)  | [Up](sieve.ref.files) |  [Next](sieve.ref.split) |
 | smtp_callback_verify  | [Table of Contents](index) |  split |
