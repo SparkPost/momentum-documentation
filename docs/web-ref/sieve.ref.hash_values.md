@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.hash_set)  | 16.2. Sieve Function Details |  [Next](sieve.ref.is_true.php) |
+| [Prev](sieve.ref.hash_set)  | 16.2. Sieve Function Details |  [Next](sieve.ref.is_true) |
 
 <a name="sieve.ref.hash_values"></a>
 ## Name
@@ -30,7 +30,7 @@ $vals = hash_values $hash;
 <a name="idp30985872"></a>
 ## See Also
 
-[hash_create](sieve.ref.hash_create "hash_create"), [hash_set](sieve.ref.hash_set.php "hash_set")
+[hash_create](sieve.ref.hash_create "hash_create"), [hash_set](sieve.ref.hash_set "hash_set")
 
-| [Prev](sieve.ref.hash_set)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.is_true.php) |
+| [Prev](sieve.ref.hash_set)  | [Up](sieve.ref.files) |  [Next](sieve.ref.is_true) |
 | hash_set  | [Table of Contents](index) |  is_true |
