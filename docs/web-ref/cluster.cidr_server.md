@@ -1,4 +1,4 @@
-| [Prev](cluster.config.failover)  | Chapter 7. Clustering |  [Next](sieve.php) |
+| [Prev](cluster.config.failover)  | Chapter 7. Clustering |  [Next](sieve) |
 
 ## 7.10. The `cidr_server`
 
@@ -139,5 +139,5 @@ The `spam` series files appear in the directory defined by the `base_dir` parame
 
 There is no command to exit the `cidr` shell; use **Ctrl**+**D** .
 
-| [Prev](cluster.config.failover)  | [Up](cluster.php) |  [Next](sieve.php) |
+| [Prev](cluster.config.failover)  | [Up](cluster) |  [Next](sieve) |
 | 7.9. Configuring Momentum for High Availability and Failover  | [Table of Contents](index) |  Chapter 8. Sieve++ |
