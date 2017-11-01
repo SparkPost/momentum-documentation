@@ -1,4 +1,4 @@
-| [Prev](web3.status)  | Chapter 3. Using the Web Console |  [Next](web3.reports.php) |
+| [Prev](web3.status)  | Chapter 3. Using the Web Console |  [Next](web3.reports) |
 
 ## 3.5. Filtering
 
@@ -36,5 +36,5 @@ The meanings of the letters in parentheses are as follows:
 
 You can toggle the display of selected filters by clicking the Selected Filters tab.
 
-| [Prev](web3.status)  | [Up](web3.php) |  [Next](web3.reports.php) |
+| [Prev](web3.status)  | [Up](web3) |  [Next](web3.reports) |
 | 3.4. Cluster Status  | [Table of Contents](index) |  3.6. The Reporting Page |
