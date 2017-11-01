@@ -1,4 +1,4 @@
-| [Prev](snmp-mib.omniti)  | Part III. Appendices |  [Next](webui-common.example.php) |
+| [Prev](snmp-mib.omniti)  | Part III. Appendices |  [Next](webui-common.example) |
 
 ## SMTP Response Codes
 
@@ -36,5 +36,5 @@ Prior to versions 3.1 and 2.2.3.47, Momentum would not respond correctly to a 25
 | 553 | Requested action not taken: mailbox name not allowed |
 | 554 | Transaction failed |
 
-| [Prev](snmp-mib.omniti)  | [Up](p.appendices.php) |  [Next](webui-common.example.php) |
+| [Prev](snmp-mib.omniti)  | [Up](p.appendices) |  [Next](webui-common.example) |
 | B.3. The `OMNITI-SNMP-MIB.txt` file  | [Table of Contents](index) |  Appendix D. Example LDAP `webui-common.conf` File |
