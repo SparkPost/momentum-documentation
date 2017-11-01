@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_log)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_maildir.php) |
+| [Prev](sieve.ref.ec_log)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_maildir) |
 
 <a name="sieve.ref.ec_log_file"></a>
 ## Name
@@ -43,5 +43,5 @@ Since the Sieve validation phases through the data phase are executed in the sch
 
 [ec_log](sieve.ref.ec_log "ec_log")
 
-| [Prev](sieve.ref.ec_log)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_maildir.php) |
+| [Prev](sieve.ref.ec_log)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_maildir) |
 | ec_log  | [Table of Contents](index) |  ec_maildir |
