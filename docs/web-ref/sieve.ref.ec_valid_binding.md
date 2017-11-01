@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_url_ripper)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_valid_mime.php) |
+| [Prev](sieve.ref.ec_url_ripper)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_valid_mime) |
 
 <a name="sieve.ref.ec_valid_binding"></a>
 ## Name
@@ -71,5 +71,5 @@ if ec_test :is $to "foo.com" {
 
 [ec_set_binding](sieve.ref.ec_set_binding "ec_set_binding").
 
-| [Prev](sieve.ref.ec_url_ripper)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_valid_mime.php) |
+| [Prev](sieve.ref.ec_url_ripper)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_valid_mime) |
 | ec_url_ripper  | [Table of Contents](index) |  ec_valid_mime |

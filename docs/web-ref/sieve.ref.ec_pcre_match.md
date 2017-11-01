@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_nearbyint)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_rand.php) |
+| [Prev](sieve.ref.ec_nearbyint)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_rand) |
 
 <a name="sieve.ref.ec_pcre_match"></a>
 ## Name
@@ -26,5 +26,5 @@ $email = "foo@bar.com.cn";
 ec_log "the string matched is ${a}, $1 is ${b}, $2 is ${c}.";
 ```
 
-| [Prev](sieve.ref.ec_nearbyint)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_rand.php) |
+| [Prev](sieve.ref.ec_nearbyint)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_rand) |
 | ec_nearbyint  | [Table of Contents](index) |  ec_rand |

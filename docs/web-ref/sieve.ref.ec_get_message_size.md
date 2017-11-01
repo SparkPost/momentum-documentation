@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_get_message_received_via_port)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_get_message_spool_name.php) |
+| [Prev](sieve.ref.ec_get_message_received_via_port)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_get_message_spool_name) |
 
 <a name="sieve.ref.ec_get_message_size"></a>
 ## Name
@@ -27,5 +27,5 @@ if ec_test :value "ge" :comparator "i;ascii-numeric" $n 1048576 {
 }
 ```
 
-| [Prev](sieve.ref.ec_get_message_received_via_port)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_get_message_spool_name.php) |
+| [Prev](sieve.ref.ec_get_message_received_via_port)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_get_message_spool_name) |
 | ec_get_message_received_via_port  | [Table of Contents](index) |  ec_get_message_spool_name |

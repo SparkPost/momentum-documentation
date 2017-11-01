@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ds_fetch_hash)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_add.php) |
+| [Prev](sieve.ref.ds_fetch_hash)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_add) |
 
 <a name="sieve.ref.ec_action"></a>
 ## Name
@@ -34,5 +34,5 @@ LOCAL > 550 5.7.1 We don't want mail from mta01-ft.bad-guy.com
 
 This is a terminal action; no further Sieve rules will be run for the current message in the current phase.
 
-| [Prev](sieve.ref.ds_fetch_hash)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_add.php) |
+| [Prev](sieve.ref.ds_fetch_hash)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_add) |
 | ds_fetch_hash  | [Table of Contents](index) |  ec_add |

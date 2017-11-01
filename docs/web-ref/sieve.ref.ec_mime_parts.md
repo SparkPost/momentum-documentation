@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_mime_boundary_create)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_mod.php) |
+| [Prev](sieve.ref.ec_mime_boundary_create)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_mod) |
 
 <a name="sieve.ref.ec_mime_parts"></a>
 ## Name
@@ -27,5 +27,5 @@ if ec_mime_parts :regex "filename"
 }
 ```
 
-| [Prev](sieve.ref.ec_mime_boundary_create)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_mod.php) |
+| [Prev](sieve.ref.ec_mime_boundary_create)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_mod) |
 | ec_mime_boundary_create  | [Table of Contents](index) |  ec_mod |

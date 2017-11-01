@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_get_message_received_from_port)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_get_message_received_via_port.php) |
+| [Prev](sieve.ref.ec_get_message_received_from_port)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_get_message_received_via_port) |
 
 <a name="sieve.ref.ec_get_message_received_via"></a>
 ## Name
@@ -27,5 +27,5 @@ if not ec_test :is "${ip}" "127.0.0.1" {
 }
 ```
 
-| [Prev](sieve.ref.ec_get_message_received_from_port)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_get_message_received_via_port.php) |
+| [Prev](sieve.ref.ec_get_message_received_from_port)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_get_message_received_via_port) |
 | ec_get_message_received_from_port  | [Table of Contents](index) |  ec_get_message_received_via_port |

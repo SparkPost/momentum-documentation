@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_cluster_cache_get)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_config.php) |
+| [Prev](sieve.ref.ec_cluster_cache_get)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_config) |
 
 <a name="sieve.ref.ec_cluster_cache_set"></a>
 ## Name
@@ -24,5 +24,5 @@ This feature requires the cluster module. The cluster configuration stanza must 
 
 `ec_cluster_cache_set "mycache" "mykey" "myvalue" "0";`
 
-| [Prev](sieve.ref.ec_cluster_cache_get)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_config.php) |
+| [Prev](sieve.ref.ec_cluster_cache_get)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_config) |
 | ec_cluster_cache_get  | [Table of Contents](index) |  ec_config |

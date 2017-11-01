@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_div)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_dk_sign.php) |
+| [Prev](sieve.ref.ec_div)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_dk_sign) |
 
 <a name="sieve.ref.ec_dk_responsible_domain"></a>
 ## Name
@@ -32,5 +32,5 @@ else {
 }
 ```
 
-| [Prev](sieve.ref.ec_div)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_dk_sign.php) |
+| [Prev](sieve.ref.ec_div)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_dk_sign) |
 | ec_div  | [Table of Contents](index) |  ec_dk_sign |

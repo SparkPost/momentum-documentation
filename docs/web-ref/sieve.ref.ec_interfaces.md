@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_include)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_ip_connections.php) |
+| [Prev](sieve.ref.ec_include)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_ip_connections) |
 
 <a name="sieve.ref.ec_interfaces"></a>
 ## Name
@@ -32,5 +32,5 @@ if ec_test :contains "%{spfv1:h}" $ips {
 stop;
 ```
 
-| [Prev](sieve.ref.ec_include)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_ip_connections.php) |
+| [Prev](sieve.ref.ec_include)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_ip_connections) |
 | ec_include  | [Table of Contents](index) |  ec_ip_connections |

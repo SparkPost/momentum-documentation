@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_dkim_domains)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_dkim_sign.php) |
+| [Prev](sieve.ref.ec_dkim_domains)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_dkim_sign) |
 
 <a name="sieve.ref.ec_dkim_responsible_domain"></a>
 ## Name
@@ -12,7 +12,7 @@ ec_dkim_responsible_domain — Return the responsible domain for the current mes
 <a name="idp29414320"></a>
 ## Description
 
-`ec_dkim_responsible_domain` returns a string containing the responsible domain of the current message. This can be used as an argument to the [ec_dkim_sign](sieve.ref.ec_dkim_sign "ec_dkim_sign") extension or as a comparison against the return values of the [ec_dkim_domains](sieve.ref.ec_dkim_domains.php "ec_dkim_domains") extension.
+`ec_dkim_responsible_domain` returns a string containing the responsible domain of the current message. This can be used as an argument to the [ec_dkim_sign](sieve.ref.ec_dkim_sign "ec_dkim_sign") extension or as a comparison against the return values of the [ec_dkim_domains](sieve.ref.ec_dkim_domains "ec_dkim_domains") extension.
 
 ### Note
 
@@ -33,5 +33,5 @@ else {
 }
 ```
 
-| [Prev](sieve.ref.ec_dkim_domains)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_dkim_sign.php) |
+| [Prev](sieve.ref.ec_dkim_domains)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_dkim_sign) |
 | ec_dkim_domains  | [Table of Contents](index) |  ec_dkim_sign |

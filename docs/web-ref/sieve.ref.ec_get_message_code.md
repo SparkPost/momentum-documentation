@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_gauge_cache)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_get_message_creation_time.php) |
+| [Prev](sieve.ref.ec_gauge_cache)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_get_message_creation_time) |
 
 <a name="sieve.ref.ec_get_message_code"></a>
 ## Name
@@ -27,5 +27,5 @@ $log = ec_get_message_code;
 ec_log $log;
 ```
 
-| [Prev](sieve.ref.ec_gauge_cache)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_get_message_creation_time.php) |
+| [Prev](sieve.ref.ec_gauge_cache)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_get_message_creation_time) |
 | ec_gauge_cache  | [Table of Contents](index) |  ec_get_message_creation_time |

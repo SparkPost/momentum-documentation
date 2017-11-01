@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_rfc2047_encode_header)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_round.php) |
+| [Prev](sieve.ref.ec_rfc2047_encode_header)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_round) |
 
 <a name="sieve.ref.ec_rfc3464_delivery_status"></a>
 ## Name
@@ -107,7 +107,7 @@ Strings in Sieve are all UTF-8 encoded. It is recommended that you use `Content-
 <a name="idp30463712"></a>
 ## See Also
 
-[generate_mail_raw](sieve.ref.generate_mail_raw "generate_mail_raw") [ec_mime_boundary_create](sieve.ref.ec_mime_boundary_create.php "ec_mime_boundary_create")
+[generate_mail_raw](sieve.ref.generate_mail_raw "generate_mail_raw") [ec_mime_boundary_create](sieve.ref.ec_mime_boundary_create "ec_mime_boundary_create")
 
-| [Prev](sieve.ref.ec_rfc2047_encode_header)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_round.php) |
+| [Prev](sieve.ref.ec_rfc2047_encode_header)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_round.php) |
 | ec_rfc2047_encode_header  | [Table of Contents](index) |  ec_round |

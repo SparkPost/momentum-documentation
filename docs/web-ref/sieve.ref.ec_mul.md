@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_mod)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_nearbyint.php) |
+| [Prev](sieve.ref.ec_mod)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_nearbyint) |
 
 <a name="sieve.ref.ec_mul"></a>
 ## Name
@@ -26,5 +26,5 @@ ec_log "${a} * ${b} is ${mul}";
 #mul is 2365.000000
 ```
 
-| [Prev](sieve.ref.ec_mod)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_nearbyint.php) |
+| [Prev](sieve.ref.ec_mod)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_nearbyint) |
 | ec_mod  | [Table of Contents](index) |  ec_nearbyint |

@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_base64_encode)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_ceil.php) |
+| [Prev](sieve.ref.ec_base64_encode)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_ceil) |
 
 <a name="sieve.ref.ec_bounce_classify"></a>
 ## Name
@@ -14,7 +14,7 @@ ec_bounce_classify — perform bounce classification on the message
 
 `ec_bounce_classify` allows you to perform bounce classification on a message from within Sieve++. It returns a string list which contains three members:
 
-*   $code - The numeric bounce classification code. See [Section E.2, “Bounce Classification Codes”](bounce_logger.classification.codes "E.2. Bounce Classification Codes") for information about the built-in classification codes. To create your own classification codes see [Section 14.11, “bounce_classifier – Bounce Classifier”](modules.bounce_classifier.php "14.11. bounce_classifier – Bounce Classifier").
+*   $code - The numeric bounce classification code. See [Section E.2, “Bounce Classification Codes”](bounce_logger.classification.codes "E.2. Bounce Classification Codes") for information about the built-in classification codes. To create your own classification codes see [Section 14.11, “bounce_classifier – Bounce Classifier”](modules.bounce_classifier "14.11. bounce_classifier – Bounce Classifier").
 
 *   $classification - The text description for the bounce classification.
 
@@ -37,5 +37,5 @@ if envelope :all :regex "to" "^bounces-.+@mydomain.com$") {
 
 [Table 9.7, “logging options”](options-summary#logging-options-table "Table 9.7. logging options")
 
-| [Prev](sieve.ref.ec_base64_encode)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_ceil.php) |
+| [Prev](sieve.ref.ec_base64_encode)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_ceil) |
 | ec_base64_encode  | [Table of Contents](index) |  ec_ceil |

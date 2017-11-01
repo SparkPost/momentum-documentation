@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_sub)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_test.php) |
+| [Prev](sieve.ref.ec_sub)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_test) |
 
 <a name="sieve.ref.ec_tarpit"></a>
 ## Name
@@ -16,5 +16,5 @@ This instructs Momentum that the SMTP session should be put on hold for the spec
 
 The optional counter string is used to count the number of hits for this particular action; if omitted, the script filename and line number will be assumed. You can see the hit count via **ec_console** using the **sieve:*`sieve1`* stats**       command.
 
-| [Prev](sieve.ref.ec_sub)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_test.php) |
+| [Prev](sieve.ref.ec_sub)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_test) |
 | ec_sub  | [Table of Contents](index) |  ec_test |
