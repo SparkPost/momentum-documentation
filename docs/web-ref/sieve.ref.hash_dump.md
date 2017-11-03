@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.hash_create)  | 16.2. Sieve Function Details |  [Next](sieve.ref.hash_get.php) |
+| [Prev](sieve.ref.hash_create)  | 16.2. Sieve Function Details |  [Next](sieve.ref.hash_get) |
 
 <a name="sieve.ref.hash_dump"></a>
 ## Name
@@ -23,5 +23,5 @@ $aliases = ds_fetch_flat "mydb" "select expansion from alias where user = ?" [$a
 hash_dump $aliases;
 ```
 
-| [Prev](sieve.ref.hash_create)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.hash_get.php) |
+| [Prev](sieve.ref.hash_create)  | [Up](sieve.ref.files) |  [Next](sieve.ref.hash_get) |
 | hash_create  | [Table of Contents](index) |  hash_get |

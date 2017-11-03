@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.pe2_mark_bounced)  | 16.2. Sieve Function Details |  [Next](sieve.ref.qp_encode.php) |
+| [Prev](sieve.ref.pe2_mark_bounced)  | 16.2. Sieve Function Details |  [Next](sieve.ref.qp_encode) |
 
 <a name="sieve.ref.pe2_mark_unsubscribed"></a>
 ## Name
@@ -38,7 +38,7 @@ if envelope :localpart :matches "to" "unsub-*" {
 <a name="idp31079616"></a>
 ## See Also
 
-[Section 14.52, “pe2_logger – Module”](modules.pe2_logger "14.52. pe2_logger – Module"), [pe2_mark_bounced](sieve.ref.pe2_mark_bounced.php "pe2_mark_bounced")
+[Section 14.52, “pe2_logger – Module”](modules.pe2_logger "14.52. pe2_logger – Module"), [pe2_mark_bounced](sieve.ref.pe2_mark_bounced "pe2_mark_bounced")
 
-| [Prev](sieve.ref.pe2_mark_bounced)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.qp_encode.php) |
+| [Prev](sieve.ref.pe2_mark_bounced)  | [Up](sieve.ref.files) |  [Next](sieve.ref.qp_encode) |
 | pe2_mark_bounced  | [Table of Contents](index) |  qp_encode |

@@ -1,4 +1,4 @@
-| [Prev](web3.users)  | Chapter 3. Using the Web Console |  [Next](web3.automated.alerting.php) |
+| [Prev](web3.users)  | Chapter 3. Using the Web Console |  [Next](web3.automated.alerting) |
 
 ## 3.10. The Policy Configuration Editor
 
@@ -274,5 +274,5 @@ After this change, each time that your script executes, a log entry similar to t
 
 Using `print` from within a scriptlet is equivalent to using the `ec_log` function from a Sieve script.
 
-| [Prev](web3.users)  | [Up](web3.php) |  [Next](web3.automated.alerting.php) |
+| [Prev](web3.users)  | [Up](web3) |  [Next](web3.automated.alerting) |
 | 3.9. Administering Users From the Web Console  | [Table of Contents](index) |  3.11. Automated Alerting Configuration |

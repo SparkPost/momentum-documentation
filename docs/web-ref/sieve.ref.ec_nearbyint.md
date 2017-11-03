@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_mul)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_pcre_match.php) |
+| [Prev](sieve.ref.ec_mul)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_pcre_match) |
 
 <a name="sieve.ref.ec_nearbyint"></a>
 ## Name
@@ -30,5 +30,5 @@ $nearbyintc = ec_nearbyint $c;
 #nearbyintc is 43.000000
 ```
 
-| [Prev](sieve.ref.ec_mul)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_pcre_match.php) |
+| [Prev](sieve.ref.ec_mul)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_pcre_match) |
 | ec_mul  | [Table of Contents](index) |  ec_pcre_match |

@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_set_binding)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_shared_throttle.php) |
+| [Prev](sieve.ref.ec_set_binding)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_shared_throttle) |
 
 <a name="sieve.ref.ec_set_routing_gateway"></a>
 ## Name
@@ -12,7 +12,7 @@ ec_set_routing_gateway — dynamically change the gateway based on recipient
 <a name="idp30530000"></a>
 ## Description
 
-This action sets the gateway for the message in much the same way as the [gateway](conf.ref.gateway "gateway") configuration option; the message will be queued to the domain specified by the gateway. A gateway set with this action will override a possible Gateway configuration setting that would otherwise be applicable to the message. See also [routes](conf.ref.routes.php "routes") for domain-wide routing. The headers and the body of the message will not be changed.
+This action sets the gateway for the message in much the same way as the [gateway](conf.ref.gateway "gateway") configuration option; the message will be queued to the domain specified by the gateway. A gateway set with this action will override a possible Gateway configuration setting that would otherwise be applicable to the message. See also [routes](conf.ref.routes "routes") for domain-wide routing. The headers and the body of the message will not be changed.
 
 The required *`address`* parameter can be either a dotted literal IP address, a hostname that resolves to an A record, or a domain name which resolves to one or more MX records.
 
@@ -39,7 +39,7 @@ The sievelib module must be loaded explicitly in your configuration for correct 
 <a name="idp30541616"></a>
 ## See Also
 
-[gateway](conf.ref.gateway "gateway"), [routes](conf.ref.routes.php "routes")
+[gateway](conf.ref.gateway "gateway"), [routes](conf.ref.routes "routes")
 
-| [Prev](sieve.ref.ec_set_binding)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_shared_throttle.php) |
+| [Prev](sieve.ref.ec_set_binding)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_shared_throttle) |
 | ec_set_binding  | [Table of Contents](index) |  ec_shared_throttle |

@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.ec_shared_throttle)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_sub.php) |
+| [Prev](sieve.ref.ec_shared_throttle)  | 16.2. Sieve Function Details |  [Next](sieve.ref.ec_sub) |
 
 <a name="sieve.ref.ec_spool_space"></a>
 ## Name
@@ -26,5 +26,5 @@ if ec_test :value "gt" :comparator "i;ascii-numeric" $pct "90" {
 }
 ```
 
-| [Prev](sieve.ref.ec_shared_throttle)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.ec_sub.php) |
+| [Prev](sieve.ref.ec_shared_throttle)  | [Up](sieve.ref.files) |  [Next](sieve.ref.ec_sub) |
 | ec_shared_throttle  | [Table of Contents](index) |  ec_sub |

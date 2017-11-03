@@ -1,4 +1,4 @@
-| [Prev](sieve.ref.envelope)  | 16.2. Sieve Function Details |  [Next](sieve.ref.hash_create.php) |
+| [Prev](sieve.ref.envelope)  | 16.2. Sieve Function Details |  [Next](sieve.ref.hash_create) |
 
 <a name="sieve.ref.generate_mail_raw"></a>
 ## Name
@@ -31,5 +31,5 @@ testing
 ;
 ```
 
-| [Prev](sieve.ref.envelope)  | [Up](sieve.ref.files.php) |  [Next](sieve.ref.hash_create.php) |
+| [Prev](sieve.ref.envelope)  | [Up](sieve.ref.files) |  [Next](sieve.ref.hash_create) |
 | envelope  | [Table of Contents](index) |  hash_create |
