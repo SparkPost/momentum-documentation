@@ -1,4 +1,4 @@
-| [Prev](web3.dashboard)  | Chapter 3. Using the Web Console |  [Next](web3.filters.php) |
+| [Prev](web3.dashboard)  | Chapter 3. Using the Web Console |  [Next](web3.filters) |
 
 ## 3.4. Cluster Status
 
@@ -14,5 +14,5 @@ Use this page for a quick overview of the status of individual nodes and for det
 
 Use the SHOW NODE CONTROLS link to display buttons for restarting or shutting down specific nodes.
 
-| [Prev](web3.dashboard)  | [Up](web3.php) |  [Next](web3.filters.php) |
+| [Prev](web3.dashboard)  | [Up](web3) |  [Next](web3.filters) |
 | 3.3. The Dashboard  | [Table of Contents](index) |  3.5. Filtering |

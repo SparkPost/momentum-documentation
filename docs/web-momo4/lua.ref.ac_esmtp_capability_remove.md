@@ -17,7 +17,7 @@ ac:esmtp_capability_remove — Remove a capability string from the EHLO response
 
 Removes a capability string from the EHLO response. It is most useful in the connect phase and raises an error if the session is not attached to an SMTP listener.
 
-`ac` is an accept construct userdata data type. For a description of the C struct see [accept_construct](https://support.messagesystems.com/docs/web-c-api/structs.accept_construct).
+`ac` is an accept construct userdata data type. For a description of the C struct see [accept_construct](https://support.messagesystems.com/docs/web-c-api/structs.accept_construct.php).
 
 Enable this function with the statement `require('msys.extended.ac');`.
 

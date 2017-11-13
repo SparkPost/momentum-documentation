@@ -1,4 +1,4 @@
-| [Prev](web3.paths_page)  | Chapter 3. Using the Web Console |  [Next](web3.users.php) |
+| [Prev](web3.paths_page)  | Chapter 3. Using the Web Console |  [Next](web3.users) |
 
 ## 3.8. Administration
 
@@ -54,7 +54,7 @@ You can change configuration options manually by directly editing the `ecelerity
 
 ### Note
 
-Options that relate to configuration of the cluster manager or the message bus, must be configured manually. For more information see [eccluster.conf](eccluster.conf3 "eccluster.conf") and [mbus.conf](mbus.conf.php "mbus.conf").
+Options that relate to configuration of the cluster manager or the message bus, must be configured manually. For more information see [eccluster.conf](eccluster.conf3 "eccluster.conf") and [mbus.conf](mbus.conf "mbus.conf").
 
 As of version 3.4, the `mbusd.conf` file is no longer used. For more information see [Section 14.47, “msgc – Modules”](modules.msgc "14.47. msgc – Modules").
 
@@ -140,7 +140,7 @@ To add a module navigate to the Administration page and choose the Advanced Conf
 
 ![Adding a new module](images/web3/new_module.png)
 
-Choose the module you wish to add. If the module you are adding is not a singleton, you must give the module a name by entering text into the available textbox. For more information on this topic see [module](console_commands.module "module"). Edit a module's options as shown in [Section 3.8.1.5, “Changing Module Configuration Options”](web3.administration.php#web3.module_config "3.8.1.5. Changing Module Configuration Options").
+Choose the module you wish to add. If the module you are adding is not a singleton, you must give the module a name by entering text into the available textbox. For more information on this topic see [module](console_commands.module "module"). Edit a module's options as shown in [Section 3.8.1.5, “Changing Module Configuration Options”](web3.administration#web3.module_config "3.8.1.5. Changing Module Configuration Options").
 
 Be sure to click Commit All Changes when you are finished.
 
@@ -158,7 +158,7 @@ The ECStream_Listener does not appear in the list box of scopes until the `ecstr
 
 **3.8.1.7. Adding a Sieve Module**
 
-The sieve module is used to implement policy. For a description of Sieve see [Chapter 8, *Sieve++*](sieve "Chapter 8. Sieve++") and for an example of implementing policy using Sieve see [Section 5.4, “Implementing Policy Using Sieve”](policy.implementing.php "5.4. Implementing Policy Using Sieve").
+The sieve module is used to implement policy. For a description of Sieve see [Chapter 8, *Sieve++*](sieve "Chapter 8. Sieve++") and for an example of implementing policy using Sieve see [Section 5.4, “Implementing Policy Using Sieve”](policy.implementing "5.4. Implementing Policy Using Sieve").
 
 Sieve scripts are run at specific hook points or during a specific phase. Before adding the sieve module, you need to create a script. Sample Sieve scripts are found in the `/opt/msys/ecelerity/etc/sieve-scripts/` directory. You can adapt these scripts for your own purposes and save them wherever you like. You can also use the revision control system to keep track of any changes and to share files across different nodes. This is described in [Section 14.64.2, “Sieve Scripts and Revision Control”](modules.sieve#modules.sieve.revision.control "14.64.2. Sieve Scripts and Revision Control").
 
@@ -306,5 +306,5 @@ To add a snippet, select the snippet that you wish to add and click the ADD butt
 
 Use the snippet management frame to remove a snippet from your configuration. To remove a snippet click the X beside the desired snippet. *Note*: Doing this removes the snippet from your configuration but does not remove it from the Configuration Snippet library.
 
-| [Prev](web3.paths_page)  | [Up](web3.php) |  [Next](web3.users.php) |
+| [Prev](web3.paths_page)  | [Up](web3) |  [Next](web3.users) |
 | 3.7. The Paths Page  | [Table of Contents](index) |  3.9. Administering Users From the Web Console |
