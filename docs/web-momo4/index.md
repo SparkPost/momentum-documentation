@@ -1,6 +1,6 @@
 ## Momentum 4 Reference Manual
 ### Message Systems, Inc.
-Copyright © 2014 Message Systems, Inc.
+Copyright © 2019 Message Systems, Inc.
 Confidential & Proprietary.
 **Abstract**
 This book documents Momentum 4.
