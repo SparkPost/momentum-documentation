@@ -4,6 +4,9 @@
 
 * [1\. Typographical Conventions Used in This Document](preface#typographical)
 
+
+NOTE: This version of the Momentum 4 documetnation is not maintained.  For the most current documentation refer to <a href="https://www.sparkpost.com/momentum/4/4-preface/#typographical">THIS link: https://www.sparkpost.com/momentum/4/4-preface/#typographical</a>
+
 ## 1. Typographical Conventions Used in This Document
 Certain typographical conventions are used in this document. Take a moment to familiarize yourself with the following examples.
 *   **Text in this style**               indicates executable programs such as **ecelerity**.
