@@ -9,7 +9,7 @@
   "author": "SparkPost",
   "dependencies": {
     "directory-tree": "^2.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "remove-markdown": "^0.2.2",
     "rimraf": "^2.6.2",
     "striptags": "^3.1.0",
